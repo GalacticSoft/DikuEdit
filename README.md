@@ -10,7 +10,7 @@ rooms, mobiles, items, scripts, shops and quests. Basternae Area Editor was writ
 ![ScreenShot](http://i.imgur.com/lqtP6w9.png)
 ![ScreenShot](http://i.imgur.com/uw8JBY5.png)
 
-More screenshots available here: http://imgur.com/a/MBPAA#9
+More screenshots available here: http://imgur.com/a/MBPAA#0
 
 #### License & Copyright
 
