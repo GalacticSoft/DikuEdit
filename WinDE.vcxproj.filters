@@ -1,0 +1,1202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{f961d620-4228-4fe6-bcb4-061c2430b273}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6102a5f3-8da0-46fa-b8ea-a91c72ea0789}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{df75f23a-a40e-4601-b069-dc4da21b1769}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Colorizer">
+      <UniqueIdentifier>{167066bc-21fc-4c4d-94f1-8cba66a2e6a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MapEdit">
+      <UniqueIdentifier>{36bbc108-d438-4941-bcc7-69d0f187c831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ZoneFiles">
+      <UniqueIdentifier>{ea5bf5b7-8ae0-4af3-bcf0-bf9fd16352f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quests">
+      <UniqueIdentifier>{f3635322-8dd8-4fa5-8279-83598027ad86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Spells">
+      <UniqueIdentifier>{c2dc906a-126d-4b01-b6a1-e4cbebd346b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{3fe7e81f-30b6-4806-ab19-271a9c5db041}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mobiles">
+      <UniqueIdentifier>{1cdd3f3e-5090-41c4-98d4-bda8dc953d0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Alias">
+      <UniqueIdentifier>{2000f9ad-dbe5-4dea-90ee-abeb7c1e3b77}</UniqueIdentifier>
+      <Extensions>.h .cpp .c .cc</Extensions>
+    </Filter>
+    <Filter Include="Rooms">
+      <UniqueIdentifier>{2ad59116-d5a8-4d91-b2ec-2399ffe49ea7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Progs">
+      <UniqueIdentifier>{e165631e-ffe2-45f1-8467-727c7a3bd68e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NumericEdit">
+      <UniqueIdentifier>{d38a5718-a129-4122-903b-eb0c0de05557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Traps">
+      <UniqueIdentifier>{e85141d0-b81f-46ca-8f67-5b932de0162e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShipBuilder">
+      <UniqueIdentifier>{fc064964-be1a-445c-b8c3-5d7a2dbd43e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShipBuilder\Ammo">
+      <UniqueIdentifier>{57cbc2c1-eac6-4ff4-8474-04b11887d418}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShipBuilder\Crew">
+      <UniqueIdentifier>{d45a3369-c666-4875-8582-b4a1cfd3b062}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShipBuilder\Cannons">
+      <UniqueIdentifier>{87a4ac72-3a01-4f9b-9534-82185e159388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controls">
+      <UniqueIdentifier>{176c4080-b13e-4a10-835b-3e2b6f0771dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{6dd1fb26-4838-43ee-9b32-67c3b15234c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Statistics">
+      <UniqueIdentifier>{ec3594d5-a7a5-4b34-bfa5-a322f67ef854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Statistics\Mobs">
+      <UniqueIdentifier>{4e743367-9b54-4a58-afe3-bc405e2ac6e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Statistics\Room">
+      <UniqueIdentifier>{fd3e37db-aa4a-434b-b438-4bef81f6532f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Statistics\Objs">
+      <UniqueIdentifier>{d40e4958-167e-4652-939f-4d8fe7c61421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChartControl">
+      <UniqueIdentifier>{a2a23936-41f1-4fce-b36d-bad6af654c4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="About">
+      <UniqueIdentifier>{a1d2564c-5827-4e12-9967-e49e8e0830f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bit Calculator">
+      <UniqueIdentifier>{347d777e-db82-455e-b148-7dcbea0f133d}</UniqueIdentifier>
+      <Extensions>.h .ccp</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DlgCalcCoins.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDirections.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditArea.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEnterVnum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgExtraDesc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSave.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSelectAff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSelectColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgVnumList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinDE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WinDEDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorEditWnd.cpp">
+      <Filter>Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="Colorizer.cpp">
+      <Filter>Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="SampleColorizer.cpp">
+      <Filter>Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptText.cpp">
+      <Filter>Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="UndoFrame.cpp">
+      <Filter>Colorizer</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMapEdit.cpp">
+      <Filter>MapEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="ZoneFile.cpp">
+      <Filter>ZoneFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditQuest.cpp">
+      <Filter>Quests</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgQuestClue.cpp">
+      <Filter>Quests</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgQuestEdit.cpp">
+      <Filter>Quests</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgQuestItem.cpp">
+      <Filter>Quests</Filter>
+    </ClCompile>
+    <ClCompile Include="Quests.cpp">
+      <Filter>Quests</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSpells.cpp">
+      <Filter>Spells</Filter>
+    </ClCompile>
+    <ClCompile Include="Spells.cpp">
+      <Filter>Spells</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditAntiFlags.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditContents.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditObject.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgExtraObjFlags.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgActFlags.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditFriends.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditMob.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditShop.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEquipItem.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEquipMob.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMobAffFlags.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Mobs.cpp">
+      <Filter>Mobiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Alias.cpp">
+      <Filter>Alias</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgCreateGrid.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditExits.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGuardFlags.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgRoomFlags.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="EditRoom.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="Rooms.cpp">
+      <Filter>Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgEditor.cpp">
+      <Filter>Progs</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgEditWnd.cpp">
+      <Filter>Progs</Filter>
+    </ClCompile>
+    <ClCompile Include="Progs.cpp">
+      <Filter>Progs</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgText.cpp">
+      <Filter>Progs</Filter>
+    </ClCompile>
+    <ClCompile Include="NumericEdit.cpp">
+      <Filter>NumericEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgEditTrap.cpp">
+      <Filter>Traps</Filter>
+    </ClCompile>
+    <ClCompile Include="TrapData.cpp">
+      <Filter>Traps</Filter>
+    </ClCompile>
+    <ClCompile Include="ShipBuilder.cpp">
+      <Filter>ShipBuilder</Filter>
+    </ClCompile>
+    <ClCompile Include="ShipUpgrades.cpp">
+      <Filter>ShipBuilder</Filter>
+    </ClCompile>
+    <ClCompile Include="ShipwrightList.cpp">
+      <Filter>ShipBuilder</Filter>
+    </ClCompile>
+    <ClCompile Include="TabCtrlSSL.cpp">
+      <Filter>ShipBuilder</Filter>
+    </ClCompile>
+    <ClCompile Include="TabPageSSL.cpp">
+      <Filter>ShipBuilder</Filter>
+    </ClCompile>
+    <ClCompile Include="AmmoBuilder.cpp">
+      <Filter>ShipBuilder\Ammo</Filter>
+    </ClCompile>
+    <ClCompile Include="AmmoView.cpp">
+      <Filter>ShipBuilder\Ammo</Filter>
+    </ClCompile>
+    <ClCompile Include="CrewBuilder.cpp">
+      <Filter>ShipBuilder\Crew</Filter>
+    </ClCompile>
+    <ClCompile Include="CrewView.cpp">
+      <Filter>ShipBuilder\Crew</Filter>
+    </ClCompile>
+    <ClCompile Include="CannonBuilder.cpp">
+      <Filter>ShipBuilder\Cannons</Filter>
+    </ClCompile>
+    <ClCompile Include="CannonView.cpp">
+      <Filter>ShipBuilder\Cannons</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdHistory.cpp">
+      <Filter>Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="CtrlToolBar.cpp">
+      <Filter>Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="SplitterControl.cpp">
+      <Filter>Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="ZoneTree.cpp">
+      <Filter>Controls</Filter>
+    </ClCompile>
+    <ClCompile Include="Area.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Bits.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Interp.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAreaStatistics.cpp">
+      <Filter>Statistics</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassView.cpp">
+      <Filter>Statistics\Mobs</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAggroStatistics.cpp">
+      <Filter>Statistics\Mobs</Filter>
+    </ClCompile>
+    <ClCompile Include="MobView.cpp">
+      <Filter>Statistics\Mobs</Filter>
+    </ClCompile>
+    <ClCompile Include="RaceView.cpp">
+      <Filter>Statistics\Mobs</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomView.cpp">
+      <Filter>Statistics\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="CraftView.cpp">
+      <Filter>Statistics\Objs</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialVew.cpp">
+      <Filter>Statistics\Objs</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjView.cpp">
+      <Filter>Statistics\Objs</Filter>
+    </ClCompile>
+    <ClCompile Include="StatsView.cpp">
+      <Filter>Statistics\Objs</Filter>
+    </ClCompile>
+    <ClCompile Include="StatView.cpp">
+      <Filter>Statistics\Objs</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeView.cpp">
+      <Filter>Statistics\Objs</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="mschart.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxis.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxisgrid.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxisscale.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcaxistitle.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcbackdrop.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcbrush.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vccategoryscale.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vccolor.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vccoor.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatagrid.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatapoint.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatapointlabel.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcdatapoints.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcfill.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcfont.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcfootnote.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcframe.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcintersection.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclabel.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclabels.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclcoor.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclegend.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclight.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclightsource.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclightsources.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vclocation.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcmarker.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcpen.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcplot.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcplotbase.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcrect.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseries.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseriescollection.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseriesmarker.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcseriesposition.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcshadow.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcstatline.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vctextlayout.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vctick.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vctitle.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcvaluescale.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcview3d.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcwall.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="vcweighting.cpp">
+      <Filter>ChartControl</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAbout.cpp">
+      <Filter>About</Filter>
+    </ClCompile>
+    <ClCompile Include="MyHyperLink.cpp">
+      <Filter>About</Filter>
+    </ClCompile>
+    <ClCompile Include="BvCalc.cpp">
+      <Filter>Bit Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="EditAffBits.cpp">
+      <Filter>Bit Calculator</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DlgCalcCoins.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDirections.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditArea.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEnterVnum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgExtraDesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSave.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSelectAff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSelectColor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgVnumList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WinDE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WinDEDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorEditWnd.h">
+      <Filter>Colorizer</Filter>
+    </ClInclude>
+    <ClInclude Include="Colorizer.h">
+      <Filter>Colorizer</Filter>
+    </ClInclude>
+    <ClInclude Include="MemDC.h">
+      <Filter>Colorizer</Filter>
+    </ClInclude>
+    <ClInclude Include="SampleColorizer.h">
+      <Filter>Colorizer</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptText.h">
+      <Filter>Colorizer</Filter>
+    </ClInclude>
+    <ClInclude Include="UndoFrame.h">
+      <Filter>Colorizer</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMapEdit.h">
+      <Filter>MapEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="ZoneFile.h">
+      <Filter>ZoneFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditQuest.h">
+      <Filter>Quests</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgQuestClue.h">
+      <Filter>Quests</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgQuestEdit.h">
+      <Filter>Quests</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgQuestItem.h">
+      <Filter>Quests</Filter>
+    </ClInclude>
+    <ClInclude Include="Quests.h">
+      <Filter>Quests</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSpells.h">
+      <Filter>Spells</Filter>
+    </ClInclude>
+    <ClInclude Include="Spells.h">
+      <Filter>Spells</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditAntiFlags.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditContents.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditObject.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgExtraObjFlags.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgActFlags.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditFriends.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditMob.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditShop.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEquipItem.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEquipMob.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMobAffFlags.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Mobs.h">
+      <Filter>Mobiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Alias.h">
+      <Filter>Alias</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgCreateGrid.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditExits.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgGuardFlags.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgRoomFlags.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="EditRoom.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="Rooms.h">
+      <Filter>Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgEditor.h">
+      <Filter>Progs</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgEditWnd.h">
+      <Filter>Progs</Filter>
+    </ClInclude>
+    <ClInclude Include="Progs.h">
+      <Filter>Progs</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgText.h">
+      <Filter>Progs</Filter>
+    </ClInclude>
+    <ClInclude Include="NumericEdit.h">
+      <Filter>NumericEdit</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgEditTrap.h">
+      <Filter>Traps</Filter>
+    </ClInclude>
+    <ClInclude Include="TrapData.h">
+      <Filter>Traps</Filter>
+    </ClInclude>
+    <ClInclude Include="ShipBuilder.h">
+      <Filter>ShipBuilder</Filter>
+    </ClInclude>
+    <ClInclude Include="ShipUpgrades.h">
+      <Filter>ShipBuilder</Filter>
+    </ClInclude>
+    <ClInclude Include="ShipwrightList.h">
+      <Filter>ShipBuilder</Filter>
+    </ClInclude>
+    <ClInclude Include="TabCtrlSSL.h">
+      <Filter>ShipBuilder</Filter>
+    </ClInclude>
+    <ClInclude Include="TabPageSSL.h">
+      <Filter>ShipBuilder</Filter>
+    </ClInclude>
+    <ClInclude Include="AmmoBuilder.h">
+      <Filter>ShipBuilder\Ammo</Filter>
+    </ClInclude>
+    <ClInclude Include="AmmoView.h">
+      <Filter>ShipBuilder\Ammo</Filter>
+    </ClInclude>
+    <ClInclude Include="CrewBuilder.h">
+      <Filter>ShipBuilder\Crew</Filter>
+    </ClInclude>
+    <ClInclude Include="CrewView.h">
+      <Filter>ShipBuilder\Crew</Filter>
+    </ClInclude>
+    <ClInclude Include="CannonBuilder.h">
+      <Filter>ShipBuilder\Cannons</Filter>
+    </ClInclude>
+    <ClInclude Include="CannonView.h">
+      <Filter>ShipBuilder\Cannons</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdHistory.h">
+      <Filter>Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="CtrlToolBar.h">
+      <Filter>Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="EasySize.h">
+      <Filter>Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="SplitterControl.h">
+      <Filter>Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="ZoneTree.h">
+      <Filter>Controls</Filter>
+    </ClInclude>
+    <ClInclude Include="Area.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Bits.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Interp.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAreaStatistics.h">
+      <Filter>Statistics</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassView.h">
+      <Filter>Statistics\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAggroStatistics.h">
+      <Filter>Statistics\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="MobView.h">
+      <Filter>Statistics\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="RaceView.h">
+      <Filter>Statistics\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomView.h">
+      <Filter>Statistics\Room</Filter>
+    </ClInclude>
+    <ClInclude Include="CraftView.h">
+      <Filter>Statistics\Objs</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialVew.h">
+      <Filter>Statistics\Objs</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjView.h">
+      <Filter>Statistics\Objs</Filter>
+    </ClInclude>
+    <ClInclude Include="StatsView.h">
+      <Filter>Statistics\Objs</Filter>
+    </ClInclude>
+    <ClInclude Include="StatView.h">
+      <Filter>Statistics\Objs</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeView.h">
+      <Filter>Statistics\Objs</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="mschart.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxis.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxisgrid.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxisscale.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcaxistitle.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcbackdrop.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcbrush.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vccategoryscale.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vccolor.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vccoor.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatagrid.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatapoint.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatapointlabel.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcdatapoints.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcfill.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcfont.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcfootnote.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcframe.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcintersection.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclabel.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclabels.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclcoor.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclegend.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclight.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclightsource.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclightsources.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vclocation.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcmarker.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcpen.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcplot.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcplotbase.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcrect.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseries.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseriescollection.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseriesmarker.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcseriesposition.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcshadow.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcstatline.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vctextlayout.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vctick.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vctitle.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcvaluescale.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcview3d.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcwall.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="vcweighting.h">
+      <Filter>ChartControl</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAbout.h">
+      <Filter>About</Filter>
+    </ClInclude>
+    <ClInclude Include="MyHyperLink.h">
+      <Filter>About</Filter>
+    </ClInclude>
+    <ClInclude Include="BvCalc.h">
+      <Filter>Bit Calculator</Filter>
+    </ClInclude>
+    <ClInclude Include="EditAffBits.h">
+      <Filter>Bit Calculator</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\blacu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\blueu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00001.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00002.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00003.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00004.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00005.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00006.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00007.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00008.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00009.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00010.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00011.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00012.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00013.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00014.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00015.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00016.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00017.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00018.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00019.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00020.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00021.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00022.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00023.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00024.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00025.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00026.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bmp00027.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Ctrpanel.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\cyanu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\eastu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\exits_w.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Find.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\greenu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00002.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00003.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00004.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00005.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00006.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00007.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00008.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00009.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00010.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00011.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00012.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00013.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00014.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00015.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00016.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00017.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00018.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00019.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00020.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00021.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00022.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00023.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00024.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00025.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00026.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00027.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00028.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00029.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00030.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00031.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Key.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\keydown.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\magentau.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Misc27.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\northup.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\northwes.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\redu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\room_bas.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\southeas.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\toolbar1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\toolbar2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tree_mob.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\tree_roo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\west_exi.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\westd.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\WinDE.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\yellowu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WinDE.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\WinDE.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,94 @@
+Generic Vnums for Objects in Basternae 2 (version 2).
+-----------------------------------------------------
+
+There's no reason to reinvent the iron ration.  You can use the following vnums to add
+generic items to your zone.  More may be added later.  They'll show up as "object not
+in this zone file" in the editor, but the MUD will recognize them.
+
+This by no means should prevent you from creating a similar item or an item with the
+same name, it just gives you an option to reuse generic items so you don't have to
+reinvent them.
+
+Just a note, if you want to use the generic vnums, you'll have to start your zone at a
+vnum of 1000 or greater or when it is renumbered the generic vnums will be hosed.  This
+is easy for any zones already in progress, since you can just use the command "renum 1000"
+and the zone will be renumbered starting at 1000.  The reason I say 1000 is because that
+is the number of vnums reserved for generic objects on the MUD.
+
+Vnum		Item
+-----------------------------------------------------
+19		a wooden torch
+20		an iron ration
+22		a waterskin
+24		a quill
+41              a pine wolf totem
+42              a granite totem
+43              a carved bone totem
+74              a set of iron lockpicks
+<newbie food>
+80              a clump of wild oats
+81              some colorful lichen
+82              some phosphorescent fungus
+83              a bunch of mealworms
+84              some wild grapes
+85              a spore-ridden pile of guano
+86              a tuber
+87              a bird egg
+</newbie food>
+90              a small tree
+91              a small rock
+92              a long stick
+93              a bird nest
+<newbie equipment>
+100		a leather jerkin
+101             a shabby, beat-up leather jerkin
+102		a worn leather jerkin
+103             a dark leather jerkin
+104		an alligator skin jerkin
+105		a leather vest
+106		a suit of leather armor
+107		a thick cloth shirt
+108		a suit of hide armor
+109             a suit of ogre hide
+110		a leather cap
+111             a worn leather sallet
+112             a tattered leather cap
+113		a filthy fur cowl
+114             a worn iron helm
+120		a pair of leather sleeves
+121		a pair of cloth sleeves
+122		a pair of hide sleeves
+130		a pair of leather pants
+131		a pair of hide pants
+132		a pair of cloth pants
+140		a pair of leather boots (brown)
+141             a pair of leather boots (black)
+150		a leather cloak
+151             a tattered leather cloak
+160             a pair of leather sandals
+161             a set of woolen monk robes
+200		a steel long sword
+210		a steel dagger
+223		a two-handed sword
+231             a massive claymore
+239		a steel knife
+243		a shortsword
+254		a wooden mace
+257		an iron mace
+261		a stone mace
+264		an oak staff
+265             a pinewood staff
+266             a gnarled maple staff
+267             a teakwood staff
+268             a wooden staff
+269             a cypresswood staff
+270             a knobby staff
+271		an ironwood staff
+</newbie equipment>
+<blood pools>
+295             the remaining blood
+296             the puddles of blood
+297             the splattered blood
+298             a large pool of blood
+</blood pools>
+299             some shattered bits of ice

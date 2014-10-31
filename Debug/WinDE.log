@@ -1,0 +1,11 @@
+﻿Build started 10/30/2014 11:18:43 PM.
+     1>Project "C:\Users\codergirl\Desktop\WinDE\WinDE.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1186,5): warning MSB8012: TargetPath(C:\Users\codergirl\Desktop\WinDE\.\Debug\WinDE.exe) does not match the Linker's OutputFile property value (C:\Users\codergirl\Desktop\WinDE\Debug\Basternae Area Editor.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1188,5): warning MSB8012: TargetName(WinDE) does not match the Linker's OutputFile property value (Basternae Area Editor). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         WinDE.vcxproj -> C:\Users\codergirl\Desktop\WinDE\.\Debug\WinDE.exe
+     1>Done Building Project "C:\Users\codergirl\Desktop\WinDE\WinDE.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.19

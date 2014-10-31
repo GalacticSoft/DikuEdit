@@ -1,0 +1,720 @@
+#AREADATA
+Name &N&+MBoats and Stuff&N~
+Author Tyrus~
+Levels 1 50
+Security 1
+VNUMs 0 2808
+Builders Tyrus~
+ClanId 0
+AreaFlags 0
+Justice 0
+Judge 0
+Jail 0
+Squads 0
+Nodim 0
+Barracks 0
+Defender 0 0
+Recall 3001
+Reset You hear some strange noises.~
+End
+
+#BASTROOMS
+
+#300
+&+yMain Deck of a Sloop&n
+~
+You stand upon the deck of a sloop.  The floor is made of polished wood.
+~
+1	134250496	1
+D1
+
+~
+
+~
+0 0 301
+S
+
+#301
+&+yControl Panel of a Sloop&n
+~
+You stand at the helm of a sloop.
+~
+1	0	0
+D3
+
+~
+
+~
+0 0 300
+S
+
+#305
+&+yMain Deck of a Frigate&n
+~
+You stand upon the deck of a frigate.  The floor is made of polished wood.
+~
+1	134250496	1
+S
+
+#306
+&+yControl Panel of a Frigate&n
+~
+You stand at the helm of a frigate.
+~
+1	0	0
+S
+
+#310
+&+yMain Deck of a Galleon&n
+~
+You stand upon the deck of a galleon.  The floor is made of polished wood.
+~
+1	134250496	1
+S
+
+#311
+&+yControl Panel of a Galleon&n
+~
+You stand at the helm of a galleon.
+~
+1	0	0
+S
+
+#312
+&+yCargo Hold of a Galleon&n
+~
+You stand in the vast cargo hold of a galleon.
+~
+1	0	0
+S
+
+#315
+&+yMain Deck of a Caravel&n
+~
+You stand upon the deck of a caravel.  The floor is made of polished wood.
+~
+1	134250496	1
+S
+
+#316
+&+yControl Panel of a Caravel&n
+~
+You stand at the helm of a caravel.
+~
+1	0	0
+S
+
+#320
+&+yMain Deck of a Marauder&n
+~
+You stand upon the deck of a marauder.  The floor is made of polished wood.
+~
+1	134250496	1
+S
+
+#321
+&+yControl Panel of a Marauder&n
+~
+You stand at the helm of a marauder.
+~
+1	0	0
+S
+
+#325
+&+yMain Deck of a Carrier&n
+~
+You stand upon the deck of a carrier.  The floor is made of polished wood.
+~
+1	134250496	1
+D0
+
+~
+
+~
+0 0 326
+D5
+
+~
+
+~
+0 0 328
+S
+
+#326
+&+yControl Panel of a Carrier&n
+~
+You stand at the helm of a carrier.
+~
+1	0	0
+D2
+
+~
+
+~
+0 0 325
+D5
+
+~
+
+~
+0 0 327
+S
+
+#327
+&+yCargo Hold of a Carrier&n
+~
+You stand in the vast cargo hold of a carrier.
+~
+1	0	0
+D2
+
+~
+
+~
+0 0 328
+D4
+
+~
+
+~
+0 0 326
+S
+
+#328
+&+yCargo Hold of a Carrier&n
+~
+You stand in the vast cargo hold of a carrier.
+~
+1	0	0
+D0
+
+~
+
+~
+0 0 327
+D4
+
+~
+
+~
+0 0 325
+S
+
+#329
+&+yCargo Hold of a Galleon&n
+~
+You stand in the vast cargo hold of a carrier.
+~
+1	0	0
+S
+
+#330
+&+yMain Deck and Control Panel of a Scout&n
+~
+You stand at the helm of a scout.  This ship is so small that the helm is
+
+on the deck.
+~
+1	0	0
+S
+
+#335
+&+yMain Deck of a Battle Cruiser&n
+~
+You stand upon the deck of a battle cruiser.  The floor is made of polished wood.
+~
+1	134250496	1
+S
+
+#336
+&+yControl Panel of a Battle Cruiser&n
+~
+You stand at the helm of a battle cruiser.
+~
+1	0	0
+S
+
+#337
+&+yMunitions Hold of a Battle Cruiser&n
+~
+You stand in the vast cargo hold of a battle cruiser.
+~
+1	0	0
+S
+
+#340
+&+yMain Deck of a Corvette&n
+~
+You stand upon the deck of a corvette.  The floor is made of polished wood.
+~
+1	134250496	1
+S
+
+#341
+&+yControl Panel of a Corvette&n
+~
+You stand at the helm of a corvette.
+~
+1	0	0
+S
+
+#399
+Unnamed
+~
+
+~
+1	0	0
+S
+
+#0
+
+#BASTMOBS
+
+#320
+_shipwright_ dark trader
+~
+a dark trader~
+A dark trader stands here.
+~
+
+~
+37779466	0 0 0 0	0 S
+PH	0 0
+20	 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 0 1
+#321
+_shipwright_ shifty trader tradesman
+~
+a shifty-eyed tradesman~
+A shifty-eyed tradesman stands here.
+~
+
+~
+37779466	0 0 0 0	0 S
+PH	0 0
+20	 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 0 1
+#322
+_shipwright_ cheerful trader
+~
+a cheerful trader~
+A cheerful trader stands here.
+~
+
+~
+37779466	0 0 0 0	0 S
+PH	0 0
+20	 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 0 1
+#323
+_shipwright_ smug trader
+~
+a smug trader~
+A smug trader stands here.
+~
+
+~
+37779466	0 0 0 0	0 S
+PH	0 0
+20	 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 0 1
+#324
+_shipwright_ trader shrewd
+~
+a shrewd trader~
+A shrewd trader stands here.
+~
+
+~
+37779466	0 0 0 0	0 S
+PH	0 0
+20	 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 0 1
+#325
+_shipwright_ trader haughty
+~
+a haughty trader~
+A haughty trader stands here.
+~
+
+~
+37779466	0 0 0 0	0 S
+PH	0 0
+20	 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 0 1
+#0
+
+#BASTOBJECTS
+
+#300
+schooner ship~
+&+ya schooner&n~
+&+yA schooner is floating here.&n~
+~
+28 6 3 0 15 0 8192 0 0 1 0
+1 325 328 1 0 0 0 0
+8000 0 100 0 0 0 0
+A
+0 0
+A
+0 0
+#301
+frigate ship~
+&+ya frigate&n~
+&+yA frigate is floating here.&n~
+~
+28 6 3 0 15 0 8192 0 0 1 0
+2 300 301 2 0 0 0 0
+8000 0 100 0 0 0 0
+A
+0 0
+A
+0 0
+#302
+man war man-of-war ship~
+&+ya man-of-war&n~
+&+yA man-of-war is floting here.&n~
+~
+28 6 3 0 15 0 8192 0 0 1 0
+1 300 301 3 0 0 0 0
+8000 0 100 0 0 0 0
+A
+0 0
+A
+0 0
+#303
+sloop ship~
+&+ya sloop&n~
+&+yA sloop is floating here.&n~
+~
+28 6 3 0 15 0 8192 0 0 1 0
+1 300 301 4 0 0 0 0
+8000 0 100 0 0 0 0
+A
+0 0
+A
+0 0
+#304
+caravel ship~
+&+ya caravel&n~
+&+yA caravel is floating here.&n~
+~
+28 6 3 0 15 0 8192 0 0 1 0
+1 300 301 5 0 0 0 0
+8000 0 100 0 0 0 0
+A
+0 0
+A
+0 0
+#305
+galleon ship~
+&+ya galleon&n~
+&+yA galleon is floating here.&n~
+~
+28 6 3 0 15 0 8192 0 0 1 0
+1 300 301 6 0 0 0 0
+8000 0 100 0 0 0 0
+A
+0 0
+A
+0 0
+#399
+bottle champagne~
+&+ca bottle of champagne&n~
+&+cA bottle of champagne is lying here.&n~
+~
+17 7 3 0 7 0 0 16385 0 1 0
+100 100 18 0 0 0 0 0
+1 0 100 0 0 0 0
+A
+0 0
+A
+0 0
+#0
+
+#BASTRESETS
+#0
+&N&+MBoats and Stuff&N~
+0 0 0 15 15 0
+*
+*
+M 4 325 1 399 100 0 0 0
+G 4 300 1 325 100 0 0 0
+G 4 301 1 325 100 0 0 0
+G 4 302 1 325 100 0 0 0
+G 4 303 1 325 100 0 0 0
+G 4 304 1 325 100 0 0 0
+G 4 305 1 325 100 0 0 0
+G 4 399 1 325 100 0 0 0
+M 4 325 1 399 100 0 0 0
+M 4 325 1 399 100 0 0 0
+M 4 325 1 399 100 0 0 0
+*
+S
+
+#BASTSHOPS
+
+#320~
+N
+300
+301
+302
+303
+304
+305
+306
+307
+399
+0
+1.00
+1.00
+0
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+0
+0
+0
+0
+0
+0
+28
+0
+0
+N
+N
+N
+Blank~
+Blank~
+0
+0
+N
+0
+~
+X
+#321~
+N
+300
+301
+302
+303
+304
+305
+306
+307
+399
+0
+1.00
+1.00
+0
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+0
+0
+0
+0
+0
+0
+28
+0
+0
+N
+N
+N
+Blank~
+Blank~
+0
+0
+N
+0
+~
+X
+#322~
+N
+300
+301
+302
+303
+304
+305
+306
+307
+399
+0
+1.00
+1.00
+0
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+0
+0
+0
+0
+0
+0
+28
+0
+0
+N
+N
+N
+Blank~
+Blank~
+0
+0
+N
+0
+~
+X
+#323~
+N
+300
+301
+302
+303
+304
+305
+306
+307
+399
+0
+1.00
+1.00
+0
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+0
+0
+0
+0
+0
+0
+28
+0
+0
+N
+N
+N
+Blank~
+Blank~
+0
+0
+N
+0
+~
+X
+#324~
+N
+300
+301
+302
+303
+304
+305
+306
+307
+399
+0
+1.00
+1.00
+0
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+0
+0
+0
+0
+0
+0
+28
+0
+0
+N
+N
+N
+Blank~
+Blank~
+0
+0
+N
+0
+~
+X
+#325~
+N
+300
+301
+302
+303
+304
+305
+306
+399
+307
+0
+1.00
+1.00
+0
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+Blank~
+0
+0
+0
+0
+0
+0
+28
+0
+0
+N
+N
+N
+Blank~
+Blank~
+0
+0
+N
+0
+~
+X
+#0~
+S
+
+#MOBPROGS
+S
+#$

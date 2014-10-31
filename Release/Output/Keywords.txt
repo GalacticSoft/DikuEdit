@@ -1,0 +1,66 @@
+Advanced Mob Keyword Use:
+-------------------------
+
+  The following can be included in the mob keywords in order to add
+characteristics that cannot currently be set in the editor.  They should be
+used VERY SPARINGLY and should not be used unless absolutely necessary.  We
+don't really like having these keywords in existence and think it's sloppy
+code in general, but since it's something we inherited from Basternae 1,
+we're grudgingly supporting it.
+
+br_a  - Breathes Acid
+br_c  - Breathes Cold
+br_f  - Breathes Fire
+br_g  - Breathes Gas
+br_l  - Breathes Lightning
+br_s  - Breathes Shadow
+br_w  - Breathes something that starts with "W"
+
+_size_none_       - None
+_size_tiny_       - Tiny
+_size_small_      - Small
+_size_petite_     - Small
+_size_average_    - Medium
+_size_medium_     - Medium
+_size_large_      - Large
+_size_huge_       - Huge
+_size_giant_      - Giant
+_size_titanic_    - Titanic
+_size_gargantuan_ - Gargantuan
+
+_nomoney_    - Mob does not spawn with coins.
+
+_multiclass_ - Mob is more than one class.  Must be followed by a class keyword.
+
+Class keywords are:
+
+_warrior_
+_sorcerer_
+_psionicist_
+_cleric_
+_thief_
+_assassin_
+_mercenary_
+_paladin_
+_anti-paladin_
+_ranger_
+_shaman_
+_druid_
+_bard_
+_hunter_
+_illusionist_
+_monk_
+_necromancer_
+_chronomancer_
+_warlock_
+_enslaver_
+_air_elementalist_
+_earth_elementalist_
+_fire_elementalist_
+_water_elementalist_
+_shipwright_
+
+So if you wanted to create a mob that was a huge firebreather, you'd set the keywords like this:
+
+Mob name:  an angry chicken
+Keywords:   chicken angry br_f _size_huge_

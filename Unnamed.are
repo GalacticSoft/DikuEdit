@@ -1,0 +1,93 @@
+#AREADATA
+Name Unnamed~
+Author Unknown~
+Levels 1 1
+Security 0
+VNUMs 0 0
+Builders ~
+ClanId 0
+AreaFlags 0
+Justice 0
+Judge 0
+Jail 0
+Squads 0
+Nodim 0
+Barracks 0
+Defender 0 5
+Recall 0
+Reset You hear some strange noises.~
+End
+
+#BASTROOMS
+
+#1
+An Unamed Room.
+~
+A non-descript room.
+~
+0	0	0
+S
+
+#0
+
+#BASTMOBS
+
+#0
+
+#BASTOBJECTS
+
+#1
+unnamed object~
+an unnamed object~
+An unnamed object is lying here.~
+~
+15 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+A
+0 0
+A
+0 0
+#2
+unnamed object~
+an unnamed object~
+An unnamed object is lying here.~
+~
+0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+A
+0 0
+A
+0 0
+#3
+unnamed object~
+an unnamed object~
+An unnamed object is lying here.~
+~
+0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+A
+0 0
+A
+0 0
+#0
+
+#BASTRESETS
+#0
+Unnamed~
+0 0 0 0 0 0
+*
+O 1 1 1 1 100 0 0 0
+P 1 1 1 1 100 0 0 0
+P 1 1 1 1 100 0 0 0
+P 1 2 1 1 100 0 0 0
+P 1 3 1 1 100 0 0 0
+*
+*
+S
+
+#MOBPROGS
+S
+#$
