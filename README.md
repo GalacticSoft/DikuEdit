@@ -1,7 +1,8 @@
-DIKU MUD Area Editor
-Basternae Area Editor is an application used to create Diku/Magma MUD compatible area files. 
+### Diku Edit
+
+DIKU MUD Area Editor is an application used to create Diku/Magma MUD compatible area files. 
 The interface replicates the experience of a MUD but offers graphical editors for areas, 
-rooms, mobiles, items, scripts, shops and quests. Basternae Area Editor was written using C++ and MFC.
+rooms, mobiles, items, scripts, shops and quests. Diku Edit was written using C++ and MFC.
 
 #### Screenshots
 
