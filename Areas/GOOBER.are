@@ -1,0 +1,621 @@
+#AREADATA
+Name        Goobers~
+Author      Dubar~
+Levels      1 50
+Security    1
+VNUMs       2711 2727
+Builders    Dubar~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#2711
+&+LThe Dark Entrance to a Series of Tunnels&N~
+&+L   The Underdark has allowed for this small cave entrance to form in the solid
+&+Lstone that sees no light.  There has been a tunnel carved out of the stone that
+&+Lis leading down into the darkness.  The rocks here are covered with all kinds
+&+Lof silly glyphs that are supposed to look magical but any magic user can easily
+&+Lsee that these are just a bluff and ruse to trick only the dumbest creatures.
+&+LThere are several small chips of stone left upon the ground by the workers who
+&+Llong ago dug this tunnel.  One may travel down into the tunnel complex or north
+&+Linto the vile Underdark.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 1009
+D5
+~
+~
+0 0 2712
+E
+glyphs magical~
+&N
+&N                     <)
+&N                      L>>
+&N      @<>
+&N             *-*
+&N                         O_)
+&N                          T
+&N        X=$                  L()
+&N
+&N   U_
+&N     A
+&N
+~
+S
+#2712
+&+LInside the &N&+YGoo&N&+Gber&N&+L Made Tunnels&N~
+&+L   These tunnels were fashioned from the black rock many hundreds of years ago
+&+Lby the industrious&N&+Y goo&N&+Gber&N&+L people.  The &N&+Ygoo&N&+Gbers&N&+L once traded heavily with the
+&+ggoblins&N&+L that lived in&N&+g Malch'hor Ganl&N&+L and had a thriving economy.  The goobers
+&+Lwere a much smarter race then but after generations of inbreeding the entire
+&+Lrace of&N&+Y goo&N&+Gbers&N&+L has lost its intelligence almost totally.  The creatures are
+&+Lnow quite dull and are often quite deformed.  The tunnels have fallen into much
+&+Ldisarray for with the fall of this race came the general neglect of the tunnels
+&+Lthat were once in better condition.  One may travel up or east in the tunnel
+&+Lcomplex.&N
+~
+1 33554436 13
+D1
+~
+~
+0 0 2713
+D4
+~
+~
+0 0 2711
+S
+#2713
+&+LAlong the Many Branches of the &N&+YGoo&N&+Gber&N &+LTunnels&N~
+&+L   In the &N&+Ygoo&N&+Gbers&N &+Lglory ages this tunnel complex was well cleaned and even
+&+Lscrubbed to a shine by the many male &N&+Ygoo&N&+Gbers&N&+L who were employed to clean here.
+&+LThere are many places here where great and powerful &N&+Ygoo&N&+Gbers&N &+Lonce took great
+&+Lpride in but now they are all so stupid that ideas such as pride or hard work
+&+Lhave long since been eliminated from their vocabulary.  The tunnel floor is
+&+Lcluttered with lots of trash but the ceiling and walls remain, for the most
+&+Lpart, smooth and unmarred.  There are two small side tunnels to the north and
+&+Lsouth and the main tunnel leads east and west.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2717
+D1
+~
+~
+0 0 2714
+D2
+~
+~
+0 0 2718
+D3
+~
+~
+0 0 2712
+S
+#2714
+&+LFurther Into the &N&+YGoo&N&+Gber&N &+LTunnel System&N~
+&+L   The further into the tunnel complex, the more ragged the place becomes.
+&+LHere the walls and floor have been covered with all kinds of&N&+m grafiti&N&+L.  It looks
+&+Las if the writings were done with small bits of chalk or limestone.  Most of
+&+Lthe writings are intelligible and aren't really words at all seeing as none of
+&+Lthe &N&+Ygoo&N&+Gbers&N&+L that are alive can write or even speak for that matter.  The many
+&+Lside tunnels are nothing more than holes in the walls used for sleeping or
+&+Ldying.  The entire race has set itself up to perish slowly.  The community has
+&+Lno way of making money, no way of finding food, no plans to move away.  All in
+&+Lall this is a doomed society.  One may travel in any direction.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2719
+D1
+~
+~
+0 0 2715
+D2
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2713
+E
+grafiti grafitti graffiti~
+&N   The words say:
+&N
+&N       X          O
+&N          x     -
+&N       V  V
+&N
+A quite intelligent selection from a &N&+Ygoo&N&+Gber&N.
+~
+S
+#2715
+&+LIn the Tunnel Complex of the &N&+YGoo&N&+Gbers&N~
+&+L   The main tunnel continues here into the black rock of the Underdark.  This
+&+Ltunnel was fashioned long ago by the&N&+Y goo&N&+Gber&N&+L people.  It was originally intended
+&+Lto by a grand walkway that served both as a buffer zone to help the&N&+Y goo&N&+Gbers&N&+L
+&+Ldefend themselves and also as a welcoming room for merchants and dignitaries
+&+Lfrom other civilizations.  It is now used by the creatures as just another dark
+&+Ltunnel to wander around aimlessly in.  The floor is relatively flat but is
+&+Lcovered with all kinds of unmentionable filth.  There is a large depression
+&+Lthat looks like it was going to be a place for a fountain, but that, much like
+&+Lthe rest of the tunnels, was never completed.  There are many side tunnels that
+&+Llead to the north or south off the main tunnel.  The main tunnel continues to
+&+Lthe east and west.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2722
+D1
+~
+~
+0 0 2716
+D2
+~
+~
+0 0 2721
+D3
+~
+~
+0 0 2714
+S
+#2716
+&+LA Set of Stone Stairs Leading Downward into the Tunnels&N~
+&+L   Here the main tunnel ends and the tunnels that the &N&+Ygoo&N&+Gbers&N&+L created are now
+&+Llocated below this point.  The stone is very black and rough looking and the
+&+Lset of stone stairs was merely a functional piece.  The plans were to make the
+&+Lstone stairs a very elegant and highly crafted monument to the &N&+Ygoo&N&+Gber &N&+Lpeople
+&+Lbut alas, much like the rest of the underground city, it was never completed.
+&+LThe mere fact that the &N&+Ygoo&N&+Gber&N&+L people have failed so miserably is a little bit
+&+Lscary for many other races.  The &N&+Ygoo&N&+Gbers&N&+L were not dumb to begin with, they just
+&+Lfell from grace for some unexplained reason.  The&N&+Y goo&N&+Gber&N&+L tunnels should be a
+&+Ltestament to all races who think they are superior and have no reason to
+&+Lcontinue striving for excellence.  The tunnel leads back to the west and the
+&+Lstairs lead down into the lower tunnels.&N
+~
+1 33554432 13
+D3
+~
+~
+0 0 2715
+D5
+~
+~
+0 0 2723
+S
+#2717
+&+LIn a Side Tunnel That is Used by Some &N&+YGoo&N&+Gbers&N&+L to Sleep In&N~
+&+L   This smelly side tunnel isn't a tunnel at all.  It is merely a tunnel that
+&+Lthe &N&+Ygoo&N&+Gbers&N&+L started to make and failed to finish.  There are still many piles
+&+Lof small boulders and rock chips scattered around the floor.  Many goobers use
+&+Lthis side room to sleep and fornicate in.  There is nothing on the floor to
+&+Lmake sleeping or resting comfortable in the least.  The room is bear except for
+&+Lor course the never ending piles of stone.  The tunnel was once going to be dug
+&+Lall the way to &N&+GMalch'hor Ganl&N&+L but the builders decided that laying down with
+&+Ltheir cousins and sisters was more fun.  The decline of the &N&+Ygoo&N&+Gber&N&+L race can be
+&+Lmeasured best from the time that this side tunnel was given up on.  One may
+&+Ltravel back to the main tunnel by going south.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2713
+S
+#2718
+&+LIn a Small Home of a &N&+YGoo&N&+Gber&N &+LFamily&N~
+&+L   This small&N&+Y goo&N&+Gber&N&+L home is nothing more than a hole in the wall.  There is
+&+Lnothing what-so-ever in the room.  There are no blankets, rugs or anything.
+&+LAll the room is good for is sleeping in a large pile to keep warm.  The small
+&+Lhome is used by a large number of &N&+Ygoo&N&+Gbers&N&+L who aren't necessarily in the same
+&+Lfamily.  All of the &N&+Ygoo&N&+Gbers&N&+L are related though, so in a way they are a family.
+&+LOne may travel back to the main tunnel by going north.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2713
+S
+#2719
+&+LThe Filthy Home of a &N&+YGoo&N&+Gber&N&+L Family&N~
+&+L   This small side tunnel is littered with many small &N&+Wbones&N&+L, seemingly from
+&+Lthe rats the &N&+Ygoo&N&+Gbers&N&+L were able to catch and eat.  The room is devoid of any
+&+Ldecoration or furniture as those types of things were long either destroyed or
+&+Lsold to passing merchants of the Underdark.  The people who live in these
+&+Ltunnels are as poor as any race in the entire realm.  The &N&+Ygoo&N&+Gbers&N&+L have no
+&+Lsource of income or trade and are most certain to become extinct without a
+&+Lgreat amount of help from another race.  The amount of inbreeding in the race
+&+Lhas reduced them to nothing more than walking vegetables.  The main tunnel is
+&+Llocated to the south.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2714
+S
+#2720
+&+LInside a Small Side Tunnel in the &N&+YGoo&N&+Gber&N &+LTunnel Complex&N~
+&+L   This side tunnel is completely devoid of any sign of life.  There is nothing
+&+Lwhat-so-ever that hints at the fact an entire race of people live in these dark
+&+Ltunnels.  This section smells rather bad as it appears that the stones are wet
+&+Lfrom &N&+Yurine&N&+L.  The similarities between the goobers here and the &N&+ggoblins&N&+L of
+&+gMalch'hor Ganl&N&+L are numerous.  The difference was the fact that the&N&+g goblins&N&+L had
+&+Lgood leadership to keep them in line, where as the &N&+Ygoo&N&+Gbers&N&+L did whatever they
+&+Lwanted and thus through their civilization into ruins.  The room is connected
+&+Lto the main tunnel to the north.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2714
+S
+#2721
+&+LA Small Hole in the Wall Used as a Sleeping Quarters&N~
+&+L   This small hole was once going to be a guards barracks, used as both a
+&+Lsleeping quarters and a mess hall.  The walls are very rough and marred by the
+&+Lreckless mining practices the &N&+Ygoo&N&+Gbers&N&+L used in their final days of the tunnel
+&+Lconstruction.  They first few generations were very good miners and highly
+&+Ladept at their craft.  As the race regressed, so did their mining skills.  The
+&+Llast generation of &N&+Ygoo&N&+Gbers&N&+L who took up their mining tools hardly knew what to
+&+Ldo even when someone was telling them.  The rough look of the tunnels clearly
+&+Lreflects the unskilled work they did hundreds of years ago.  The tunnel is now
+&+Lonly used for a sleeping hole for the many &N&+Ygoo&N&+Gbers&N&+L who wander into it.  One may
+&+Ltravel north into the main tunnel.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2715
+S
+#2722
+&+LAn Unremarkable Side Tunnel in the &N&+YGoo&N&+Gber&N &+LTunnels&N~
+&+L   This side tunnel is larger than most of the others.  It is, as are all the
+&+Lother rooms, devoid of any furniture or objects.  The only warmth in these cold
+&+Ltunnels is from the bodies of the other creatures. &N&+Y Goo&N&+Gbers&N&+L need one another to
+&+Lsurvive here below the surface.  They often do what they call a &N&+W"&N&+Ygoo&N&+Gber&N&+Y pi&N&+Gle&N&+W"&N
+&+Lto keep warm.  The ritual consists of a large group of the &N&+Ygoo&N&+Gbers&N&+L piling on
+&+Ltop of one another.  Even the rats that live in these tunnels will crawl into
+&+Lthe mound of warmth.  There is a fair amont of filth on the floor on walls from
+&+Lthe careless creatures.  The main tunnel is located to the south.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2715
+S
+#2723
+&+LIn the Center of the Lowest Section of the Tunnel &N&+YGoo&N&+Gbers&N~
+&+L   This section of the tunnels was originally intended to be used as the
+&+Ltown proper when the&N&+Y goo&N&+Gbers &N&+Lmade their underground city here.  In fact, the
+&+Ltunnels above here were only going to be used as a grand walkway that was
+&+Lheavily guarded to ensure safety.  The years of inbreeding and incest have
+&+Ldamaged the &N&+Ygoo&N&+Gber&N&+L population to the point where there are no intelligent
+&+Lcreatures left.  It is actually impressive that they have lasted this long.
+&+LMost of the other races who have not flourished by this time have either been
+&+Lenslaved or destroyed by the viscious creatures of the Underdark.  This large
+&+Ltunnel branches of in every direction and the entrance to the higher tunnels is
+&+Llocated upwards.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2724
+D1
+~
+~
+0 0 2725
+D2
+~
+~
+0 0 2726
+D3
+~
+~
+0 0 2727
+D4
+~
+~
+0 0 2716
+S
+#2724
+&+LThe Storage Room of the &N&+YGoo&N&+Gber&N&+L People&N~
+&+L   This side tunnel was once used to store the communities food supply along
+&+Lwith a fair amount of the valuables.  The smarter &N&+Ygoo&N&+Gbers&N&+L sold off what they
+&+Lcould to buy food supplies but the valuables have long since ran out, just as
+&+Lthe food supply has.  This room is now used for sleeping and sexual relations
+&+Lbetween&N&+Y goo&N&+Gbers&N&+L.  All the pleasure has been taken out of the &N&+Ygoo&N&+Gber&N&+L sex though
+&+Lfor they are not intelligent enough to enjoy it.  There are as many homosexuals
+&+Lin this goober community as there are heterosexuals.  Instincts are all that
+&+Lkeep these smelly and disgusting looking creatures alive.  There are many rats
+&+Lscurrying about the floor looking for any food they can find.  It is very sad
+&+Lthat any food the &N&+Ygoo&N&+Gbers&N&+L do get is quickly found by the hungry rats.  One may
+&+Ltravel to the south.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2723
+S
+#2725
+&+LThe Sleeping Quarter of the Senior &N&+YGoo&N&+Gber&N~
+&+L   This section of the tunnels is no different than any of the others except
+&+Lfor the fact that the leader has decided that this is the best tunnel here.  In
+&+Lfact this tunnel is no different at all from any one part of the tunnel.  There
+&+Lare no rugs or furniture, no place soft to sleep or rest.  The only thing
+&+Lspecial about this is the fact that the fat &N&+Ygoo&N&+Gber&N&+L leader sleeps here.  As far
+&+Las being a leader, this society cannot be led in any manner.  No creature in
+&+Lthese caves is smart enough to understand the value of money or furnishings.
+&+LThe &N&+Ygoo&N&+Gber&N&+L people need far more than a leader to bring them out of the darkness
+&+Lthey now live in...they need a miracle. One may exit by going west.&N
+~
+1 33554432 13
+D3
+~
+~
+0 0 2723
+S
+#2726
+&+LAn Unremarkable and Unused Side Tunnel&N~
+&+L   This was yet another tunnel that would have eventually been a street.  This
+&+Lparticular street would have ran up to the main &N&+Ygoo&N&+Gber&N&+L palace.  The underground
+&+Lcity was planned on a very grand scale indeed.  There is no sign of any kind of
+&+Lgreat society here though, for the&N&+Y goo&N&+Gber&N&+L people have fallen apart at the core.
+&+LThis tunnel is now no more than a place for the idiotic&N&+Y goo&N&+Gbers&N&+L to sleep and to
+&+Leat and to have sex.  It is truly a shame that the civilization undermined
+&+Litself before it could establish itself as one of the greatest in the dark
+&+Lregions of the Underdark.  One may travel north.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2723
+S
+#2727
+&+LA Dark Side Room of the &N&+YGoo&N&+Gber&N&+L Tunnel Complex&N~
+&+L   This small side tunnel was going to be a major street of the &N&+Ygoo&N&+Gber &N&+Lcity.
+&+LUnfortunately, like the rest of the city it was unfinished because of the vast
+&+Lamount of recklessness and nonchalant attitudes the leaders of the creatures
+&+Lshown when they were on the verge of success as a race.  The street would have
+&+Lbeen as grand as any in the Underdark, at least that's what the plans were.
+&+LThe &N&+Ygoo&N&+Gber&N&+L race has fallen so far from grace.  Perhaps they did something to
+&+Langer their gods.  Maybe a clan of psionicists invaded their minds and sent
+&+Lthem on the wrong paths.  Or perhaps they were a race destined to fail.  The
+&+Ltunnels of the &N&+Ygoo&N&+Gbers&N&+L are a direct reflection of the race itself; unfinished,
+&+Luncompleted and not all there.  One may travel to the east.&N
+~
+1 33554432 13
+D1
+~
+~
+0 0 2723
+S
+#0
+
+#BASTMOBS
+#2711
+goober~
+&+La &N&+Ygoo&N&+Gber&N~
+&+LA short and funny looking &N&+Ygoo&N&+Gber&N &+Lstands here playing.&N
+~
+&N  This small humanoid creature is not very intelligent.  It stands here with
+a silly look on its face trying to figure out what it was doing just moments
+ago.  It stands at barely over three feet tall and his large skull is attached
+to his small body making him look more than a little awkward.&N
+~
+73 0 0 0 0 120 S
+HB 0 0
+6 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2712
+rat tunnel~
+&+La tunnel &N&+yrat&N~
+&+LA tunnel &N&+yrat&N&+L scurries through the &N&+Ygoo&N&+Gber&N &+Ltunnels here.&N
+~
+&+L   This tunnel rat is a smelly and weak looking creature.  It is covered with
+&+La thick coat of rat-fur that is very filthy and dirty looking.  Its black and
+&+Lbeady eyes are keen but it cannot see very well in the darkness.  The creature
+&+Lhas a long and funny looking tail that the younger &N&+Ygoo&N&+Gbers&N &+Loften grab and tug
+&+Lat for fun.&N
+~
+73 0 0 0 0 0 S
+AR 0 0
+2 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2713
+goober huge~
+&+LA &N&+WHUGE&N&+Y Goo&N&+Gber&N~
+&+LA HUGE &N&+YGoo&N&+Gber&N&+L protects the inhabitants of the tunnels&N
+~
+&N   This huge creature guards its people and any others that have been allowed
+to enter this tunnel complex.  He stands at over a foot higher than the rest of
+the &N&+Ygoo&N&+Gber&N people.  He is not a cruel creature, he just is doing his job by
+not allowing unwanted people into the tunnels.&N
+~
+75499594 8 0 0 0 203 S
+HB 0 1
+38 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2714
+female goober~
+&+La female &N&+Ygoo&N&+Gber&N~
+&+LA female &N&+Ygoo&N&+Gber&N &+Ltouches everything she sees as she walks here.&N
+~
+&N   This female walks through the tunnel complex touching everthing.  There are
+many females like this one as over half of all &+ygoo&N&+Gber&N females are born without
+a mind.  She wears a blank stare as you approach.&N
+~
+77 0 0 0 0 -321 S
+HB 0 0
+8 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2715
+goober leader~
+&+Lthe &N&+Ygoo&N&+Gber&N&+L leader&N~
+&+LThe leader of the &N&+Ygoo&N&+Gbers&N&+L stands here looking stupid.&N
+~
+&N&+L   This old and fat &N&+Ygoo&N&+Gber&N&+L is leader only because he is the oldest and the
+&+Lfattest in the entire community.  He has some splothces of hair growing from
+&+Lhis deformed face.  He is the typical &+Ygoo&N&+Gber&N &+Lin that he is not attractive or
+&+Lintelligent in the least.&N
+~
+78 0 0 0 0 500 S
+HB 0 1
+12 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2716
+sleeping goober fat~
+&+La sleeping &N&+Ygoo&N&+Gber&N~
+&+LA fat &N&+Ygoo&N&+Gber&N &+Lis sleeping here and snoring quite loud.&N
+~
+&N&+L   This fat creature has fallen asleep.  Its large jowels shake and flap around
+&+Las it snores.  The creature is the size of an average hobgoblin although it is
+&+Lmorbidly obese.  It is sleeping on its stomach so its back is fully exposed to
+&+Lany daggers.&N
+~
+74 0 0 0 0 300 S
+HB 0 1
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+4 8 1
+#2717
+baby goober~
+&+La baby &N&+Ygoo&N&+Gber&N~
+&+LA baby &N&+Ygoo&N&+Gber&N &+Lcrawls alone through the tunnels looking for food.&N
+~
+&+L   This poor baby has been forgotten by its mother.  It crawls about the
+&+:tunnels looking dumbly at anything that passes by it.  Most of the other
+&N&+Ygoo&N&+Gbers&N&+L do not even see or hear its cries.  This baby appears to be five months
+&N&+Lold and looks absolutely famished.&N
+~
+12 0 0 0 0 20 S
+HB 0 0
+3 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2718
+goober male~
+&+La male &N&+Ygoo&N&+Gber&N~
+&+LA short male&N&+Y goo&N&+Gber&N&+L stares at you blankly.&N
+~
+&+L    This male has lost most of its ability to reason.  This&N&+Y goo&N&+Gbers&N&+L family
+&+Lmust have been hit extremely hard by the inbreeding.  His face wears a blank
+&+Lexpression as he does not acknowledge your approach at all.  His eyes look
+&+Lglassy and he stares right through you.&N
+~
+72 0 0 0 0 290 S
+HB 0 0
+4 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#0
+#BASTOBJECTS
+#2711
+goober ring~
+&+La &N&+Ygoo&N&+Gber&N&+L ring&N~
+&+La ring lies here on the ground&N~
+~
+9 15 3 0 3 0 64 3 0 1 0
+1 0 0 1 0 0 0 0
+2 0 100
+E
+goober ring~
+&N   This ring is small and very dirty after years underground.  The ring has a
+little bit of magic in it.&N
+~
+A
+13 2
+#2712
+mask goober~
+&+La &N&+Ygoo&N&+Gber&N&+L mask&N~
+&+La mask of unknown origin lies upon the ground.&N~
+~
+9 2 3 0 3 0 4160 262145 0 1 0
+1 0 0 2 0 0 0 0
+3 0 100
+E
+mask goober~
+&N   This mask looks very ugly and disformed, much like a &N&+Ygoo&N&+Gber&N.
+~
+A
+13 2
+#0
+
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#1
+&N&+LThe Dark Tunnel of the &N&+YGoo&N&+Gbers&N~
+2727 2 8 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+*
+*
+M 0 2713 1 2711 100 0 0 0          * A HUGE Goober
+M 0 2711 7 2713 100 0 0 0          * a goober
+M 0 2711 7 2713 100 0 0 0          * a goober
+M 0 2712 7 2713 100 0 0 0          * a tunnel rat
+M 0 2712 7 2714 100 0 0 0          * a tunnel rat
+M 0 2711 7 2715 100 0 0 0          * a goober
+M 0 2711 7 2715 100 0 0 0          * a goober
+M 0 2718 6 2715 100 0 0 0          * a male goober
+M 0 2717 4 2716 100 0 0 0          * a baby goober
+M 0 2718 6 2716 100 0 0 0          * a male goober
+M 0 2716 3 2717 100 0 0 0          * a sleeping goober
+M 0 2718 6 2717 100 0 0 0          * a male goober
+M 0 2716 3 2718 100 0 0 0          * a sleeping goober
+M 0 2714 6 2719 100 0 0 0          * a female goober
+M 0 2717 4 2719 100 0 0 0          * a baby goober
+M 0 2718 6 2719 100 0 0 0          * a male goober
+M 0 2714 6 2720 100 0 0 0          * a female goober
+M 0 2717 4 2720 100 0 0 0          * a baby goober
+M 0 2718 6 2720 100 0 0 0          * a male goober
+M 0 2712 7 2721 100 0 0 0          * a tunnel rat
+M 0 2714 6 2721 100 0 0 0          * a female goober
+M 0 2711 7 2722 100 0 0 0          * a goober
+M 0 2712 7 2722 100 0 0 0          * a tunnel rat
+M 0 2714 6 2722 100 0 0 0          * a female goober
+M 0 2716 3 2722 100 0 0 0          * a sleeping goober
+E 1 2711 1 1 100 0 0 0             *   a goober ring
+M 0 2711 7 2723 100 0 0 0          * a goober
+M 0 2711 7 2723 100 0 0 0          * a goober
+M 0 2714 6 2724 100 0 0 0          * a female goober
+M 0 2717 4 2724 100 0 0 0          * a baby goober
+M 0 2718 6 2724 100 0 0 0          * a male goober
+M 0 2712 7 2725 100 0 0 0          * a tunnel rat
+M 0 2715 1 2725 100 0 0 0          * the goober leader
+E 1 2712 1 20 100 0 0 0            *   a goober mask
+M 0 2714 6 2726 100 0 0 0          * a female goober
+M 0 2712 7 2727 100 0 0 0          * a tunnel rat
+M 0 2712 7 2727 100 0 0 0          * a tunnel rat
+*
+S
+#QUESTS
+#0
+#$
+
+

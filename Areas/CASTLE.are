@@ -1,0 +1,468 @@
+#AREADATA
+Name &+GFe&N&+grnwa&+Glk&N~
+Author Relinun~
+Levels 1 50
+Security 1
+VNUMs 0 15000
+Builders Relinun~
+ClanId 0
+AreaFlags 0
+Justice 0
+Judge 0
+Jail 0
+Squads 0
+Nodim 0
+Barracks 0
+Defender 0 0
+Recall 3001
+Reset You hear some strange noises.~
+End
+
+#BASTROOMS
+
+#15000
+A Path Leading to &+GFe&N&+grnwa&+Glk &+CVillage&N
+~
+&N   This &+ygravel&N path is heading west toward &+GFe&N&+grnwa&+Glk &+CVillage&N. The surrounding
+area is a lush green &+Gfor&N&+gest&N, there are sounds of birds and &+Linsects&N coming from
+the &+gjungle&N. The &+Cskys&N are &+Ybright&N and &+wcloudless&N. At the edges of the path there
+are many small &+gf&+Gern&N&+gs&N growing in the &+Lshade&N and protection of the &+ytr&+gees.&N
+~
+1	0	3
+D1
+
+~
+
+~
+0 0 15001
+D2
+
+~
+
+~
+0 0 1002
+S
+
+#15001
+On the Path to &+GFe&N&+grnwa&+Glk &+CVillage&N
+~
+s&N   The path here is worn with years of erosion and scared by two long ruts
+made by wagons traveling in the soft &+ydirt&N here. Just to the north is a small
+meandering &+Bstream&N. The &+gfor&N&+gest&N around you is full of life, small &+Linsects&N buzz
+around your head. Many &+Bco&+Rlo&+Grf&+Mul&N birds are flying above or resting in the &+ytr&+Gees&N
+chirping at strangers. A slight breeze is coming from the west with the sweet
+smells of the many &+Wbright &+Yfl&+Lowe&+Yrs&N in the &+gfor&+Gest&n. At the edge of the &+Gfor&N&+gest&N
+there are many differnt types of &+gf&+Gern&N&+gs&N growing&N.
+~
+1	0	3
+D0
+
+~
+
+~
+0 0 15002
+D3
+
+~
+
+~
+0 0 15000
+S
+
+#15002
+On a Small &+WIvory &+BBridge&N
+~
+&N   This small &+Wivory&N &+Bbridge&N crosses a narrow slow moving &+Bstream&N. The &+Bbridge&N
+is very beautifull and has many intricate designs scrawled into it. Many tiny
+fish are visable through this &+cclear&N &+Bwater&N. On the banks of the stream &+gf&+Gern&N&+gs&N are
+about the only plants living there and seem to be much larger than the other
+&+gf&+Gern&N&+gs&N in the &+Gfor&N&+gest&N due to the amounts of &+Bwater&N and &+Ysunlight&N they are getting.&N
+Many small animals and birds from the &+Gfor&N&+gest&N are near the &+Bstream&N having a &+cdrink&N
+and cooling themselves in the &+Bstream&N, in the middle of the &+Bstream&N there is a
+small family of &+glizards&N basking themselves on a &+Lrock&N.&N
+~
+1	0	3
+D0
+
+~
+
+~
+0 0 15003
+D2
+
+~
+
+~
+0 0 15001
+S
+
+#15003
+At the &+bGates&N of &+GFe&N&+grnwa&+Glk&N
+~
+&N   Standing at the gates of &+GFe&N&+grnwa&+Glk&N &+CVillage&N, the gate is a large &+givy&N covered
+&+Liron&N structure. There is a massive &+Gmoss&N and &+givy&N covered &+Lstone&N wall spaning to
+the horizon. The &+Bstream&N to the south is barely audible. The birds from the
+&+Gfor&N&+gest&N are still flying around here, some are perched here on the wall. There
+is a small &+ysign&N hanging on the wall to the east. One can travel north, east,
+and south.
+~
+1	4194304	1
+D0
+
+~
+gate gates
+~
+1 0 15004
+D1
+
+~
+door
+~
+1 0 15005
+D2
+
+~
+
+~
+0 0 15002
+S
+
+#15004
+&+CSi&N&+clv&N&+Cer&N&+Wmoon&N &+LRoad&N
+~
+&N   &+CSi&N&+clv&+Cer&+Wmoon&N &+LRoad&N is one of the main roads of &+GFe&N&+grnwa&+Glk&N, it runs along the
+outer wall of the &+Cvillage&N, circling it. The road is made of a &+rreddish&N brick.
+This road busstles with life most of the &+Cvillages&N have built thier houses
+along here some even within the large &+givy&N covered wall. The &+Cvillage&N &+bgates&N
+are to the south and &+GFe&N&+grnwa&+Glk&N &+rlane&N is to the north. &+CSi&N&+clv&+Cer&+Wmoon&N continues
+to the west and north.&N
+~
+1	4194304	1
+D0
+
+~
+
+~
+0 0 15007
+D2
+
+~
+gate gates
+~
+1 0 15003
+D3
+
+~
+
+~
+0 0 15006
+S
+
+#15005
+The &+rGuards&N &+yBarracks&N
+~
+&N   The &+rgu&+Rar&N&+rds&N &+ybarracks&N is a cramped little room where the &+bgate&N &+rgu&+Rar&N&+rds&N can come
+to take thier breaks or to &+Rwarm&N up when the weather gets &+cc&+Bol&N&+cd&N. There is a
+&+wwindow&N on the eastern wall so the resting &+rgu&+Rar&N&+rds&N can see if thier needed at the
+&+bgates&N. On the wall there is a &+yweapons&N rack that the &+rgu&+Rar&N&+rds&N put thier sidarms
+on, there are also some hooks on the &+ydoor&N to hang hats and coats on. There is
+a small &+ywood&N&+rb&+Ru&+Yr&+Wn&+Yi&+Rn&N&+rg&N &+Lstove&N in corner for &+cc&+Bol&N&+cd&N &+Lnites&N, and there is a large &+ytable&N
+in the middle of the room where the &+rgu&+Rar&N&+rds&N sit to eat or play cards.&N
+~
+1	4198408	1
+D3
+
+~
+door
+~
+1 0 15003
+S
+
+#15006
+&+CSi&N&+clv&+Cer&+Wmoon &+LRoad&N
+~
+&N   On southern &+CSi&N&+clv&+Cer&+Wmoon&N &+LRoad&N, the &+Lroad&N is paved with &+Rred&N cobblestones
+with gutters along each side handle runoff from &N&+brain&+Lstorms&N that visit here
+frequently. A few houses line the &+Lroad&N here. The wall isn't covered with as
+much &+givy&N as the other parts of the wall, there are a few &+ywooden&N tools laying
+on the ground near the wall and there is a pile of &+Ldirt&N in one of the gutters,
+someone must have been doing some work here.&N
+~
+1	4194304	1
+D1
+
+~
+
+~
+0 0 15004
+D3
+
+~
+
+~
+0 0 15011
+S
+
+#15007
+Intersection of &+GFe&N&+grnwa&+Glk&N and &+CSi&N&+clv&+Cer&+Wmoon&N
+~
+&N   At the intersection of &+GFe&N&+grnwa&+Glk&N and &+CSi&N&+clv&+Cer&+Wmoon&N many small shoppes line the
+road and there is much hustle and bustle here as many shoppers go around buying
+their wares. The streets have gutters running along the sides so &+Bwater&N flows
+freely down the streets. There is a small sign on the corner of the &+Lroad&N. There
+is a mosiac of &+Wwhite&N and &+Rred&N cobblestones paving the &+Lroad&N in a complex pattern,
+in between some of the bricks there are tufts of &+Ggrass&N growing. One can travel
+north to &+GFe&N&+grnwa&+Glk&N and west and south on &+CSi&N&+clv&+Cer&+Wmoon&N.&N
+~
+1	4194304	1
+D0
+
+~
+
+~
+0 0 15008
+D1
+
+~
+
+~
+0 0 15010
+D2
+
+~
+
+~
+0 0 15004
+S
+
+#15008
+&+GFe&N&+grnwa&+Glk &+RLane&N
+~
+&N   &+GFe&N&+grnwa&+Glk &+RLane&N is the main &+Lroad&N in &+GFe&N&+grnwa&+Glk&N &+Cvillage&N it intersects &+CSi&N&+clv&+Cer&+Wmoon&N
+at both ends. Many elaborate &+mpl&+gante&+mrs&N are on the buildings along the &+Lroad&N.
+The &+Lroad&N is paved with &+Wwhite&N cobblestones. Some of the cobblestones are
+enscribed with the names of each &+Wmayor&N that worked in &+GFe&N&+grnwa&+Glk&N. The &+Wtemple&N
+&+GFe&N&+grnwa&+Glk&N is located all the way to your north and the &+bgates&N are to your
+south.&N In the gutters a few clumps of the local &+Gferns&N are growing with vigor.&N
+~
+1	4194304	1
+D0
+
+~
+
+~
+0 0 15009
+D2
+
+~
+
+~
+0 0 15007
+S
+
+#15009
+A Turn in &+GFe&N&+grnwa&+Glk &+RLane&N
+~
+
+~
+1	4194304	1
+D2
+
+~
+
+~
+0 0 15008
+S
+
+#15010
+&+CSi&N&+clv&+Cer&+Wmoon &+LRoad&N
+~
+
+~
+1	4194304	3
+D3
+
+~
+
+~
+0 0 15007
+S
+
+#15011
+&+CSi&N&+clv&+Cer&+Wmoon &+LRoad&N
+~
+
+~
+1	4194304	1
+D1
+
+~
+
+~
+0 0 15006
+S
+
+#0
+
+#BASTMOBS
+
+#15000
+elite gatekeeper
+~
+&+Can &+Gelite &+Bgat&+Cekee&+Bper&N~
+&+CAn &+Gelite &+Bgat&+Cekee&+Bper&N &+Cof &+GFe&N&+grnwa&+Glk&N&+C, stands ready for battle&N
+~
+&N   This &+Gelite &+Bgat&+Cekee&+Bper&N has been trained to stand guard at the gates of
+&+Gfer&N&+gnwa&+Glk&N, and is willing to sacrifice his life to save his city. He is a tall
+dark skinned &+GForest &+CElf&N with many battle &+rscars&N on his face, eyes are &+Bblue&N and
+his hair is down to his shoulders. He wears the finest armor and carries the
+finest weapons that the craftsmen of &+Gfe&N&+grnwa&+Glk&N can make.&N
+~
+335546442	8 0 0 0	0 S
+PE	0 1
+56	 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 0 1
+#0
+
+#BASTOBJECTS
+
+#15000
+fiddle head fern~
+a &+gfid&+ydle-h&+gead f&+Ger&N&+gn&n~
+A &+gfid&+ydle-h&+gead f&+Ger&N&+gn&N is growing at the edge of the &+Gfor&N&+gest.&N~
+~
+12 30 3 0 15 0 114760 8388609 0 1 0
+0 0 0 0 0 0 0 0
+0 0 100 0 0 0 0
+E
+fiddle head fern~
+&N   This &+gfid&+ydle-h&+gead f&+Ger&N&+gn&N is growing here in the &+Lshade&N and protection of the
+large &+ytr&+gees&N of the &+Gfor&N&+gest&N.&N~
+A
+28 3
+A
+0 0
+#15001
+tropical fern ferns~
+a cluster of &+Gtropical&N &+gf&+Gern&N&+gs&N~
+A cluster of &+Gtropical&N &+gf&+Gern&N&+gs&N are growing in the &+ydirt&N here.~
+~
+8 30 3 0 15 0 114760 16385 0 73632 0
+0 0 0 0 0 0 0 0
+0 0 100 0 0 0 0
+E
+tropical fern ferns~
+&N   This cluster of &+Gtropical &N&+gf&+Gern&N&+gs&N is made from many differnt &+gf&+Gern&N&+gs that grow
+naturualy in this &+Gfor&N&+gest&N. They are very beautifull and  seem to be &+bmagical&N.&N~
+A
+0 0
+A
+3 3
+#15002
+sign~
+&+yA wooden sign is here.&N~
+&+yA wooden sign is here.&N~
+~
+13 6 3 0 7 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+0 0 100 0 0 0 0
+E
+sign~
+&+y                     _
+&+y          -         |#|
+&+y         |#|    ,-----. _
+&+y  ,---------.___;   o    '-.
+&+y  ) o _  Welcome to The  _ |
+&+y  |  (_) Village of     (_)|
+&+y  '\_.-, Fernwalk May     ,'
+&+y       | Your Stay Here,--'
+&+y      ,' Be More Than  (
+&+y      |_  Restfull!   o |
+&+y        )          /---'
+&+y        ----------' |#|
+&+y         |#|        |#|
+&+y         |#|        |#|&N~
+A
+0 0
+A
+0 0
+#15003
+lantern~
+a hanging lantern.~
+&+YThere is a &+Wbright&N&+Y hangning lantern here.&N~
+~
+1 20 3 0 7 0 270336 0 0 1 0
+0 0 -1 0 0 0 0 0
+0 0 100 0 0 0 0
+E
+lantern~
+&+Y   This hanging lanter is made of bronze and has a glass chimney. The flame is
+&+Ylarge and it illuminates the entire room.&N~
+A
+0 0
+A
+0 0
+#15004
+sign~
+&+ya poorly made sign&N~
+&+yA poorly made sign is posted in the ground here~
+~
+12 6 3 0 3 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+0 0 100 0 0 0 0
+E
+sign~
+&+y          --
+&+y         |##|
+&+y ,----------------------.
+&+y | Fernwalk Lane, North |
+&+y `----------------------'
+&+y         |##|
+&+y ,----------------------\
+&+y | Silvermoon Road, East >
+&+y `----------------------/
+&+y         |##|
+&+y         |##|
+&+y         |##|&N~
+A
+0 0
+A
+0 0
+#15005
+armor wildfire~
+&+CThe armor of &N&+rW&+Ri&+Yl&+Wdf&+Yi&+Rr&N&+re&N~
+some glowing &+Rred&N armor is lying here.~
+~
+9 23 3 0 15 0 16705 9 0 32798 0
+14 0 0 3 0 0 0 0
+20 0 100 570425360 0 0 0
+A
+18 1
+A
+19 1
+#0
+
+#BASTRESETS
+#0
+&+GFe&N&+grnwa&+Glk&N~
+0 0 0 15 15 0
+D 0 15004 0 1 100 0 0 0
+D 0 15005 1 1 100 0 0 0
+D 0 15003 2 1 100 0 0 0
+D 0 15003 3 1 100 0 0 0
+*
+O 1 15000 1 15000 100 0 0 0
+O 1 15001 1 15001 100 0 0 0
+O 1 15003 1 15003 100 0 0 0
+O 1 15002 1 15003 100 0 0 0
+O 1 15004 1 15007 100 0 0 0
+*
+M 1 15000 1 15003 100 0 0 0
+E 0 15005 1 5 100 0 0 0
+*
+S
+
+#MOBPROGS
+S
+#$

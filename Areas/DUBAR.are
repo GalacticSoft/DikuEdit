@@ -1,0 +1,61 @@
+#AREADATA
+Name        Dubar's Office~
+Author      Dubar~
+Levels      1 50
+Security    1
+VNUMs       2667 2667
+Builders    Dubar~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#2667
+&+gDub&N&+Lars&N &+rRoom of &N&+LWo&N&+rrk&N&+L and &N&+gPlay&N~
+&+L   This large room is filled with many strange and exotic smells.  The ceiling
+&+Lis domed and is covered with plated &N&+Ygold&N&+L.  There is a complex network of iron
+&+Lcross pieces twenty feet up that work quite well to hang those who commit
+&+Lcrimes against the health and welfare of the entire communmity.  There are
+&+Lseveral &N&+Rco&N&+Lr&N&+Rpses &N&+Lhanging from long &N&+yhemp ropes&N&+L, looking both like they are
+&+Ldecomposing yet not quite dead.  There is a heavy&N&+M magical&N&+L influence hanging
+&+Lover this room, making it feel out of place.  There are &N&+Cswirling lights &N&+Lon the
+&+Lnorthern wall, looking much like a portal or a mirror.  To the south is a huge
+&+Lmap of the known realms and pins with tiny &N&+Wwhite skulls &N&+Lon its surface to mark
+&+Limportant places.  There is a large and &N&+rfirey pit &N&+Lin the floor that emits a
+&+Lgreat deal of&N&+r heat&N&+L.  To the west is a huge window that overlooks the inside of
+&+Lan active &N&+rvolcano&N&+L.  To the east is a huge picture of&N&+gDub&N&+Lars &N&+Lgirlfriend.  Boy is
+&+Lshe a cute one.  There is a large column in one of the corners.  It looks like
+&+La giant &N&+ycorn dog&N&+L.  There are no exits from this place.&N
+~
+1 235405376 1
+E
+corn dog~
+&N   This giant &N&+ycorn dog&N looks almost good enough to eat.  The &N&+ywooden&N stick has
+been fastened securely into the floor.&N
+~
+S
+#0
+
+#BASTMOBS
+#0
+#BASTOBJECTS
+#0
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#1
+&N&+gDu&N&+Lbars&N &+rWork Room&N~
+2667 2 0 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+*
+*
+*
+S
+#QUESTS
+#0
+#$
+
+

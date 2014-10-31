@@ -1,0 +1,1820 @@
+#AREADATA
+Name        Pharr Valley~
+Author      Dubar~
+Levels      1 50
+Security    1
+VNUMs       2002 2808
+Builders    Dubar~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#2002
+&+gA &N&+LDirt&N&+y Road&N&+g Leading to Some Fertile Farmland&N~
+&+g   There is a &N&+Ldirt&N&+y road&N&+g winding through some tall grasses.  The path is
+&+grather wide and has two deep ruts left from wagon wheels.  There are many
+&+gacres of farmland spreading out in every direction.  One can see farm houses
+&+gand smoke wafting from their chimneys.  Some animals can bee seen milling
+&+gabout the fields.  There are several colors on the horizon as the sun goes
+&+gdown.  One may travel east or west&N
+~
+1 33554436 2
+D1
+~
+~
+0 0 2003
+D3
+~
+~
+0 0 1002
+S
+#2003
+&+gOn the Long and &N&+LDirt&N&+y Road&N&+g Through the Fertile Fields&N~
+&+g   This road continues in a rather straight direction through many different
+&+gtypes of crop fields.  The road is wide but not really useful to the farmers,
+&+gwho tend to not use it.  The road is most utilized by traveling merchants that
+&+gtrade with the farming community.  There are few stones or pebbles on the road
+&+gfor the village children throw them for fun.  The road is often muddy after a
+&+gheavy rain, but it appears to be solid now.  One may travel west or east.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 2004
+D3
+~
+~
+0 0 2002
+S
+#2004
+&+gThe &N&+LDirt&N&+y Road&N&+g Leading to a Farming Community&N~
+&+g   This farming community is surrounded by hundreds of acres of fertile land.
+&+gThere are few trees around the village of Salol because the people have tried
+&+gto remove as much of the land encumbering trees to get the optimum amount of
+&N&+Ltopsoil&N&+g for the fields.  The few trees that do remain are usually alone or in
+&+ggroups of three, more for asthetic beauty than anything.  The &+Ldirt&N&+g path is
+&+goften muddy in rainy weather, but is rather dusty at the moment.  One can see
+&+gmany small farmhouses in the distance.  The smells of this region are both
+&+gsweet and earthy.  One may travel west or east.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2003
+S
+#2005
+&N&+gA Turn on the Main Path of Salol&N~
+&+g   This farming community was once a very large and prosperous town on the
+&+gfrontier of the civilized world.  The world caught up quickly and now this
+&+gfarmland is now in almost the center of the known world.  It is very safe and
+&+gis not guarded what-so-ever from invasion and raids.  The village itself was
+&+goriginally settled by the humans who lived in the large city of Paranel.  They
+&+gtraveled quite a great distance to settle here and live off the land.  There
+&+gare many types of crops grown in the fields to the north.  One may travel north
+&+gor west on this muddy road.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2006
+D3
+~
+~
+0 0 2004
+S
+#2006
+&N&+gApproaching the Farming Community of Salol&N~
+&+g   The farms and fields of the village of Salol are reknown for their high
+&+gcrop output.  The vegetables grown here are quite spectacular and sought after
+&+gby the cooks and chefs of Basternae's grandest cities.  The ground around here
+&+gis covered with lush, green grass.  The road rises above the surrounding ground
+&+gand forms both a dike during high water and a relatevely dry roadway.  The road
+&+gis most used by traveling merchants and the farmers who leave the area to sell
+&+gtheir goods in the more populated trading regions.  One may travel north or
+&+gsouth.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2007
+D2
+~
+~
+0 0 2005
+S
+#2007
+&N&+gOn the &N&+LDirt &N&+yRoad&N&+g of Salol&N~
+&+g   The dirt road leads towards the many large and healthy looking fields
+&+gmaintained by the villagers of Salol.  There are many interesting concepts used
+&+gby the farmers to irrigate and weed their crops.  This farming community is
+&+gquite advanced technologically.  One can see many farmers and animals milling
+&+gabout the surrounding country side.  The dirt path below is raked two times a
+&+gweek to maintain its smooth surface.  The gravel mixed in with the soil is
+&+goften thrown around by the bored children.  One may travel north or south.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2008
+D2
+~
+~
+0 0 2006
+S
+#2008
+&N&+gThe Crossing of Many Paths in Salol&N~
+&+g   Several paths meet here.  This large crossing is one of the busiest
+&+gnon-paved intersections in the entire world.  The &N&+Ldirt &N&+yroads&N&+g that meet here
+&+gare used by both farmers and merchants.  The farmers use the road to travel
+&+gfrom field to field.  The merchants use the road to both enter the farming
+&+gcommunity and to haul the many foodwares out of Salol to the larger trading
+&+gcommunities.  The intersection is almost always clogged with traffic as
+&+gthere is no way of regulating the many large&N&+G produce &N&+gcarts.  Many fields can
+&+gbe seen off in the distance, as well as some assorted village homes.  One
+&+gmay travel north on the main path of Salol or south out of the farming
+&+gcommunity.  There are also some small&N&+L dirt &N&+yroads&N&+g that circumvent the many
+&+gfields that go east and west.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2022
+D1
+~
+~
+0 0 2009
+D2
+~
+~
+0 0 2007
+D3
+~
+~
+0 0 2010
+S
+#2009
+&+gOn the Wide &N&+LDirt&N&+y Path&N&+g Around the Fields&N~
+&+g   This path is located around the circumference of the village of Salol.
+&+gThe wide road is comprised of a mixture of soil and coarse gravel, making for
+&+ga somewhat stable road material.  There are many gates and fences wired up
+&+gbetween large&N&+y wooden fence posts&N&+g visible on both sides of the road.  The many
+&+gfences are used more often for the hearding of livestock down the road than
+&+gfor keeping things in the fields.  The ditches here aren't very deep but are
+&+gusually wet from the average percipitation that falls.  To the north and east
+&+gone can see a large &N&+Rradish &N&+gfield.  One may travel east or west upon the dirt
+&+groad that borders the farmland.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 2057
+D3
+~
+~
+0 0 2008
+S
+#2010
+&N&+gOn the Edge of a Large &N&+YCorn &N&+gField&N~
+&+g   The dirt road continues here, traveling from east to west.  It skirts the
+&+glarge&N&+Y corn&N&+g field to the north, providing fast and easy access to many different
+&+gfarmers to the outer fields.  The people of Salol didn't orginally make the
+&+groad, in fact, no one really knows who did.  They are ancient but constructed
+&+gin a way that exceeds most building standards of modern times.  One can see
+&+gmany acres of farm land from this point, the crops growing tall this time of
+&+gyear.  One may travel west or east.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 2008
+D3
+~
+~
+0 0 2011
+S
+#2011
+&+gOn a Narrow &N&+LDirt&N&+y Path&N&+g Around the Fields of Salol&N~
+&+g   The field path narrows here in order to travel through the many fields of
+&N&+gSalol.  To the north is a large&N&+Y corn&N&+g field and to the south is a large &N&+Yhay &N
+&+gfield.  There are some small ditches on either side of the path, used for both
+&+ggetting rid of the excess water and as a way to bring in irrigation in years
+&+gwhen the rains were few and far between.  One can see many workers in the
+&+gfields, trying to help the crops any way they can.  There are many birds and
+&+ganimals that live with the people wandering around the fertile lands.  One may
+&+gtravel west or east.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 2010
+D3
+~
+~
+0 0 2012
+S
+#2012
+&+gA Turn on the Field Road of Salol&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2013
+D1
+~
+~
+0 0 2011
+S
+#2013
+&+gOn One of the Many Side Roads of Salol&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2014
+D2
+~
+~
+0 0 2012
+S
+#2014
+&+gOn a Narrow &N&+LDirt&N&+y Path&N&+g in the Village of Salol&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2015
+D2
+~
+~
+0 0 2013
+S
+#2015
+&+gIn Front of the Fence to the &N&+YCorn&N&+g Field&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2016
+D1
+~
+fence~
+1 0 2031
+D2
+~
+~
+0 0 2014
+S
+#2016
+&+gIn Front of a Farmers Home&N~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2017
+D2
+~
+~
+0 0 2015
+D3
+~
+door~
+1 0 2076
+S
+#2017
+&+gA Fork on The Field Paths of Salol&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2018
+D1
+~
+~
+0 0 2026
+D3
+~
+~
+0 0 2016
+S
+#2018
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2019
+D2
+~
+~
+0 0 2017
+S
+#2019
+Unnamed~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2018
+D3
+~
+~
+0 0 2020
+S
+#2020
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2021
+D1
+~
+~
+0 0 2019
+S
+#2021
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2032
+D2
+~
+~
+0 0 2020
+S
+#2022
+&N&+gOn the &N&+LDirt&N&+y Path &N&+gIn Front of a Large &N&+YCorn&N&+g Field&N~
+&+g   The path continues through the fertile lands of Salol.  There is a&N&+y wooden
+&N&+yfence&N&+g to the west that leads into another very important crop for this farming
+&+gvillage, a&N&+Y corn&N&+g field.  The &N&+Ycorn&N&+g is used in the community to make many kinds of
+&+gbreads and meals, and is also sold to passing merchants for a hefty price.  The
+&+gfarmers of this small agricultural village use this road to transport goods or
+&+gto go from field to field in their daily chores.  One may travel west into the
+&N&+Ycorn&N&+g field or north and south on the road.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2023
+D2
+~
+~
+0 0 2008
+D3
+~
+fence~
+1 0 2027
+S
+#2023
+&N&+gOn the &N&+LDirt&N&+y Road&N&+g In Front of the &N&+RRadish &N&+gPatch&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2024
+D1
+~
+fence~
+1 0 2055
+D2
+~
+~
+0 0 2022
+S
+#2024
+&+gA Turn on the Wide &N&+LDirt&N&+y Path&N&+g of Salol&N~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2023
+D3
+~
+~
+0 0 2025
+S
+#2025
+&+gA Bend in the Central Path of the Farming Fields&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2026
+D1
+~
+~
+0 0 2024
+S
+#2026
+&+gIn Front of the Fence to the &N&+WPotato&N&+g Patch&N~
+~
+1 33554432 2
+D0
+~
+fence~
+1 0 2046
+D1
+~
+~
+0 0 2039
+D2
+~
+~
+0 0 2025
+D3
+~
+~
+0 0 2017
+S
+#2027
+&+gThe Entrance to a Large &N&+YCorn&N&+g Field&N~
+&+g   This large field here is used for growing the very important &N&+Ycorn&N&+g crop
+&+gfor the village of Salol.  The citizens of Salol have decided to work as a
+&+gcommunity on their fields, instead of farming individual plots of land.  This
+&+gtype of agricultural coexistence benefits the community and not the individual.
+&+gEveryone prospers when the fields prosper.  The&N&+Y corn &N&+ggrows in long and straight
+&+grows, providing the most ideal growing conditions.  There is a&N&+y wooden fence
+&N&+glocated to the east that keeps the many roaming farm animals out of the field.
+&+gOne may travel north or west in the &N&+Ycorn &N&+gfield.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2028
+D1
+~
+fence~
+1 0 2022
+D3
+~
+~
+0 0 2029
+S
+#2028
+&N&+gIn a Large &N&+YCorn&N&+g Field&N~
+&+g   This large&N&+Y corn&N&+g field has been recently weeded.  The ripped up roots of
+&+gthe weeds show up well, their &N&+Wwhite&N&+g color on the black soil.  The weeds will
+&+gmore than likely shrivel and dry out in the heat of the sun.  The&N&+Y corn&N&+g plants
+&+gare arranged in rows, each row about a foot apart.  The&N&+Y corn&N&+g is nearly ready
+&+gto be harvested, one can tell because of the visible &N&+ybrown tassles&N&+g that grow
+&+gout the top of the &N&+Ycorn &N&+gears.  One may travel west or south in the field.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 2027
+D3
+~
+~
+0 0 2030
+S
+#2029
+&N&+gIn a Large Field of &N&+YCorn&N~
+&+g   The large &N&+Ycorn&N&+g field ends here in the southwestern corner.  There is a
+&+glarge dirt road clearly visible, which is often used by both farmers and the
+&+gmerchants alike.  The field here grows thinner than the other areas of the
+&N&+Ycorn&N&+g field because of both the fact that its located in the more open areas
+&+gand the fact that the ground is lower here.  Over half of the plants were
+&+gdrown out in the germanation period.  The&N&+Y corn&N&+g that does grow looks scrawny
+&+gand under-nourished.  One may travel north or east.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2030
+D1
+~
+~
+0 0 2027
+S
+#2030
+&N&+gInside the Large &N&+YCorn&N&+g Field in the Farming Community of Salol&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2031
+D1
+~
+~
+0 0 2028
+D2
+~
+~
+0 0 2029
+S
+#2031
+&N&+gIn the Northern End of the &N&+YCorn&N&+g Field&N~
+&+g   The northern section of this &N&+Ycorn &N&+gfield is one of the more fertile sections
+&+gof soil in the entire farming community of Salol.  The tall&N&+Y corn&N&+g grows to a
+&+gheight of up to ten feet tall, quickly outgrowing any weeds that may grow along
+&+gwith the &N&+Ycorn &N&+gplants.  The dirt is not dry for the precipitation has kept it
+&+gfull of moisture and provides a healthy growing base.  The&N&+y wooden fence&N&+g located
+&+gto the west is used to keep out the larger farm animals and the silly children.
+&+gOne may travel west or south in the &N&+Ycorn&N&+g field.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 2030
+D3
+~
+fence~
+1 0 2015
+S
+#2032
+Unnamed~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2033
+D2
+~
+~
+0 0 2021
+S
+#2033
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2034
+D3
+~
+~
+0 0 2032
+S
+#2034
+Unnamed~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2035
+D2
+~
+~
+0 0 2033
+S
+#2035
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2036
+D3
+~
+~
+0 0 2034
+S
+#2036
+Unnamed~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2037
+D2
+~
+~
+0 0 2035
+S
+#2037
+Unnamed~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2038
+D3
+~
+~
+0 0 2036
+S
+#2038
+Unnamed~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2045
+D3
+~
+~
+0 0 2037
+S
+#2039
+&+gThe &N&+LDirt&N&+y Road &N&+gThrough the Fields&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2040
+D3
+~
+~
+0 0 2026
+S
+#2040
+Unnamed~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2041
+D2
+~
+~
+0 0 2039
+S
+#2041
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2042
+D1
+~
+~
+0 0 2072
+D3
+~
+~
+0 0 2040
+S
+#2042
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2043
+D2
+~
+~
+0 0 2041
+S
+#2043
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2044
+D2
+~
+~
+0 0 2042
+S
+#2044
+&+gNear the Fence of the &N&+WPotato&N&+g Field&N~
+~
+1 33554436 2
+D0
+~
+~
+0 0 2045
+D2
+~
+~
+0 0 2043
+D3
+~
+fence~
+1 0 2051
+S
+#2045
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2038
+D2
+~
+~
+0 0 2044
+S
+#2046
+&N&+gThe Entrance to the &N&+WPotato&N&+g Field&N~
+&+g   This&N&+W potato&N&+g field is wide and vast.  The&N&+W potato&N&+g plants have been planted
+&+gin straight rows in the fertile,&N&+L black&N&+L soil&N&+g.  There is a fence surrounding the
+&+gentire field in an effort to keep out the barnyard animals.  The fences do not
+&+gkeep out the devestating&N&+W potato&N&+r b&N&+Lu&N&+rg&N&+Ls&N&+g that eat the leaves right off the plants.
+&+gWithout the leaves the potatoes below are never allowed to grow.  The village
+&+gchildren are often sent out to the fields to pick off and kill the nasty and
+&+gannoying bugs.  One may travel south or north.&N
+~
+1 33554436 2
+D0
+~
+~
+0 0 2047
+D2
+~
+fence~
+1 0 2026
+S
+#2047
+&+gAmongst the Many Rows of &N&+WPotato&N&+g Plants&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2049
+D1
+~
+~
+0 0 2048
+D2
+~
+~
+0 0 2046
+S
+#2048
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2053
+D3
+~
+~
+0 0 2047
+S
+#2049
+&N&+gIn Salols Large &N&+WPotato&N&+g Fields&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2050
+D1
+~
+~
+0 0 2053
+D2
+~
+~
+0 0 2047
+D3
+~
+~
+0 0 2054
+S
+#2050
+&N&+gSurrounded By Hundreds of &N&+WPotato&N&+g Plants&N~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2051
+D2
+~
+~
+0 0 2049
+S
+#2051
+&N&+gNear the Fence of the &N&+WPotato&N&+g Patch of Salol&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2052
+D1
+~
+fence~
+1 0 2044
+D2
+~
+~
+0 0 2053
+D3
+~
+~
+0 0 2050
+S
+#2052
+&N&+gThe Northern Section of the &N&+WPotato&N&+g Patch&N~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2051
+S
+#2053
+&+gAmongst the Rows of Healthy &N&+WPotato&N&+g Plants&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2051
+D2
+~
+~
+0 0 2048
+D3
+~
+~
+0 0 2049
+S
+#2054
+&+gThe Western Section of the &N&+WPotato&N&+g Field&N~
+~
+1 33554432 2
+D1
+~
+~
+0 0 2049
+S
+#2055
+&+gIn a Large &N&+RRadish&N&+g Patch&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2073
+D1
+~
+~
+0 0 2056
+D2
+~
+~
+0 0 2060
+D3
+~
+fence~
+1 0 2023
+S
+#2056
+&N&+gIn the Large Field Full of &N&+RRadishes&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2074
+D2
+~
+~
+0 0 2061
+D3
+~
+~
+0 0 2055
+S
+#2057
+&+gA Turn on the Wide Field Road&N~
+&+g   This wide dirt road travels around one of the large fields of Salol.  The
+&+groad turns here, allowing for the large field to extend further south.  The
+&+groad has been recently raked to allow for the best traveling surfaces for the
+&+gfarmers and merchants.  The field to the north is filled with many workers,
+&+gmostly farmers and their families.  Farming is the only industry that matters
+&+gto the citizens of Salol, it is their lifeblood and their livelihood.  There
+&+gare some other fields located in the southern regions of the communtiy but they
+&+gare rarely visited.  One may travel west or south.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 2058
+D3
+~
+~
+0 0 2009
+S
+#2058
+&+gOn the Grass Covered Field Road&N~
+&+g   This grass covered road travels around the border of the field.  This
+&+groad is often used by both farmers and merchants alike in their day to day
+&+gactivities.  The people of Salol have in part flourished and excelled because
+&+gof their great road systems.  This particular road often gets very muddy in a
+&+gheavy rain storm, plugged when the snow drifts high.  It is uncertain who
+&+gexactly originally built up this road system but it is safe to say it was a
+&+ggroup from a long disappeared civilization.  The ditches are very wet as they
+&+gare used in both irrigation and drainage.  One may travel north or east from
+&+gthis point.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2057
+D1
+~
+~
+0 0 2059
+S
+#2059
+&+gOn The Southern Field Road of Salol&N~
+&+g   This southern field road marks the border of the small village of Salol.
+&+gAlthough the fields to the south are often worked by the farmers here, it is
+&+gconsidered out of the range of the village because of the fact there aren't any
+&+greal fences to mark the territory.  Quite often this road is used in the moving
+&+gof cattle or the cash crops of the farmers.  To the north is a large field that
+&+gis filled with many bushels of crop that the farmers will later sell for a
+&+ghealthy profit.  One may travel east or west from this point.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 2065
+D3
+~
+~
+0 0 2058
+S
+#2060
+&+gIn the &N&+RRadish &N&+gPatch of the Farming Community of Salol&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2055
+D1
+~
+~
+0 0 2061
+S
+#2061
+&+gAmongst the Many Rows of &N&+RRadishes&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2056
+D1
+~
+~
+0 0 2062
+D3
+~
+~
+0 0 2060
+S
+#2062
+&N&+gThe Narrow Section of the Large &N&+RRadish &N&+gPatch&N~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2063
+D3
+~
+~
+0 0 2061
+S
+#2063
+&+gThe Southern Entrance to the &N&+RRadish&N&+g Patch&N~
+&+g   The southern end of this field is filled with healthy looking &N&+Rradishes&N&+g.
+&+gThe leaves are green and lush and hardly touched by the leaf eating insects.
+&+gThe &N&+Lblack dirt &N&+gis moist but not wet, perfect growing conditions for the&N&+R radish&N
+&+gplants.  There is a &N&+ywooden fence&N&+g bordering the field to the west, south and
+&+geast, a &N&+yfence&N&+g in the east.  The &N&+yfence &N&+gis hung on &N&+Cm&N&+ce&N&+Ct&N&+ca&N&+Cl&N&+g hinges and is latched to
+&+gthe &N&+yfence&N&+g.  The farmers of Salol work this field constantly to assure the best
+&+gpossible crop.  The vegetable is used often in tasty dishes and can also be
+&+geaten by itself.  One may travel east or north.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2062
+D1
+~
+fence~
+1 0 2064
+S
+#2064
+&N&+gNear a Fence to the &N&+RRadish &N&+gPatch&N~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2066
+D2
+~
+~
+0 0 2065
+D3
+~
+fence~
+1 0 2063
+S
+#2065
+&+gA Turn on The Field Road&N~
+&+g   The field road continues to wind around the many fields and homes of the
+&+gfarming community.  There are many dogs in this community, after all they are
+&+gmans best friend.  The dogs were originally used as work animals until the
+&+gfarmers were introduced to the sturdy work horses they now use by some wayward
+&+gtravelers.  The farmers were at first scared and in awe, but quickly adapted
+&+gto use the strong animals to their fullest advantage.  From this point one can
+&+gsee the grand importance of these creatures.  The field to the south has been
+&+grecently plowed by a team of horses, a feat that would have taken days by a
+&+gteam of dogs, the horses completed the task in a few hours.  One may travel
+&+gwest or north from this point.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2064
+D3
+~
+~
+0 0 2059
+S
+#2066
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2067
+D2
+~
+~
+0 0 2064
+S
+#2067
+Unnamed~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2066
+D3
+~
+~
+0 0 2068
+S
+#2068
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2069
+D1
+~
+~
+0 0 2067
+S
+#2069
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2070
+D2
+~
+~
+0 0 2068
+S
+#2070
+Unnamed~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2069
+D3
+~
+~
+0 0 2071
+S
+#2071
+Unnamed~
+~
+1 33554432 2
+D0
+~
+~
+0 0 2072
+D1
+~
+~
+0 0 2070
+S
+#2072
+Unnamed~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2071
+D3
+~
+~
+0 0 2041
+S
+#2073
+&+gAmongst the Many Rows of &N&+RRadishes&N~
+&+g   This large field is used to grow &N&+Rradishes&N&+g, a popular export for the people
+&+gof Salol.  They sell the tasty vegetable both in markets of their own or to
+&+gpassing merchants.  The&N&+R radish &N&+gis used in many expensive dishes in far off
+&+gcities, such as&N&+W Paranel&N&+g or&N&+Y Woodseer&N&+g where such delicacies could cost someone
+&+ga great deal of money.  The soil here is moist from a recent rain.  There are
+&+gmany pulled out weeds wilting in the&N&+Y sun&N&+g.  One may travel north, south or east
+&+gfrom this point.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 2075
+D1
+~
+~
+0 0 2074
+D2
+~
+~
+0 0 2055
+S
+#2074
+&+gIn the &N&+RRadish&N&+g Patch of Salol&N~
+~
+1 33554432 2
+D2
+~
+~
+0 0 2056
+D3
+~
+~
+0 0 2073
+S
+#2075
+&+gIn the Northern Part of the &N&+RRadish&N&+g Patch&N~
+&+g   The northern part of this &N&+Rradish &N&+gfield is much like any other part of the
+&+gfield.  The radishes are planted in straight rows and are taken good care of
+&+gby the farmers and their families.  There are no weeds here for the workers
+&+ghave already removed them.  The&N&+y wooden fence &N&+gthat borders the field is well
+&+gbuilt and sturdy and has been recently repaired.  One may travel south from
+&+gthis point in the field.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 2073
+S
+#2076
+&+yInside the House of a Farmer&N~
+&N   This house is run by a farming family.  There are items in the house that
+hint at the occupants, some cheap looking &+ywooden furniture&N and some childrens
+toys.  There is a large&+Y rug&N on the floor that was woven from some&+Y golden flax&N
+and&+G green reeds&N.  The house smells rather nice and has been recently cleaned,
+more than likely by the oldest daughter of the family.  The windows have real
+panes of glass in them, a rarity in most&+g farming communities&N.  The community
+of Salol has prospored because of the profit sharing that they have practiced
+for years.  The community has prospered together.  One may travel east out of
+the house.&N
+~
+1 33554440 0
+D1
+~
+door~
+1 0 2016
+S
+#0
+
+#BASTMOBS
+#2002
+bumble bee~
+&+Ya b&N&+Lu&N&+Ym&N&+Lb&N&+Yl&N&+Le &N&+Yb&N&+Le&N&+Ye&N~
+&+YA b&N&+Lu&N&+Ym&N&+Lb&N&+Yl&N&+Le&N&+Y b&N&+Le&N&+Ye flies through the air here.&N
+~
+&+L   This large bu&N&+Ymble bee is&N&+L constantly&N&+Y in search o&N&+Lf sweet nec&N&+Ytar to drink.
+&+YIt has a very la&N&+Lrge body an&N&+Yd looks rat&N&+Lher silly fl&N&+Yying throug&N&+Lh the air.  The
+&+Ltiny wings produ&N&+Yce a steady&N&+L droning so&N&+Yund as is zi&N&+Lps through &N&+Ythe air.  The
+&+Ybee is different&N&+L from a nor&N&+Ymal bee in &N&+Lthe fact tha&N&+Yt it bites &N&+Linstead of stings.
+&+LThe scary thing &N&+Yis it can b&N&+Lite multipl&N&+Ye times.&N
+~
+8 0 0 0 0 0 S
+I 0 0
+1 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2003
+robin black~
+&+ya robin&N~
+&+yA &N&+Lblack-breasted&N&+y robin hops around on the ground.&N
+~
+&N   This small robin bounces upon the ground looking for worms or other small
+bugs to eat.  It is a very nice looking bird, who appears to be both young and
+full of life.  Its small beak is used for cracking nuts and seeds when it can
+find such food.  The bird is really tame and thus easy to kill.&N
+~
+8 0 0 0 0 0 S
+B 0 0
+2 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2004
+black mouse~
+&+La black mouse&N~
+A small &N&+Lblack mouse&N scurries across the ground here.&N
+~
+&N   This black mouse scurries away from the grasp of the larger creatures that
+live in and around the farming community.  Often considered to be vermin, this
+creature is often hunted down just for the sake of killing it.  It is not a
+large create; the mouse could probably be held in the palm of a teenagers hand.&N
+~
+8 0 0 0 0 0 S
+AR 0 0
+3 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2005
+stray cat~
+a stray cat&N~
+&+yA &N&+Ystray cat&N&+y struts with its tail high in the air.&N
+~
+&N   This stray cat has wandered around the fields for many weeks.  It was more
+than likely abandonned by its previous owner somewhere on the outskirts of the
+village.  It is an orange tabby that has lost a great deal of weight.  Its skin
+and fur hangs off it like cloth on a clothesline.  Its bright eyes look around
+for something to eat. &N
+~
+8 0 0 0 0 0 S
+A 0 0
+4 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2006
+small girl~
+&+ma small girl&N~
+A&N&+M small girl&N walks through the fields without a care in the world.&N
+~
+&N   This small girl is rather cute.  She stands at nearly four feet tall, very
+tall for her age.  Her skin is fair and smooth as she hasn't seen more than
+a half dozen years.  She has long &+Ygolden hair&N that is curly and bounces as she
+walks.  She has a kind heart and would help almost anyone with their chores.&N
+~
+8 0 0 0 0 200 S
+PH 0 0
+5 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2007
+little boy~
+&+ba little boy&N~
+A &N&+blittle boy&N walks through the farming community here.&N
+~
+&N   This little boy is full of the dickens.  He often chases the little girls
+around with sticks, poking them in their rumps.  He has a face full of freckles
+and is often teased for his red hair.  The boy has rather large ears too making
+him an easy target for childish insults.  He often plays with the stray dogs,
+more often than naught, getting bitten for his efforts.&N
+~
+8 0 0 0 0 400 S
+PH 0 0
+6 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2008
+family dog~
+&+Ya family dog&N~
+The &N&+Yfamily dog&N of one of the farmers runs after cats here.&N
+~
+&N   This dog has been indoors for quite some time.  He runs around wildly as
+he enjoys the freedom of the outdoors.  The dog appears to be part collie and
+part golden retriever, a wild combination to say the least.  The dog is so full
+of energy that it spends its entire day chasing stray cats around.&N
+~
+8 0 0 0 0 0 S
+A 0 0
+7 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2009
+teenager teenage girl~
+&+Ca teenage girl&N~
+&+CA teenage girl&N walks here singing a song.&N
+~
+&N   This teenage girl is tall and quite skinny.  She has hit her initial growth
+spurt and has outgrew all of the boys her age.  She has a very fine face that
+glows when she smiles.  Her long, auburn hair is often pulled by the mean and
+immature younger boys.  She often fantasizes about the older and more handsome
+young men of the village.&N
+~
+8 0 0 0 0 200 S
+PH 0 16
+8 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2010
+cow dairy~
+&+Wa d&N&+La&N&+Wi&N&+Lr&N&+Wy&N&+L c&N&+Wo&N&+Lw&N~
+A &N&+Lblack&N and &N&+Wwhite&N dairy cow stands here eating some grass.&N
+~
+&N   This large cow is one of the many animals the people of salol use for
+their food source.  Although many vegetables are eaten, the cow is the main
+source of animal protein for the village.  This cow is rather large and
+stupid looking and it spends all its days eating grass.&N
+~
+8 0 0 0 0 0 S
+A 0 0
+9 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2011
+farmers wife~
+&Na farmers &N&+Cw&N&+ci&N&+Cf&N&+ce&N~
+&NA &N&+Cf&N&+ca&N&+Cr&N&+cm&N&+Ce&N&+cr&N&+Cs&N&+c w&N&+Ci&N&+cf&N&+Ce&N walks through the &N&+gfarming community&N here.&N
+~
+&N   This woman is the wife of a farmer.  Her meager clothing provides a very
+good hint at her standing within the community, as her clothing is pathced and
+cheap looking.  She has bright eyes but, because of her station in life, she
+has never stepped inside a school room.  It is no matter though, for she walks
+about with a smile on her face.&N
+~
+8 0 0 0 0 400 S
+PH 0 0
+10 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2012
+gnome merchant~
+a &N&+rgnome&N merchant&N~
+&NA friendly &N&+rgnome&N merchant smiles and greets those who approach him.&N
+~
+&N   This&N&+r gnome&N merchant has traveled far from his city.  He has come here to
+try to make a profit by buying the cheap produce here and reselling it in his
+own shop.  He is a short and sturdy gnome with a long and hairy beard.&N
+~
+8 0 0 0 0 200 S
+PG 0 10
+11 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2013
+elderly old farmer~
+an elderly &N&+Cfarmer&N~
+&NAn elderly &N&+Cfarmer&N supervises some of the other field workers.&N
+~
+&N   This old farmer has lived past his useful age.  He can no longer work the
+long, hot days in the field.  He spends his days now advising and annoying the
+younger farmers and their workers.  He has a kinda hard but has grown rather
+senile.&N
+~
+8 0 0 0 0 0 S
+PH 0 0
+12 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2014
+young farmer~
+a &N&+yyoung&N &N&+Cfarmer&N~
+A &N&+yyoung&N&+C farmer&N surveys the crops here.&N
+~
+&N   This young farmer has been farming for under five years.  He still has
+a lot to learn about the lifestyle, but he has made great progress.  His skin
+has been tanned to a deep golden hue and his hands are full of callouses.&N
+~
+8 0 0 0 0 200 S
+PH 0 0
+13 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2015
+woman old~
+&Nan old woman&N~
+&NAn old woman spends her time here watching &N&+Lb&N&+Yu&N&+Lm&N&+Yb&N&+Ll&N&+Ye&N&+L b&N&+Ye&N&+Le&N&+Ys&N all day long.&N
+~
+&N    This old woman looks like she has lived a few years beyond what would be
+her normal life span.  Her skin is very wrinkly and sags all over.  She is
+quite scary looking at night.  It is safe to say that this woman is more
+powerful than her appearance suggests.&N
+~
+8 0 0 0 0 0 S
+PH 0 10
+14 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2016
+work horse~
+&+ya large work horse&N~
+A &N&+ylarge work horse&N awaits some hard labor in the fields.&N
+~
+&N   This large work horse is used by the villagers to pull farming machinery
+in the fields.  It stands at almost eight feet tall and probably weighs close
+to four hundred pounds.  Its hooves are sharp and deadly.  The horses main is
+long and scraggly as it never gets brushed by its owners.&N
+~
+134234120 0 0 0 0 0 S
+A 0 0
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2017
+red ant~
+&+La small &N&+Rred&N&+L ant&N~
+A small &N&+Rred&N&+L ant&N crawls slowly across the ground here.&N
+~
+&N   This ant has a hard exoskeleton.  It has six bony legs that stick out from
+its main body.  It has a large and bloated abdommen that has some black and
+swirling markings.  The ant is entirely red excet for the tell tale markings
+of a dangerous ant species.&N
+~
+8 0 0 0 0 0 S
+I 0 0
+1 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2018
+sparrow fat large~
+a large sparrow&N~
+A large &+ysparrow&N looks for even more food to feed its fat self.&N
+~
+&N   This bird is very fat.  It has eaten to the point where it can no longer
+fly effectively.  Its wings look rather rediculous on its massive body.  Its
+legs are badly crippled from the excessive weight that they have had to carry
+around.  The bird is brown and dirty.&N
+~
+8 0 0 0 0 0 S
+B 0 0
+2 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2019
+potato bug~
+&+La &N&+Wpotato&N&+r b&N&+Lu&N&+rg&N~
+One of the worst insects around, this &N&+Wpotato&N&+r b&N&+Lu&N&+rg&N eats the &+Gleaves &Nof a&+g plant&N.&N
+~
+&N   This insect eats the leaves from the potato plants.  Its mouth does a
+massive amount of damage to the health of the plant.  The villagers of Salol
+make it a point to try to remove as many potato bugs from the plants as
+possible in order to optimize the plants health.&N
+~
+10 0 0 0 0 0 S
+I 0 0
+3 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#0
+#BASTOBJECTS
+#2002
+corn plant~
+&+ga &N&+Ycorn&N&+g plant&N~
+&+gA tall &N&+Ycorn&N&+g plant grows here in the field.&N~
+~
+13 42 3 0 3 0 0 16385 0 1 0
+0 0 0 0 0 0 0 0
+99999 0 100
+E
+corn plant~
+&+g   This plant grows &N&+Ycorn&N&+g.  The plants are planted in straight rows to ensure
+&+gideal growth.&N&+Y  Corn &N&+gis one of the staple food sources of the village of Salol.&N
+~
+#2003
+radish plant~
+&+ga &N&+Rradish&N~
+&+gThe leaves of the plant are all that's visible on this &N&+Rradish&N.&N~
+~
+19 48 3 0 3 0 0 16385 0 1 0
+3 0 0 0 0 0 0 0
+2 0 100
+E
+radish plant~
+&+g   This &N&+Rradish&N&+g plant grows here.  Only the leaves are visible as the main
+&+gfood part of the plant is located underground.&N
+~
+#2004
+potato~
+&+Wa potato&N~
+&+gAn uprooted &N&+Wpotato&N &+glies here upon the ground.&N~
+~
+19 48 3 0 7 0 0 16385 0 1 0
+2 0 0 0 0 0 0 0
+2 0 100
+E
+potato~
+&N   This potato is smooth and white.  It is full of starch and all kinds of
+nutritionous minerals.&N
+~
+#2005
+dirt clump~
+&+La dirt clump&N~
+&+LA dirt clump lies here upon the ground.&N~
+~
+13 1 3 0 1 0 0 16385 0 1 0
+0 0 0 0 0 0 0 0
+2 0 100
+E
+dirt clump~
+&N   This dirt clump is a clump of dirt.&N
+~
+#2006
+farmer farmers hat~
+&+ya &N&+Cfarmers&N&+y hat&N~
+&+yA large hat lies here upon the ground.&N~
+~
+9 3 3 0 5 0 0 17 0 1 0
+2 0 0 2 0 0 0 0
+4 0 100
+E
+farmer farmers hat~
+&N   This large hat is used to keep the sun out of the farmers hat.  It's large
+and highly useful brim is made of &+Ystraw&N and the cap of it is made of cloth.&N
+~
+#0
+
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#1
+The Fertile Farms of the Salol~
+2076 2 0 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+D 0 2015 1 1 100 0 0 0
+*     east exit from "In Front of the Fence to the Corn Field" to
+*     "In the Northern End of the Corn Field" - closed
+*
+D 0 2031 3 1 100 0 0 0
+*     west exit from "In the Northern End of the Corn Field" to
+*     "In Front of the Fence to the Corn Field" - closed
+*
+D 0 2016 3 1 100 0 0 0
+*     west exit from "In Front of a Farmers Home" to
+*     "Inside the House of a Farmer" - closed
+*
+D 0 2076 1 1 100 0 0 0
+*     east exit from "Inside the House of a Farmer" to
+*     "In Front of a Farmers Home" - closed
+*
+D 0 2022 3 1 100 0 0 0
+*     west exit from "On the Dirt Path In Front of a Large Corn Field" to
+*     "The Entrance to a Large Corn Field" - closed
+*
+D 0 2027 1 1 100 0 0 0
+*     east exit from "The Entrance to a Large Corn Field" to
+*     "On the Dirt Path In Front of a Large Corn Field" - closed
+*
+D 0 2023 1 1 100 0 0 0
+*     east exit from "On the Dirt Road In Front of the Radish Patch" to
+*     "In a Large Radish Patch" - closed
+*
+D 0 2055 3 1 100 0 0 0
+*     west exit from "In a Large Radish Patch" to
+*     "On the Dirt Road In Front of the Radish Patch" - closed
+*
+D 0 2026 0 1 100 0 0 0
+*     north exit from "In Front of the Fence to the Potato Patch" to
+*     "The Entrance to the Potato Field" - closed
+*
+D 0 2046 2 1 100 0 0 0
+*     south exit from "The Entrance to the Potato Field" to
+*     "In Front of the Fence to the Potato Patch" - closed
+*
+D 0 2044 3 1 100 0 0 0
+*     west exit from "Near the Fence of the Potato Field" to
+*     "Near the Fence of the Potato Patch of Salol" - closed
+*
+D 0 2051 1 1 100 0 0 0
+*     east exit from "Near the Fence of the Potato Patch of Salol" to
+*     "Near the Fence of the Potato Field" - closed
+*
+D 0 2063 1 1 100 0 0 0
+*     east exit from "The Southern Entrance to the Radish Patch" to
+*     "Near a Fence to the Radish Patch" - closed
+*
+D 0 2064 3 1 100 0 0 0
+*     west exit from "Near a Fence to the Radish Patch" to
+*     "The Southern Entrance to the Radish Patch" - closed
+*
+*
+O 0 2002 5 2027 100 0 0 0          * a corn plant
+O 0 2002 5 2028 100 0 0 0          * a corn plant
+O 0 2002 5 2029 100 0 0 0          * a corn plant
+O 0 2002 5 2030 100 0 0 0          * a corn plant
+O 0 2005 6 2030 100 0 0 0          * a dirt clump
+O 0 2002 5 2031 100 0 0 0          * a corn plant
+O 0 2004 9 2046 100 0 0 0          * a potato
+O 0 2004 9 2047 100 0 0 0          * a potato
+O 0 2004 9 2048 100 0 0 0          * a potato
+O 0 2004 9 2049 100 0 0 0          * a potato
+O 0 2005 6 2049 100 0 0 0          * a dirt clump
+O 0 2004 9 2050 100 0 0 0          * a potato
+O 0 2004 9 2051 100 0 0 0          * a potato
+O 0 2004 9 2052 100 0 0 0          * a potato
+O 0 2005 6 2052 100 0 0 0          * a dirt clump
+O 0 2004 9 2053 100 0 0 0          * a potato
+O 0 2004 9 2054 100 0 0 0          * a potato
+O 0 2005 6 2054 100 0 0 0          * a dirt clump
+O 0 2003 9 2055 100 0 0 0          * a radish
+O 0 2003 9 2056 100 0 0 0          * a radish
+O 0 2003 9 2060 100 0 0 0          * a radish
+O 0 2003 9 2061 100 0 0 0          * a radish
+O 0 2005 6 2061 100 0 0 0          * a dirt clump
+O 0 2003 9 2062 100 0 0 0          * a radish
+O 0 2003 9 2063 100 0 0 0          * a radish
+O 0 2005 6 2063 100 0 0 0          * a dirt clump
+O 0 2003 9 2073 100 0 0 0          * a radish
+O 0 2003 9 2074 100 0 0 0          * a radish
+O 0 2003 9 2075 100 0 0 0          * a radish
+*
+M 0 2004 3 2003 100 0 0 0          * a black mouse
+M 0 2010 4 2003 100 0 0 0          * a dairy cow
+M 0 2017 34 2003 100 0 0 0         * a small red ant
+M 0 2017 34 2003 100 0 0 0         * a small red ant
+M 0 2005 3 2004 100 0 0 0          * a stray cat
+M 0 2017 34 2004 100 0 0 0         * a small red ant
+M 0 2002 27 2005 100 0 0 0         * a bumble bee
+M 0 2002 27 2005 100 0 0 0         * a bumble bee
+M 0 2017 34 2006 100 0 0 0         * a small red ant
+M 0 2004 3 2007 100 0 0 0          * a black mouse
+M 0 2002 27 2007 100 0 0 0         * a bumble bee
+M 0 2003 4 2008 100 0 0 0          * a robin
+M 0 2016 1 2008 100 0 0 0          * a large work horse
+M 0 2011 8 2009 100 0 0 0          * a farmers wife
+M 0 2013 5 2010 100 0 0 0          * an elderly farmer
+M 0 2017 34 2010 100 0 0 0         * a small red ant
+M 0 2017 34 2010 100 0 0 0         * a small red ant
+M 0 2018 2 2010 100 0 0 0          * a large sparrow
+M 0 2006 2 2011 100 0 0 0          * a small girl
+M 0 2002 27 2011 100 0 0 0         * a bumble bee
+M 0 2017 34 2012 100 0 0 0         * a small red ant
+M 0 2002 27 2013 100 0 0 0         * a bumble bee
+M 0 2017 34 2014 100 0 0 0         * a small red ant
+M 0 2007 2 2015 100 0 0 0          * a little boy
+M 0 2002 27 2015 100 0 0 0         * a bumble bee
+M 0 2015 1 2016 100 0 0 0          * an old woman
+M 0 2008 2 2017 100 0 0 0          * a family dog
+M 0 2004 3 2017 100 0 0 0          * a black mouse
+M 0 2005 3 2017 100 0 0 0          * a stray cat
+M 0 2002 27 2017 100 0 0 0         * a bumble bee
+M 0 2017 34 2017 100 0 0 0         * a small red ant
+M 0 2018 2 2017 100 0 0 0          * a large sparrow
+M 0 2017 34 2018 100 0 0 0         * a small red ant
+M 0 2007 2 2019 100 0 0 0          * a little boy
+M 0 2002 27 2019 100 0 0 0         * a bumble bee
+M 0 2017 34 2020 100 0 0 0         * a small red ant
+M 0 2002 27 2021 100 0 0 0         * a bumble bee
+M 0 2011 8 2022 100 0 0 0          * a farmers wife
+M 0 2002 27 2022 100 0 0 0         * a bumble bee
+M 0 2017 34 2022 100 0 0 0         * a small red ant
+M 0 2008 2 2023 100 0 0 0          * a family dog
+M 0 2002 27 2024 100 0 0 0         * a bumble bee
+M 0 2002 27 2024 100 0 0 0         * a bumble bee
+M 0 2017 34 2024 100 0 0 0         * a small red ant
+M 0 2010 4 2025 100 0 0 0          * a dairy cow
+M 0 2011 8 2026 100 0 0 0          * a farmers wife
+M 0 2002 27 2026 100 0 0 0         * a bumble bee
+M 0 2017 34 2026 100 0 0 0         * a small red ant
+M 0 2014 6 2028 100 0 0 0          * a young farmer
+M 0 2002 27 2028 100 0 0 0         * a bumble bee
+M 0 2014 6 2031 100 0 0 0          * a young farmer
+M 0 2002 27 2031 100 0 0 0         * a bumble bee
+M 0 2017 34 2031 100 0 0 0         * a small red ant
+M 0 2006 2 2032 100 0 0 0          * a small girl
+M 0 2009 3 2032 100 0 0 0          * a teenage girl
+M 0 2017 34 2032 100 0 0 0         * a small red ant
+M 0 2009 3 2033 100 0 0 0          * a teenage girl
+M 0 2002 27 2033 100 0 0 0         * a bumble bee
+M 0 2011 8 2034 100 0 0 0          * a farmers wife
+M 0 2017 34 2034 100 0 0 0         * a small red ant
+M 0 2010 4 2035 100 0 0 0          * a dairy cow
+M 0 2002 27 2035 100 0 0 0         * a bumble bee
+M 0 2002 27 2036 100 0 0 0         * a bumble bee
+M 0 2017 34 2036 100 0 0 0         * a small red ant
+M 0 2002 27 2038 100 0 0 0         * a bumble bee
+M 0 2017 34 2038 100 0 0 0         * a small red ant
+M 0 2003 4 2039 100 0 0 0          * a robin
+M 0 2005 3 2040 100 0 0 0          * a stray cat
+M 0 2002 27 2040 100 0 0 0         * a bumble bee
+M 0 2003 4 2042 100 0 0 0          * a robin
+M 0 2002 27 2042 100 0 0 0         * a bumble bee
+M 0 2017 34 2042 100 0 0 0         * a small red ant
+M 0 2017 34 2042 100 0 0 0         * a small red ant
+M 0 2002 27 2043 100 0 0 0         * a bumble bee
+M 0 2002 27 2045 100 0 0 0         * a bumble bee
+M 0 2017 34 2045 100 0 0 0         * a small red ant
+M 0 2019 9 2047 100 0 0 0          * a potato bug
+M 0 2002 27 2047 100 0 0 0         * a bumble bee
+M 0 2013 5 2047 100 0 0 0          * an elderly farmer
+M 0 2019 9 2047 100 0 0 0          * a potato bug
+M 0 2003 4 2048 100 0 0 0          * a robin
+M 0 2019 9 2048 100 0 0 0          * a potato bug
+M 0 2002 27 2049 100 0 0 0         * a bumble bee
+M 0 2014 6 2049 100 0 0 0          * a young farmer
+M 0 2014 6 2049 100 0 0 0          * a young farmer
+M 0 2019 9 2049 100 0 0 0          * a potato bug
+M 0 2002 27 2050 100 0 0 0         * a bumble bee
+M 0 2013 5 2050 100 0 0 0          * an elderly farmer
+M 0 2019 9 2050 100 0 0 0          * a potato bug
+M 0 2002 27 2051 100 0 0 0         * a bumble bee
+M 0 2011 8 2051 100 0 0 0          * a farmers wife
+M 0 2017 34 2051 100 0 0 0         * a small red ant
+M 0 2019 9 2051 100 0 0 0          * a potato bug
+M 0 2019 9 2053 100 0 0 0          * a potato bug
+M 0 2019 9 2054 100 0 0 0          * a potato bug
+M 0 2019 9 2054 100 0 0 0          * a potato bug
+M 0 2013 5 2056 100 0 0 0          * an elderly farmer
+M 0 2014 6 2056 100 0 0 0          * a young farmer
+M 0 2013 5 2057 100 0 0 0          * an elderly farmer
+M 0 2017 34 2057 100 0 0 0         * a small red ant
+M 0 2011 8 2059 100 0 0 0          * a farmers wife
+M 0 2017 34 2059 100 0 0 0         * a small red ant
+M 0 2014 6 2063 100 0 0 0          * a young farmer
+M 0 2017 34 2063 100 0 0 0         * a small red ant
+M 0 2017 34 2064 100 0 0 0         * a small red ant
+M 0 2011 8 2065 100 0 0 0          * a farmers wife
+M 0 2012 1 2066 100 0 0 0          * a gnome merchant
+M 0 2017 34 2066 100 0 0 0         * a small red ant
+M 0 2017 34 2066 100 0 0 0         * a small red ant
+M 0 2011 8 2067 100 0 0 0          * a farmers wife
+M 0 2017 34 2069 100 0 0 0         * a small red ant
+M 0 2017 34 2069 100 0 0 0         * a small red ant
+M 0 2017 34 2069 100 0 0 0         * a small red ant
+M 0 2009 3 2071 100 0 0 0          * a teenage girl
+M 0 2010 4 2071 100 0 0 0          * a dairy cow
+M 0 2017 34 2071 100 0 0 0         * a small red ant
+M 0 2017 34 2072 100 0 0 0         * a small red ant
+*
+S
+#QUESTS
+#0
+#$
+
+

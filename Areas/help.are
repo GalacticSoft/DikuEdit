@@ -1,0 +1,5621 @@
+#HELPS
+
+-1 INDEX~
+The index of commands is broken down into numerous sub-sections.  These are:
+
+Combat         Miscellaneous            Character Info
+Classes        Races                    Skills
+Economy        Magic                    Inventory
+Communiction   Party                    Movement
+Guilds         Administration*
+
+* = Administrators only
+
+You can get more information on any of these topics by typing:
+'help <section name>'.  For example, 'help movement' would bring up
+a list of all the commands related to movement.  From there, you can
+type 'help <command name>' for any command listed and get detailed
+descriptions of the command.
+~
+ 
+-1 COMBAT~
+Armor Class
+Backstab
+Consider
+Damage
+Death
+Flee
+Rescue
+THAC0
+Wimpy
+~
+
+-1 MISCELLANEOUS~
+Areas
+Bug
+Camp
+Commands
+Credits
+Diku
+Envy
+Event Designators
+Help
+History
+Idea
+Magma
+Merc
+News
+Order
+Pets
+Qui
+Quit
+Rent
+Save
+Socials
+Story
+Summary
+Time
+Typo
+Wait States
+Weather
+~
+
+-1 CHARACTER INFO~
+AFK
+Agility
+ANSI
+Attributes
+Auto
+Autoexit
+Blank
+Brief
+Charisma
+Color
+Combine
+Config
+Consent
+Constitution
+Description
+Dexterity
+Experience
+Hide
+Intelligence
+Levels
+Luck
+Pagelength
+Password
+Prompt
+Report
+Score
+Sneak
+Strength
+Title
+Visibility
+Who
+Wimpy
+Wisdom
+~
+
+-1 CLASSES~
+
+A class is a profession or chosen field of study.  Classes dictate what
+skills you have, what spells you may learn, and how you fight or act.
+Not all classes are available to each race, due to physical or mental
+deficiencies.
+
+You can find a chart detailing the classes available to each race by 
+typing "help classlist".
+
+The following is a list of the classes that can be chosen by a player
+during the character generation process.  More information about each
+class can be obtained by typing in "help <class name>".
+
+Warrior        Ranger         Paladin        Anti-Paladin
+Thief          Assassin       Cleric         Druid
+Shaman         Sorcerer       Elementalist   Enchanter*
+Berserker*     Mystic*        Warlock*       Chronomancer*
+Bard           Mercenary      Psionicist     Necromancer*
+
+* = Planned for the future
+~
+
+-1 RACES~
+The following is a list of the races that can be chosen by a player
+during the character generation process.  More information about
+each race can be obtained by typing in "help <race name>".
+
+     GOOD ALIGNED                  EVIL ALIGNED
+     Human                         Drow Elf
+     Barbarian                     Duergar Dwarf
+     Grey Elf                      Ogre
+     Mountain Dwarf                Troll
+     Halfling                      Orc
+     Gnome                         Minotaur
+     Half-Elf                      Goblin
+     Centaur                       Rakshasa
+     Aquatic Elf*                  Flind
+     Thri-Kreen*                   Saurial*
+     Githzerai*                    Kobold*
+     Wild Elf*                     Githyanki*
+
+* = Planned for the future
+
+See also: RACEWARS
+~
+
+-1 SKILLS~
+Each class is granted certain skills, which represent areas in which
+a new character has received some basic amount of training.  As a
+character uses a skill and goes up in levels, he becomes better at these
+skills.  The command "skills" will list all the skills you currently
+possess and what level you have them at.  Some skills will only be
+available once you reach a certain level.
+
+Backstab
+Berserk
+Doorbash
+Doorkick
+Rescue
+Steal
+~
+
+-1 ECONOMY~
+Split
+~
+
+-1 MAGIC~
+Cast
+Slist
+Spells
+~
+
+-1 INVENTORY~
+Buy
+Close
+Compare
+Drink
+Drop
+Eat
+Equipment
+Equipment Slots
+Examine
+Fill
+Get
+Give
+Hold
+Inventory
+List
+Lock
+Look
+Open
+Put
+Quaff
+Read
+Recite
+Remove
+Sell
+Split
+Steal
+Unlock
+Value
+Wear
+Wield
+Zap
+~
+
+-1 COMMUNICATION~
+AFK
+Bug
+Channel
+Emote
+Gsay
+Gtell
+Idea
+Petition
+Pose
+Reply
+Report
+Say
+Shout
+Tell
+Typo
+~
+
+-1 PARTY~
+Consent
+Follow
+Group
+Gsay
+Gtell
+~
+
+-1 MOVEMENT~
+Doorbash
+Doorkick
+Exits
+Follow
+Hide
+Look
+Rest
+Sleep
+Sneak
+Stand
+Visibility
+Wake
+~
+
+-1 GUILDS~
+~
+
+56 ADMINISTRATION~
+Advance
+Alias
+Allow
+At
+Bamfin
+Bamfout
+Ban
+Deny
+Disconnect
+Echo
+Force
+Freeze
+Goto
+Holylight
+Imtlset
+Log
+Memory
+Mfind
+Mload
+Mset
+Mstat
+Mwhere
+Newlock
+Noemote
+Notell
+Numlock
+Ofind
+Oload
+Oset
+Ostat
+Owhere
+Peace
+Purge
+Reboot
+Recho
+Restore
+Return
+Rset
+Rstat
+Shutdown
+Silence
+Slay
+Slookup
+Snoop
+Sset
+Sstime
+Switch
+Title
+Transfer
+Trust
+Users
+Where
+Whois
+Wiz
+Wizhelp
+Wizify
+Wizinvis
+Wizlock
+~
+
+-1 RULES~
+
+Unfortunately, because of the wide variety of situations that can arise
+on Basternae, this rules section is rather lengthy and boring.  It has
+been broken down into numerous sub-topics to make finding a certain rule
+easier.
+
+YOU ARE RESPONSIBLE FOR EVERY ONE OF THESE RULES.  IGNORANCE OF A RULE
+IS NO EXCUSE FOR BREAKING A RULE.  
+
+The following topics are available:
+
+     HELP RULES GENERAL       - general policies and rules
+     HELP RULES EQUIPMENT     - rules concerning equipment and how
+                                it should be used
+     HELP RULES ARTIFACTS     - rules about artifacts
+     HELP RULES BUGS          - rules concerning bugs and what players
+                                should do when they find bugs
+     HELP RULES MULTI         - multiplaying rules
+     HELP RULES PUNISHMENT    - what happens when you break rules              
+     HELP RULES DISCLAIMER    - our disclaimer
+     HELP RULES REIMBURSEMENT - what happens when a bug claims your
+                                equipment
+     HELP RULES IMMORTALS     - how the rules apply to gods and how
+                                players should try to interact with
+                                them
+     HELP RULES RACEWARS      - rules regarding racewars and player
+                                killing
+     HELP RULES NAMES         - rules regarding names of players
+
+~
+
+0 'RULES NAMES' NAMES NAME~
+
+Basternae is not necessarily a role-playing mud, but we do have strict
+standards on names of the players.  We will not accept any of the
+following:
+
+Type						Example
+Foul language					No example should be needed
+"Real" names					Brian, Casey, Leon
+Real words, compound words, or slang terms	Dagger, Windwalker
+Names of characters from books, movies, etc.	Gandalf, Belgarion, Drizzt
+Variations using intentional spelling errors,	Whysper, Blayde
+backwards spellings, hooked on phonics
+Historical figures				Arthur, Patton
+Random garbage					Diouhljl, Xxxxxx
+Obvious storage character names			Skistore
+Insulting or demeaning names			Skisucks, Bitemeski
+Names of gods or dieties			Thor, Hermes
+
+All of the above rules apply to both English and non-English languages.
+
+Basically, try to make up a fantasy name that you aren't "stealing"
+from another source.
+
+If we catch you with an illegal name, we'll usually ask you to
+petition a new name.  We'll rename you and you won't have to delete
+or re-roll.  However, certain names will get you termed immediately
+(those using foul language or insults).  If you're really stupid
+about it, we'll have no qualms about sitebanning you.
+
+If you feel your name is borderline, just petition and we'll be more
+than happy to made a judgement call on it.
+~
+
+0 'RULES GENERAL'~
+
+1.  DON'T DO ANYTHING THE OVERLORDS WILL CONSIDER CHEESY.  This rule
+    should cover all the miscellaneous situations that aren't covered
+    specifically in the rules.  Even if we don't state something is
+    illegal in the rules, doesn't mean it's not.  If the gods feel you
+    are doing some abusive that's not in the spirit of the game, you
+    will be punished.
+2.  Players shoud settle their own disputes.  Talking to a god should
+    be a last resort.  Use the petition channel if you need to consult
+    with a god, but try to deal with matters yourself first.
+3.  Hacking or stealing the password of other people's characters is
+    not allowed.
+4.  Trading or giving away characters is not allowed.  The person that
+    originally created the character must play it at all times.  The
+    only exception to this rule is shared storage characters, which is
+    discussed in HELP RULES MULTI.
+5.  You may only have a single guilded character at any time.
+~
+
+0 'RULES EQUIPMENT'~
+
+READ THE FOLLOWING CAREFULLY: Your primary character must wear his
+best gear at all times. This means you have to wear your best stuff
+for raids, zones, and scouting.
+
+Secondary characters must also use the best equipment available to
+them that is NOT in use by the primary character.  This also includes
+using the secondaries for raiding, zoning, and scouting of any kind.
+
+If you're unsure about which character is primary and which are
+secondaries, don't risk it.  Always move gear between the character
+you are currently using.  If the admin's think what you're doing is
+cheesy, you'll be termed.
+
+In addition, you must do your absolute best to equip your characters
+before raiding.  If you have equipment on your storage character, use
+it.  If the guild storage chest contains stuff, take it.  If you have
+money (either your own or belonging to the guild), you must take it
+and make every effort to purchase the best equipment you can.  Do not
+decline equipment offered to you by friends simply because you want to
+raid and don't want to risk losing it.
+
+You may NEVER raid or scout naked or with newbie/minor created equipment,
+even if you have nothing on storage.  You must re-equip before raiding,
+or scouting.
+
+The only exception to the "best equipment" rules is for corpse retrieval
+_immediately_ after a death.  If you die, you may attempt to go back to
+your corpse and retrieve ONLY YOUR EQUIPMENT.  You may not try to get
+equipment from the corpses of other members of your party.  _Immediately_
+means three minutes.  If you can't get to your corpse in three minutes
+or less, don't go out until you have fully equipped again.
+
+Even this exception has an exception, however.  In a racewars situation,
+you cannot keep going out to loot.  You can go out ONE TIME after you
+die to attempt to get your corpse.  After that, you must re-equip
+fully before attempting to get your corpse.
+
+Lets give an example to show what I mean:
+
+An evil guild and a goodie guild fight near the goodie guild's hall.  The
+evils win, and are in the process of looting equipment from the corpses.
+One goodie who died, lets call him Toom, runs back out to try and loot
+his corpse.  He dies again.  He may not perform any more CR actions
+until he is fully re-equipped.  His other guild members may not attempt
+to loot his corpse until they are fully equipped (but they may each make
+one attempt to loot their own corpses).
+~
+
+0 'RULES ARTIFACTS'~
+
+Artifacts must be on "primary" characters.  Since the issue of "primary"
+characters can get confusing, use your best judgement and/or ask the
+administrators.  If you have a character in a guild, that character is
+your primary, regardless of playtimes.
+
+A single character can only have one artifact.
+
+Artifacts must always be equipped or carried.  This means that you
+can't give an artifact to someone to 'protect' it, you shouldn't 
+drop and hide it to avoid losing it, etc.  About to get killed by
+a mob that might turn you into a dracolich and nuke all of your
+equipment? Bummer, you HAVE to keep that artifact with you.  The
+only way you should pass off an artifact that you are actively 
+using is when it is pried from your dead fingers.  If you acquire 
+an artifact that you are unable to use, yes, you an give it away
+to someone that can, but once you do, it is theirs to keep or
+lose.
+
+Even if you can't use an artifact (like goodies getting a shaman 
+artifact), it must be carried so that the other side has a chance
+to get it back.
+
+If the admin's feel the player holding an artifact isn't "active"
+enough, the artifact will be taken and put back to its original location.
+
+Artifacts are on a "random load" timer and do not load up every boot
+in zones.  This means that if an artifact is reset and put back in
+its home, it will not be there every boot.
+    
+If you are unsure if a piece of equipment is considered an artifact,
+ask.  For the most part any unique piece of equipment, including
+stuff from quests, is considered an artifact, even if it's not
+completely overpowering.
+~
+
+0 'RULES BUGS'~
+
+1.  Report all bugs you find using the 'bug' command.  If it's an
+    emergency, use the 'petition' command to inform the gods.
+2.  Once you've reported the bug, do not continue to use it.
+3.  If you find a bug, don't report it, and continue to use it, you
+    will be punished.
+4.  Bugs consist of errors in the code and errors in zones, such as
+    the infamous "money bugs" that crop up.
+~
+
+0 'RULES MULTI' 'RULES MULTI-PLAYING'~
+
+Multi-playing is a complex and confusing part of the game, and one that
+you should make every effort to understand.  Failure to follow the
+policies set in these rules will result in HARSH punishment.  Ignorance is
+not an excuse.
+
+1.  You may NOT have more than one character on at ANY time.  THIS
+    INCLUDES LINK-DEAD CHARACTERS.  You must rent or camp out your other
+    character BEFORE you bring on a new one.  The ONLY exception is as
+    follows:  you may have two characters on in the same room (in an inn
+    or other rentable location) for the purpose of exchanging or storing
+    equipment.
+
+2.  You may NOT bring on a character belonging to the opposite side of the
+    racewars for TWO HOURS after logging off the first character.  No
+    exceptions to this rule will be allowed.
+
+   Example: Madra is a Gnome and gets bored of playing for a while.  She
+   decides to log on a newbie Drow Elf.  Ooops, big mistake on her part,
+   since she's now broken rule number two and we kindly admins nuke both
+   chars.
+
+3.  You may NOT bring on another character for the purpose of using it
+    to act as a "translator" to get around the language barrier.
+
+4.  You may NOT bring on another character in order to retrieve
+    equipment for a character that has died, REGARDLESS of whether that
+    other character's corpse has decomposed or not.  This includes, but is
+    not limited to, creating "newbies" to retrieve corpses or eq
+    REGARDLESS of who's corpse is being retrieved.
+
+5.  You may NOT use a second character to cast spells on another. This
+    rule also applies to logging another character on as a "target" for a 
+    spell.
+    
+6.  You CANNOT share characters.  You cannot give a character away. You
+    cannot loan characters out for any reason. If we catch you, we will
+    delete every character you have.  To make sure you understand: You
+    can NOT loan or trade characters.  
+
+   Example1: Tony is a player with a high level shaman and secondary high
+   level warrior.  He wants to go out and raid with his shaman, but wants
+   a basher along with him.  He asks a friend of his to play his warrior
+   for a while so they can group and go kill people.  Later on, Tony logs
+   out his shaman and starts playing the warrior himself.  Oooops, big
+   mistake on his part, because Tony just broke rule number eight and now
+   both characters will be terminated.
+
+    The only exception to this is shared storage characters, which may
+    never leave the inn room they are rented in.  A maximum of three people
+    may share a storage character.
+
+7.  You may not trade or give characters to other people.  Once a player
+    is created, the same person must play that character until he is
+    deleted.  You may not trade one character for another, nor may you
+    give a character away for free or for reimbursement of any kind.
+
+8.  You may NOT use a second character with the sole purpose being to
+    camp near an equipment repop site or to act as a portal/moonwell
+    target for a zone. Despite the importance of equipment, hoarding
+    equipment by this means is deplorable, dishonorable, and ILLEGAL.
+    Using characters as a target for racewars in this fashion is also
+    illegal.
+
+7.  You may NOT log on another character to take revenge for another
+    of your character's that was just killed, looted, stolen from, hit
+    with a spell, or had any other ill effect placed on him by another
+    character FOR TWO HOURS after the incident occurred.
+    
+9.  You may NEVER scout with low level characters or newbies, just to
+    avoid risking a primary or high level secondary character.  Using
+    newbies to scout for targets for raids or to do corpse retrieval/
+    looting is extremely cheesy and will result in angry admins.
+
+10. You cannot transfer equipment from a character on one side of the
+    racewars to another.  This means if you have a stacked goodie char and
+    want to start playing an evil character, you must get all new stuff
+    with the evil.  You cannot have other people transfer the gear for
+    you, and you most certainly cannot have someone kill and loot your
+    first character and give it to the second.
+~
+
+0 'RULES PUNISHMENT'~
+
+The administrative staff for Basternae can deal with the players any
+way they want.  We don't have to give you a warning or a second chance
+(but we usually do).  
+
+We do not have set policies for punishment.  It's up to each individual
+god to deal with things how he sees fit.
+
+We can and will siteban people who we don't want playing on Basternae.
+If a siteban "hurts" innocent bystanders because they can no longer
+connect to Basternae, we're sorry, but that happens.  Sitebanning is
+our final option and we don't like doing it.
+~
+
+0 'RULES DISCLAIMER'~
+
+While the administrators of Basternae attempt to maintain an environment
+suitable for gaming, we cannot control all the actions of our players.
+We will do our best to provide for the entertainment of the majority of
+our players.  Spamming or harrassment will not be tolerated on this mud,
+but the admins are not responsible if it does.
+
+We reserve the right to run this mud how we think is best.  If a player
+doesn't approve of our methods, he or she is welcome to leave and find
+another mud.  We reserve the right to be jerks or worse.  We reserve the
+right to change things without telling a single person.  We reserve the
+right to pretty much do whatever we want, actually.
+
+We also aren't responsible for player stupidity.  If you give out your
+password to someone, or download a virus from another player who tells
+you about this "really cool game" he has, or do anything else on the mud
+that affects your real-life, the admins cannot be blamed.
+
+By playing on this mud, you agree to these terms.
+
+~
+
+0 'RULES REIMBURSEMENT' 'REIMBURSEMENT'~
+
+We do not give out reimbursements, unless there is a wide-spread
+corruption in our player database.  
+
+If you lose an item to a mistake or bug, you will not be given a
+replacement.  This includes situations like lost or stolen items,
+decayed corpses, losses caused by crashes or reboots, hacked accounts,
+changes to the game, or guild hall chest or player ship malfunctions.
+~
+
+0 'RULES IMMORTALS'~
+
+The immortals of Basternae put a lot of time and effort into the game
+and should be treated with respect.  We don't care if you like us, but
+we won't tolerate extreme insults or slander.
+
+The immortals of Basternae can and do play mortal characters, but make
+every effort to keep mortal and immortal affairs seperate.  The
+administrators of Basternae do not show favortism to one racewars side
+or another.  We make changes to the game based on game balance issues,
+not our mortal characters, guilds, or personal interests.
+~
+
+0 'RULES RACEWARS'~
+
+1.  Player killing is legal and expected.  The objective of the game is
+    to kill players on the opposite side of the racewars, but same side
+    pkilling is allowed.
+2.  Player killing in goodie hometowns is affected by the JUSTICE code.
+    Read help justice for more information.
+3.  If you have multiple characters, you may not use one of the characters
+    to gain revenge for the death, looting, or any other ill effects that
+    happen to your other character until a period of two hours has passed.
+4.  If you involved in any racewars situation (attacking or scouting)
+    you may not log on another character to take part in any racewars
+    activity for two hours.
+
+    To give you an example, lets say your level 15 goblin warrior runs
+    into some goodies in a zone.  Regardless of whether your warrior
+    was attacked or not, as long as he or a group member spotted the
+    goodies in any fashion, you cannot log in another character for
+    two hours to do any type of raiding, counter-raiding, and so on.
+~
+
+-1 ! !! 'EVENT DESIGNATORS'~
+   {o{wEvent Designators{x
+       An event designator is a reference to a command line entry
+       in the history list.
+
+       {o{w!{x      Start a history substitution.
+       {o{w!!{x     Refer to the previous command.  This is  a  synonym
+              for `!-1'.
+       {o{w!{yn{x     Refer to command line {o{yn{x.
+       {o{w!-{yn{x    Refer to the current command line minus {o{yn{x.
+       {o{w!{ystring{x
+              Refer to the most recent command starting with
+              {o{ystring{x.
+       {o{w!?{ystring{x
+              Refer to the most recent command containing {o{ystring{x.
+
+       History is written by Zen (vasc@camoes.rnl.ist.utl.pt)
+~
+
+56 ADVANCE~
+Syntax: advance <character> <level>
+
+ADVANCE sets a character's level to the specified value.  It is the
+only way to create new immortal characters within the game.  ADVANCE
+may also be used to demote characters.
+
+This command is logged and only to be used with special approval.
+~
+
+0 AERIAL CASTING~
+Applied skill: 
+     Paladins [Level 1]
+     Anti-Paladins [Level 1]
+     Sorcerers [Level 1]
+     Clerics [Level 1]
+     Druids [Level 1]
+     Psionicists [Level 1]
+     Necromancers [Level 1]
+     Shamans [Level 1]
+     Rangers [Level 1]
+     Hunters [Level 1]
+
+Aerial casting is simply casting while flying above the ground.  It is 
+considerably more difficult to cast spells in the air.  It is a skill that
+only improves with use and level increases.
+
+See Also:  AERIAL COMBAT, SPELL FAILURE, CAST, SPELL SLOT, SPELL CIRCLES, 
+CASTER, MAGIC 
+~
+
+0 AERIAL COMBAT~
+Applied skill:  All classes
+
+Aerial combat is any fight above ground level.  This skill improves with 
+use and with level increases.  You cannot engage in aerial combat without
+flying.
+
+See Also:  AERIAL CASTING, SPELL FAILURE, CAST, SPELL SLOT, SPELL CIRCLES, 
+CASTER, MAGIC
+
+~
+0 AFK~
+Syntax: afk
+
+AFK notifies those on the mud that are you away from your keyboard.  It will
+toggle it between off and on states.  Your AFK status will show up next to
+your name on the WHO and in the room you are located in.
+~
+
+0 AGILITY~
+Attribute
+
+Agility is a measure of your overall coordination and quickness.  It
+represents your reflexes and balance.  It is the primary attribute for
+rogues, but other classes benefit from agility as well.
+
+Some races are more agile than others.  The small and quick halflings and
+drow elves are extremely agile, while ogres and centaurs are much less so
+because of their size and slow reflexes.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+0 ALERT~
+
+Syntax: alert
+
+Alert is used to bring yourself out of a deeply relaxed state.  Sometimes
+if you cannot move use alert to become unrelaxed.
+
+See Also:  STAND, SLEEP, RECLINE, SIT, REST
+~
+
+56 ALIAS UNALIAS~
+Syntax: alias <word> <substitution>
+Syntax: unalias <word>
+
+The ALIAS command allows limited shortening of command names.  Aliases can
+generate more than one command using the symbol ';'.
+
+ALIAS with no arguments lists your current aliases.
+
+'$' is a special symbol which means the argument of the command typed.
+~
+
+56 ALLOW BAN~
+Syntax: allow   <site>
+Syntax: ban     <site>
+Syntax: ban
+
+BAN <site> prohibits players from that site from logging in.  BAN with
+no arguments lists the banned sites.  ALLOW <site> removes a site from
+the ban list.
+
+The site ban test works by suffix comparison, so if you ban 'foo.edu',
+all sites within 'foo.edu' are banned as well.
+
+Site bans are not saved; every time the server is rebooted, the site
+ban list is cleared.  
+~
+
+0 AREAS~
+Syntax: areas
+
+AREAS shows you all of the areas in the game and includes information
+such as the author's name and the suggested levels players should be
+before exploring the zone.
+~
+
+0 'ARMOR CLASS'~
+Armor class, sometimes abbreviated as AC, is a value that represents how
+protected a character is.  Armor class is based on a scale from +100 to
+-100, with +100 being the worst possible armor (naked), while -100 is the
+best.
+
+Equipment can raise and lower your armor class.  The lower your AC, the
+harder it is to hit you.  The help entry for THAC0 (to-hit armor class
+zero) contains more information on the combat system and how armor class
+affects it.
+
+See also: THAC0
+~
+
+0 ARTIFACTS~
+
+Artifacts are weapons or items of immense power.  They are very hard to
+obtain and there is only one of the artifacts in the game....EVER.
+
+Artifacts must be on "primary" characters.  Since the issue of "primary"
+characters can get confusing, use your best judgement and/or ask the
+administrators.  If you have a character in a guild, that character is
+your primary, regardless of playtimes.
+
+A single character can only have one artifact.
+
+Artifacts must always be equipped or carried.  This means that you
+can't give an artifact to someone to 'protect' it, you shouldn't 
+drop and hide it to avoid losing it, etc.  About to get killed by
+a mob that might turn you into a dracolich and nuke all of your
+equipment? Bummer, you HAVE to keep that artifact with you.  The
+only way you should pass off an artifact that you are actively 
+using is when it is pried from your dead fingers.  If you acquire 
+an artifact that you are unable to use, yes, you an give it away
+to someone that can, but once you do, it is theirs to keep or
+lose.
+
+Even if you can't use an artifact (like goodies getting a shaman 
+artifact), it must be carried so that the other side has a chance
+to get it back.
+
+If the admin's feel the player holding an artifact isn't "active"
+enough, the artifact will be taken and put back to its original location.
+
+Artifacts are on a "random load" timer and do not load up every boot
+in zones.  This means that if an artifact is reset and put back in
+its home, it will not be there every boot.
+    
+If you are unsure if a piece of equipment is considered an artifact,
+ask.  For the most part any unique piece of equipment, including
+stuff from quests, is considered an artifact, even if it's not
+completely overpowering.
+
+&+YMORE INFORMATION ON INDIVIDUAL ARTIFACTS COMING SOON!!!
+
+See Also:  RULES
+~
+
+56 AT~
+Syntax: at <location> <command>
+
+AT executes the given command (which may have arguments) at the given
+location.  The location may be specified as a vnum, as the name of
+a mobile, or as the name of an object.
+
+AT works by temporarily moving you to that location, executing the
+command, and then moving you back (if the command didn't change your
+location).  Thus, AT will not work to private locations.
+~
+
+0 ATTRIBUTES~
+Syntax: attributes
+
+ATTRIBUTES will give you a list of information about your character,
+including level, race, class, age, height, weight, and your attribute
+scores.
+
+There are eight primary attributes:
+     Strength       Constitution        Agility        Dexterity
+     Intelligence   Wisdom              Charisma       Luck
+
+Each of these attributes can range from 0 to 100, with 0 being the worst
+and 100 the best.  However, please note that the 0 to 100 scale is based
+on the race of the character.  A score of 100 strength for an ogre is not
+the same as 100 strength for a gnome.  The ogre is still much more powerful.
+The score of 100 indicates that he is the best he can be for his race,
+while the gnome's score of 100 indicates that he is as strong as possible for
+a gnome.
+
+See also: SCORE
+~
+
+0 AUTO CONFIG~
+Syntax: auto
+Syntax: config
+Syntax: config +<option>
+Syntax: config -<option>
+
+AUTO shows the status of some of your character behavior options.
+
+The CONFIG command configures some of your character behavior.  With no
+options, CONFIG shows you your current settings (identical to the AUTO
+command).  With a plus or minus sign and an option, CONFIG turns that
+option on or off.
+
+The options are:
+
+    EDITINFO  You see extra info on rooms (IMMORTAL ONLY).
+    AUTOEXIT  You automatically see exits.
+    BLANK     You have a blank line before your prompt.
+    BRIEF     You see brief descriptions only.
+    COLOUR    You see ANSI coloured text.
+    COMBINE   You see object lists in combined format.
+    PROMPT    You have a prompt.
+    TELNETGA  You receive a telnet GA sequence.
+
+You can also type AUTOEXIT, BLANK, BRIEF, COLOUR, or COMBINE directly from
+the prompt to toggle the status of these options.  See the helps for these
+commands.
+~
+
+0 AUTOEXIT~
+Syntax: autoexit
+
+AUTOEXIT toggles your ability to automatically see exits as you enter
+a room.
+
+See CONFIG to find out which toggle is on and which is off.
+~
+
+0 BACKSTAB BS~
+Applied skill
+     Assassin [Level 1]
+     Bard [Level 1]
+     Mercenary [Level 1]
+     Thief [Level 1]
+
+Syntax: backstab <target>
+Aggressive: yes
+
+A backstab is an attempt to sneak up on a victim and place a weapon in a
+critical spot in his back, doing more damage than a normal attack.  The
+success of the backstab is dependant on the skill of the person attempting
+to stab the target.
+
+Only piercing weapons can be used to backstab.  Assassins and rogues with
+good enough skills in backstabbing and dual wielding weapons can
+double-backstab if they are wielding two piercing weapons.
+
+You cannot backstab a target while in combat.  Backstabbing is an aggressive
+action.
+
+See also: CIRCLE, DUAL WIELD
+~
+
+56 BAMFIN BAMFOUT~
+Syntax: bamfin
+Syntax: bamfin  <message>
+Syntax: bamfout
+Syntax: bamfout <message>
+
+The standard messages for GOTO are 'arrives in a swirling mist' and
+'leaves in a swirling mist'.  You can replace these messages with messages of
+your own choosing using the BAMFIN and BAMFOUT commands.  Without arguments,
+these reset the messages to their defaults.
+~
+
+0 BANDAGE~
+
+Applied Skill:  All classes
+Syntax: Bandage <target>
+
+Bandage can be used by any player to try help repair an incapacitated player
+or mob.  The command must have a target and it can be stacked.  A typical
+bandage will help the incapacitated target regain a few hit points or it may
+further hurt the target.  Once the targets hit points returns to above zero,
+bandage will no longer help them.
+
+See Also:  FIRSTAID, REGENERATION
+~
+
+0 BASH~
+Applied skill
+     Warrior [Level 1]
+     Paladin [Level 1]
+     Anti-Paladin [Level 1]
+     Berserker [Level 1]
+     Mercenaries [Level 1]
+     Rangers [Level 1]
+     Hunters [Level 1]
+     
+Syntax:  bash <target>
+Aggressive: yes
+
+Bashing is a skill used to knock another player or mob down.  It is most
+effective while the person trying to bash is wearing a shield.  Bashing is
+a very level dependant skill.  For example:  A level 56 player will hit bash
+a lot more frequently than a level 1 player.  Missing a bash will send you
+toppling to the ground where you will take extra damage.
+
+Size does matter!  A basher can only bash opponents of the same or one size
+smaller size.
+
+Note:  Paladins and Anti-Paladins can bash effectively without a shield.
+
+SEE ALSO: BODYSLAM
+~
+
+0 BERSERK~
+Applied or reflexive skill
+     Berserker [Level 1]
+     Warrior [Level 1]
+
+Syntax: berserk
+Aggressive: no
+
+Berserk represents a massive adrenaline rush and an almost mindless rage
+and need to kill.  Berserking causes a person to ignore his personal safety
+and that of his friends in his lust for blood.
+
+When berserked, the strength and constitution of the player go up, but
+dexterity, agility, intelligence, and wisdom all drop.  The player will do
+more damage and have more health, but will be easier to hit as well.  When
+the effect wears off, the player will return to his normal stats.  If the
+drop in hit points because of the player's constitution takes his total to
+less than 0, he will die.
+
+You cannot cast spells, flee, or perform many other actions while berserked.
+While berserk, you may attack friends because of the blinding rage you are
+engulfed in.
+
+You can attempt to start/stop a berserk rage by typing 'berserk'.  Your level
+and skill will determine the success of your attempt.
+
+See also: BERSERKER
+~
+
+0 BLANK~
+Syntax: blank
+
+BLANK toggles existance of a blank before your prompt.
+
+See CONFIG to find out which toggle is on and which is off.
+~
+
+0 BODYSLAM~
+Innate skill for the larger races only! 
+     Ogres, Trolls,  Barbarians and Centaurs
+
+NOTE:   Bodyslam can only be applied by Warriors and Mercenaries.
+
+Syntax:  bodyslam
+
+Bodyslam is a powerful action used only while a player is not engaged in
+battle.  A successful bodyslam will knock its target to the ground and
+stun them for a brief period of time.  If you miss a bodyslam you will
+fall to the ground in the reclined position and be stunned.  While 
+reclined a player will take a great amount of damage.
+
+One cannot bodyslam while engaged.  The action becomes easier with higher
+levels.
+
+See Also:  BASH
+
+~
+0 BRIEF~
+Syntax: brief
+
+BRIEF toggles whether or not you automatically see verbose descriptions
+of rooms when you enter them.
+
+See CONFIG to find out which toggle is on and which is off.
+~
+
+0 BUG IDEA TYPO~
+Syntax: bug <message>
+Syntax: idea <message>
+Syntax: typo <message>
+
+These three commands will take a message and record it into a file, so the
+administrative staff can use your feedback to improve the game.
+
+If you encounter a bug that is critical to the game (such as the game
+crashing every time you try to use a specific item), let the administrators
+know immediately by using the PETITION command.
+
+See also: PETITION
+~
+
+0 BUY~
+Syntax: buy [quantity] <object> [shopkeeper]
+
+BUY will allow you to try and purchase an item from a shopkeeper.  If no
+quantity is given, the mud will assume you would like to buy one item. 
+If no shopkeeper is given, the first shopkeeper in the room will be chosen.
+
+BUY, as well as most object manipulation commands, allows the use of the
+#.object format, where # is a number or the word "all".  This allows a player
+to choose a specific item from a group of items with the same keywords.
+
+For example, if the command "LIST DAGGER" showed you that a shopkeeper had
+five daggers, you could type "BUY 3.DAGGER".
+
+Make sure you include the period between the number of the item and the name.
+If you used a space in the above example instead of a period, you would
+attempt to buy three daggers, not the third dagger.
+
+Prices in shops can be affected by a player's charisma.
+
+See also: SELL, LIST, VALUE, MONEY, SHOPS
+~
+
+0 CAMP~
+Syntax: camp
+
+CAMPing allows you to exit the game while in the wilderness, away from the
+friendly confines of an inn.  Camping requires a certain amount of time
+before it can be done.  During this time while you are setting up your camp,
+you can not leave the room or enter combat.  You will enter the game at the
+same spot where you camped.
+
+If you go linkdead while camping, the camping timer will stop.
+
+See also: RENT, QUIT
+~
+
+0 CARVE~
+Applied Skill:  All classes
+Syntax:  carve <name of corpse> <body part>
+
+NOTE:  Carving requires that you are wielding a dagger.
+
+Carving can be done on other players corpses.  After the player is dead
+you can carve many different pieces from the corpse.  To find out what
+body parts remain in the corpse type, carve <corpse name>.  To then carve
+one of the parts out of the corpse use the syntax listed above.  You can
+then even wear some of the body parts.
+~
+
+0 CAST~
+Syntax: cast <spell> [target|object]
+Syntax: cast '<spell>' [target|object]
+
+CAST is a command used to call upon the forces of magic to perform some task
+for the player.
+
+The spell being cast must be in the caster's memory.  Magic users must
+memorize their spells from spellbooks using the MEMORIZE command, while
+priests use the PRAY command and do not need spellbooks.
+
+If the spell name is more than one word, you must enclose it in a single
+quote.  For example: cast 'cure light wounds' Ski, where Ski is the target
+of the spell.  Quoting is optional for single-word spells.
+
+You can also abbreviate spell names.  You must type in a minimum amount of
+letters to make the spell "unique", so the mud knows which spell you mean.
+For example, cast 'cure' Ski would not work for casting cure light wounds,
+because there are multiple cure spells.  Typing cast 'cure l' Ski would,
+since the other cure spells do not include the letter l.
+
+Many spells require a target.  That target can be a player or an object.
+If a spellcaster is casting a spell on himself, he can simply use "me" or
+"self" as the target.  
+
+If a spellcaster is casting an offensive spell while in combat, and the
+target is the enemy the spellcaster is fighting, the spell will be
+automatically directed at the enemy if no target is given.
+
+CAST allows the use of the #.target format, where # is a number.  This
+allows a player to choose a specific target from a group of players, mobs,
+or items with the same keywords.
+
+For example, if there were four demons in a room and the spellcaster wanted
+to cast a fireball on the third one, he would type:
+
+     cast 'fireball' 3.demon
+
+Make sure you include the period between the number of the target and the
+name.  If you used a space in the above example instead of a period, the
+spell wouldn't work because it would attempt to cast the spell "3", which
+obviously doesn't exist. 
+
+There is help available for each individual spell.  The command "SPELLS"
+will give a player a list of all spells he can obtain.  "help <class> spells"
+will bring up a list of all the spells available to the desired class.  
+
+See also: MAGIC, MEMORIZE, PRAY, CASTER, SPELLS, SPELL FAILURE, SPELL SLOT,
+          SPELL CIRCLES, the invididual spell help files, the individual class
+          spell help files
+~
+0 CASTER~
+
+A caster is a magic users who is either casting or capable of casting spells.
+
+See Also: SPELL FAILURE, CAST, SPELL SLOT, SPELL CIRCLES, MAGIC
+~
+0 CHANNEL CHANNELS~
+Syntax: channels
+Syntax: channels +<channel>
+Syntax: channels -<channel>
+
+With no options, CHANNELS shows you your current channels.  With a plus or
+minus sign and an option, CHANNELS turns that channel on or off.
+~
+
+0 COLOUR COLOR ANSI~
+Syntax: colour    Toggles colour mode on/off
+
+&+WThe Book of Basternae Ansi Codes&n
+
+First things first.  The main thing to understand when using our version of
+ansi color is:  you can SET things, or CLEAR ALL (back to white on black), but
+you cannot just turn off bold, or blink.
+
+There are 4 types of ansi control sequences:
+&<N>|<n> -   reset everything, back to 'n'ormal (white on black).  This is also
+             done for every newline, to eliminate 'bleed-through' colors.
+& + <color> -  set foreground color.  If the color letter is uppercase,the BOLD
+             (bright/light) bit is also set (and will STAY set) until either
+             a newline, or &<N> is done.
+& - <color> -  set background color.  If the color letter is uppercase,the BLINK
+             bit will be set (same as for &+ above).
+&=<bg><fg> - set both background <bg> and foreground <fg> color, exactly
+the
+             same restrictions as for setting foreground and background
+             seperately.
+
+w - &+Wwh&n&+wite&n    l - &+Lblack   &n r - &+Rr&n&+red &n   b - &+Bbl&n&+bue &ng - &+Ggr&n&+geen
+&ny - &+Yye&n&+yllow &n  c - &+Ccy&n&+can    &n m - &+Mma&n&+mgenta&n
+(+w is normal text, +W is bold text)&n
+~
+
+0 CHARISMA~
+Attribute
+
+Charisma is a combination of appearance and personality.  Charisma is the
+mark of leaders and entertainers, and it is the primary attribute for bards.
+Charisma can affect how monsters perceive you, and can affect things such as
+shop prices.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+0 COMBINE~
+Syntax: combine
+
+COMBINE toggles your seeing combined format of identical items in the room.
+
+See CONFIG to find out which toggle is on and which is off.
+~
+
+0 COMMANDS~
+Syntax: commands
+
+COMMANDS shows you all of the commands (except socials) available to you.
+
+See also: SOCIALS
+~
+
+0 COMPARE~
+Syntax: compare <object1> [object2]
+
+COMPARE compares two objects in your inventory or equipment list.  If both
+objects are weapons, it will report the one with the better average damage.
+If both objects are armor, it will report the one with the higher armor class.
+
+COMPARE doesn't take into account any special affects on objects, so it can't
+be considered an accurate measure of the power of an object.
+
+COMPARE with one object compares an object in your inventory to the object you
+are currently wearing or equipping of that same type.  It only compares against
+the first item it finds, so if you are wielding two swords, it would only
+compare against the first one.
+~
+
+0 'COMPLAINT FORM'~
+
+Because of the amount of complaints we have been getting about our game
+recently, the staff of Basternae has decided to make the job of the
+players (which is to complain, of course) at bit easier.  The following
+form should speed up the response time of the Basternae staff, ensuring
+that we are able to give in to every whim of the players in a timely and
+efficient manner.
+
+Please bear with us, however, if we still seem a bit slow in changing the
+mud code after you submit this form.  The sheer amount of people who know
+more than the admins of Basternae is simply amazing, and we are constantly
+struggling to keep up with the tide of mistakes and errors that we have
+made up to this point in time.
+
+Make sure you fill out the complaint form fully.  If you see multiple
+options in parenthesis, such as (one/two/three), please only choose one.
+If you see ____ lines in front of a list of options, choose as many as you
+like, unless the form tells you specifically to do otherwise.
+
+---------
+
+Dear (sirs/admins of Basternae/bastards/assholes),
+
+I would like to file a (complaint/complaint/big complaint) about your mud,
+Basternae: Phoenix Rising.  
+
+I think ____________________________ (insert race/class here) is horribly
+underpowered.  I mean, come ON!  They don't even get (triple 
+attack/quadruple attack/deathfield/all of the above).  All of the other
+(classes/races) are so much better than ________________________ (insert
+race/class here) that it's not even fun to play anymore.  At the minimum,
+you should give them ___________________ (insert new ability here), and
+the following:
+     ___ judgement
+     ___ major para
+     ___ biofeedback
+     ___ instant-kill
+     ___ dragon breath
+     ___ other _______________________
+
+(Goodies/evils) are also so much more powerful than my side of racewars, I
+don't see how we can even play.  You gods are so biased for
+(goodies/evils)!  Why do (goodies/evils) have _____________________ (insert
+race/class/ability) here and we don't?
+
+I have been playing this game since (you opened/Duris/pre-wipe Duris/beta 
+Duris) so I know what I'm talking about.  I could run this mud
+(10/100/1000/a jillion) times better than you guys.
+
+So, in conclusion, you are the most (moronic/stupid/grossly incompetent)
+(buffoons/jerks/spawns of Satan) to ever run a mud.  Maybe you gods should
+stop (cheating/lying/performing lewd acts with your sister) and start
+running a decent mud for a change.
+
+(Yours truly/Bite me whores/Go to hell and die/Love),
+______________________________ (insert your name here)
+~
+
+0 CONSENT~
+Syntax: consent [character|who]
+
+Certain actions require consent between one player and another to be
+performed.  You agree to allow the other player to perform an action on
+you by giving them your consent.
+
+An example of actions that require consent are:
+     Joining a group
+     Having the resurrect spell cast on a corpse
+
+You can only consent one person at a time.  You can change it as often as
+you wish.  You do not have to be consented to the group leader to stay in
+the group, for example.
+
+You must be able to see the person you want to consent.
+
+Typing CONSENT with no arguments will revoke your consent.
+
+Typing CONSENT WHO will list the people who are consented to you.
+
+See also: GROUP
+~
+
+0 CONSIDER~
+Syntax: consider <target>
+
+CONSIDER will compare your level and experience with that of the target and
+give you a rough estimate of your chances of winning in a fight.
+
+CONSIDER is not accurate for higher level mobs, since it requires a group
+of people working together to slay more powerful beasts.
+
+For example, a level 8 player who considers a level 8 mob to find it's the
+same level has a good chance of winning.  A level 50 player who considers a
+level 50 to find it's the same level has little chance of winning the fight
+alone.
+~
+
+0 CONSTITUTION~
+Attribute
+
+Constitution represents your health and well-being, how fit you are and how
+much pain you gain resist.  Constitution is important for all classes, since
+it affects how many hit points you gain per level.  
+
+Some stouter races, such as ogres and centaurs, have much higher levels of
+constitution than frailer races such as drow elves or grey elves.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+0 CREDITS~
+		
+See also: AREAS AREA
+~
+
+0 DAMAGE~
+When a character attacks another player or a mob, the amount of damage an
+attack does can vary.  The amount of damage done isn't given as an exact
+amount, but the verb used in the damage message can give you a good idea
+of how much damage was done.
+
+For example, a slash that was described as "devastating" would do more
+damage than one that "scratches".
+~
+
+0 DEATH CORPSE DYING~
+When you die, you re-enter the game at either your birthplace (where you
+started the game) or if you are a member of a guild, you can choose to
+respawn at a room inside your guildhall.
+
+You can retrieve your corpse by traveling to where you died and getting the
+items from inside, assuming someone else hasn't taken your stuff.
+
+Each time you die, you lose a percentage of the experience points you have
+gained.  You can lose levels from dying if you lose enough experience to
+take you below the requirement for your current level.  However, if you die
+and get resurrected (via the spell), you will gain back most of the
+experience you lost because of the death.
+
+Corpses will decay over time.  If a corpse decays, the items contained
+within will be left in the room.
+
+See also: RESURRECT, EXPERIENCE
+~
+
+56 DENY~
+Syntax: deny <character>
+
+DENY denies access to a particular player and throws them out of the game.
+DENY is permanent (persists across reboots) and is not undoable from within the
+game.  Only someone with access to the player files directory may repeal a
+DENY by editing the appropriate player file.
+~
+
+0 DESCRIPTION~
+Syntax: description <string>
+Syntax: description + <string>
+
+Sets your long description to the given string.  If the description string
+starts with a '+', the part after the '+' is appended to your current
+description, so that you can make multi-line descriptions.
+~
+
+0 DEXTERITY~
+Attribute
+
+Dexterity is a measure of deftness and coordination.  It is the primary
+attribute of rogues, and is beneficial to other classes as well.
+
+Some races are naturally more dextrous than others.  Halflings are renown
+for their dexterity, while ogres are ridiculed for their lack of it.
+
+Dexterity is also a spell.
+Spell
+     Enchanter [3rd Circle]
+     Sorcerer [3rd Circle]
+
+Area of Effect: <target>
+Aggressive:     No
+Cumulative:     Yes
+Duration:       Dependant on proficiency of the caster
+Type of Spell:  Enchantment
+
+This spell will cause the target's dexterity to increase slightly for a
+short period of time.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+
+-1 DIKU~
+&+m   CREDITS CREDITS CREDITS!&n
+                          ------------------------
+      Please note that the zone designers here are responsible for the
+      original submission of these zones.  The zones may have been altered
+      from their original form by current, or previous gods of The Realm!
+
+  &+rCredits regarding Duris:&n
+	Duris's custom DE zone editor: Tavril
+
+  &+rCredits regarding the Original Basternae:&n
+	Gods of Basternae: Xueqin, Timken, Taran, Ski, Ciannech, Thendar 
+	Basternae Code: Timken, Taran, Ciannech
+	Zone Administration: Xueqin
+	Help files and other documentation: Ski
+	Additional zone support: Thendar
+		
+ &+r Credits regarding Basternae2:&n
+	Gods of Basternae 2: Veygoth, Thendar, Ski, Xueqin, Lohrr, Govno,
+		Timken.
+	Head of Magma Code: Veygoth (veygoth@stax.net)
+	Additional Code Support: Lohrr, Govno, Xueqin, Sniktiorg
+	Help files and other documention: Ski (ski@idleminds.org)
+	Socials: Trika
+	Proofreading and data entry: Pesto
+
+	Our Pre-Alpha testing player team:
+		Pesto, Alachest, Sniktiorg, Dubar, Sarlac, Kuldrim, Riol,
+		Kalzix, Enthnal, Sorath, Neva, Malthrix, Ysidra, Nauraki,
+		Tholrin, Threnody, Vartek.
+
+--------------------------------------------------------------------------		
+&+rThe legal crud we have to add:&n
+
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+                     Additional contributions from:
+
+Michael Curran  - the player title collection and additional locations.
+Ragnar Loenn    - the bulletin board.
+Bill Wisner     - for being the first to successfully port the game,
+                  uncovering several old bugs, uh, inconsistencies,
+                  in the process.
+
+And: Mads Haar and Stephan Dahl for additional locations.
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+~
+
+0 DIRT TOSS~
+Applied Skill:
+     Thieves [Level 1]
+     Assassins [Level 1]
+Aggressive: Yes
+Syntax:  dirt <target>
+
+Dirt toss is used by the shady thieves and assassins of Basternae.
+They quickly throw dirt into their opponents eyes.  There is a chance
+that the target may become blinded for a duration of time.
+
+See Also: ASSASSIN SKILLS, THIEF SKILLS, TRIP
+~
+
+56 DISCONNECT~
+Syntax: disconnect <character>
+
+DISCONNECT <character> immediately disconnects that character.
+~
+
+0 DOORBASH DOORKICK~
+Innate ability
+     Ogre
+     Centaur
+     Troll
+
+Syntax: doorbash <direction>
+Syntax: doorkick <direction>
+
+Aggressive: No
+
+This ability lets you try and use your weight to break a door.  If you are
+using doorbash, you will attempt to charge into the room after you bash it
+down, which could be dangerous if something awaits you on the other side.
+
+Kicking the door down is safer, and doesn't cause you to enter the room on
+the other side.
+
+Some doors are unbashable.
+
+See also: PICK LOCKS, OPEN, CLOSE, LOCK, UNLOCK
+~
+
+0 DRINK EAT FILL~
+Syntax: drink <object>
+Syntax: eat <object>
+Syntax: fill <object1> <object2>
+
+When you are thirsty, DRINK will drink from either an object in your
+inventory or in the room you are in.
+
+When you are hungry, EAT will eat something from your inventory.
+
+FILL will fill one object with the liquid inside a second object.
+Usually the first object is in your inventory, while the second is
+located in the room, such as a fountain or spring.
+
+If you get hungry or thirsty, you will be unable to rest and memorize 
+or pray for spells.  You also will not regenerate hit points, movement,
+or mana while hungry and/or thirsty.  Eventually, you will start losing
+hit points due to starvation or thirst.
+~
+
+0 DUAL WIELD~
+Fighter skill
+
+Only classes that fall under the classification of fighter can wield two
+weapons at once.  Dual wielding weapons can help increase the amount of
+damage a player can inflict.  The skill increases with levels and with the
+use of two weapons in battle.
+
+See Also:  OFFENSE, RIPOSTE, PARRY
+~
+
+0 FRAG~
+
+A frag is a point given to a player when they kill another player who is above
+level 20.  If a player is above level 20 and is killed by another player they
+receive a -1 Frag.  
+
+See Also:  FRAGLIST, PKILL
+~
+
+0 FRAGLIST~
+
+Syntax:  Frag
+
+The fraglist is the list of the top fraggers on Basternae.  By typing "frag"
+the fraglist will come up and list several different categories of fraggers.
+
+See Also:  FRAG, PKILL
+~
+
+0 DROP~
+Syntax: drop <object>
+Syntax: drop <amount> <coin type>
+Syntax: drop all
+
+DROP will drop an item or a number of coins.  DROP ALL will drop all
+items current in your inventory, but will not drop coins or equipped items.
+
+DROP, as well as most object manipulation commands, allows the use of the
+#.object format, where # is a number or the word "all".  This allows a
+player to choose a specific item from a group of items with the same keywords.
+
+For example, if you had 2 swords and wanted to drop the second one, you
+would type:
+
+     drop 2.sword
+
+Make sure you include the period between the number of the item and the
+name.  If you used a space in the above example instead of a period, you
+would attempt to drop an item with the keyword "2".
+
+See also: GET, GIVE, PUT
+~
+
+56 ECHO RECHO~
+Syntax: echo <message>
+Syntax: recho <message>
+
+ECHO sends a message to all players in the game, without any prefix
+indicating who sent it.
+
+RECHO sends a message to all players in your room, without any prefix
+indicating who sent it.
+~
+
+0 EMOTE , POSE~
+Syntax: emote <action>
+Syntax: pose
+
+EMOTE is used to express emotions or actions.  ',' is a synonym for EMOTE.
+
+POSE is a class-dependant version of EMOTE.
+
+EMOTE and POSE are very similar in concept to socials, and are mostly used
+when an appropriate social doesn't exist.
+
+See also: SOCIALS
+~
+
+-1 ENVY~
+[Note: this entry may not be removed or altered or you will face legal
+ action.  See our 'license.nvy'.]
+This mud is based on EnvyMud 2.2, created by the EnvyMud Staff.  EnvyMud
+is based on Envy 2.0, created by Kahn, Thelonius, Kith, and Hatchet.
+Envy 2.2 is available as Envy_22.tar.gz from ftp.envy.com,
+ftp.solace.mh.se, ftp.tem.nctu.edu.tw, ftp.game.org, and
+ftp.goodnet.com under /pub/mud/servers.  The file is about 963835
+bytes long.  E-mail to 'merc-l-request@webnexus.com' to join the merc
+mailing list.
+
+Thanks to ...
+  ... Zrin for administering the mailing list.
+  ... the many implementors and contributors on the merc mailing list
+
+  ... D'Sai, Elwyn, Averon, Fusion, Canth, Maniac, Vego, Rassilon,
+      Cyanide, Judson Knott, LordROM, Kenneth Dugas, JKallie, Erwin A.,
+      Derek Snider, Picard, Evii, Mystro, Dave Kaupp, JohnPaul, Zeke.
+  ... AND the many players of EnvyMud for which this mud was created.
+
+Share and enjoy.
+The EnvyMud Staff
+~
+
+0 EQUIPMENT EQ~
+Syntax: equipment
+
+EQUIPMENT or EQ will allow you to view everything you are wearing or
+carrying in your hands and the locations where they are.  For example:
+
+<worn on head>      a crown of jewels
+<wielded>           the black sword 'Doom of the Elders'
+<worn on feet>      a pair of ugly leather sandals
+
+See also: WEAR, WIELD, HOLD, REMOVE, INVENTORY, EQUIPMENT SLOTS
+~
+
+0 'EQUIPMENT SLOTS'~
+You can only wear or carry so much before you run out of room on your body
+to place things and hands to hold things in.  You are limited to a number
+of "slots", where things can be equipped.  The following is a list of
+available equipment slots for most races:
+
+Head, eyes, ear (x2), neck (x2), face, on body, about body, on back, on arms,
+on hands, on finger (x2), on wrist (x2), on legs, on feet, attached to
+belt (x3), held/wielded/used as shield (x2).
+
+*Centaurs have a unique body shape and may wear certain equipment on the tail
+and on the horses body. As these items are specifically made for Centaurs,
+other race will not be able to wear them.*
+
+Items can only be worn in certain slots.
+
+Some weapons are two-handed, and require both two hands to wield for most
+races (although some strong beings can carry two-handed weapons in one hand).
+
+See also: EQUIPMENT, INVENTORY, WEAR, WIELD, HOLD, REMOVE
+~
+
+0 EXAMINE~
+Syntax: examine <object|corpse|target>
+
+EXAMINE can give you detailed information about an item, corpse, or player.
+Using EXAMINE on a container or corpse will also give you a list of
+everything contained inside, if it is open.
+
+See also: LOOK
+~
+
+0 EXIT EXITS~
+Syntax: exits
+
+EXITS will tell you all the visible exits from the room you are in.  Not
+all exits are visible, however.  Some are obscure and hidden, and must be
+found using the SEARCH command.
+
+If you have AUTOEXIT toggled on, you will automatically see the visible
+exits when you walk into a room.
+
+Note that even if an exit is visible, other things could block passage,
+such as walls, portals, and so on.
+
+See also: AUTOEXIT, SEARCH
+~
+
+0 EXPERIENCE XP LEVELS EXP~
+Experience points, or EXP, indicate how skillful and experienced you have
+become.  You gain power by gaining levels.  Each level will give you
+additional health points, and sometimes additional skills, spells, and
+abilities.
+
+You gain experience by doing the following:
+     Killing a player (from the opposite side of the racewars) or a monster,
+       or being in a group that kills a player or monster.
+     Directly damaging a player or monster with an attack or spell.
+     Healing a "tank" in your group.
+
+You will gain additional experience for killing something that is a higher
+level than yourself.  Killing things that are lower in level will result
+in less experience.  Killing things while in a group will reduce the amount
+of experience you gain, because it is split between group members (with higher
+level characters receiving a larger share of the experience, to partially
+prevent "power-leveling".
+
+You will lose experience when you die.
+
+See also: GROUP, TROPHY, DEATH
+~
+
+0 FIRST AID FIRSTAID~
+
+Applied skill:  All classes
+Syntax: firstaid, first aid
+
+First aid is used on ones self to grain an small amount of hit points.  The
+skill can only be used once a day.
+
+See Also:  BANDAGE, REGENERATION
+~
+
+0 FLEE~
+Syntax: flee
+
+You cannot simply walk away from a fight once you're involved in it.
+Instead, you must attempt to FLEE.  If successful, you will run away in a
+random direction.  If there are no exits out, you will automatically fail
+in your attempt to flee.
+
+See also: DISENGAGE
+~
+
+0 FOLLOW~
+Syntax: follow <character|me>
+
+Follow will cause you to start following another character.  The character
+must be in the same room as you when you issue the command and you must be
+able to see that character.  To stop following someone else, simply type
+'follow me' or 'follow self'.
+
+See also: GROUP
+~
+
+56 FORCE~
+Syntax: force <character> <command>
+Syntax: force all <command>
+
+FORCE forces one character to execute a command.
+
+FORCE 'all' forces all player characters to execute a command.
+This is typically used for 'force all save'.
+~
+
+56 FREEZE~
+Syntax: freeze <character>
+
+FREEZE <character> is a toggle which prevents a character from issuing any
+commands at all.
+~
+
+0 GET TAKE~
+Syntax: get <object|all> [container]
+Syntax: take <object> [container]
+Syntax: get
+
+GET will get an object.  If no container is specified, you will try to get
+something from the room you are in.  GET ALL will attempt to grab everything
+from the container or room.
+
+TAKE is a synonym for GET.
+
+GET, as well as most object manipulation commands, allows the use of the
+#.object format, where # is a number or the word "all".  This allows a
+player to choose a specific item from a group of items with the same keywords.
+
+For example, if you had 2 swords in a backpack and wanted to get the second
+one, you would type:
+
+     get 2.sword backpack
+
+Make sure you include the period between the number of the item and the name.
+If you used a space in the above example instead of a period, you would
+attempt to get an item with the keyword "2".
+
+A container can be something in your inventory or the room you are in.
+Corpses are considered containers for the purposes of using GET to loot
+dead players or creatures.
+
+See also: DROP, GIVE, PUT
+~
+
+0 GIVE~
+Syntax: give <object> <target>
+Syntax: give <amount> <coin type> <target>
+
+GIVE will give an object to a target, either a mob or another player.
+
+Giving a player or mob extremely heavy objects or large amounts of coins or
+anything that would overload a player requires the target's consent.
+
+GIVE, as well as most object manipulation commands, allows the use of the
+#.object format, where # is a number or the word "all".  This allows a
+player to choose a specific item from a group of items with the same keywords.
+
+For example, if you had 2 spellbooks and wanted to give the second one to Ski,
+you would type:
+
+     give 2.spellbook Ski
+
+Make sure you include the period between the number of the item and the name.
+If you used a space in the above example instead of a period, you would
+attempt to give the invalid target "spellbook" an item with the keyword "2".
+
+See also: GET, DROP, PUT, CONSENT, MONEY
+~
+
+0 GODS GOD~
+
+Gods are the immortals of the game.  They are the implementers and 
+administrators of Basternae.  They should be given the utmost respect
+when you are talking to them whether through tells or petitions.
+
+If you disrespect a God too much you can face dire consequences.  Remember
+that they are real people behind the screens and keyboards.  Please
+talk to them like you would your boss.
+
+See Also: CREDITS, PETITION
+~
+
+56 GOTO~
+Syntax: goto <location>
+
+GOTO takes you to a location.  The location may be specified as a vnum,
+as the name of a mobile, or as the name of an object.
+
+You may not GOTO a room if it is PRIVATE and has two (or more) characters
+already present, or if it is SOLITARY and has one (or more) characters
+already present.
+~
+
+0 GROUP~
+Syntax: group [target]
+
+Players can form a group that shares experience when they kill a character
+or monster.  This experience is only shared among the people that are in
+the room when the monster or character is killed.  Sharing occurs regardless
+of whether all party members were directly involved in the fight or not.
+
+To create a group, players must give CONSENT to the character who will be
+the leader.  After he has consent, the leader can group the other characters.
+You must be in the same room as the group leader to be grouped.
+
+To kick someone out of a group, a leader can type GROUP <player> again.  To
+leave a group, type GROUP ME.
+
+Typing group with no argument will show a list of everyone in the group along
+with how many hit points, movement points, and mana points they have.
+
+You may group pets who are following you.
+
+The SPLIT command will split some amount of money between all members of the
+group.
+
+See also: GSAY, GTELL, FOLLOW, SPLIT, CONSENT
+~
+
+0 GSAY GTELL~
+Syntax: gsay <message>
+Syntax: gtell <message>
+
+GSAY will send a message to everyone in your group, wherever they are.  GTELL
+is the same as GSAY.  You can use a ';' as a shorter abbreviation for GSAY.
+
+See also: GROUP, CONSENT, SAY, TELL
+~
+
+0 GUARD~
+
+Applied skill:
+     Warriors [Level 20]
+Syntax:  guard <target>
+
+The Guard skill is used by warriors to provide an added level of protection
+to another player.  The guard skill will allow the warrior to intercept an 
+attack from an opponent.  The guard skill is a level based skill that can and
+will fail.
+
+See Also:  RESCUE
+~
+
+0 HEADBUTT~
+Applied Skill:
+     Mercenary [Level 1]
+Syntax:  headbutt <target>
+Aggressive:  Yes
+
+Mercenaries are masters of the headbutting skill.  Heabutt is used to
+strike an opponent in the head with ones own head.  Headbutt causes 
+damage to the target.  The skill also has a chance of either knocking
+the target out or knocking the player trying to headbutt.  
+
+NOTE:  If you or your opponent get knocked unconcious, you will be 
+totally vulnerable to anyone!  
+
+See Also:  BASH, MERCENARY SKILLS, KICK
+~
+
+0 HELP~
+Syntax: help [keyword]
+
+HELP without any arguments shows a one-page command summary.
+
+HELP followed by a keyword will attempt to show you the help file related
+to that keyword.
+
+HELP INDEX is a complete list of all information contained in the help files.
+~
+
+0 HIDE~
+Applied Skill
+     Assassin [Level 1]
+     Bard [Level 1]
+     Mercenary [Level 1]
+     Thief [Level 1]
+
+Syntax: hide
+
+Aggressive: No
+
+Hide will attempt to conceal your character from the rest of the people in a
+room.  There is a chance you will fail, based on your skill level.  A player
+attempting to hide will not know if he has hidden or not.  There is no
+failure or success message.
+
+If you are hiding, you can only be sensed by the "sense life" spell.
+
+Almost any command will bring you out of hiding.  The effect of being hidden
+will also wear off over time.
+~
+
+0 HISTORY~
+Syntax: history
+
+Use this command to see the history list.
+
+See also: {o{wEVENT DESIGNATORS{x
+~
+
+0 HOLD REMOVE WEAR WIELD~
+Syntax: hold <object>
+Syntax: wear <object> [location]
+Syntax: wear all
+Syntax: wield <object>
+Syntax: remove <object>
+Syntax: remove all
+
+HOLD will allow you to take a piece of equipment from your inventory and hold
+it in one of your hands.  It is normally used for light sources, wands,
+staves, and the like.
+
+WEAR is used for armor and clothing, and if there is no location specified,
+the item will attempt to be worn on the first available slot that the object
+can be worn on.  If an object can be worn in multiple possible inventory
+slots (like a ring that can be worn on your ear and on your finger), you
+can specify which inventory slot should be used.  WEAR ALL will attempt to
+wear everything that is currently in your inventory.
+
+WIELD is used for weapons.
+
+REMOVE will take any object you are holding, wearing, or wielding and put 
+it back in your inventory.  REMOVE ALL will attempt to remove everything you
+have equipped and move it into your inventory.  You can only hold so much in
+your inventory at one time.
+
+These commands, as well as most object manipulation commands, allow the
+use of the #.object format, where # is a number or the word "all".  This
+allows a player to choose a specific item from a group of items with the
+same keywords.
+
+For example, if you had 2 spellbooks and wanted to hold the second one, you
+would type:
+
+     hold 2.spellbook
+
+See also: INVENTORY, EQUIPMENT, EQUIPMENT SLOTS
+~
+
+56 HOLYLIGHT WIZINVIS~
+Syntax: holylight
+Syntax: wizinvis
+
+HOLYLIGHT is a toggle that allows you to see (almost) every character and
+mobile in the game.  With holy light, you can see what's in the game more
+easily.  Without holy light, you can see what mortal players see.
+
+WIZINVIS is a toggle which makes you completely invisible to all player
+characters of lower level than you, and to all mobiles.
+
+HOLYLIGHT will not allow you to see immortal WIZINVIS characters who are
+higher level than you.
+~
+
+0 HOMETOWN~
+
+Hometowns are zones in which players are first "born" into the world.
+Hometowns are places of great trade of many kinds, where there are 
+often shops, banks and inns.  Hometowns are usually guarded by strong
+warriors to ensure the relative safety of the inhabitants.  
+
+NOTE:  Goodie hometowns are considerably safer than Evil hometowns.
+
+See Also:  ZONES, CREDITS
+~
+
+0 HUNGER HUNGRY~
+
+When a player is hungry they must eat some food.  If one neglects 
+eating for too long they will regenerate movement and hit points at
+a very slower pace.  In extreme conditions of hunger a player will 
+lose hit points and could even lead to death.
+
+See Also:  REGENERATION, DRINK, THIRST
+~
+
+56 IMTLSET~
+Syntax: imtlset <character> + <skill>
+Syntax: imtlset <character> -
+Syntax: imtlset <character>
+
+IMTLSET sets the immortal skills for an immortal.  IMTLSET <character>
++ adds to the immortal's skills one at a time.  IMTLSET <character> -
+removes all of the immortal's skills.  IMTLSET <character> shows you
+all the immortal skills the immortal has available.
+~
+
+0 INSTANT KILL~
+Random Skill:
+     Assassins [Level 1]
+     Thieves [Level 1]
+Syntax:  backstab <target>
+
+Instant Kill can happen during an assassin or thieves backstab.  The
+skill is based greatly on both the level of the target and the level
+of the stabber.  Instant Kills pay no heed to the opponents hit points
+as the kill is instant.
+
+See Also: BACKSTAB
+~
+
+-1 INTELLIGENCE~
+Attribute
+
+Intelligence is a measure of quickness and accuracy of thought.  Basically,
+it measures how well you can think.  Intelligence is the primary attribute
+for all magic using classes and can be useful to other classes as well.
+
+Some races are blessed with higher intelligence than others.  For example,
+gnomes, grey elves, and drow elves are known for their high levels of
+intelligence, while trolls, barbarians, and ogres are at the opposite end
+of the spectrum.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+0 INVENTORY INV~
+Syntax: inventory
+
+INVENTORY will list everything you have that is not being worn, wielded,
+or held in your hands.  It will not show you things inside container (use
+the LOOK IN command to do that), nor will it show you undetectable items
+(invisible items if you cannot detect invisible, for example).
+
+You can only carry so many items in your inventory.
+ 
+See also: EQUIPMENT, WEAR, WIELD, HOLD, REMOVE
+~
+
+0 KILL HIT~
+
+Syntax:  kill <target>
+Aggressive:  yes
+
+Kill is the command used to engage an enemy.  This is a blatant attempt
+to end either a players or a mobs life.  It can also be used in battle
+to switch opponents.  For example, if you are fighting an Ogre and you 
+wish to attack a Rakshasa you would use the kill command to switch you.
+
+Hit will also perform the same as kill.  
+
+See Also:  FRAG, SWITCH OPPONENT, GUARD
+~
+
+0 KICK~
+Applied Skill
+      Warriors [Level 1]
+      Berserkers [Level 1]
+      Mercenaries [Level 1]
+      Paladins [Level 1]
+      Anti-Paladins [Level 1]
+      Rangers [Level 1]
+
+Syntax: kick
+Aggressive: yes
+
+Kicking is a skill used by the fighter classes as an extra attack in battle.  
+Kicks have a chance to "wall-kick" its target, temporarily stunning them.
+One may even kick an opponent right out of the room.
+~
+
+0 LIST~
+Syntax: list [object|all] [shopkeeper]
+
+LIST will let you check to see what a shopkeeper is selling.  
+
+LIST with no argument is the same thing as LIST ALL.  Both of these list
+all the objects the shopkeeper is trying to sell and their prices.
+
+LIST [object] will list only the items that contain that keyword, allowing
+you to filter the list of items.
+
+If no shopkeeper is specified, the first shopkeeper in the room will be
+chosen.
+
+Prices in shops can be affected by a player's charisma.
+
+See also: BUY, SELL, VALUE, MONEY, SHOPS
+~
+
+56 LOG~
+Syntax: log <character>
+Syntax: log all
+Syntax: snoop <character>
+
+LOG <character> causes all of a character's commands to be logged into
+the server's log file.  Like FREEZE, it is a permanent character toggle.
+
+Certain commands (PASSWORD) are protected against LOG.  Conversely, certain
+commands (especially immortal commands) are always logged.
+
+LOG ALL logs all character commands.  It is a server-wide toggle; it does not
+persist across reboots.
+~
+
+0 LOOK 'LOOK IN'~
+Syntax: look
+Syntax: look room
+Syntax: look <object|character|direction>
+Syntax: look in <container|corpse>
+
+LOOK is used for studying your surrounding or inspection of an object or
+person.
+
+LOOK by itself will give a brief summary of the room you are in.  LOOK ROOM
+will give a longer description of the room.
+
+LOOK <direction> will look at any exits in that direction, giving you a
+description of the exit and, if possible, the room beyond.  LOOK <direction>
+ is often used in conjunction with items that grant the ability to farsee.
+
+LOOK <object> can be used to look at something in your inventory or
+something in the room.  Oftentimes rooms will have extra things to look at,
+sometimes providing vital clues to the player.
+
+LOOK can be abbreviated to "L".
+
+See also: EXAMINE, GLANCE, READ
+~
+
+0 LUCK~
+Attribute
+
+Luck is difficult to describe.  Some people are just born lucky.  It may be
+caused by some cosmic karmic balance, or the gods taking a special interest
+in a person, or some natural innate ability to influence fate.  Luck can have
+strange effects on the game, but it isn't a prime attribute for any class.
+Needless to say, however, all classes can benefit from high luck scores.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+-1 MAGMA~
+[Note: this entry may not be removed or altered or you will face legal
+ action.]
+
+Magma originates from UltraEnvy 0.87j, which originates from Envy
+(help envy), which originates from Merc (help merc) which originates
+from Diku (help diku).
+
+All changes to this version of Magma have been done by Veygoth.
+
+Veygoth can be reached at veygoth@stax.net
+~
+
+56 MEMORY~
+Syntax: memory
+
+MEMORY reports the size of your mud.
+
+The 'Mobs' and 'Objs' lines report the number of types of mobiles and
+objects, not the number of instances currently in the game.
+
+The 'Strings' line shows memory used by area-file strings.  These strings
+have a maximum limit, which is also shown.
+
+The 'Perms' line shows permanently allocated memory blocks.  There is no
+limit on the number and size of these blocks.
+~
+
+-1 MERC~
+[Note: this entry may not be removed or altered or you will face legal
+ action.  See our license.txt.]
+This mud is based on Merc 2.2, created by Kahn, Hatchet, and Furey.  Merc 2.2
+is an upgrade from Merc 2.1, created by Furey, Hatchet, and Kahn.  Merc 2.2
+is available as Merc_22.tar.gz from ferkel.ucsb.edu (most files moved to
+ftp.tcp.com), ftp.math.okstate.edu, marble.bu.edu, zen.btc.uwe.ac.uk
+E-mail to 'merc-l-request@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, Da Pub, Loki, Talen, Kalgen, Sludge,
+      The Crew of Salems Lot, and others for code and bug fixes.
+  ... N'Atas-Ha for MOBPrograms and the pager skeleton and Blackstar
+      for the improvements and ideas to the pager.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris for worlds.
+  ... Ikee, Chaos, Kraze, Maxx, Thoth, Zolstead, Zavod, VampLestat, Cyric,
+      Kelvin, and Jackal for extensively playtesting MERC 2.2 and providing
+      constructive input.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, Mystic Realms, 4th Realm, Dragon Mud, and Salems Lot
+      for bug reports, ideas, new code, and hours of enjoyment.
+
+Share and enjoy.
+MERC Industries
+~
+
+56 MFIND OFIND~
+Syntax: mfind <name>
+Syntax: ofind <name>
+
+MFIND finds all mobile types with a particular name.
+
+OFIND finds all object types with a particular name.
+~
+
+56 MLOAD OLOAD~
+Syntax: mload <vnum>
+Syntax: oload <vnum>
+
+MLOAD loads a mobile given its vnum (virtual number).  The vnum's are just
+the #NNNN numbers that appear in world.obj.
+
+OLOAD loads an object given its vnum.
+~
+
+0 MOUNT~
+Applied Skill:  All classes
+
+Mount is a skill used when getting onto an animal to ride.  The act of
+mounting is a skill that increases when used and with levels.
+
+A mount is also a term used to describe the animal you ride.  
+
+See Also:  SUMMON MOUNT
+~
+
+56 MSET OSET RSET SSET~
+Syntax: mset <character> <field> <value>
+Syntax: oset <object>    <field> <value>
+Syntax: rset <location>  <field> <value>
+Syntax: sset <character> <skill> <value>
+Syntax: sset <character> all     <value>
+
+MSET, OSET, and RSET set the properties of mobiles, objects, and rooms,
+respectively.  SSET sets a skill or spell level on a PC.
+
+There is currently no way to enter more than one line of text for a
+string-valued option.  In this case, MSET <character> description is
+not supported.
+~
+
+56 MSTAT OSTAT RSTAT~
+Syntax: mstat <character>
+Syntax: ostat <object>
+Syntax: rstat <location>
+Syntax: rstat
+
+MSTAT shows you statistics on a character.
+
+OSTAT shows you statistics on an object.
+
+RSTAT shows you statistics on a location. The location may be specified as
+a vnum, as the name of a mobile, or as the name of an object.
+~
+
+56 MWHERE~
+Syntax: mwhere <name>
+
+MWHERE shows you the locations of all mobiles with a particular name.
+~
+
+56 NOEMOTE NOTELL SILENCE~
+Syntax: noemote <character>
+Syntax: notell  <character>
+Syntax: silence <character>
+
+NOEMOTE, NOTELL, and SILENCE are used to muffle other characters, by
+preventing them from emoting, telling, and using channels, respectively.
+Characters who are no'telled will also not receive those forms of
+communication.
+~
+
+56 NUMLOCK NEWLOCK~
+Syntax: numlock <number>
+Syntax: newlock
+
+NUMLOCK shows at which character level and below may not log in.
+
+NUMLOCK <number> sets which character level and below MAY NOT log in.
+Players level immortal and above with a special bit set MAY log in.
+Players who lose their links, however, may reconnect.
+
+NEWLOCK is a shortcut to NUMLOCK 1.  NEWLOCK will turn on numlock but
+not turn off if currently set.
+~
+
+0 OPEN CLOSE LOCK UNLOCK~
+Syntax: open <object> [direction]
+Syntax: close <object> [direction]
+Syntax: lock <object> [direction]
+Syntax: unlock <object> [direction]
+
+OPEN and CLOSE open and close an object or door.  If there are multiple
+doors with the same keywords, you can specify a direction to choose which
+exit you desire.
+
+LOCK and UNLOCK lock and unlock a closed object or door.  You must have the
+key in order to lock or unlock a door, or you must be able to pick the door's
+lock or bash the door in.
+
+See also: PICK LOCKS, DOORBASH, DOORKICK
+~
+
+0 ORDER~
+Syntax: order <follower|followers|all> <command>
+
+ORDER will instruct one or more of your followers to attempt to perform a
+command.  ORDER FOLLOWERS and ORDER ALL will tell all your pets to try and
+perform the task.
+
+Some pets simply aren't capable of performing certain tasks.  Pets can also
+be busy doing other things and unable to respond to your commands.  Also,
+some pets gradually tire of following orders and stop doing so.
+
+See also: PETS
+~
+
+56 OWHERE~
+Syntax: owhere <object>
+
+OWHERE shows you the locations of all objects numbering 100 or less with a
+perticular name.
+~
+
+0 QUAFF POTIONS~
+Syntax: quaff <potion>
+
+QUAFF drinks a magical potion, as opposed to DRINK which drinks mundane
+liquids.  Because potions are magical, they will have no effect in a
+"no-magic" room.
+
+Potions have a single charge and can only be quaffed once.
+
+See also: ZAP, RECITE
+~
+
+-1 PAGELENGTH PAGE PAGER~
+Syntax: pagelength
+Syntax: pagelength <number>
+
+Pagelength without an argument sets the number of lines before page
+pause to the default of 20 lines.
+
+Pagelength with an argument sets the number of lines you wish to see on
+screen before page pausing.
+
+The maximum number of lines allowable before page pausing is 60.
+~
+
+0 PARRY~
+Reflexive Skill:
+      Warrior [Level 1]
+      Mercenary [Level 1]
+      Paladin [Level 1]
+      Anti-Paladin [Level 1]
+      Ranger [Level 1]
+      Hunter [Level 1]
+      Assassin [Level 51]
+      Thief [Level 51]
+
+Parrying is used in battle to push aside your opponents attacks.  Parrying
+is a reflexive skill and is therefore beyond a players control.  The odds
+of parrying an attack increase with level.  
+
+See Also:  RIPOSTE
+~
+
+0 PASSWORD~
+Syntax: password <old-password> <new-password>
+
+PASSWORD changes your character's password.  The first argument must be
+your old password.  The second argument is your new password.
+~
+
+56 PEACE~
+Syntax: peace
+
+PEACE causes all characters and mobiles in a room to stop fighting.
+~
+
+0 PET PETS~
+Pets are creatures who follow a player, taking orders and performing some
+basic tasks.  Pets can be purchased in stores, summoned from spells (such
+as elementals or a necromancer's undead followers), or obtained via other
+means.
+
+Most mobs consider the owner of the pet to be responsible for the pet's
+actions.  If the pet attacks, the mob will most likely come after the owner
+of the pet if the pet is killed.  Towns with justice systems may arrest pet
+owners if the pet breaks any laws.
+
+Pets are commanded using the ORDER command.
+
+Some pets gradually tire of taking orders and cease to follow their masters.
+
+You cannot rent with pets.  Once you have rented, your pets will forget all
+about you and you must obtain new ones.
+
+See also: ORDER, FOLLOW, GROUP, RENT
+~
+
+0 PETITION~
+Syntax: petition <message>
+
+PETITION allows you to send a message to all the gods who are currently
+online.  This is used for critical problems or errors and should not be
+used to offer suggestions, report minor bugs, or report typos in zones.
+
+PETITION should be used for critical bugs and reporting cheating.
+
+Do NOT use PETITION to check and see if a god is online.  If they wanted
+you to know they were online, they'd go visible.
+
+Do not abuse this command, or your ability to use it may be removed.
+
+See also: BUG, TYPO, IDEA
+~
+
+0 PICK LOCKS~
+Applied Skill:
+     Assassin [Level 1]
+     Thieves [Level 1]
+Aggressive:  No
+Syntax:  pick <keyword or doorname> <direction>   Example:  Pick door west
+         pick <object>                            Example:  Pick chest
+
+Lock picking is an art left to only thieves and assassins.  In order to
+pick a lock you must possess a lockpick.  These can normally be found in
+shops that sell other thief and assassin equipment.  Lock picking is a
+skill that increases with both level and with the use of the skill.
+
+See Also:  THIEF SKILLS, ASSASSIN SKILLS, DOORBASH, DOORKICK, OPEN, CLOSE, 
+LOCK, UNLOCK
+~
+
+0 PKILL~
+
+PKILL is the main focus of Basterae.  A PKILL is any time one player kills
+another.  When a player PKILLs a player from the other side of the race war
+that is close to them in level, they receive a frag.  
+
+A Frag is a measure of a players PKILLing success.  If a level 50 kills another
+level 50 they receive a frag.  If a level 50 kills a level 1 player they won't
+get a frag.  A person is not fraggable until they are above level 20.
+
+See Also: FRAG, FRAGLIST
+~
+
+0 PLANE~
+
+There are many planes of existance on which the creatures of the multi-verse
+live.  These different planes are accessible through many different spells.
+Other planes of existance are very dangerous and should only be attempted
+by those of great skill and mental fortitude.
+
+See Also: ZONES, CREDITS
+~
+
+0 PRACTICE~
+
+Although we do not use practice in the way many other MUD's do we do
+use it somewhat.  Practicing your skills is done by using them.  For
+example:  You practice your bash by using it.  This method is way more
+realistic and makes your skill increases all the more sweeter.
+
+See Also:  SKILLS
+~
+
+-1 PROMPT DISPLAY~
+help prompt
+Syntax: prompt
+Syntax: prompt raw
+Syntax: prompt dark
+Syntax: prompt meter
+Syntax: prompt chains
+Syntax: prompt <%*>
+
+PROMPT with out an argument will turn your prompt on or off.
+PROMPT RAW will give you the standard "<hits mana moves>" prompt with
+  tank and enemy status when in combat.
+PROMPT DARK will give you a more sinister "<hits moves>" prompt with
+  colorful tank and enemy status in combat.
+PROMPT METER will give you the standard prompt with life meters for your
+  tank and enemy status when in combat.
+PROMPT CHAINS will give you the DARK prompt with life meters for your
+  tank and enemy status when in combat.
+
+PROMPT <%*> where the %* are the various variables you may set yourself.
+
+     %h :  Display your current hits
+     %H :  Display your maximum hits
+     %m :  Display your current mana
+     %M :  Display your maximum mana
+     %v :  Display your current moves
+     %V :  Display your maximum moves
+     %x :  Display your current experience
+     %g :  Display your gold held
+     %w :  Display your current Wait State
+     %a :  Display your alignment
+     %r :  Display the room name you are in
+
+     %R :  Display the vnum you are in (IMMORTAL ONLY)
+     %z :  Display the area name you are in (IMMORTAL ONLY)
+     %i :  Display whether or not you are invisible
+     %I :  Display whether or not you are wizinvis (IMMORTAL ONLY)
+     %c :  Display the editing mode you are in (IMMORTAL ONLY)
+     %C :  Display the number of the area you are editing (IMMORTAL ONLY)
+
+     %p :  Display your status as 'Chains' meter when in combat
+     %P :  Display your status as text_1 when in combat
+     %q :  Display your status as 'Plus' meter when in combat
+     %Q :  Display your status as text_2 when in combat
+
+     %e :  Display you enemy's status as "Chains" meter when in combat
+     %E :  Display your enemy's status as text_1 when in combat
+     %b :  Display you enemy's status as  "Plus" meter when in combat
+     %B :  Display your enemy's status as text_2 when in combat
+
+     %t :  Display the tank's status as "Chains" meter when in combat
+     %T :  Display the tank's status as text_1 when in combat
+     %d :  Display the tank's status as "Plus" meter when in combat
+     %D :  Display the tank's status as text_2 when in combat
+
+Example:
+   PROMPT <%h/%Hhp %m/%Mm %v/%Vmv><%t %e>
+Will set your prompt to:
+   <9/10hp 99/100m 75/100mv><Tank(=-=-=-=-=) Enemy(=-=-=-=-=)>
+~
+
+56 PURGE~
+Syntax: purge
+Syntax: purge <character>
+
+PURGE is used to clean up the world.  PURGE with no arguments removes all the
+NPC's and objects in the current room.  PURGE with an argument purges one
+character from anywhere in the world.
+
+PURGE will not get rid of PC's.
+~
+
+0 PUT~
+Syntax: put <object|all> <container>
+Syntax: put <amount> <coin type> <container>
+
+PUT will put an object inside a container.
+
+Some containers have a maximum amount of weight or internal room and will
+not hold large or heavy objects.
+
+PUT, as well as most object manipulation commands, allows the use of the
+#.object format, where # is a number or the word "all".  This allows a
+player to choose a specific item from a group of items with the same keywords.
+
+For example, if you had 3 spellbooks and wanted to put them all in a backpack,
+you would type:
+
+     put all.spellbook backpack
+
+Make sure you include the period between the number of the item and the name.
+If you used a space in the above example instead of a period, you would attempt
+to put everything you had in your inventory into your spellbook.
+
+See also: GET, DROP, GIVE, MONEY
+~
+
+56 QUI~
+Syntax: qui
+
+QUI prevents you from accidentally typing QUIT when you don't want to.  
+
+The command parser attempts to complete commands.  For example, if you want to
+go EAST, you can type E, EA, EAS, or EAST.  The mud will interpret any of
+those to be the command EAST.
+
+QUI prevents you from quitting the game if you mistakenly type a Q, QU, or QUI.
+~
+
+0 QUICK CHANT~
+Reflexive skill:  
+    Paladins [Level 1]
+    Anti-Paladins [Level 1]
+    Druids [Level 1]
+    Sorcerers [Level 1]
+    Clerics [Level 1]
+    Rangers [Level 1]
+    Hunters [Level 1]
+
+Aggressive:  No
+
+Quick chant is the random chance that a spell you are memorizing is
+instantly memorized.  This skill increases so that, at higher levels,
+spells can be instantly memorized more often.
+
+See Also:  SPELL FAILURE, CAST, SPELL SLOT, SPELL CIRCLES, CASTER, MAGIC
+~
+
+0 QUIT~
+Syntax: quit (disabled for players)
+
+QUIT leaves the game immediately.  It can only be used by administrators.
+Players must either RENT or CAMP to leave the game.
+
+See also: RENT, CAMP
+~
+
+0 RACE~
+
+You will have to be more specific.  
+Help <What Race>
+
+See Also: CLASSES
+~
+
+0 READ~
+Syntax: read <keyword>
+
+Use the read command when you wish to read something, such as a book, sign,
+or bulliten board.
+
+See also: LOOK, EXAMINE
+~
+
+56 REBOOT~
+Syntax: reboot
+
+REBOOT shuts down the server.  When the normal 'startup' script is used
+to control the server, a delay of sixty seconds will ensue (to allow
+old connections to die), followed by a reboot.
+~
+
+0 RECITE SCROLLS~
+Syntax: recite <scroll> [target]
+
+RECITE reads a magical scroll.  The target may be optional, depending on
+the type of scroll.  Because scrolls are magic, they will have no effect
+in a "no-magic" area.
+
+See also: QUAFF, ZAP
+~
+0 RECLINE~
+
+Syntax:  recline
+
+Recline is a command used to make a person lay down.  This can be
+done while the player is standing or sitting.  Reclining allows a
+player to "slither".  This form of crawling expends a massive amount
+of movement points.  
+
+See Also:  STAND, SIT, REST, SLEEP
+~
+
+0 REGENERATION~
+
+Regeneration is an innate used by Trolls to gain back hit points in
+a manner faster than any other race.  
+
+See Also:  TROLL
+~
+
+0 REPLY~
+Syntax: reply <message>
+
+REPLY sents a message to the last person who sent you a tell.  REPLY will
+work even if you can't see the player, without revealing their identity.
+This is handy for talking to invisible or flying people.
+
+See also: TELL, SAY, GSAY
+~
+
+0 RENT~
+Syntax: rent
+
+RENT allows you to exit the game.  It can only be performed at an inn.  It
+will store all your items and save your character.  The next time you enter
+the game you will re-enter at the spot where you rented.
+
+See also: CAMP, QUIT
+~
+
+0 REPORT~
+Syntax: report [player]
+
+REPORT by itself will show your current statistics to you and everyone in
+your room.
+
+REPORT followed by a player name will send a TELL to that player giving him
+your current statistics.
+~
+
+0 RESCUE~
+applied skill:
+     Warriors [Level 1]
+     Paladins [Level 1]
+     Anti-Paladins [Level 1]
+
+Syntax:  rescue <target>
+agressive: yes
+
+Rescuing is done by only the bravest of fighters.  Rescue must have a 
+target in order to work.  After a successful rescue, the fighter will
+essentially step in front to take the damage that the rescued player 
+was taking.
+
+Rescue is a level dependant skill and can fail often.
+
+See Also:  Guard
+
+~
+0 REST~
+Syntax: rest
+
+REST allows a person to regenerate movement points and health back at an
+increased rate.  You must also REST before trying to memorize or pray for
+spells.  
+
+You are more vulnerable to attacks while resting.
+
+See also: SLEEP, SIT, STAND, WAKE
+~
+
+56 RESTORE~
+Syntax: restore <character>
+Syntax: restore all
+
+RESTORE restores full hit points, mana points, and movement points to the
+target character.
+
+RESTORE ALL restores full hit points, mana points, and movement points
+to all players and mobiles.
+~
+
+0 RIPOSTE~
+Reflexive skill:
+     Warrior [Level 1]
+     Paladin [Level 1]
+     Anti-Paladin [Level 1]
+     Ranger [Level 1]
+     Hunter [Level 1]
+     Berserker [Level 1]
+     Mercenary [Level 1]
+
+The riposte skill is not something you can control.  It happens during 
+battle and is dependant on ones level.  Riposting is a quick counter-attack
+that can cause an extra amount of damage.
+
+See Also:  PARRY
+~
+
+0 SAVE~
+Syntax: save
+
+The SAVE command will allow you to save the current state of your character,
+including his inventory, experience, money, and statistics.  If the game
+crashes, you should be reset to the last time your character was saved.
+
+The game auto-saves every few minutes.
+~
+
+0 SAY~
+Syntax: say <message>
+
+SAY will send a message to all awake players in your room.  The single
+quote (') is a synonym for SAY.
+
+See also: TELL, REPLY, GSAY
+~
+
+0 SCORE~
+Syntax: score
+
+SCORE is a command used to show you information concerning the current state
+of your character.  It will show you information such as your level, race,
+class, hit points, movement points, mana, money, playing time, title, and so on.
+
+See also: ATTRIBUTES
+~
+
+0 SELL~
+Syntax: sell <object> <shopkeeper>
+
+SELL will allow you to try and sell an item to a shopkeeper.  If no shopkeeper
+is given, the first shopkeeper in the room will be chosen.
+
+SELL, as well as most object manipulation commands, allows the use of the
+#.object format, where # is a number or the word "all".  This allows a
+player to choose a specific item from a group of items with the same keywords.
+
+For example, if the command "LIST DAGGER" showed you that a shopkeeper had
+five daggers, you could type "BUY 3.DAGGER".
+
+Make sure you include the period between the number of the item and the name.
+If you used a space in the above example instead of a period, you would
+attempt to buy three daggers, not the third dagger.
+
+Prices in shops can be affected by a player's charisma.
+
+See also: BUY, LIST, VALUE, MONEY, SHOPS
+~
+
+0 SHOUT~
+Syntax: shout <message>
+
+SHOUT sends a message to everyone in the same zone as you.
+
+You can TOGGLE SHOUT on and off.
+
+See also: SAY, TELL, GSAY, REPLY
+~
+
+56 SHUTDOWN~
+Syntax: shutdown
+
+SHUTDOWN shuts down the server and prevents the normal 'startup' script
+from restarting it.
+~
+
+0 SIT~
+
+Syntax:  sit
+
+Sit is a command used to either sit down from a standing position or to
+sit up from a reclining position.  Sitting prevents you from moving in
+any direction.  Mobs also tend to attack those who are sitting down during
+a fight.
+
+See Also:  STAND, KNEEL, RECLINE, REST
+~
+
+0 SKILL~
+
+There are many individual skills on Basternae.  The skills can be
+advanced by both use of them and by level increases.
+~
+
+56 SLAY~
+Syntax: slay <character>
+
+SLAY kills a character in cold blood, no saving throw.
+
+SLAY bypasses auto actions such as AUTOLOOT and AUTOSAC.
+~
+
+0 SLEEP~
+Sleep is both a command and a spell.
+
+Syntax: sleep
+
+The command is used for falling asleep, which will increase the rate at
+which a player can regenerate health and movement points.  However, the
+sleeping character is much more vulnerable to attacks while asleep.
+
+You must use the ALERT command to come to your senses fully after sleeping.
+When you awake, you're relaxed until you attempt to become more alert.
+
+See also: WAKE, REST, SIT, STAND, ALERT
+
+The spell information is:
+     Cleric [4th Circle]
+     Necromancer [4th Circle]
+     Sorcerer {4th Circle]
+
+Area of effect: Target
+Aggressive:     Yes to mobs. No to players
+Cumulative:     No
+Duration:       Until the target is awakened or the spell wears off (duration
+                dependant on caster's level).
+Type of spell:  Enchantment
+
+A successful spellcast will cause the target to fall under a magical sleep.
+A target that is affected by this spell cannot wake himself up.  Someone else
+must awaken him using the WAKE command.
+~
+
+56 SLOOKUP~
+Syntax: slookup <sn>
+Syntax: slookup <skill-or-spell>
+Syntax: slookup all
+
+SLOOKUP shows you the internal 'sn' and skill or spell name for the given
+skill, spell, or 'sn'.  The 'sn' is used for OSET and OSTAT.  'sn' is not
+used for player files; these operate with the actual skill and spell names.
+
+SLOOKUP ALL shows this information for all skills and spells.
+~
+
+0 SNEAK~
+Applied Skill
+     Assassin [Level 1]
+     Thief [Level 1]
+Innate Ability
+     Grey Elf warrior, ranger [Outdoors only]
+     Duergar warrior, mercenary, assassin, thief [Underdark only]
+
+Syntax: sneak
+
+Sneak allows you to attempt to move silently from one place to another.  A
+person who successfully sneaks will be able to travel without anyone noticing
+him entering or leaving an area.  You cannot tell when you have successfully
+sneaked or not.  There is no success or failure message.
+
+The sneak skill must be toggled on or off, and takes up additional movement
+points when active.
+
+The innate ability is always in effect.
+
+See also: HIDE
+~
+
+56 SNOOP~
+Syntax: snoop <character>
+
+SNOOP shows you a copy of all the input and output going to a character.
+The character must have an open channel.  You may snoop more than one
+character at a time.
+
+SNOOP yourself to cancel all outstanding snoops.
+~
+
+0 SOCIALS~
+Syntax: socials
+
+SOCIALS shows you all of the social commands available to you.
+ 
+See also: COMMANDS
+~
+
+0 SPELLS SLIST~
+Syntax: spells
+Syntax: slist
+
+SPELLS will give a list of all the spells available to your class.  If you
+are a mage who requires a spellbook, it will also indicate whether you have
+the spell in any spellbooks in your inventory or equipped.
+
+See also: SPELL FAILURE, CAST, SPELL SLOT, SPELL CIRCLES, CASTER, MAGIC
+~
+0 SPELL CIRCLES~
+
+Spell circles are given every five levels to magic users.  Each circle
+contains different spells.  With each new circle comes new spells to 
+memorize or pray.  The spell circles look like this:
+
+1st Circle - Given at character creation
+2nd Circle - Gained at level six
+3rd Circle - Gained at level eleven
+4th Circle - Gained at level sixteen
+5th Circle - Gained at level twenty one
+6th Circle - Gained at level twenty five
+7th Circle - Gained at level thirty one
+8th Circle - Gained at level thirty six
+9th Circle - Gained at level forty one
+10th Circle - Gained at level forty six
+11th Circle - Gained at level fifty one
+12th Circle - Gained at level fifty six
+
+See Also: SPELL FAILURE, CAST, SPELL SLOT, CASTER, MAGIC
+~
+0 SPELL FAILURE~
+
+Spell failure is very common in the life of a magic user on Basternae.
+When one fails a spell, the spell does not get casted.  Spell failure
+can force you to rememorize the spell or it may just cause you to retry
+the spell.
+
+See Also:  CAST, SPELL SLOT, SPELL CIRCLES, CASTER, MAGIC
+~
+
+0 SPELL SLOT~
+
+A spell slot is quite simply the space in your memory that a spell
+takes up.  For a given level you are only allowed so many spells so
+it is very important how you use your spell slots.
+
+See Also:  CAST, SPELL FAILURE, SPELL CIRCLES, CASTER, MAGIC
+~
+
+0 SPLIT~
+Syntax: SPLIT <coin type> <amount>
+
+SPLIT splits some coins between you and all the members of your
+group who are in the same room as you.  It's customary to SPLIT
+the money after a kill.
+
+See also: MONEY, GROUP
+~
+
+0 SPRING SPRINGLEAP~
+Applied skill:
+     Rangers [Level 1]
+     Hunters [Level 1]
+Syntax:  springleap <target>  OR springleap (while engaged in battle)
+Agressive: Yes
+
+Spring leap is used by Rangers and Hunters to either knock down or knock
+their opponents off balance.  Springleap must be done from a kneeling
+position.  A missed springleap will leave the aggressor on the ground and
+susceptable to major damage.  Sometimes the ranger or hunter will take the
+target down with them so they are both on the ground.
+
+Size does matter!  One can only springleap opponents of like or near the
+same size.
+
+See Also:  BASH, BODYSLAM, TRIP, RANGER SKILLS, HUNTER SKILLS
+~
+
+56 SSTIME~
+Syntax: sstime
+Syntax: sstime <value>/reboot
+
+This Directorship command sets the time of shutdown or reboot
+with accompanying warnings.
+
+Value is the number of minutes till reboot or shutdown.  (1440
+minutes/day)
+
+Reboot will toggle between reboot or shutdown.
+
+SSTIME without an argument shows the time at which the mud will reboot
+or shutdown.
+~
+
+0 STAND~
+Syntax: stand
+
+STAND will take a character back to the standing position.  It is used when
+you have fallen, been knocked down, knelt, or are sitting/lying down.
+
+See also: SIT, REST, KNEEL, RECLINE
+~
+
+0 STEAL~
+Applied Skill
+     Thief [Level 1]
+
+Syntax: steal <object|coins> <target>
+
+STEAL is used to take money or items from another creature without their
+knowledge or consent.  The success of your theft is directly dependant on
+your amount of skill, the status of the target, how many people are in the
+same room, and so on.
+
+Stealing from other players can only be done once you have reached level 35.
+~
+
+-1 STORY~
+The story of the world of Basternae is a simple one, but that makes it no
+less tragic.
+
+The world is shattered, effectively split in two between the surface world
+and that of the Underdark, a massive collections of caves and tunnels that
+runs underground.  On the surface, the "good" aligned races make their homes,
+while the "evil" races either choose or are forced to live in the dangerous
+Underdark.
+
+For all of recorded history, the good and evil races have been at war.
+Armies march forward to combat, one side wins and slays the other, then is
+destroyed itself by another army.  It is a vicious cycle of warfare and
+neither side seems inclined to put a stop to it.  The "good" races talk of
+peace, but it's a peace that would cost the lives of all unclean or unpure
+races of the dark.  The evil races know only war, trained from birth to live
+in hostile environments.  Horrible creatures make their homes in the
+Underdark, more than willing to kill any victims for food or sport, but it's
+just as likely a young evil will find himself dead from the knife of one of
+his kin.
+
+It's the world of Basternae, where reflexes and fighting skills are
+constantly honed to perfection, where adventure waits around every corner,
+and death can lurk behind even the most friendly of faces.  It's a world of
+combat and destruction, where fame and forture go to the aggressive and the
+meek get stomped into the ground.
+
+Welcome home.  Welcome to Basternae.
+~
+
+0 STRENGTH~
+Attribute
+Spell
+Innate
+
+Strength is a measure of raw, physical power, the ability to manipulate
+matter with muscles.  It is the primary attribute for warrior classes, and
+has use for other classes as well.  It affects how much you can carry, how
+heavy of a weapon you can wield, and so on.
+
+Strength is also a spell that can be cast.
+Spell
+     Enchanter [3rd Circle]
+     Sorcerer [3rd Circle]
+
+Area of Effect: Target
+Aggressive:     No
+Cumulative:     Yes
+Duration:       Dependant on proficiency of the caster
+Type of Spell:  Enchantment
+
+This spell causes the target's strength to increase slightly for a limited
+amount of time.
+
+Strength is also an innate ability of mountain dwarves.  The innate ability
+works exactly like the spell effect, but it is not cumulative.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+-1 SUMMARY~
+This is a list of the most important commands.  For more information,
+including detailed lists of commands, look at HELP INDEX.
+
+MOVEMENT  GROUP       COMMUNICATION    INFORMATION    CONFIGURATION
+north     group       say              areas          config
+south     follow      tell             commands       password
+east      consent     reply            socials        toggle
+west      gsay        shout            weather        prompt
+up        split       petition         news
+down                  languages        motd
+
+COMBAT    SPELLS      OBJECTS          STATUS         OTHER
+kill      cast        get              attributes     quit
+flee      mem         put              score          save
+wimpy     pray        drop             report         rent
+glance    meditate    give             time           bug
+consider  wear        who              typo           idea
+wield                 inventory
+hold                  equipment
+
+MONEY                    OTHER IMPORTANT TOPICS
+balance                  races
+deposit                  classes
+withdraw                 spells
+exchange                 rules
+buy                      commands
+sell                     index
+list
+value
+
+Please make sure you look at HELP INDEX for much more information and
+detailed lists of all commands.
+~
+
+56 SWITCH RETURN~
+Syntax: switch <character>
+Syntax: return
+
+SWITCH switches you into the body of another character (who must not
+already have a descriptor, e.g. you can't switch into a PC).
+
+RETURN returns you to your original body.
+~
+
+0 SWITCH OPPONENT~
+Applied skill:  All classess
+
+Syntax:  kill <target other then the one currently engaged with>
+
+Switch opponent allows the player to switch targets during battle.  One
+may not switch targets if they are the "tank".  Switch opponent is
+a level dependant skill that has to be used to be improved.  The skill
+can and will fail.
+
+See Also:  GUARD
+~
+
+0 TANK~
+
+A "tank" is the player who is engaged in direct combat with a mob or
+player.  The tank takes the physical damage given out by the mob or players
+attacks.  Other players in the room may take magical damage from the 
+opponent of the tank.  The tank usually gets extra experience from being
+the tank.  
+
+See Also:  GROUP, EXPERIENCE
+~
+    
+0 TELL~
+Syntax: tell <character> <message>
+
+TELL will send the chosen player a message.  The player does not have to
+be in the same room as you, but you must be able to see the player (for
+example, you must be able to detect invisible if the player is current
+invisible).
+
+See also: SAY, REPLY, GSAY
+~
+
+0 THAC0 THACO~
+THAC0 stands for "to-hit armor class zero".  It's a number that represents
+how much chance you have to hit a character or person with an armor class
+equal to zero (the mid-point between +100 AC and -100 AC).
+
+The lower your THAC0, the better chance you have of hitting.
+
+Your class, level, equipment, and various other status effects can improve
+or hinder your ability to hit your opponent.
+
+See also: ARMOR CLASS
+~
+
+0 THIRST THIRSTY~
+
+The need for water is not something you can ignore.  Thirst is much like
+hunger in that it needs to be satisfied.  If you neglect to drink water
+you will start to lose hps and regenerate movement and hitpoints more
+slowly.
+
+Thirst for casters can be very harsh because you cannot memorize, pray
+or cast spells with a parched throat.  
+
+Make sure to drink.  There are many fountains throughout the game where
+free water is offered.
+
+See Also:  HUNGER
+~
+
+0 THROAT CRUSH~
+Applied Skill:
+     Mercenary [Level 51]
+Aggressive: Yes
+Syntax: Throat <target>
+
+Throat crush is just that.  The mercenary punches the opponent in the
+throat.  This offers both an extra attack and, in the cast of casters
+or bards, can prevent the opponent from casting spells.
+
+See Also:  MERCENARY SKILLS
+~
+
+0 TIME~
+Syntax: time
+
+TIME will show the game time, as well as the time when the mud was last
+started, and the current local time for the host computer.
+
+See also: CALENDAR
+~
+
+0 TITLE~
+Syntax: title <string>
+
+Titles can only be given out by administrators or by guild leaders for
+people in their guilds.  Titles may contain color codes, but can only be of
+a certain length (around 50 characters or so).
+
+You must be level 35 or greater to request a title from an administrator.
+
+All titles must be "appropriate", which means they should be fantasy-related,
+should not contain bad language, and they cannot contain misleading
+information about race, class, guild, etc.  "Last names" for characters are
+considered appropriate, if they fit in with the fantasy theme.
+
+If you are in a guild and have a title, your title must be short enough so
+that your guild name can be plainly seen in the WHO.
+~
+
+0 TRACK~
+Applied Skill:
+     Rangers [Level 1]
+Syntax:  track <target>
+Aggressive: NO
+
+Track is a skill used by rangers to locate another person or mob in a
+zone.  Tracking will lead the ranger to the target by following the
+tell-tale signs left by the footprints.  Tracking does not work on 
+the map.  Tracking becomes quite difficult if the target is moving
+around excessively.
+
+See Also:  RANGER SKILLS, RANGER SPELLS
+~
+
+56 TRANSFER~
+Syntax: transfer <character>
+Syntax: transfer all
+Syntax: transfer <character> <location>
+Syntax: transfer all         <location>
+
+TRANSFER transfers the target character, or ALL player characters,
+to your current location (default) or to a specified location.
+~
+
+0 TRIP~
+Applied skill:
+     Assassins [Level 1]
+     Thieves [Level 1]
+Syntax:  trip (only used in battle)
+Aggressive:  yes
+
+Trip is a skill used by thieves and assassins to gain an unfair advantage
+over their opponents.  Trip takes the opponent off their feet where they
+will take an extra amount of damage.  A failed trip will put the aggressor
+on their back where they will take the damage.
+
+Size does matter!  One may trip a level larger and also an opponent of the
+same size, but trip will not work on a smaller opponent.
+
+See Also:  Thief Skills, Assassin Skills
+~
+
+0 TRIPLE ATTACK~
+
+Triple Attack is a skill learned by warriors when they reach level 51.
+
+See Also:  WARRIOR SKILLS
+~
+
+56 TRUST~
+Syntax: trust <character> <level>
+
+TRUST sets a character's trust to the specified level.  This is similar to
+advancing the character for accessing immortal commands, but has no effect
+on combat strength, et cetera.  You can give more trust to mortal (or
+immortal) characters to give them access to more power without messing up
+the character.  You can also restrict a player's trust to less than their
+natural level.
+
+A trust of 0 means to use the character's natural level again.
+~
+
+56 USERS~
+Syntax: users
+
+USERS reports all of the visible users connected to the server, including
+users in the process of logging in.  The two numbers inside brackets are
+the channel number and the 'connected' state.  The 'connected' states are
+listed in merc.h: 
+  0 is CON_PLAYING
+  non-zero values are various states of logging in.
+~
+
+0 VALUE~
+Syntax: value <object> [shopkeeper]
+
+VALUE will let you know how much a shopkeeper is willing to pay for an item
+you have.  If no shopkeeper is given, the first shopkeeper in the room will
+be chosen.
+
+VALUE, as well as most object manipulation commands, allows the use of the
+#.object format, where # is a number or the word "all".  This allows a
+player to choose a specific item from a group of items with the same keywords.
+
+For example, if the command "LIST DAGGER" showed you that a shopkeeper had
+five daggers, you could type "BUY 3.DAGGER".
+
+Make sure you include the period between the number of the item and the name.
+If you used a space in the above example instead of a period, you would
+attempt to buy three daggers, not the third dagger.
+
+Prices in shops can be affected by a player's charisma.
+
+See also: BUY, SELL, VALUE, MONEY, SHOPS
+~
+
+0 VISIBILITY~
+Syntax: visibility [0]
+
+VISIBILITY without any arguments will inform you of your current visibility
+status.  It will let you know if you are invisible or not.
+
+Any other argument to the visibility command will snap you out of
+invisibility or hiding.
+
+See also: HIDE
+~
+
+0 WAIT 'WAIT STATES'~
+Wait states is a mechanism in which we count the delay between your actions.
+Commands such like casting, kicking, walking, disarming, brandishing, zapping,
+quaffing, etc cause a certain delay before your next action can go through.
+This represents the amount of time you need in order to complete the action.
+
+You may also accumulate a delay when a certain action is performed upon you.
+These actions are being tripped, disarmed, etc.
+
+If you are in combat, it is wise to use your wait state level as an indicator
+as to when your next command will go through.  Should you have a wait state
+greater than 0, all your other typed commands will be queued until your wait
+returns to 0.
+
+See: PROMPT
+~
+
+0 WAKE~
+Syntax: wake [target]
+
+WAKE with no target will attempt to awaken yourself if you fell asleep.
+WAKE followed by a target name will attempt to awaken that person.
+
+Waking will not change your position.  You may have to use the ALERT
+command to stop relaxing after your nap.
+
+See also: STAND, SLEEP, ALERT, REST, RECLINE
+~
+
+0 WEATHER~
+Syntax: weather
+
+WEATHER will show you the weather in the current room.  If you are indoors,
+you will not be able to gain any information about the weather.
+~
+
+56 WHERE~
+Syntax: where [character]
+
+WHERE without an argument will tell you the location of visible players.
+
+WHERE with an argument will tell you the location of one chracter with that
+name.
+~
+
+0 WHO~
+Syntax: who
+Syntax: who [level-range]
+Syntax: who [class]
+Syntax: who [class] [level-range]
+
+WHO shows the people currently in the game on your side of the racewars.
+Some people can choose to remain unseen and won't appear in the WHO.  Some
+people are invisible and you must have the ability to detect invisibility
+to see them on the WHO.
+
+Gods are oftentimes online but not on the WHO.
+
+WHO can be used with arguments to provide a filtered list of players of a
+certain class, level range, or combination.
+~
+0 WHIRLWIND~
+Applied skill:
+     Warrior [Level 1]
+Aggressive:  YES
+
+Whirlwind is used by the warriors to visciously attack all those who oppose
+them in the room.  They firmly hold their weapon and start spinning around
+attacking every mob or player not in the players group.  Whirlwind is 
+essentially a hitall.
+
+NOTE:  Whirlwind will make any mob in the room attack you.  Be wary where
+you use it!
+
+~
+
+56 WHOIS~
+Syntax: whois <character>
+
+WHOIS gives you WHO information on a specific character.  If you request
+is vague, it will match your text to anyone with that string in their names.
+~
+
+0 WIMPY~
+Syntax: wimpy [number]
+
+WIMPY sets your wimpy value.  When your character takes damage that reduces
+your hit points below your wimpy value, you will automatically attempt to flee.
+
+WIMPY with no argument sets your wimpy value to 20% of your maximum hit points.
+
+Some monsters are wimpy and will flee during combat if they are hurt.
+~
+
+0 WISDOM~
+Attribute
+
+Wisdom is a measure of many things: judgement, enlightenment, willpower,
+and intuition.  It represents the planning ability of a character and his
+ability to learn from experience.  It is the primary attribute of all
+priestly classes and is a benefit to all other classes as well, since it
+impacts the speed at which one can learn.
+
+Some races naturally are more wise than others.  The mountain dwarves and
+their duergar enemies are counted as some of the wisests of the races,
+because of their long lifespan and the methods by which they hand down
+information from generation to generation.  Ogres and barbarians are
+considered to be the most unwise.
+
+See also: STATS, STATISTICS, ATTRIBUTES
+~
+
+56 WIZ :~
+Syntax: wiz <message>
+
+WIZ sends a message to all immortals.  ':' is a synonym for WIZ.
+~
+
+56 WIZHELP~
+Syntax: WIZHELP
+
+WIZHELP provides a list of all immortal commands available to you.
+
+See also: ADMINISTRATION
+~
+
+56 WIZIFY~
+Syntax: wizify <character>
+
+WIZIFY toggles the wizbit flag of a character.  This enables the wizified
+character to enter the game despite a WIZLOCK.
+~
+
+-1 WIZLIST~
+
+   These people have achieved immortality and superior powers in this realm.
+   They should be treated with respect and kindness..a few prayers wouldn't be
+   a bad idea now and again either. 
+	
+			      &+rOverlords&n
+                           &+L---&n&+w---&+W---&n&+w---&+L---&n
+
+                               &+RRe&N&+rlin&+Run&N
+                                   &+gDu&+Lbar&N
+			       
+
+			     &+LImplementors&n
+		           &+L---&n&+w---&+W---&n&+w---&+L---&n
+
+                               
+                             &+mGreater Gods&n
+                           &+L---&n&+w---&+W---&n&+w---&+L---&n
+
+			       
+
+                              &+MLesser Gods&n
+                           &+L---&n&+w---&+W---&n&+w---&+L---&n
+
+			       
+
+			      &n&+cImmortals&n
+                           &+L---&n&+w---&+W---&n&+w---&+L---&n
+
+			       
+
+			       &+RAvatars&n
+			   &+L---&n&+w---&+W---&n&+w---&+L---&n
+
+                         &+rDisgruntled Retirees&n
+                         &+L----&n&+w----&+W----&n&+w----&+L----&n
+                               
+			       
+
+&+mAlso make sure to type CREDITS for a complete listing of our zone writers,
+&+mwhom without this would be a very dull mud.&n
+~
+
+
+56 WIZLOCK~
+Syntax: wizlock
+
+WIZLOCK is a toggle command.  When the server is WIZLOCKed, players below
+level immortal without a special bit set may not log in.  Players who lose
+their links, however, may reconnect.
+~
+
+0 ZAP STAFF STAVES WANDS~
+Syntax: zap [target]
+
+ZAP will attempt to use a held magical staff or wand on a target, or the
+object's holder, depending on the nature of the staff or wand.
+
+The staff or wand must be held before it can be zapped.
+
+See also: QUAFF, RECITE
+~
+
+0 ZONES~
+
+Type "zones" for the list of the zones.
+
+See Also:  CREDITS
+~
+
+-1 HUMAN~
+
+The human race is younger than most of the other races of good alignment,
+but already they have become one of the most powerful and numerous.  Humans
+have been blessed (or cursed) with an amazing curiousity and desire to
+expand and conquer.  Humans are very adept at living in a wide range of 
+conditions and can be found almost anywhere.
+
+Humans are more tolerant of other races and more open-minded about their
+views of the world.  They're also one of the more warlike of the good
+aligned races and conflicts between humans and elves, dwarves, and
+other humans are common.  Because of this, some of the older races view
+the humans as untrustworthy and hot-headed.
+
+Class list:  Warrior, ranger, paladin, cleric, druid, sorcerer,
+             Elementalist (any focus), Enchanter, Rogue, Mercenary,
+             Illusionist, Bard
+
+Stats: Humans are the baseline against which all other races are compared.
+As a result, they have no strengths or weaknesses.
+
+        STR: Average            INT: Average
+        DEX: Average            WIS: Average
+        AGI: Average            CHA: Average
+        CON: Average
+
+Innate abilities:  None
+Hometown: Paranel
+
+See also: RACES
+~
+
+-1 DROW 'DROW ELF' DROW ELVES'~
+
+Drow elves, sometimes called dark elves (but never by the drow or anyone
+within earshot that wishes to avoid a fight), are an offshoot of the
+elven race, kin to the grey elves of the surface.  Because of their evil
+nature, the drow were driven out from the homes on the surface and
+forced to move into hiding in the bowels of the Underdark.
+
+The drow hate all creatures of the surface and constantly scheme and plot
+to slay those who dwell in the sunlight.  Life for a drow in their dark,
+gloomy underground cities is hard.  Noble houses and merchant families
+strive for power, obtaining it via any possibly means including
+assassination, political backstabbing, and open warfare.
+
+Class list:  Warrior, Cleric, Sorcerer, Enchanter, Rogue, Scout
+             Bard, Elementalist
+
+Stats:  Drow tend to be weaker and frailer than humans, but are better
+        in most other areas. Drow are somewhat resistant to magical
+        attacks.
+
+        STR: Below Average              INT: Above Average
+        DEX: Above Average              WIS: Above Average
+        AGI: Very Good                  CHA: Average
+        CON: Poor
+
+Innate abilities:  levitate, darkness, faerie fire, ultravision
+Hometown: L'ristrizzen
+
+See also:  RACES, LEVITATE, DARKNESS, "FAERIE FIRE", ULTRAVISION, INNATE
+~
+
+-1 BARBARIAN BARBARIANS~
+
+Barbarians are closely related to humans, but are larger, sturdier,
+and possess more stamina than their human cousins.  Many barbarians
+are roving nomads, content to roam the plains of the north.  Others
+have settled into more permanent towns and cities, forming a society
+based on Clans.  
+
+Most barbarians are ill-tempered.  Humans tend think of the barbarians as
+stupid and dull, but this is certainly not the case for all barbarians.
+Many are outstanding artisans, while others are extremely cunning warriors.
+
+Class list:  Warrior, Mercenary, Shaman
+
+Stats:  Barbarains are generally stronger and hardier than humans,
+        but tend to trail them in all other areas.
+
+        STR: Excellent          INT: Bad
+        DEX: Average            WIS: Bad
+        AGI: Average            CHA: Average
+        CON: Excellent
+
+Innate abilities:  bodyslam, doorbash
+Hometown: The Encampment of the Tribe of Buffalo
+
+See also:  RACES, BODYSLAM, INNATE, DOORBASH
+~
+
+-1 DUERGAR 'DUERGAR DWARF'~
+
+Duergar, or gray dwarves, are an evil and twisted race, living in the lowest
+depths of the Underdark.  Cunning and manipulative, it is said that only the
+duergar can match the cruelty and depravity of the drow elves.  They
+hate all other races, but have some grudging relations with a few of the
+other races of the Underdark.
+
+Duergar, like the mountain dwarves they despise, are inordinately sturdy and
+strong.  They have medium to dark gray skin and hair and prefer to wear
+drab clothing to blend into their environment.  Duergar have the unique
+ability to cloak themselves in darkness, melding into the shadows to
+become invisible.  This ability is only usable in the caverns of the
+Underdark
+
+Class list:  Warrior, Cleric, Rogue, Mercenary
+
+Stats:  Duergar are stronger and hardier than humans, and somewhat
+        more dextrous, but tend to be less intelligent and agile.
+
+        STR: Very Good          INT: Bad
+        DEX: Average            WIS: Average
+        AGI: Average            CHA: Bad
+        CON: Very Good
+
+Innate abilities:  invisibility (underdark only), enlarge, 
+                   ultravision, underdark sneak
+Hometown: XXXXX
+
+See also:  RACES, INVISIBILITY, ENLARGE, ULTRAVISION, INNATE
+~
+
+-1 'GREY ELF' 'GREY ELVES'~
+
+Unlike their cousins the drow, grey elves live on the surface and
+prefer to dwell in forests.  They are exceptionally intelligent and
+swift, but are inclined to be weaker and smaller than humans.  Grey
+elves have a good-natured disposition and tend to love animals and
+nature, although they loathe drow.  They are born with infravision,
+but, unlike drow, can see perfectly in daylight.
+
+Class list:  Ranger, Cleric, Enchanter, Elementalist, Druid, Sorcerer,
+            Rogue, Bard
+
+Stats:  Elves tend to be weaker and frailer than Humans, but are 
+also quicker and more intelligent.
+
+        STR: Below Average              INT: Above Average
+        DEX: Above Average              WIS: Average
+        AGI: Very Good                  CHA: Good
+        CON: Below Average
+
+Innate abilities:  infravision, outdoor sneak (for rogues, rangers,
+and bards).
+Hometown: Shadowglade
+
+See also:  RACES, INFRAVISION, SNEAK, INNATE
+~
+
+-1 OGRE~
+
+Ogres are massive, ugly humanoids, standing nine to ten feet in height
+and weighing between 300 to 400 pounds.  Ill-tempered and nasty, ogres
+are feared by most other races because of their incredible strength
+and warlike nature.
+
+Ogres normally live in tribes, ruled by the strongest.  They constantly
+fight one another and can not be trusted to keep their word.  Some
+ogres focus on the arts of shamanism, but most prefer to pursue the simpler
+life of a warrior.
+
+Class list: Warrior, Shaman, Mercenary
+
+Stats: Ogres have a reputation for stupidity and sluggish behavior.
+       The raw strength and constitution of these creatures make
+       them powerful predators.
+
+        STR: Unsurpassed                INT: Very Poor
+        DEX: Poor                       WIS: Very Poor
+        AGI: Very Poor                  CHA: Pathetic
+        CON: Amazing
+
+Innate abilities: Infravision, doorbash, bodyslam (for warriors and
+mercenaries)
+
+Hometown: XXXXX
+
+See also:  RACES, DOORBASH, INFRAVISION, BODYSLAM, INNATE
+~
+
+-1 DWARF 'MOUNTAIN DWARF'~
+
+Mountain dwarves are a noble race with a history stretching back through the
+ages.  Living in great fortresses of stone and rock, the mountain dwarves
+are miners by nature, delving deep into the mighty mountain ranges to
+carve out their homes.
+
+Dwarves are a close-knit society, preferring the company of their own kind
+to that of outsiders.  Mountain dwarves are quite strong, sturdy, and
+stubborn to a fault.  They can live to be hundreds of years old and it is
+said that each year they live this hard and unyielding nature increases.
+
+Class list: Warrior, Cleric, Rogue, Mercenary, Berserker
+
+Stats: Dwarves are stronger and hardier than humans, and somewhat more
+       dextrous.  They are, however, less agile and intelligent.
+
+        STR: Very Good                  INT: Bad
+        DEX: Average                    WIS: Average
+        AGI: Average                    CHA: Bad
+        CON: Very Good
+
+Innate abilities: infravision, strength
+Hometown: XXXXX
+
+See also: RACES, INFRAVISION, STRENGTH, INNATE
+~
+
+-1 TROLL~
+
+Trolls are an ugly race, tall and wiry and possessing enormous strength.
+They vary in coloration from pale greens to dark browns and blacks, and
+stand much taller than a human.
+
+Trolls are known as being greedy and vicious, living together in warbands in
+a clannish society where the only the strong survive.
+
+Trolls have the ability to regenerate damage at an incredible rate, and
+possess ultravision.
+
+Class list: Warrior, Mercenary, Shaman
+
+Stats:  Quite strong and durable, trolls are cursed with stupidity and lack
+        of wisdom.  They're very quick for their size, which has surprised
+        more than one of their victims.
+
+        STR: Excellent                  INT: Very Poor
+        DEX: Below Average              WIS: Poor
+        AGI: Average                    CHA: Pathetic
+        CON: Very Good
+
+Innate abilities: ultravision, bodyslam (for warriors and mercenaries)
+
+Hometown: XXXXX
+
+See also: RACES, BODYSLAM, ULTRAVISION
+~
+
+-1 HALFLING~
+
+Halflings are a small humanoid race, blessed with amazing quickness and
+dexterity but hampered by their lack of size.  Jovial and carefree by nature,
+halflings stand roughly half the size of a human (hence the name), and
+usually possess curly brown or dark hair, a light tan complexion, and a
+stout or heavy frame caused by the halfling tendancy to indulge in good
+food and spirits.
+
+Halflings make excellent thieves because of their impressive quickness, but
+this has caused many people to shun or outcast the entire race.  "All
+halflings are thieves, it's just some do it more often" is a popular saying.
+
+Class list: Warrior, Cleric, Sorcerer, Thief
+
+Stats:  Nimble and quick, halflings are quick on their feet and just as fast
+        with their hands.  Weaker than humans, they aren't overly intelligent
+        or wise either.
+
+        STR: Below Average              INT: Below Average
+        DEX: Exceptional                WIS: Bad
+        AGI: Exceptional                CHA: Average
+        CON: Average
+
+Innate abilities: Infravision
+
+Hometown: Woodseer
+
+See also: RACES, INNATE, INFRAVISION
+
+~
+
+-1 ORC~
+
+Orcs are a race of evil humanoids, some say a twisted mockery of the human
+race.  They typically stand five to six feet tall and have pale yellow, brown,
+or greenish skin and red eyes.  Orcs are the most social of the evil races,
+and are known to build huge warbands that invade and pillage the lands of the
+good races until they are destroyed.
+
+Orcs have roughly the same attributes as humans as well, further hinting at
+some link between the two species, although what that link may be has been
+lost in time.
+
+Class list: Warrior, Shaman, Cleric, Sorcerer, Conjurer, Mercenary, Thief,
+            Assassin, Anti-paladin, Illusionist
+
+Stats:  Orcs are almost mirror images of humans, possessing a little more 
+        strength and constitution, but a little less intelligence and wisdom.
+
+        STR: Above Average              INT: Average
+        DEX: Average                    WIS: Average
+        AGI: Average                    CHA: Average
+        CON: Above Average
+
+Innate abilities: Ultravision, Infravision, Summon Horde
+Hometown: Storm Port
+
+See also: RACES, INNATE, INFRAVISION, ULTRAVISION, SUMMON HORDE
+
+~
+
+-1 GNOME~
+
+Gnomes are small humanoids, similar in stature to halflings, but more related
+to the dwarven races than halflings.  Gnomes are intelligent and curious, and
+have a fascination with all things mechanical and magical.  Gnomes are also
+known to be a sturdy and dependable race.
+
+Class list: Warrior, Cleric, Sorcerer, Conjurer, Illusionist
+
+Stats:  Gnomes have quick minds and above normal wisdom, and a quick and 
+        dextrous body to match.  They lack strength, but are surprisingly 
+        durable for their size.
+
+        STR: Below Average              INT: Very Good
+        DEX: Above Average              WIS: Above Average
+        AGI: Good                       CHA: Below Average
+        CON: Above Average
+
+Innate abilities: Infravision
+
+Hometown: XXXXX
+
+See also: RACES, INNATE, INFRAVISION
+
+~
+
+-1 MINOTAUR~
+Coming soon!
+
+~
+
+-1 HALF-ELF 'HALF ELF'~
+
+Half-elves are a combination of human and elven parents, and this mixed
+breeding usually causes them to be shunned by both sides.  Usually humans
+and elves cannot have children, but in a few cases a normal birth occurs,
+often at the cost of the mother's life.  This sad way to enter the world
+is just the start of what is usually a tough and unfair life for a half-elf.
+
+Half-elves usually come in two types: those who try to fit in with "normal"
+society, and those with a chip on their shoulders who dare anyone to look down
+upon them because of their heritage.
+
+Half-elves have a mixture of human and elven physical traits, being somewhat
+stronger and healthier than grey elves, but less so than a human.
+
+Class list: Warrior, Ranger, Druid, Sorcerer, Conjurer, Bard
+
+Stats:  Half-elves tend to be slightly weaker and frailer than humans, but
+        are quicker and smarter than their related kin.  
+
+        STR: Below Average              INT: Average
+        DEX: Average                    WIS: Average
+        AGI: Average                    CHA: Average
+        CON: Average
+
+Innate abilities: Infravision
+Hometown: Shadowglade
+
+See also: RACES, INNATE, INFRAVISION
+
+~
+
+-1 GOBLIN~
+
+Goblins are a race of evil humanoids that are, typically, three to four
+feet tall with green or yellowish skin and red eyes.  Goblins are usually
+looked down upon by many of the other evil races because of their small
+stature, despite the fact that goblin shamans are dangerous casters.
+
+In the world of the Underdark, where surviving from day to day is difficult,
+goblins are survivors.  Despite their small size, goblins can adapt to
+their environments very easy and learn to fit in.  If more powerful races
+threaten to overwhelm a goblin village, they either flee to live another day
+or learn to make themselves invaluable to their conquerers.  Either way, the
+main goal of a goblin is to live to see another day.
+
+Class list: Warrior, Shaman, Cleric, Thief
+
+Stats:  Goblins tend to be weaker than most other races, but have a strange
+        kind of wisdom that comes from being survivors.  Goblins are quick
+        enough to roll with a punch, and fast enough to stick a dagger in
+        the person doing the punching.
+
+        STR: Below Average              INT: Very Good
+        DEX: Above Average              WIS: Above Average
+        AGI: Good                       CHA: Below Average
+        CON: Above Average
+
+Innate abilities: Ultravision
+Hometown: Malch'hor Ganl
+
+See also: RACES, INNATE, ULTRAVISION
+
+~
+
+-1 CENTAUR~
+
+Centaurs are a race with human torsos atop the bodies of horses.  Because
+of their odd body shapes, they cannot wear some of the equipment that normal
+humanoid-shaped races can.  Their strength, however, makes them ideal
+warriors, and they can wield much larger weapons than any of the other
+surface races.  They prefer to dwell in natural surroudings, shunning the
+major cities, and this link with nature has led them to develop a small
+talent for druidic practices.  Their somewhat slow-wittedness, however,
+makes them somewhat less wise than the rest of the surface world.
+
+Some people shun or hunt centaurs because of their odd physical shape.
+Many times centaurs are outcast from the larger cities when they do visit.
+This has caused the centaur peoples to become very tribal and close-knit.
+
+Class list: Warrior, druid
+
+Stats:  Centaurs are large and very strong.  They lack the keen mental powers
+        of some of the other surface races and they tend to be a little bit
+        clumsy because of their bulk.
+
+        STR: Unsurpassed                INT: Very Poor
+        DEX: Poor                       WIS: Poor
+        AGI: Poor                       CHA: Below Average
+        CON: Excellent
+
+Innate abilities: Infravision, Doorkick
+Hometown: The Forest of Autumnglen
+
+See also: RACES, INNATE, INFRAVISION, DOORKICK
+
+~
+
+-1 RAKSHASA~
+
+Rakshasas are a race of evil spirits encased in flesh.  Standing between
+six and seven feet tall, they appear as humanoid creatures with the bodily
+features of animals, usually tigers and apes.  Rakshasa are enemies of
+humanity, waging a constant war for reasons unknown to any but the Rakshasa.
+
+Magical in nature, rakshasas make excellent spellcasters and have an innate
+resistance to magical attacks.  They are honorable creatures but also tend
+to be manipulative and deceptive, twisting arguments to suit their purposes.
+
+Class list: Warrior, Conjurer, Sorcerer, Shaman, Thief, Assassin, 
+            Illusionist, Bard
+
+Stats:  Rakshasa tend to be weaker than their human enemies, but quicker and
+        more intelligent.
+
+        STR: Below Average              INT: Above Average
+        DEX: Above Average              WIS: Average
+        AGI: Very Good                  CHA: Good
+        CON: Below Average
+
+Innate abilities: Ultravision, Underdark Sneak (except sorcerers, shamans,   
+                  conjurers, and illusionists)
+Hometown: Klarisan Academy/Rakropolis
+
+See also: RACES, INNATE, ULTRAVISION, SNEAK
+
+~
+
+-1 SAURIAL~
+
+Coming soon!
+
+~
+
+-1 FLIND~
+
+Flind are evil, dog-faced humanoids, able to stand erect on two legs and with
+hands able to manipulate as well as any human.  Smarter than gnolls, who are
+similar in appearance to the flind, they are short, dirty, and usually
+covered in red or brown fur.
+
+The flind are a pack society, preferring to live in isolated flind
+communities.  The head of the pack is usually the strongest warrior in the
+community and serves until another defeats him in ritual combat.  Flind are
+vicious and bloodthirsty, and flind raiding parties are common sights in many
+of the more remote locations of civilization.  Flind prefer to attack those
+weaker than themselves, and have a tendancy to flee from fair fights.
+
+Class list: Warrior, Mercenary, Shaman, Sorcerer, Conjurer, Thief
+
+Stats:  Flind are more muscular and more intelligent than their gnoll
+        cousins, which puts them about on an even level with humans.  Flinds
+        make good spellcasters because of their intelligence, but the most
+        flind choose to be more aggressive warrior classes.
+
+        STR: Below Average              INT: Average
+        DEX: Average                    WIS: Average
+        AGI: Average                    CHA: Average
+        CON: Average
+
+Innate abilities: Ultravision
+
+Hometown: XXXXX
+
+See also: RACES, INNATE, ULTRAVISION
+
+~
+
+-1 GITHZERAI~
+
+Coming soon!
+
+~
+
+-1 GITHYANKI~
+
+Coming soon!
+
+~
+
+-1 'WILD ELF' 'WILD ELVES'~
+
+Coming soon!
+
+~
+
+-1 'AQUA ELF' 'AQUATIC ELF' 'AQUATIC ELVES' 'AQUA ELVES'~
+
+Coming soon!
+
+~
+
+-1 KOBOLD KOBOLDS~
+
+Coming soon!
+
+~
+
+-1 THRI 'THRI-KREEN' THRIKREEN~
+
+Coming soon!
+
+~
+-1 FAERIE FAERIES~
+
+Coming soon!
+~
+-1 'WOOD ELF' WOOD WOODELF 'WOOD ELVES' WOODELVES~
+
+Coming soon!
+~
+
+-1 WARRIOR~
+Fighter sub-class
+
+Warriors excel in hand to hand combat, living for the thrill of bloody,
+close-combat melees.  They are trained specifically for fighting and have
+combat skills that other classes cannot match.
+
+Warriors excel in rescueing, kicking, and parrying.  They are the only class
+that gains the triple attack skill at high levels.  In addition, they also
+are the only class that gets the guard skill.
+
+Important Attributes: Strength, Constitution, Dexterity, Agility
+Races:
+
+Equipment: Warriors can use almost all weapons and armor.  They are limited
+           in the types of magical items such as wands, staves, or scrolls.
+
+Innate Abilities: None
+
+See also: WARRIOR SKILLS
+~
+
+-1 'WARRIOR SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Misc
+     1h Piercing
+     1h Slashing
+     2h Bludgeon
+     2h Misc
+     2h Piercing
+     2h Slashing
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Bash
+     Berserk
+     Blindfighting
+     Carve
+     Disarm
+     Dodge
+     Double Attack
+     Dual Wield
+     First Aid
+     Hitall
+     Kick
+     Mount
+     Parry
+     Offense
+     Rescue
+     Riposte
+     Swim
+     Switch Opponents
+     Throwing Weapon
+     Unarmed Damage
+[Level 20]
+     Guard
+[Level 51]
+     Triple Attack
+~
+
+-1 RANGER~
+Fighter sub-class
+
+Rangers are fighters who are trained in outdoor survival and combat.  Rangers
+lack some of the raw, physical power of a warrior, but make up for it with
+the unsurpassed abilities they have in wielding two weapons at once.
+
+Rangers, because of their nature, have a unique set of skills that helps them
+survive in the wilderness.  They have a link with nature, and are at their best
+when fighting in a natural environment.
+
+Rangers have limited spellcasting abilities, which increases as they gain in
+level and learn to harness the raw forces of the magic of nature.  
+
+Important Attributes: Strength, Dexterity, Agility, Intelligence
+Races: Grey Elf, Half-Elf, Human
+
+Equipment: Rangers can use almost all weapons and armor.  They are limited in
+           the types of magical items such as wands, staves, or scrolls.
+
+Innate Abilities: Outdoor Sneak
+
+See also: RANGER SKILLS, RANGER SPELLS
+
+~
+
+-1 'RANGER SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Misc
+     1h Piercing
+     1h Slashing
+     2h Bludgeon
+     2h Misc
+     2h Piercing
+     2h Slashing
+     Aerial Casting
+     Aerial Combat
+     Awareness
+     Bandage
+     Barehanded Fighting
+     Bash
+     Blindfighting
+     Carve
+     Dodge
+     Double Attack
+     Dual Wield
+     First Aid
+     Kick
+     Meditate
+     Mount
+     Offense
+     Parry
+     Quick Chant
+     Rescue
+     Riposte
+     Scribe
+     Springleap
+     Swim
+     Throwing Weapon
+     Track
+     Unarmed Damage
+[Level 10]
+     Clerical Spell Knowledge
+     Sorcerous Spell Knowledge
+~
+
+-1 'RANGER SPELLS'~
+[1st Circle]
+[2nd Circle]
+[3rd Circle]
+     Bless
+     Detect Evil
+     Magic Missile
+     Vigorize Light
+[4th Circle]
+     Create Food
+     Create Water
+     Cure Light
+     Detect Magic
+     Protection from Evil
+[5th Circle]
+     Barkskin
+     Chill Touch
+     Dispel Evil
+     Vigorize Serious
+[6th Circle]
+     Concealment
+     Faerie Fog
+     Sense Life
+[7th Circle]
+     Infravision
+     Lightning Bolt
+[8th Circle]
+     Call Lightning
+[9th Circle]
+     Farsee
+     Haste
+[10th Circle]
+     Dazzle
+     Firestorm
+[11th Circle]
+     Blur
+~
+
+-1 PALADIN~
+Fighter sub-class
+
+Paladins are holy warriors, people who fight for their gods and attempt to
+bring good to the world.  Paladins are given some limited spellcasting
+abilities by their gods, but only as long as they strive to destroy what is
+evil and vile in the world.  Paladins are experts with two-handed weapons,
+gaining bonuses to hit as they go up in level.  In addition, paladins have
+a much higher chance of successfully bashing an opponent without using a shield.
+
+Paladins can detect evil and have the ability to summon a mount when the need
+arises.  Paladins can also layhands, channelling the healing power of their
+god onto themselves or another person.
+
+Paladins cannot group with anti-paladins, and most likely would attack such an
+evil creature on sight.
+
+Important Attributes: Strength, Dexterity, Agility, Wisdom
+Races: Human
+
+Equipment: Paladins can use almost all weapons and armor.  They are limited
+           in the types of magical items such as wands, staves, or scrolls.
+
+Innate Abilities: Layhands, Detect Evil, Summon Mount (at level 10),
+                  Protection from Evil
+
+Paladins, because of their religious nature, may NOT toggle vicious to on.
+They cannot toggle AGGR on either.  Paladins can also LOSE experience from
+attacking good-aligned creatures.  The following chart gives you an idea of
+how experience is calculated for paladins:
+
+Victim is evil or neutral with alignment less than 0:
+     Full experience as normal
+Victim is neutral with alignment equal to or more than zero and aggressive:
+     Gain 1/5th normal experience
+Victim is neutral with alignment equal to or more than zero and not
+aggressive:
+     Lose 1/5th normal experience
+Victim is good and aggressive:
+     Gain 1/50th normal experience
+Victim is good and non-aggressive:
+     Lose experience equal to the normal amount
+
+See also: PALADIN SKILLS, PALADIN SPELLS, LAYHANDS, SUMMON MOUNT
+
+~
+
+-1 'PALADIN SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Misc
+     1h Piercing
+     1h Slashing
+     2h Bludgeon
+     2h Misc
+     2h Piercing
+     2h Slashing
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Blindfighting
+     Carve
+     Dodge
+     Double Attack
+     First Aid
+     Kick
+     Meditate
+     Mount
+     Offense
+     Parry
+     Quick Chant
+     Rescue
+     Riposte
+     Summon Mount
+     Swim
+     Switch Opponents
+     Unarmed Damage
+[Level 10]
+     Clerical Spell Knowledge
+     Mounted Combat
+~
+
+-1 'PALADIN SPELLS'~
+[1st Circle]
+[2nd Circle]
+     Bless
+[3rd Circle]
+     Armor
+     Cure Light
+     Protection from Evil
+     Vigorize Light
+[4th Circle]
+     Cure Blind
+     Dispel Evil
+     Remove Poison
+[5th Circle]
+     Cure Serious
+     Turn Undead
+     Vigorize Serious
+[6th Circle]
+     Cure Critic
+     Destroy Undead
+     Remove Curse
+[7th Circle]
+     Soulshield
+[8th Circle]
+     Continual Light
+     Cure Disease
+     Heal
+[9th Circle]
+     Holy Word
+[10th Circle]
+     Holy Sacrifice
+     Mass Heal
+[11th Circle]
+     Judgement
+~
+
+-1 'ANTI-PALADIN' ANTI 'ANTI PALADIN'~
+Fighter sub-class
+
+Anti-paladins are the anti-thesis of paladins.  They serve the evil gods and
+seek to bring nothing but pain and suffering to the world.  Some are
+paladins who have fallen from grace or been turned in their faith by dark
+gods.  Others are from the evil races.
+
+Anti-paladins, like paladins, get limited spellcasting abilities granted by
+their gods.  These abilities increase as their level increases, showing the
+anti-paladin to be gaining favor with his chosen diety.  
+
+Anti-paladins have the innate ability to detect good, and have some limited
+protection from good.  Anti-paladins are superb fighters when wielding
+two-handed weapons and have trained so that they can bash effectively when
+not using a shield.  Anti-paladins are granted the powers of 'vampiric touch',
+their dark gods healing them as they do damage to others.
+
+Important Attributes: Strength, Dexterity, Agility, Wisdom
+Races: Orc, Human
+
+Equipment: Anti-Paladins can use almost all weapons and armor.  They are
+           limited in the types of magical items such as wands, staves, or
+           scrolls.
+
+Innate Abilities: Detect Good, Summon Mount (must be level 10), Protection from 
+                  Good, Vampiric Touch
+
+See also: ANTI-PALADIN SKILLS, ANTI-PALADIN SPELLS, DETECT GOOD, SUMMON MOUNT, 
+          PROTECTION FROM GOOD, VAMPIRIC TOUCH
+
+~
+
+-1 'ANTI-PALADIN SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Misc
+     1h Piercing
+     1h Slashing
+     2h Bludgeon
+     2h Slashing
+     2h Misc
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Bash
+     Blindfighting
+     Carve
+     Dodge
+     Double Attack
+     First Aid
+     Kick
+     Meditate
+     Mount
+     Offense
+     Parry
+     Rescue
+     Riposte
+     Summon Mount
+     Swim
+     Throwing Weapon
+     Unarmed Damage
+[Level 10]
+     Clerical Spell Knowledge
+     Mounted Combat
+     Sorcerous Spell Knowledge
+~
+
+-1 'ANTI-PALADIN SPELLS'~
+[1st Circle]
+[2nd Circle]
+[3rd Circle]
+     Armor
+     Cause Light
+     Protection From Good
+     Vigorize Light
+[4th Circle]
+     Dispel Good
+[5th Circle]
+     Cause Serious
+     Fear
+     Vigorize Serious
+[6th Circle]
+     Blindness
+     Cause Critical
+     Curse
+[7th Circle]
+     Soulshield
+[8th Circle]
+     Darkness
+     Wither
+[9th Circle]
+     Harm
+     Unholy Word
+[10th Circle]
+     Battle Ecstasy
+[11th Circle]
+     Apocalypse
+~
+
+-1 THIEF~
+Rogue sub-class
+
+Thieves are rogues, stealing and killing to make a living.  They're the
+masters of picking locks, finding traps, and stealing from friend and foe
+alike.  Thieves prefer to skulk in the shadows during combat, waiting for
+the opportunity to stab someone in the back.  They have some abilities that
+allow them to fight head-to-head, but against a properly trained and
+equipped warrior, they probably don't stand a chance.
+
+Important Attributes: Strength, Dexterity, Agility
+Races: 
+
+Equipment: Thieves are rogues, and can use most weapons.  Their choice of
+           armor is more limited, however, since heavy armor makes sneaking in
+           shadows impossible.
+
+Innate Abilities: None
+
+See also: THIEF SKILLS
+
+~
+
+-1 'THIEF SKILLS~
+[Level 1]
+     1h Bludgeon
+     1h Misc
+     1h Piercing
+     1h Slashing
+     2h Misc
+     Aerial Combat
+     Apply Poison
+     Awareness
+     Backstab
+     Bandage
+     Barehanded Fighting
+     Blindfighting
+     Carve
+     Circle
+     Climb
+     Dirt Toss
+     Disarm
+     Dodge
+     Double Attack
+     Dual Wield
+     First Aid
+     Hide
+     Instant Kill
+     Listen
+     Mount
+     Offense
+     Pick Lock
+     Safe Fall
+     Shadow
+     Sneak
+     Steal
+     Swim
+     Switch Opponents
+     Throwing Weapon
+     Trip
+     Unarmed Damage
+[Level 10]
+     Appraise
+[Level 20]
+     Subterfuge
+[Level 51]
+     Parry
+~
+
+-1 ASSASSIN~
+Rogue sub-class
+
+Assassins are trained killers, men and women who cloak themselves in dark and
+shadows in order to slay their chosen victims.  Assassins are the masters of
+the "instant kill", surprising a foe and murdering it in a single strike.
+Assassins are experts in the arts of backstabbing, placing a dagger or two
+right in the vital areas of a target and causing horrendous damage.  Most
+assassins work alone, although some work in teams in order to bring down
+difficult opponents.
+
+Important Attributes: Strength, Dexterity, Agility
+Races: 
+
+Equipment: Assassins are rogues, and can use most weapons.  Their choice of 
+           armor is more limited, however, since heavy armor makes sneaking
+           in shadows impossible.
+
+Innate Abilities: None
+
+See also: ASSASSIN SKILLS
+
+~
+
+-1 'ASSASSIN SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Misc
+     1h Piercing
+     1h Slashing
+     2h Misc
+     Aerial Combat
+     Apply Poison
+     Awareness
+     Backstab
+     Bandage
+     Barehanded Fighting
+     Blindfighting
+     Carve
+     Circle
+     Climb
+     Dirt Toss
+     Disarm
+     Dodge
+     Double Attack
+     Dual Wield
+     First Aid
+     Hide
+     Instant Kill
+     Listen
+     Mount
+     Offense
+     Pick Lock
+     Safe Fall
+     Shadow
+     Sneak
+     Steal
+     Swim
+     Switch Opponents
+     Throwing Weapon
+     Trip
+     Unarmed Damage
+[Level 10]
+     Appraise
+[Level 20]
+     Subterfuge
+[Level 51]
+     Parry
+~
+
+-1 CLERIC~
+Priest sub-class
+
+Clerics are men and women who gain magical powers granted by their gods.
+Their deities give them great abilities which they use to further the goals
+of their chosen gods and goddesses.
+
+The deity a cleric worships is chosen by his or her race, and sometimes by
+the clerics sex as well (in the case of the drow deities).  Each god or
+goddess grants their follows with some unique spells and abilities.
+
+Falling out of favor with one's god (usually because of a cleric's alignment
+changing) can be very nasty.  Gods do not enjoy priests who turn away from
+their religion.
+
+Important Attributes: Wisdom
+Races: 
+
+Equipment: Clerics are priests, and are restricted to using non-edged weapons 
+           such as clubs, maces, and flails.  Priests can wear most types of 
+           armor.
+
+Innate Abilities: None
+
+See also: CLERIC SKILLS, CLERIC SPELLS, SPELLCAST, CAST, PRAY, CLERICAL SPELL 
+          KNOWLEDGE, DEITIES
+
+~
+
+-1 'CLERICAL SKILLS'~
+[Level 1]
+     1h Bludgeon
+     2h Bludgeon
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Carve
+     Clerical Spell Knowledge
+     Dodge
+     First Aid
+     Meditate
+     Mount
+     Offense
+     Quick Chant
+     Swim
+     Throwing Weapon
+~
+
+-1 'CLERICAL SPELLS'~
+These are the standard spells granted to all clerics.  For the
+deity-specific spells, please read HELP DEITIES.
+
+[1st Circle]
+     Armor
+     Bless
+     Cause Light
+     Cure Light
+     Detect Evil
+     Detect Good
+     Detect Magic
+     Turn Undead
+[2nd Circle]
+     Cause Serious
+     Create Food
+     Create Water
+     Cure Serious
+     Preserve
+     Slow Poison
+     Vigorize Light
+[3rd Circle]
+     Cause Critical
+     Cure Blind
+     Cure Critic
+     Dispel Evil
+     Dispel Good
+     Earthquake
+     Remove Poison
+     Sense Life
+     Vigorize Serious
+[4th Circle]
+     Blindness
+     Comprehend Languages
+     Cure Disease
+     Destroy Undead
+     Protection from Acid
+     Protection from Cold
+     Protection from Evil
+     Protection from Gas
+     Protection from Good
+     Protection from Fire
+     Protection from Lightning
+     Remove Curse
+     Summon
+     Vigorize Critic
+[5th Circle]
+     Heal
+     Soulshield
+     Vitality
+[6th Circle]
+     Curse
+     Continual Light
+     Darkness
+     Fear
+     Flame Strike
+     Harm
+     Silence
+     Word of Recall
+[7th Circle]
+     Full Heal
+     Rejuvenate
+     Water Breathing
+[8th Circle]
+     Dispel Magic
+     Mass Heal
+[9th Circle]
+     Holy Word
+     Plane Shift
+     Unholy Word
+[10th Circle]
+     Full Harm
+     Resurrect
+[11th Circle]
+     Group Heal
+     Group Recall
+     True Seeing
+~
+
+-1 DRUID~
+Priest sub-class
+
+Druids are priests who gain their powers from nature itself.  They usually
+live in the woods and forests and live to protect the trees and wildlife
+contained within.  Attempting to harm a druid's forest in any way will bring
+the priest's wrath.  Druids gain spells from the deities of the forests and
+nature, and have some incredible powers at their disposal.  Many of these
+spells must be cast in the outdoors, while others are just less effective
+while inside.
+
+Important Attributes: Wisdom
+Races: 
+
+Equipment: Druids are priests, and are restricted to using non-edged weapons 
+           such as clubs, maces, and flails.  Priests can wear most types of 
+           armor.
+
+Innate Abilities: None
+
+See also: DRUID SKILLS, DRUID SPELLS, SPELLCAST, CAST, PRAY, CLERICAL SPELL 
+          KNOWLEDGE
+
+~
+
+-1 'DRUID SKILLS'~
+[Level 1]
+     1h Bludegon
+     1h Slashing
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Carve
+     Clerical Spell Knowledge
+     Dodge
+     First Aid
+     Meditate
+     Mount
+     Quick Chant
+     Swim
+     Throwing Weapon
+~
+
+-1 'DRUID SPELLS'~
+[1st Circle]
+     Barkskin
+     Cause Light
+     Cure Light
+     Create Food
+     Create Water
+     Detect Magic
+[2nd Circle]
+     Bless
+     Cause Serious
+     Cure Serious
+     Detect Evil
+     Detect Good
+     Faerie Fire
+     Preserve
+     Remove Poison
+     Vigorize Light
+[3rd Circle]
+     Cure Blind
+     Dispel Evil
+     Dispel Good
+     Faerie Fog
+     Protection from Acid
+     Protection from Cold
+     Protection from Fire
+     Protection from Gas
+     Protection from Lightning
+     Vigorize Serious
+[4th Circle]
+     Cause Critical
+     Comprehend Languages
+     Create Spring
+     Cure Critic
+     Darkness
+     Earthquake
+     Protection from Evil
+     Protection from Good
+     Sense Life
+     Summon
+     Sustenance
+[5th Circle]
+     Call Lightning
+     Harm
+     Poison
+     Remove Curse
+[6th Circle]
+     Continual Light
+     Heal
+     Lightning Bolt
+     Silence
+     Vitality
+     Word of Recall
+[7th Circle]
+     Firestorm
+     Cyclone
+     Water Breathing
+[8th Circle]
+     Dispel Magic
+     Entangle
+     Greater Sustenance
+[9th Circle]
+     Plane Shift
+     Sunray
+[10th Circle]
+     Creeping Doom
+     Moonwell
+[11th Circle]
+     Sunburst
+~
+
+-1 SHAMAN~
+Priest sub-class
+
+Shamans wield the forces of nature, the elements, and the spirit world, using
+totems to focus their powers into terrific magical effects.  Unlike druids,
+who also gain powers from nature, shamans do not worship any deities.  They
+harness and twist the forces of nature into doing their bidding, rather than
+asking politely as would a druid.
+
+Shamans must use totems to cast spells.
+
+Important Attributes: Wisdom
+Races: 
+
+Equipment: Shaman are priests, and are restricted to using non-edged weapons
+           such as clubs, maces, and flails.  Priests can wear most types of 
+           armor.
+
+Innate Abilities: None
+
+See also: SHAMAN SKILLS, SHAMAN SPELLS, SPELLCAST, CAST, MEMORIZE, SHAMAN SPELL 
+          KNOWLEDGE, TOTEMS
+
+~
+
+-1 'SHAMAN SKILLS'~
+[Level 1]
+     1h Bludgeon
+     2h Bludgeon
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Carve
+     Dodge
+     First Aid
+     Meditate
+     Mount
+     Quick Chant
+     Shaman Spell Knowledge
+     Swim
+     Throwing Weapons
+~
+
+-1 'SHAMAN SPELLS'~
+[1st Circle]
+     Ice Missile
+     Spirit Armor
+     Transfer Wellness
+     Wolfspeed
+[2nd Circle]
+     Flameburst
+     Lesser Mending
+     Reveal Spirit Essence
+     Sustenance
+[3rd Circle]
+     Cold Ward
+     Fire Ward
+     Molevision
+     Purify Spirit
+     Pythonsting
+     Scalding Blast
+     Snailspeed
+[4th Circle]
+     Mending
+     Mousestrength
+     Pantherspeed
+     Scorching Touch
+     Soul Disturbance
+[5th Circle]
+     Bearstrength
+     Malison
+     Molten Spray
+     Sense Spirit
+     Shrewtameness
+[6th Circle]
+     Earthen Grasp
+     Greater Mending
+     Lionrage
+     Spirit Anguish
+     Spirit Sight
+     Wellness
+[7th Circle]
+     Elephantstrength
+     Greater Soul Disturbance
+     Greater Sustenence
+     Ravenflight
+     Spirit Ward
+[8th Circle]
+     Greater Pythonsting
+     Reveal True Form
+     Scathing Wind
+     Spirit Jump
+[9th Circle]
+     Arieks Shattering Iceball
+     Greater Ravenflight
+     Greater Spirit Ward
+[10th Circle]
+     Earthen Rain
+     Etherportal
+[11th Circle]
+     Call of the Wild
+     Greater Earthen Grasp
+     Greater Spirit Sight
+~
+
+-1 SORCERER~
+Magic-User sub-class
+
+Sorcerers are spellcasters who have focused their lives on gaining power
+from the magical forces that surround them.  They wield incredible offensive
+power with their magic, but their physical abilities are lacking.  Sorcerers,
+like all magic-users, must rely on spellbooks to contain their accumulated
+knowledge.  The spellbook is used when memorizing the spell, but once it has
+been cast, the knowledge of its casting disappears from the sorcerer's memory.
+
+Important Attributes: Intelligence
+Races: 
+
+Equipment: Sorcerers are spellcasters and are very limited in their use of 
+           weapons and armor.  They have an unsurpassed ability to use
+           magical objects such as staves, wands, and scrolls.
+
+Innate Abilities: None
+
+See also: SORCERER SKILLS, SORCERER SPELLS, SPELLCAST, CAST, MEMORIZE,
+          SORCEROUS SPELL KNOWLEDGE, SPELLBOOKS
+~
+
+-1 'SORCERER SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Piercing
+     2h Bludgeon
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Carve
+     Dodge
+     First Aid
+     Meditate
+     Mount
+     Quick Chant
+     Scribe
+     Sorcerous Spell Knowledge
+     Swim
+     Throwing Weapon
+~
+
+-1 'SORCERER SPELLS'~
+[1st Circle]
+     Detect Magic
+     Magic Missile
+     Minor Creation
+[2nd Circle]
+     Burning Hands
+     Chill Touch
+[3rd Circle]
+     Acid Blast
+     Concealment
+     Dexterity
+     Locate Object
+     Shocking Grasp
+     Strength
+[4th Circle]
+     Dispel Magic
+     Farsee
+     Infravision
+     Levitate
+     Lightning Bolt
+     Minor Paralysis
+     Ray of Enfeeblement
+     Sleep
+     Teleport
+     Wizard Eye
+[5th Circle]
+     Coldshield
+     Comprehend Languages
+     Cone of Cold
+     Dimension Door
+     Minor Globe of Invulnerability
+     Slowness
+[6th Circle]
+     Color Spray
+     Feeblemind
+     Fireball
+     Fireshield
+     Ice Storm
+[7th Circle]
+     Bigbys Clenched Fist
+     Chain Lightning
+     Improved Invisibility
+     Prismatic Spray
+     Reveal True Name
+[8th Circle]
+     Dispel Invisible
+     Fly
+     Incendiary Cloud
+[9th Circle]
+     Detect Invisibility
+     Immolate
+     Mass Invisibility
+     Relocate
+[10th Circle]
+     Meteorswarm
+[11th Circle]
+     Akiaurn's Power Word
+     Enlarge
+     Reduce
+~
+
+-1 ELEMENTALIST~
+Magic-User sub-class
+
+Elementalists focus on one of the major elements (air, fire, water, earth)
+and learn to harness the power of that element for use in spellcasting.
+Elementalists can conjure up beings of their chosen element, called
+elementals, and have them serve as pets for short periods of time.  They
+also gain other powerful spells from their studies, and the effects of those
+spells vary wildly from one element to another.
+
+As stated above, there are four types of elementalists.  The evil races are
+more akin to the destructive powers of fire and air.  The good races are more
+akin to the powers of earth and water.  Each element has an opposite (air and
+earth, fire and water) and there are spells that are based on this opposition.
+
+Like sorcerers, elementalists must have spellbooks to memorize their spells.
+Without the knowledge contained within those tomes, the elementalist cannot
+wield his power.
+
+Important Attributes: Intelligence
+Races: 
+
+Equipment: Elementalists are spellcasters and are very limited in their use
+           of weapons and armor.  They have an unsurpassed ability to use
+           magical objects such as staves, wands, and scrolls.
+
+Innate Abilities: None
+
+See also: ELEMENTALIST SKILLS, ELEMENTALIST SPELLS, SPELLCAST, CAST, MEMORIZE,
+          ELEMENTAL SPELL KNOWLEDGE, SPELLBOOKS
+~
+
+-1 'ELEMENTALALIST SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Piercing
+     2h Bludgeon
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Carve
+     Dodge
+     First Aid
+     Meditate
+     Mount
+     Quick Chant
+     Scribe
+     Sorcerous Spell Knowledge
+     Swim
+     Throwing Weapon
+~
+
+-1 'ELEMENTALIST SPELLS'~
+Each "focus" of elementalism contains its own unique spells.  For more
+information, see:
+     HELP AIR ELEMENTALIST
+     HELP WATER ELEMENTALIST
+     HELP EARTH ELEMENTALIST
+     HELP FIRE ELEMENTALIST
+~
+
+-1 'AIR ELEMENTALIST'~
+
+Coming soon!
+
+~
+
+-1 'WATER ELEMENTALIST'~
+
+Coming soon!
+
+~
+
+-1 'EARTH ELEMENTALIST'~
+
+Coming soon!
+
+~
+
+-1 'FIRE ELEMENTALIST'~
+
+Coming soon!
+
+~
+
+
+-1 ENCHANTER~
+
+Coming soon!
+
+~
+
+-1 BERSERKER~
+
+Coming soon!
+
+~
+
+-1 HUNTER~
+
+Coming Soon!
+
+~
+
+-1 MYSTIC~
+
+Coming soon!
+
+~
+
+-1 WARLOCK~
+
+Coming soon!
+
+~
+
+-1 CHRONOMANCER~
+
+Coming soon!
+
+~
+
+-1 BARD~
+Rogue sub-class
+
+Bard are a unique clss, mixing a blend of rogue skills with magical
+abilities granted by their music.  Bards are traveling entertainers,
+telling tales and singing songs of lore and heroism.
+
+Bards use instruments and song to create magical effects.  The power
+of their music may not be as powerful as a mage's magic, but many of
+the bard's "spells" are unique to his class and very beneficial to the
+bard's entire party.  Bards are truly suited for large groups.
+
+Not even the greatest of bards can sing indefinitely, however, and
+when the throat of a bard gets sore, he must rest to regain his strength.
+This is represented by a bard's "mana", which regenerates over time.
+Each song a bard plays takes a certain amount of mana.  Certain songs can
+be continuously sung, draining mana over a period of time.
+
+Important Attributes: Intelligence, Wisdom, Constitution
+Races: 
+
+Equipment: 
+
+Equipment: Bards are rogues, and can use most weapons.  Their choice of
+           armor is more limited, however, since heavy armor makes playing
+           instruments difficult.
+
+Innate Abilities: None
+
+See also: BARD SONGS, BARD SKILLS, PLAY, INSTRUMENTS
+~
+
+-1 'BARD SONGS' SONGS~
+Bards use the 'play' command to cast spells.  The syntax of the play
+command is 'play songname', where the songname does not include the
+words 'Song of'.
+
+Example: play armor
+      play invisibility
+
+[Level 1]  Song of Armor (horn)
+[Level 4]  Song of Sleep (flute)
+[Level 6]  Song of Corruption (drums)
+           Song of Purity (drums)
+[Level 10] Song of Feasting (drums)
+[Level 14] Song of Obscurement (mandolin)
+[Level 15] Song of Calming (harp)
+[Level 17] Song of Warding (horn)
+[Level 18] Song of Forgetfulness (mandolin)
+[Level 20] Song of Susceptability (flute)
+[Level 23] Song of Cowardice (drums)
+[Level 25] Song of Revelation (mandolin)
+[Level 26] Song of Slowness (mandolin)
+[Level 27] Song of Quagmire (mandolin)
+[Level 28] Song of Flight (horn)
+[Level 30] Song of Dragons (horn)
+[Level 31] Song of Clumsiness (lyre)
+[Level 32] Song of Weakling (lyre)
+[Level 33] Song of Harming (lyre)
+[Level 35] Song of Healing (lyre)
+[Level 36] Song of Invisibility (flute)
+[Level 38] Song of Heroism (drums)
+[Level 43] Song of Nightmares (drums)
+[Level 46] Song of Chaos (drums)
+[Level 51] Song of Idiocy (harp)
+
+See the individual help files for more information.  For example:
+'help song of armor'
+
+See also: BARDS, PLAY, BARD SKILLS
+~
+
+-1 'BARD SKILLS'~
+[Level 1]
+     Aerial Combat
+     Backstab
+     Bandage
+     Carve
+     Climb
+     Dodge
+     Double Attack
+     Dual Wield
+     Drums
+     First Aid
+     Flute
+     Harp
+     Hide
+     Horn
+     Listen
+     Lyre
+     Mandolin
+     Mount
+     Parry
+     Song of Armor
+     Swim
+     Switch Opponents
+     Unarmed Damage
+[Level 4]
+     Song of Sleep
+[Level 6]
+     Song of Corruption
+     Song of Purity
+[Level 10]
+     Song of Feasting
+[Level 14]
+     Song of Obscurement
+[Level 15]
+     Song of Calming
+[Level 17]
+     Song of Warding
+[Level 18]
+     Song of Forgetfulness
+[Level 20]
+     Song of Susceptability
+[Level 23]
+     Song of Cowardice
+[Level 25]
+     Song of Revelation
+[Level 26]
+     Song of Slowness
+[Level 27]
+     Song of Quagmire
+[Level 28]
+     Song of Flight
+[Level 30]
+     Song of Dragons
+[Level 31]
+     Song of Clumsiness
+[Level 32]
+     Song of Weakling
+[Level 33]
+     Song of Harming
+[Level 35]
+     Song of Healing
+[Level 36]
+     Song of Invisibility
+[Level 38]
+     Song of Heroism
+[Level 43]
+     Song of Nightmares
+[Level 46]
+     Song of Chaos
+[Level 51]
+     Song of Idiocy
+~
+
+-1 MERCENARY~
+Fighter sub-class
+
+The mercenary is a blend of fighter and rogue, having some of the skills of
+each.  While he can't match the warrior in fighting skills nor the assassin
+in backstabbing abilities, the skills that the mercenary possess combine
+some of the best from both worlds.
+
+Mercenaries are soldiers for hire, bounty hunters, pirates, and smugglers.
+They have the unique ability to try and capture a foe, and at high levels of
+experience they learn how to crush the throat of a spellcaster.  Mercenaries
+also have the headbutt skill, which they can use and attempt to knock out
+or daze an opponent.
+
+Important Attributes: Strength, Agility, Dexterity, Constitution
+Races: 
+
+Equipment: Mercenaries are a fighter-rogue hybrid.  They can use most weapons.
+           Their choice of armor is extensive, but still somewhat limited when 
+           compared to a warrior.
+
+Innate Abilities: None
+
+See also: MERCENARY SKILLS
+
+~
+
+-1 'MERCENARY SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Misc
+     1h Piercing
+     1h Slashing
+     2h Bludgeon
+     2h Misc
+     2h Piercing
+     2h Slashing
+     Aerial Combat
+     Backstab
+     Bandage
+     Barehanded Fighting
+     Bash
+     Capture
+     Carve
+     Dodge
+     Dual Wield
+     First Aid
+     Headbutt
+     Hide
+     Kick
+     Mount
+     Offense
+     Parry
+     Rescue
+     Riposte
+     Swim
+     Throwing Weapon
+     Track
+     Unarmed Damage
+[Level 20]
+     Appraise
+[Level 51]
+     Throat Crush
+~
+
+-1 PSIONICIST~
+
+Psionicists are a class that has amazing control over their minds, allowing
+them to master the hidden power of the mind itself.  Psionicists use this
+internal power to advance their causes, whatever those may be.  Psionicists
+use the 'will' command to focus their energies, much like a magic-user does
+while casting.
+
+Psionicists don't require a spellbook, however.  When they gain levels, they
+automatically gain the power and ability to cast new spells.
+
+Psionicists use mana to cast spells.  They can continue to cast spells until
+their reserve of mana is exhausted.  At that point, they must rest and
+regenerate mana before they can cast spells again.
+
+Important Attributes: Intelligence, Wisdom
+Races: 
+
+Equipment: Psionicists are spellcasters and are very limited in their use
+           of weapons and armor.  They have an unsurpassed ability to use
+           magical objects such as staves, wands, and scrolls.
+
+Innate Abilities: None
+
+See also: PSIONICIST SKILLS, PSIONICIST SPELLS, WILL
+~
+
+-1 'PSIONICIST SKILLS'~
+[Level 1]
+     1h Bludgeon
+     1h Piercing
+     2h Bludgeon
+     Aerial Casting
+     Aerial Combat
+     Bandage
+     Barehanded Fighting
+     Carve
+     Dodge
+     First Aid
+     Meditate
+     Mount
+     Quick Chant
+     Scribe
+     Sorcerous Spell Knowledge
+     Swim
+     Throwing Weapon
+~
+
+-1 'PSIONICIST SPELLS'~
+[1st Circle]
+        adrenaline control
+        ego whip
+[2nd Circle]
+        ballistic attack
+[3rd Circle]
+        aura sight
+        enhance agility
+        enhance constitution
+        enhance dexterity
+        enhance strength
+[4th Circle]
+        cell adjustment
+        energy containment
+        molecular agitation
+[5th Circle]
+        comprehend languages
+        flesh armor
+        sustenance
+        teleport
+[6th Circle]
+        cannibalize
+        feedback
+[7th Circle]
+        inflict pain
+[8th Circle]
+        detonate
+        flight
+[9th Circle]
+        ectoplasmic form
+        ether warp
+[10th Circle]
+        confuse
+        death field
+[11th Circle]
+        inertial barrier
+        wormhole
+~
+
+-1 NECROMANCER~
+
+Coming soon!
+
+~
+
+0 $~
+
+#$

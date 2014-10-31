@@ -1,0 +1,1116 @@
+#AREADATA
+Name        Goblin Caves~
+Author      Dubar~
+Levels      1 50
+Security    1
+VNUMs       2668 2690
+Builders    Dubar~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#2668
+&+LThe Entrance to the &N&+gGagga'Jobo&N &+LCave Complex&N~
+&+L   The darkness of the Underdark continues in this tight cave entrance.  The
+&+Lcave is called the&N&+g Gagga'Jobo&N&+L caves, named after the &N&+ggoblin &N&+Lleader who first
+&+Lthought of the idea of using these caves for their current purpose.  The entire
+&+Lcave complex is naturally formed and used by the &N&+ggoblins&N&+L of &N&+gMalch'hor Ganl&N&+L to
+&+Lraise the animals they use for food.  There is a bad smell wafting out of the
+&+Ldark caves below.  The cave entrance appears to be quite unspectacular and
+&+Labandonned but it is safe to assume there are quite a few &N&+ggoblin&N&+L warriors that
+&+Lhave been ordered to guard the livestock.  One may travel south into the cave
+&+Lcomplex or west into the Underdark.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2669
+D3
+~
+~
+0 0 1008
+S
+#2669
+&+LJust Inside the &N&+gGoblin&N&+L Livestock Caves&N~
+&+L   These caves appear just as they did a millenium ago.  The stone walls and
+&+Lfloor are cool to the touch, yet the air is hot and humid.  There are many
+&+Lstrange sounds coming from somewhere deeper in the caves, probably from the
+&+Llivestock herds.  The &N&+ggoblins&N&+L have used this cave complex for several
+&+Lgenerations after it was found that they worked quite well in providing the
+&+Llivestock a place to be tended to.  The animals just took up far too much room
+&+Lin the&N&+g goblin&N&+L city of &N&+gMalch'hor Ganl&N&+L.  There are many types of animals in these
+&+Lcaves but, from the smell of it, they is just one, big, smelly creature giving
+&+Lthis place have a very repulsive odor.  One may travel north or west in the
+&+ggoblin&N&+L caves.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2668
+D3
+~
+~
+0 0 2670
+S
+#2670
+&+LIn the Twisting Caves of &N&+gGagga'Jobo&N~
+&+L   The cave continues to wind its way through the dark stone of the cavern
+&+Lwall.  There are many reasons the &N&+ggoblins &N&+Ldecided to use this cavern for their
+&+Llivestock.  It was located relatively close to their city,&N&+g Malch'hor Ganl&N&+L, so
+&+Lthey would no longer have to travel a great distance for fresh or new livestock
+&+Lor &N&+rmeat&N&+L.  They found that they no longer needed to keep the livestock in their
+&+Lcity, so they promptly moved everything here.  The period of prosperity after
+&+Lthe &N&+ggoblins&N&+L figured out an effective way to raise their livestock lasted many
+&+Lgenerations and continues today.  The cavern is also relatively easy to protect
+&+Lfrom invading war parties of Orc or &N&+MFlind&N&+L, so the livestock are safe.  The cave
+&+Lsystem also has quite flat surfaces, making the livestock less prone to injury
+&+Lor death because of a broken appendage.  The cave continues to the east and
+&+Ldownward.&N
+~
+1 33554432 13
+D1
+~
+~
+0 0 2669
+D5
+~
+~
+0 0 2671
+S
+#2671
+&+LA Lower Layer of the &N&+gGagga'Jobo&N&+L Cave System&N~
+&+L   The cave system continues here but upon a lower level.  The cave system
+&+Lhas twisted and turned through the black stone of the Underdark.  This lower
+&+Llevel is warmer and more humid than the caves located one level above.  The
+&+Lcaves walls are very rough and natural, for the &N&+ggoblins &N&+Lhave not had to perform
+&+Lany tunneling activities because the caves suits their livestock needs to
+&+Lperfection.  There are many odd sounds echoing off the stone walls, coming from
+&+Lthe livestock one would assume.  These caves are most often used by the &N&+ggoblin
+&+Lworkers who carry the&N&+r meat&N&+L from the livestock back to &N&+gMalch'hor Ganl&N&+L.  The
+&+Lcaves continue to the north or one may travel up to the nest level of the cave
+&+Lsystem.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2672
+D4
+~
+~
+0 0 2670
+S
+#2672
+&+LIn the Twisting Passageways of the &N&+gGoblin&N&+L Cave System&N~
+&+L   The &N&+gGagga'Jobo &N&+Lcave system has been used for a very long time by the&N&+g goblin&N&+L
+&+Lpeople.  This section of the cave is very tight, much like a tunnel.  The caves
+&+Ltwist and turn through the darkness as they approach the actual livestock pens
+&+Lof the lower levels.  The floor is very rough and uneven making travel here a
+&+Lchallenge, especially with a pack full of &N&+rmeat&N&+L.  The&N&+g goblins &N&+Lthink of this cave
+&+Lcomplex as both a source of food and as a testament to the power of their minds
+&+Land combined wisdom.  There have been many savage battles in these tunnels as
+&+Lthe&N&+g goblin&N&+L forces have worked furiously to battle back any aggressors who have
+&+Ltried to steal their livestock.  The &N&+ggoblins&N&+L have yet to lose the &N&+gGagga'Jobo&N
+&+Lcave complex, but maybe one day they will.  They keep a very watchful guard as
+&+Lthey go about their day to day work.  One may travel south or east.&N
+~
+1 33554432 13
+D1
+~
+~
+0 0 2673
+D2
+~
+~
+0 0 2671
+S
+#2673
+&+LA Turn in the &N&+gGagga'Jobo&N&+L Cave System&N~
+&+L   This section of the cave is the first time the &N&+ggoblins&N&+L ever saw a&N&+M poo&N&+gtata&N&+L.
+&+LThey were frightened at first, but when the realized how docile the creature it
+&+Lwas, they quickly fell upon and killed it.  The leader of the expedition, a
+&N&+ggoblin&N&+L shaman named &N&+gGagga'Jobo&N&+L, drank the&N&+r blood &N&+Lof the &N&+Mpoo&N&+gtata&N&+L and proclaimed
+&+Lthese tunnels as property of&N&+g Malch'hor Ganl&N&+L.  The shaman then had a vision of
+&+Lthe potential this place had for his people.  He quickly returned with a larger
+&+Lwar party and secured this place for his people.  They have held it in their
+&+Lgrasp ever since.  In the years that followed they learned much about the many
+&+Lcreatures that lived here.  They killed off many of the creatures before they
+&+Lrealized the importance of conservation.  In the many decades after, only two
+&+Lof the races are still alive, the&N&+Y cho&N&+ythe&N&+L and the&N&+M po&N&+gotata&N&+L.  One may travel north
+&+Lor west.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2674
+D3
+~
+~
+0 0 2672
+S
+#2674
+&+LApproaching the Work Area of the &N&+gGoblin&N&+L Livestock Caves&N~
+&+L   The cave system of &N&+gGagga'Jobo &N&+Lcontinues here as it approaches the workers
+&+Larea below.  The caves below are used more for the raising and then butchering
+&+Lof the livestock, whereas the other caves that lead to the caverns of the wild
+&+LUnderdark serve only as a transportation route for the&N&+r meat &N&+Land other goods.
+&+LThe &N&+ggoblins&N&+L who first found this part of the caves were a bit cautious about
+&+Llowering themselves into the lower caves, for fear of the unknown.  The &N&+ggoblins&N&+L
+&+Lhave learned the cave system perfectly now and don't think twice about jumping
+&+Ldown into the slaughter cave below.  The caves continue to the south and there
+&+Lis a downward opening to the lower caves.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2673
+D5
+~
+~
+0 0 2675
+S
+#2675
+&+LThe &N&+rS&N&+Ll&N&+ra&N&+Lu&N&+rg&N&+Lh&N&+rt&N&+Le&N&+rr&N&+L Room of the &N&+gGagga'Jobo&N&+L Cave System&N~
+&+L   This large and spacious cave is used by the&N&+g goblins&N&+L of &N&+gMalch'hor Ganl&N&+L to
+&N&+Ls&N&+rl&N&+La&N&+ru&N&+Lg&N&+rh&N&+Lt&N&+re&N&+Lr their livestock before sending the &N&+rmeat &N&+Lback to the main populance.
+&+LThere are many large slabs of &N&+rmeat&N&+L hanging on large meat hooks from the rocky
+&+Lceiling. &N&+r Blood&N&+L is splattered everywhere and large pools have formed on the
+&+Lcaves floor.  There are many smaller &N&+ytables&N&+L, but the one large &N&+ytable&N&+L that gets
+&+Lthe primary usage is in the center of the room.  There are many piles of the
+&+L&N&+Rguts &N&+Lof the animals waiting to be carried out of the &N&+gGagga'Jobo &N&+Lcave system.
+&+LThere are also piles of&N&+W bones&N&+L located to the south and the&N&+y leathery hide&N&+L of the
+&+Lanimals piled to the north. There are many&N&+g goblins &N&+Lscurrying about, doing their
+&+Lassigned tasks.  This room is the domain of the head butcher and he rules this
+&+Lcave with an iron fist.  One may travel north to the&N&+y leatherworkers&N&+L cave, south
+&+Lto the&N&+W bone&N&+L workers cave, west to the&N&+M poo&N&+gtata &N&+Lpens, east to the &N&+Ycho&N&+ythe&N&+L pens, or
+&+Lup to the caves that lead out of the complex.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2676
+D1
+~
+~
+0 0 2677
+D2
+~
+~
+0 0 2679
+D3
+~
+~
+0 0 2678
+D4
+~
+~
+0 0 2674
+S
+#2676
+&+LA Small Side Cave Used by a &N&+gGoblin&N&+y Leatherworker&N~
+&+L   This small cave is used by the &N&+ggoblins &N&+Lto produce most of their clothes
+&+Land other &N&+yleather&N&+L goods.  There is always a&N&+g goblin&N&+y leather worker&N&+L here, often
+&+Lproducing many articles of clothing a day.  The &N&+ggoblin&N&+W-&N&+Lmade products aren't
+&+Lgrand or extravagent, just functional.  The room contains several interesting
+&+Lfeatures.  There is a large&N&+y table &N&+Lon the north wall where there are several
+&+Lstacks of uncured &N&+yhides&N&+L.  To the east is a large furnace that provides the
+&+Lheat used to cure the&N&+y leather&N&+L.  On the western side of the cave there are many
+&+Ltools used by the &N&+yleather worker&N&+L.  The floor is covered with small bits of
+&+Ycho&N&+ythe &N&+Land&N&+M poo&N&+gtata hide.  The&N&+g goblins &N&+Lthat work in this cave don't bother to
+&+Lkeep it clean because they just feed the scraps to the &N&+Ycho&N&+ythe&N&+L once a week.  One
+&+Lmay enter the &N&+rs&N&+Ll&N&+ra&N&+Lu&N&+rg&N&+Lh&N&+rt&N&+Le&N&+rr&N&+L room by going south.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2675
+S
+#2677
+&+LIn the Cave that Leads to the &N&+YCho&N&+ythe&N&+L Pens&N~
+&+L   The cave narrows considerably as it stretches out to the east.  This part
+&+Lof the cave system of &N&+gGagga'Jobo &N&+Lhas been cleaned recently and his one of the
+&+Lnicest parts of any &N&+ggoblin &N&+Lland holding.  There are many small benches carved
+&+Linto the wall of the cave, the only carving the &N&+ggoblins&N&+L did here.  The benches
+&+Lare used to give the workers a place to rest after their shift.  For many, such
+&+Las the butcher, this is their home and the&N&+g goblins &N&+Lspend all their spare time
+&+Lhere.  Their are some large &N&+yleather&N&+L blankets and pillows that offer a small
+&+Ldegree of comfort.  Make no mistake, this part of the cave is still used
+&+Lprimarily for the transportation of livestock.  There are several long and
+&+Lblack stalactites hanging from the ceiling making the cave entrance below
+&+Llook like one large, gaping maw, ready to devour any of those who enter.  In
+&+Lreality all that's further into the pen are the blind &N&+Lcho&N&+ythe&N&+L.  One may travel
+&+Ldown or west.&N
+~
+1 33554432 13
+D3
+~
+~
+0 0 2675
+D5
+~
+~
+0 0 2685
+S
+#2678
+&+LIn the Cave That Leads to the &N&+MPoo&N&+gtata&N&+L Pens&N~
+&+L   This side cave was once fully connected to the level of the cave system
+&+Lbelow, but the&N&+g goblins &N&+Lhave built a large &N&+ytrapdoor&N&+L to keep the livestock penned
+&+Lin below.  The cave was originally just one part of the area that the&N&+M poo&N&+gtata&N
+&+Linhabited, but when the &N&+ggoblins&N&+L came in and took over, they herded the animals
+&+Linto the lower cave and then promptly shut them in.  Many&N&+g goblins &N&+Ldied a very
+&+Lterrible death when they tried to over run the caves during the &N&+Mpoo&N&+gtata&N&+L's
+&+Lmating season.  The&N&+r blood&N&+L has long since dried and the&N&+g goblins&N&+L have grown old.
+&+LThere are many winches and pullies in this section of cave, used to pull the
+&N&+Mpoo&N&+gtata&N&+L out of the lower caves.  One may travel down into the &N&+Mpoo&N&+gtata&N&+L pens or
+&+Least into the butcher room.&N
+~
+1 33554436 13
+D1
+~
+~
+0 0 2675
+D5
+~
+trap door trapdoor~
+1 0 2680
+S
+#2679
+&+LThe Cave of the &N&+WBone&N&+L-Worker&N~
+&+L   Many &N&+Wbones&N&+L and &N&+Wbone &N&+Lfragments lie strewn about the floor of this small
+&+Lside cave.  There is a large table used by the craftsman as he crafts&N&+W bone&N&+L
+&+Lweapons for the people of&N&+g Malch'hor Ganl&N&+L.  There are many sharp chisels and
+&+Lsome coarse files used by the craftsman lying on one side of the table.  The
+&+Lgreat&N&+g goblin &N&+Lleader, &N&+gBooga'Machon&N&+L first brought up the idea about using the
+&+Wbones&N&+L from the livestock for something useful.  Before the &N&+Wbones&N&+L were just
+&+Lthrown out into the caverns outside of the &N&+gGagga'Jobo&N&+L cave system.  The place
+&+Lsmells like burnt hair and stale&N&+r meat&N&+L.  One may travel to the main butcher
+&+Lroom by traveling north.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2675
+S
+#2680
+&+LThe Center of the &N&+MPoo&N&+gtata&N &+LPens&N~
+&+L   These pens hold the large&N&+M poo&N&+gtata &N&+Lthat the&N&+g goblins&N&+L use for food.  The
+&+Llarge &N&+yrat&N&+W-&N&+Llike creatures are very docile but get more than a little crazy when
+&+Lthe females go into heat.  There is a very sturdy trapdoor in the ceiling that
+&+Lremains unopened during the mating season.  The smooth stone of the caves floor
+&+Lis kept very clean by the animals themselves.  The creatures are known to eat
+&+Ltheir own waste and therefore can survive for many weeks without food.  There
+&+Lare many smaller caves used by the&N&+g goblins&N&+L to raise these creatures.  The
+&+ggoblins &N&+Loccassionally throw some food down to the creatures, but more often
+&N&+Lthan not, the&N&+g goblins&N&+L come to take one of the &N&+Mpoo&N&+gtata&N&+L away to be slaughtered.
+&N&+LOne may travel in any direction.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2682
+D1
+~
+~
+0 0 2681
+D2
+~
+~
+0 0 2683
+D3
+~
+~
+0 0 2684
+D4
+~
+trap trapdoor door~
+1 0 2678
+S
+#2681
+&+LIn a Dark and Smelly &N&+MPoo&N&+gtata&N&+L Pen&N~
+&+L   The &N&+Mpoo&N&+gtata&N&+L were the oringinal inhabitants of this cave system as well as
+&+Lmany others.  The large creatures have been around since the dawn of time.
+&+LMany years they lived alone in the dark, living on whatever food they could
+&+Lkill.  They were very docile, however, and were quite often killed.  The
+&+ggoblins&N&+L of&N&+g Malch'hor Ganl&N&+L found this cave system on pure luck when a very wise
+&+Lshaman named &N&+gGagga'Jobo &N&+Lstumbled into this cave during one of his many trips
+&+Linto the wild Underdark in search of powerful natural phenomena.  He brought
+&+Lsome of his apprentice shamans and a handful of warriors with as they took the
+&+Ltime to explore the complex fully.  They found the&N&+M poo&N&+gtata &N&+Lhere and were very
+&+Lamazed.  They killed one and ate it.  This is how the &+ggoblin&N&+L people originally
+&+Lfound the value of the &N&+Mpoo&N&+gtata&N&+L.  One may travel west.&N
+~
+1 33554432 13
+D3
+~
+~
+0 0 2680
+S
+#2682
+&+LIn One of the Many &N&+MPoo&N&+gtata&N&+L Pens&N~
+&+L   This side cave is often used by the &N&+Mpoo&N&+gtata&N&+L for breeding puposes.  The
+&+Ltight opening of the cave suits the creatures well because during the mating
+&+Lseason it is imperative for the &N&+Mpoo&N&+gtata&N&+L to feel safe.  The mating rituals of
+&+Lthe &N&+Mpoo&N&+gtata&N&+L are both savage and very active.  The combination of the flying
+&+Lhooves and the viscious attacks could easily tear apart an unprepared opponent.
+&+LTo the&N&+M poo&N&+gtata &N&+Lthough, the savage dance is how they have always approached
+&+Ltheir breeding habits.  Needless to say, the&N&+g goblins &N&+Ltend to stay out of this
+&+Larea of the &N&+gGagga'Jobo &N&+Lcave complex.  The cave is almost perfectly circular and
+&+Labout ten feet high, allowing the &N&+Mpoo&N&+gtata &N&+Lample room to move around.  There is
+&+Lsome dried &N&+rblood &N&+Land bits of skin on the ground.  One may travel south to the
+&+Lcenter of the &N&+Mpoo&N&+gtata &N&+Lpens.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2680
+S
+#2683
+&+LA Room Used by the &N&+gGoblins&N&+L to Raise &N&+MPoo&N&+gtata&N~
+&+L   The &N&+ggoblins &N&+Lrarely come down into these pens.  The pens are relatively
+&+Lclean considering no one has come down here for over a decade.  Usually these
+&+Lsmall side caves are not even used by the &N&+Mpoo&N&+gtata&N&+L because the goblins&N&+L dump the
+&+Lfood into the main room which is located to the north.  The&N&+g goblins&N&+L have used
+&+Lthese caves for quite a long time but that&N&+M poo&N&+gtata&N&+L have lived in these caves
+&+Lfor centuries.  The creatures have never had the numbers they have no due to
+&+Lamount of food the&N&+g goblins&N&+L have supplied to them.  They combination of a steady
+&+Lfood supply and the healthy mixture of food has allowed the&N&+M poo&N&+gtata&N&+L to grow in
+&+Lboth numbers and average size.  The &N&+ggoblins&N&+L have done a marvelous job in the
+&+Ldevelopment of their feed.  One may travel north to the center of the&N&+M poo&N&+gtata&N
+&+Lcaves.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2680
+S
+#2684
+&+LIn a Crowded &N&+MPoo&N&+gtata&N&+L Pen&N~
+&+L   This small cave is used as a pen but does not fit very many creatures.
+&+LThe ceiling hangs very low and there are few &N&+ggoblins&N&+L who could even stand up
+&+Lhere.  The place smells very odd, seeming like a combination of wet dog fur and
+&+Lmoldy bread.  The air is very humid here but the temperature is not too bad.
+&+LThere are some small bits of grain on the floor but they appear to have spoiled
+&+Llong ago.  The cave is used as a place to raise the large, &N&+yrat&N&+W-&N&+Llike &N&+Mpoo&N&+gtata&N&+L
+&+Lthat the &N&+ggoblins&N&+L use as one of their primary food sources.  Many great &N&+ggoblins&N
+&+Lhave been raised on such a &N&+rmeat&N&+L.  One may travel back to the center of the
+&+Mpoo&N&+gtata&N&+L pens by traveling east.&N
+~
+1 33554432 13
+D1
+~
+~
+0 0 2680
+S
+#2685
+&+LIn Front of the Iron Gate of the &N&+YCho&N&+ythe&N&+L Pens&N~
+&+L   A large iron gate has been brought from &N&+gMalch'hor Ganl &N&+Lto prevent the
+&+Llarge and stupid &N&+Ycho&N&+ythe &N&+Lfrom wandering out of their pens.  They are blind and
+&+Lvery hard to handle.  The&N&+g goblins&N&+L used to have a problem with the&N&+Y cho&N&+ythe &N&+L
+&+Lwandering into the caves that lead out of the&N&+g Gagga'Jobo &N&+Lcave comples and then
+&+Ljust standing there.  This prevented the&N&+g goblins&N&+L from leaving the complex.
+&+LThey were forced to kill and cut apart the &N&+Ycho&N&+ythe &N&+Lright there in the tunnel.
+&+LIt took hours to fully cut apart the large creature.  Even today there is a
+&+Lbig&N&+r blood&N&+L stain on the rocks there.  The iron gate entirely fills the&N&+Y cho&N&+ythe&N&+L
+&+Lpen entrance.  The air is hot and humid from the body heat of the large animals
+&+Lin the pens.  There are some tools used by the &N&+ggoblins &N&+Lto move the &N&+Ycho&N&+ythe &N&+Lthat
+&+Lhave been leaned up against the wall.  They appear to be prods to move them
+&+Lalong.  One may travel up or east.&N
+~
+1 33554436 13
+D1
+~
+gate iron~
+1 0 2686
+D4
+~
+~
+0 0 2677
+S
+#2686
+&+LThe Entrance To the &N&+YCho&N&+ythe&N &+LPens&N~
+&+L   The entrance to the&N&+Y cho&N&+ythe&N&+L pens is the first partition of caves in the
+&+Lmultiple caves that holds the creatures.  The creatures being raised in these
+&+Lpens are a amalgamation of between two and five different races of creatures.
+&+LThey have been engineered by the &N&+ggoblin&N&+L livestock experts to produce the most
+&+Land best tasting meat possible.  The combination of the genetically perfect
+&N&+rmeat&N&+L, and the fact the creatures are born blind, makes them perfect for the
+&N&+ggoblins &N&+Llivestock needs.  The cave is large and spacious and was formed without
+&+Lany natural stalamites, so the floor is quite flat and safe for the blind
+&N&+Ycho&N&+ythe&N&+L.  There is a large iron gate located to the west that seperates the pens
+&+Lfrom the rest of the&N&+g Gagga'Jobo &N&+Lcave system.  The pens themselves are located
+&+Lto the east.&N
+~
+1 33554432 13
+D1
+~
+~
+0 0 2687
+D3
+~
+gate iron~
+1 0 2685
+S
+#2687
+&+LThe Center of the &N&+YCho&N&+ythe&N&+L Pens&N~
+&+L   The &N&+Ycho&N&+ythe&N&+L pens are very filthy.  This center area connects each individual
+&N&+Ycho&N&+ythe&N&+L pen in the&N&+g Gagga'Jobo &N&+Lcave system.  These creatures are a great animal
+&+Lfor the&N&+g goblins&N&+L because they are both a source of food and a source of the
+&+Lsturdy&N&+y leather &N&+Lthey make their clothes from.  The creatures are blind so the
+&+ggoblins &N&+Lmust feed each creature by hand, one by one.  The cave smells very bad
+&+Lbecause the creatures relieve themselves where and whenever they want.  This
+&+Lcave is one of the larger ones in the cave system and that's why the &N&+Ycho&N&+ythe&N&+L are
+&+Lhoused here.  There are many small pens located in each direction.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2688
+D1
+~
+~
+0 0 2689
+D2
+~
+~
+0 0 2690
+D3
+~
+~
+0 0 2686
+S
+#2688
+&+LInside the &N&+YCho&N&+ythe &N&+LFeeding Pens&N~
+&+L   The &N&+Ycho&N&+ythe&N &+Lare very easy to feed because the fact they are blind.  The
+&N&+ggoblins&N&+L have no problem with walking right in with the many creatures because
+&+Lthey do not fear getting attacked.  The cave is very dark and filled with the
+&+Lbad odor the &N&+Ycho&N&+ythe &N&+Lgive off.  There are some long troughs on both the eastern
+&+Land western walls.  The trough on the west is filled with feed.  The one on the
+&+Least is filled with some dirty&N &+bwater&N&+L.  There are many piles of dung on the
+&+Lcave floor, left by the filthy &N&+Ycho&N&+ythe&N&+L.  The &N&+Ycho&N&+ythe&N&+L have been raised by the
+&N&+ggoblins &N&+Las a major food source for several generations.  One may enter the
+&+Lcenter of the&N&+Y cho&N&+ythe&N&+L pens by traveling south.&N
+~
+1 33554432 13
+D2
+~
+~
+0 0 2687
+S
+#2689
+&+LThe Eastern Section of the &N&+YCho&N&+ythe&N &+LCaverns&N~
+&+L   The&N&+Y cho&N&+ythe&N&+L are very easy to take care of because they do not spook very
+&+Leasily.  They are extremely docile creatures that live their lives in a manner
+&+Lthat makes them appear very friendly.  Most of the &N&+Ycho&N&+ythe&N&+L have no drive to do
+&+Lanything but eat.  The pens are very dirty but they are easily cleaned.  The
+&N&+ggoblins&N&+L use large shovels called, "Chatamma", which are only used for picking
+&+Lup the filth the &N&+Ycho&N&+ythe&N&+L leave behind.  There are several stored on iron hooks
+&+Lthat have been driven into the stone walls.  There are many cracks and other
+&+Lsmall holes in the caves walls and floor though, so much of the filthy cannot
+&+Lbe removed.  The feces ends up being backed in the cracks forever, and in turn
+&+Lmakes the pens smell very bad.  One may enter the center of the &N&+Ycho&N&+ythe&N&+L pens by
+&+Lgoing west.&N
+~
+1 33554432 13
+D3
+~
+~
+0 0 2687
+S
+#2690
+&+LIn the &N&+YCho&N&+ythe &N&+LPens of &N&+gGagga'Joba &N&+LCave System&N~
+&+L   The &N&+Ycho&N&+ythe&N&+L find this place to be the best place to sleep.  The stones are
+&+Lwarm, heated by an underground&N&+R magma&N&+L flow.  The black stone of the cave seems
+&+Lto steal away all the light in this place, not that it would matter, the &N&+Ycho&N&+ythe&N&+L
+&+Lare blind.  These caves were formed during the first centuries of the worlds
+&+Lformation.  The stone walls have remained as they were through countless wars
+&+Lon the surface, battles for power in the &N&+Mdrow&N&+L cities, and even struggles for
+&+Lpower between rival dieties.  The fact is, the stone goes on forever, never
+&+Laffected by things outside of the &N&+gGagga'Jobo&N&+L cave system.  The &N&+ggoblins &N&+Lthat
+&+Lwork here are often too dull to realize the magnitude of such thoughts as they
+&+Lfeed the hungry&N&+Y cho&N&+ythe&N&+L.  Those who do understand though can be filled with a
+&+Lsense of inner peace and simpleness.  One may travel north to the center of
+&+Lthe &N&+Ycho&N&+ythe&N&+L pens.&N
+~
+1 33554432 13
+D0
+~
+~
+0 0 2687
+S
+#0
+
+#BASTMOBS
+#2668
+chothe large~
+&+La large &N&+Ycho&N&+ythe&N~
+&+LA large and blind &N&+Ycho&N&+ythe&N&+L waits to be fed here.&N
+~
+&N   This large animal was originally a cross breed between two races but it
+has been so long since anyone talked about such minor and inconsequencial stuff
+that the &+ggoblins &Nhave forgotten what they originally used.  It does not matter
+though because this large creature is an excellent source of food for the
+&+ggoblins&N of &N&+gMalch'hor Ganl&N.  It is as large as a &+Lrothe &Nbut it looks more like
+a large hog.  Its snout is flattened and it has floppy ears that hang over the
+side of its head.  It has an enormous stomach and grunts a lot.  It is blind
+for reasons unknown.  Somehow the &N&+ggoblins&N got them to breed without eyes.&N
+~
+72 0 0 0 0 0 S
+A 0 0
+30 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2669
+pootata~
+&+La large &N&+MPoo&N&+gtata&N~
+&+LA large &N&+Mpoo&N&+gtata&N &+Lwanders aimlessly around the pens.&N
+~
+&+L   This large creature weighs well over four hundred pounds.  It looks very
+&+Lmuch like an aquatic &N&+yrat&N&+L but it is as agile as the panthers of the surface.  It
+&+Lis a very docile creature most days, but during the mating season it goes a bit
+&+Lcrazy.  It stands at almost three feet high and is around six feet long.  Its
+&+Lback legs are too small to support its frame standing up so it spends all of
+&+Lits days on all four legs.  It has a three foot long and hairy tail that drags
+&+Lback and forth all day long.  The things face is that of a rat but its ears
+&+Lhang down like a donkey.  The creature is bred by the &N&+ggoblins &N&+Lfor its tasty and
+&+Lgreasy &N&+rmeat&N&+L.  It is a staple of food in &N&+ggoblin &N&+Lsociety.&N
+~
+8 0 0 0 0 0 S
+A 0 0
+26 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2670
+goblin worker~
+&+La &N&+ggoblin&N&+L worker&N~
+&+LA &N&+ggoblin&N&+L worker goes about its business in the livestock caves.&N
+~
+&+L   This workers job is to carry the processed meats back to the&N&+g goblin&N&+L city.
+&+LHe carries a fair amount of&N&+r meat&N&+L on his muscular shoulders.  He is not a very
+&+Lgood looking &N&+ggoblin&N&+L as he has quite a few facial scars.  He often whines and
+&+Lcomplains in a very shrill voice about the weight of his load.&N
+~
+2120 0 0 0 0 -500 S
+HG 0 1
+22 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2671
+chothe chained~
+&+La chained &N&+Ycho&N&+ythe&N~
+&+LA &N&+Ycho&N&+ythe&N&+L has been chained down here and awaits its slaughter.&N
+~
+&N   This poor creature is about to be killed.  It has been chained to the
+floor with thick restraints to allow the butcher to kill it easily before
+cutting it into smaller, and workable, pieces on his butcher table.  The
+creature is too dumb to realize its fate as it cannot see or fathom what is
+going on around it.  It looks to weigh in excess of five hundred pounds, a
+lot of meat for a &+ggoblin.&N
+~
+74 0 0 0 0 0 S
+A 0 0
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2672
+goblin butcher slaughter slaughtermaster master~
+&+Lthe &N&+ggoblin&N&+L butcher&N~
+&+LThe &N&+ggoblin&N&+r s&N&+Ll&N&+ra&N&+Lu&N&+rg&N&+Lh&N&+rt&N&+Le&N&+rr&N&+L-&N&+rm&N&+La&N&+rs&N&+Lt&N&+re&N&+Lr prepares to kill some livestock.&N
+~
+&+L   This &N&+ggoblin&N&+L has had the title of slaughter-master for a very long time.
+&+LThe creature is over forty years old and has been the head butcher for close to
+&+Ltwenty five years.  He is reguarded as an expert in his field and has taught
+&+Lbutchers from many of the other Underdark civilizations.  He works without a
+&+Lshirt and is covered with more than a little &N&+rblood&N&+L.  His body has several large
+&+Ltattoos and both of his nipples are pierced.  He appears to enjoy his job very
+&+Lmuch as he goes about it with much enthusiasm.  His large arms could easily
+&+Lfinish off most of the livestock in one swift blow, although he usually takes
+&+Lthe time to enjoy the kill.&N
+~
+2122 0 0 0 0 -900 S
+HG 0 15
+41 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2673
+goblin leather leatherworker&n~
+&+La &N&+ggoblin&N&+y leatherworker&N~
+&+LThe &N&+ggoblin&N&+y leatherworker&N&+L stands here working on a &N&+yleather&N&+L shirt.&N
+~
+&+L   This &N&+ggoblin&N&+y leather worker&N&+L has practiced his trade for over four decades.
+&+LHis hands are gnarled by the constant meticulous work it takes to fashion goods
+&+Lout of &N&+yleather&N&+L.  He is well known by the&N&+g goblin &N&+Lpopulance as a master craftsman
+&+Lfor his work with the clothing worn by all the &N&+ggoblin &N&+Lcommoners.  He works with
+&+Lboth&N&+M poo&N&+gtata&N&+L and &N&+Ycho&N&+ythe&N&+L hides and can make several different garments.  It is
+&+Lwell known that you can ask him to make a particular item for you.  He usually
+&+Lrequires a few for his services.&N
+~
+8266 264 0 0 0 -500 S
+HG 0 9
+43 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2674
+bone worker goblin bone-worker~
+&+La &N&+ggoblin&N&+W bone&N&+L-worker&N~
+&+LA &N&+ggoblin&N&+L stands here making weapons from &N&+Wbones&N&+L.&N
+~
+&+L   This&N&+g goblin &N&+Lworks dilligently for his people by crafting quality weapons
+&+Lout of&N&+W bone&N&+L.  The needs of his people for &N&+Wbone&N&+L weapons are very limited and he
+&+Lmakes only one type of &N&+Csword&N&+L.  The&N&+W bone&N&+C sword&N&+L is a staple of the goblin armies
+&+Land is used with great sucess in battle.  The &N&+ggoblin&N&+L himself is an older yet
+&+Lwiser&N&+g goblin&N&+L.  He is missing all of his teeth and three of his fingers.  He
+&+Lworks dilligently on his next piece.  It is rumored he can also create great
+&+Learrings for warriors.&N
+~
+10 0 0 0 0 -890 S
+HG 0 1
+41 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2675
+apprentice goblin leather worker~
+&+Lan apprentice &N&+yleather worker&N~
+&+LAn apprentice &N&+yleather worker&N&+L watches closely as he tries to learn the trade.&N
+~
+&+L   This apprentice is about twenty years old.  He is very ugly and is
+&+Lmissing his right ear.  He scowls as he looks upon the leather he has been
+&+Lassigned to work with for the rest of his life.  He wanted to join the
+&+Lshaman school but his parents would not allow him to.&N
+~
+74 0 0 0 0 -400 S
+HG 0 13
+31 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2676
+goblin worker~
+&+La &N&+ggoblin&N&+L worker&N~
+&+LA &N&+ggoblin&N&+L worker takes the time to clean the &N&+Ycho&N&+ythe&N&+L pens.&N
+~
+&+L   This &N&+ggoblin&N&+L worker has drawn the unpopular job of cleaning out the smelly
+&N&+Ycho&N&+ythe&N&+L pens.  He wears a cloth over his face in order to try to combat the
+&+Lterrible smell.  He is a younger male but the odds are he's had to do this
+&+Lsame duty several dozen times in his lifetime.  He doesn't especially enjoy
+&+Lhis job but he does it the best he can.&N
+~
+2120 256 0 0 0 -400 S
+HG 0 1
+33 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2677
+goblin warrior guard~
+&+La &N&+ggoblin&N&+L warrior&N~
+&+LA &N&+ggoblin&N&+L warrior patrols the &N&+gGagga'Jobo&N&+L cave system.&N
+~
+&+L   This warrior guards the&N&+g Gagga'Jobo&N&+L cave system.  He is an ugly creature
+&+Lbut a very kind hearted one.  He is not brutal like many of his fellow guards.
+&+LHe is rather short for his occupation and his equipment looks almost funny.&N
+~
+2120 0 0 0 0 -400 S
+HG 0 1
+31 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#0
+#BASTOBJECTS
+#2668
+goblin knife dagger~
+a &N&+ggoblin&N knife&N~
+&+LA dull bladed knife has been left upon the ground here.&N~
+~
+5 15 3 0 9 0 64 8193 0 122880 0
+2 3 3 11 0 0 0 0
+3 0 100
+E
+goblin knife dagger~
+&N   This nice was made in the&+g goblin&N city of&+g Malch'hor Ganl&N.  It is a fine
+knife that can cut through many surfaces.&N
+~
+A
+18 2
+A
+19 1
+#2669
+table butcher~
+&+ya butcher table&N~
+&+LA large &N&+ywooden&N&+L butcher &N&+ytable&N&+L rests in the center of the room.&N~
+~
+15 6 3 0 7 0 0 0 0 1 0
+50 0 0 50 0 0 0 0
+-1 0 100
+E
+table butcher~
+&N   This&+y butcher table&N is made out of some very &+yhard wood &Ntaken from a &+gforest&N
+on the surface.  The table is filled with knife gouges both deep and long.
+There is a fair amount of &+rblood&N and pieces of &+Wfatty &N&+rmeat&N on the table.  The
+&+ytable&N is used by the butcher to further cut the pieces of the animals up before
+they are sent to the &+ggoblin &Ncity of&+g Malch'hor Ganl&N.&N
+~
+#2670
+meat pack bundle bp backpack~
+&+La &N&+rmeat&N&+L pack&N~
+&+LA large bundle of cloth lies here, soaked with &N&+rblood&N&+L.&N~
+~
+15 3 3 0 4 0 0 4194305 0 1 0
+100 1 0 100 0 0 0 0
+2 0 100
+E
+meat pack bundle~
+&N   This bundle of cloth was used by the &+ggoblins&N to carry &+rmeat&N to their city.&N
+~
+#2671
+meat chothe iron~
+&+La piece of &N&+Ycho&N&+ythe&N&+r meat&N~
+&+LA piece of &N&+rmeat&N&+L lies here upon the ground.&N~
+~
+19 2 3 0 7 0 0 16385 0 1 0
+5 0 0 0 0 0 0 0
+1 0 100
+E
+meat chothe iron~
+&N   This bit of meat has been hacked off the animal.  Looks very tasty.&N
+~
+#2672
+pootata meat iron~
+&+Lsome &N&+Mpoo&N&+gtata&N&+L meat&N~
+&+LA large piece of meat lies here on the ground.&N~
+~
+19 2 3 0 7 0 0 16385 0 1 0
+5 0 0 0 0 0 0 0
+1 0 100
+E
+pootata meat iron~
+&N   This looks like a tasty piece of meat.&N
+~
+#2673
+symbol badge malch'hor ganl&n~
+&+La symbol of &N&+gMalch'hor Ganl&N~
+&+LA strange and odd looking badge lies here on the ground.&N~
+~
+9 15 3 0 7 0 0 2097153 0 1 0
+1 0 0 1 0 0 0 0
+0 0 100
+E
+symbol badge malch'hor ganl&n~
+&N   This small insignia is the symbol of &N&+gMalch'hor Ganl&N.&N
+~
+A
+13 5
+#2674
+chothe hide strip~
+&+La strip of &N&+Ycho&N&+ythe&N&+L hide&N~
+&+LA strip of &N&+Ycho&N&+ythe&N&+L hide has been left on the ground.&N~
+~
+13 2 3 0 7 0 8392704 16385 0 1 0
+0 0 0 0 0 0 0 0
+2 0 100
+E
+chothe hide~
+&N   This strip of hide comes from a &N&+Ycho&N&+ythe&N.&N
+~
+#2675
+leather shoes pair~
+&+La pair of &N&+yleather&N&+L shoes&N~
+&+LA pair of &N&+ggoblin&N&+L-made shoes have been left here.&N~
+~
+9 14 3 0 9 0 0 65 0 1 0
+3 0 0 1 0 0 0 0
+2 0 100
+E
+leather shoes pair~
+&N   These leather shoes are very nice.&N
+~
+A
+14 20
+#2676
+shirt leather~
+&+La &N&+ggoblin&N&+L-made &N&+yleather&N&+L shirt&N~
+&+LA leather shirt has been left upon the ground here.&N~
+~
+9 13 3 0 7 0 0 9 0 1 0
+10 0 0 1 0 0 0 0
+6 0 100
+E
+shirt leather~
+&N   This leather shirt has the symbol of &N&+gMalch'hor Ganl&N on it.&N
+~
+A
+13 15
+#2677
+chothe hide bp backpack~
+&+La &N&+Ycho&N&+ythe&N&+L hide backpack&N~
+&+LA large leather backpack has been left upon the ground.&N~
+~
+15 14 3 0 10 0 0 4194305 0 1 0
+300 1 0 300 0 0 0 0
+1 0 100
+E
+chothe hide bp backpack~
+&N   This backpack is very sturdy and can carry a great load.&N
+~
+A
+23 -2
+A
+14 5
+#2678
+goblin gloves~
+&+La pair of&N&+g goblin&N&+L-made gloves&N~
+&+LA pile of leather lies here on the ground.&N~
+~
+9 14 3 0 7 0 0 129 0 1 0
+8 0 0 1 0 0 0 0
+6 0 100
+E
+goblin gloves~
+&N   This pair of leather gloves is covered with little metal spikes making it
+very deadly.&N
+~
+A
+18 3
+#2679
+chothe bone~
+&+La &N&+Ycho&N&+ythe&N&+W bone&N~
+&+LA large &N&+Wwhite bone&N&+L lies here upon the ground.&N~
+~
+13 10 3 0 2 0 8392712 16385 0 1 0
+0 0 0 0 0 0 0 0
+5 0 100
+E
+chothe bone~
+&N   This large bone looks as if i could be used for something.  Who know what.&N
+~
+#2680
+bone blade sword~
+&+La blade of &N&+Wbone&N~
+&+LA sharp looking &N&+Wbone&N&+L lies here upon the ground.&N~
+~
+5 10 3 0 10 0 0 8193 0 32798 0
+5 3 8 3 0 0 0 0
+10 0 100
+E
+bone blade sword~
+&N   This blade is made entirely out of bone.  The handle is too made out of
+bone wrapped in leather.&N
+~
+A
+18 2
+A
+1 4
+#2681
+flesh strip pootata~
+&+La strip of &N&+Mpoo&N&+gtata&N &+Lflesh&N~
+&+LA strip of flesh has been dropped upon the ground here.&N~
+~
+13 2 3 0 4 0 8392704 16385 0 1 0
+0 0 0 0 0 0 0 0
+5 0 100
+E
+flesh strip pootata~
+&N   This strip of flesh has come from an animal.&N
+~
+#2682
+goblin earring~
+&+La &N&+ggoblin&N&+W earring&N~
+&+LAn earring made of &N&+Wbone&N&+L lies here upon the ground.&N~
+~
+9 10 3 0 10 0 1 524289 0 1 0
+2 0 0 1 0 0 0 0
+2 0 100
+E
+goblin earring~
+&N   This earring was made by a &N&+ggoblin&N.&N
+~
+A
+18 2
+#0
+
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#1
+&N&+LThe &N&+gGagga'Jobo Cave&N&+L System&N~
+2690 2 8 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+D 0 2678 5 1 100 0 0 0
+*     down exit from "In the Cave That Leads to the Pootata Pens" to
+*     "The Center of the Pootata Pens" - closed
+*
+D 0 2680 4 1 100 0 0 0
+*     up exit from "The Center of the Pootata Pens" to
+*     "In the Cave That Leads to the Pootata Pens" - closed
+*
+D 0 2685 1 1 100 0 0 0
+*     east exit from "In Front of the Iron Gate of the Chothe Pens" to
+*     "The Entrance To the Chothe Pens" - closed
+*
+D 0 2686 3 1 100 0 0 0
+*     west exit from "The Entrance To the Chothe Pens" to
+*     "In Front of the Iron Gate of the Chothe Pens" - closed
+*
+*
+O 0 2669 1 2675 100 0 0 0          * a butcher table
+P 1 2671 6 2669 100 0 0 0          *   a piece of chothe meat
+P 1 2672 5 2669 100 0 0 0          *   some pootata meat
+O 0 2671 6 2675 100 0 0 0          * a piece of chothe meat
+*
+M 0 2677 5 2668 100 0 0 0          * a goblin warrior
+M 0 2677 5 2669 100 0 0 0          * a goblin warrior
+M 0 2677 5 2671 100 0 0 0          * a goblin warrior
+M 0 2677 5 2671 100 0 0 0          * a goblin warrior
+M 0 2670 1 2672 100 0 0 0          * a goblin worker
+E 1 2670 1 27 100 0 0 0            *   a meat pack
+P 1 2671 6 2670 100 0 0 0          *   a piece of chothe meat
+P 1 2671 6 2670 100 0 0 0          *   a piece of chothe meat
+P 1 2671 6 2670 100 0 0 0          *   a piece of chothe meat
+P 1 2671 6 2670 100 0 0 0          *   a piece of chothe meat
+P 1 2672 5 2670 100 0 0 0          *   some pootata meat
+P 1 2672 5 2670 100 0 0 0          *   some pootata meat
+P 1 2672 5 2670 100 0 0 0          *   some pootata meat
+P 1 2672 5 2670 100 0 0 0          *   some pootata meat
+M 0 2677 5 2673 100 0 0 0          * a goblin warrior
+M 0 2671 1 2675 100 0 0 0          * a chained chothe
+M 0 2672 1 2675 100 0 0 0          * the goblin butcher
+E 1 2668 2 16 100 0 0 0            *   a goblin knife
+E 1 2673 1 24 100 0 0 0            *   a symbol of Malch'hor Ganl
+M 0 2673 1 2676 100 0 0 0          * a goblin leatherworker
+G 1 2675 1 0 100 0 0 0             *    a pair of leather shoes
+G 1 2676 1 0 100 0 0 0             *    a goblin-made leather shirt
+G 1 2677 1 0 100 0 0 0             *    a chothe hide backpack
+G 1 2678 1 0 100 0 0 0             *    a pair of goblin-made gloves
+M 0 2675 1 2676 100 0 0 0          * an apprentice leather worker
+E 1 2668 2 16 100 0 0 0            *   a goblin knife
+M 0 2674 1 2679 100 0 0 0          * a goblin bone-worker
+G 1 2682 1 0 100 0 0 0             *    a goblin earring
+M 0 2669 5 2680 100 0 0 0          * a large Pootata
+G 1 2681 5 0 100 0 0 0             *    a strip of pootata flesh
+M 0 2669 5 2681 100 0 0 0          * a large Pootata
+G 1 2681 5 0 100 0 0 0             *    a strip of pootata flesh
+M 0 2669 5 2682 100 0 0 0          * a large Pootata
+G 1 2681 5 0 100 0 0 0             *    a strip of pootata flesh
+M 0 2669 5 2683 100 0 0 0          * a large Pootata
+G 1 2681 5 0 100 0 0 0             *    a strip of pootata flesh
+M 0 2669 5 2684 100 0 0 0          * a large Pootata
+G 1 2681 5 0 100 0 0 0             *    a strip of pootata flesh
+M 0 2668 6 2686 100 0 0 0          * a large chothe
+G 1 2679 6 0 100 0 0 0             *    a chothe bone
+G 1 2674 6 0 100 0 0 0             *    a strip of chothe hide
+M 0 2668 6 2687 100 0 0 0          * a large chothe
+G 1 2674 6 0 100 0 0 0             *    a strip of chothe hide
+G 1 2679 6 0 100 0 0 0             *    a chothe bone
+M 0 2668 6 2687 100 0 0 0          * a large chothe
+G 1 2674 6 0 100 0 0 0             *    a strip of chothe hide
+G 1 2679 6 0 100 0 0 0             *    a chothe bone
+M 0 2676 1 2687 100 0 0 0          * a goblin worker
+M 0 2668 6 2688 100 0 0 0          * a large chothe
+G 1 2674 6 0 100 0 0 0             *    a strip of chothe hide
+G 1 2679 6 0 100 0 0 0             *    a chothe bone
+M 0 2668 6 2689 100 0 0 0          * a large chothe
+G 1 2674 6 0 100 0 0 0             *    a strip of chothe hide
+G 1 2679 6 0 100 0 0 0             *    a chothe bone
+M 0 2668 6 2690 100 0 0 0          * a large chothe
+G 1 2674 6 0 100 0 0 0             *    a strip of chothe hide
+G 1 2679 6 0 100 0 0 0             *    a chothe bone
+*
+S
+#QUESTS
+#2673
+M
+chothe hide strip~
+&N   "I have been known to make leather items from that type of hide.  I can
+make many things.  Ask me more about backpacks, gloves, shirts or shoes."&N
+~
+M
+backpack bp~
+&N   "Give me three strips of &N&+Ycho&N&+ythe&N hide and i'll make you a great backpack."&N
+~
+M
+shoes~
+&N   "Give me one strip of&N&+Y cho&N&+ythe&N hide and one platinum coin and you can have
+a pair of my special leather shoes.  You can walk forever in them."&N
+~
+M
+shirt~
+&N   "Give me two strips of&N&+Y cho&N&+ythe&N hide and two platinum and i'll make you a
+great shirt that is very popular with the shamans of &+gMalch'hor Ganl&N."&N
+~
+M
+gloves~
+&N   "Give me four&N&+Y cho&N&+ythe&N hides and ten platinum coins and i'll make you an
+excellent pair of gloves."&N
+~
+Q
+&N   "Here you go!"&N
+~
+R I 2675
+G I 2674
+G C 1000
+Q
+&N   "Here you go!"
+~
+R I 2676
+G I 2674
+G I 2674
+G C 2000
+Q
+&N   "Thank you!  Here you are!"&N
+~
+R I 2677
+G I 2674
+G I 2674
+G I 2674
+Q
+&N   "Here you go!"&N
+~
+R I 2678
+G I 2674
+G I 2674
+G I 2674
+G I 2674
+G C 10000
+S
+#2674
+M
+bone sword~
+&N   "I can make you a sword.  You must bring me a large bone and two different
+kinds of flesh for the handle.  It'll also cost you some money.  Just keep on
+giving me cash and i'll let you know when its enough."&N
+~
+M
+earring~
+&+L   "I can make you an earring.  Give me two bones and i'll see what i can do."&N
+~
+Q
+&N   "Oh thanks, it was a pleasure to make this for you.  Wield it well!"&N
+~
+R I 2680
+G I 2679
+G I 2681
+G I 2674
+G C 100000
+Q
+&N   "Heh, thanks.  Enjoy the earring."&N
+~
+R I 2682
+G I 2679
+G I 2679
+S
+#0
+#$
+
+

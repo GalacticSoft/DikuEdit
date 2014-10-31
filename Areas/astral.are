@@ -1,0 +1,4393 @@
+#AREADATA
+Name        The Astral Plane~
+Author      Cyric~
+Levels      45 50
+Security    1
+VNUMs       3544 3674
+Builders    Cyric~
+Recall      3001
+Reset       You hear the patter of little feet.~
+End
+
+#BASTMOBS
+#3544
+torash pit fiend large~
+&+LThe pit&n &+rfiend&n&+L,&n &+MTorash&n~
+&+LA large pit &+rfiend &+Lroams the vast plane.
+~
+&+L   Before you stands an enormous pit fiend. &+MTorash &+Lstands nearly 15 feet tall,
+&+Ltowering over you. Black wings stretch out nearly 20 feet behind him while
+&+Lhuge talons sprout from his hands and feet. Horns nearly a foot in length
+&+Lprotrude from his head while fangs aproximatly ten inches long drip nasty
+&+Gacidic &+Lsalivia.
+~
+2088 134217746 264192 0 0 -1000 S
+X 0 9
+60 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3545
+githyanki hunter human~
+a &+Ygith&+Cyanki &+rhunter~
+A medium sized &+Ygith&+Cyanki&n stands here, seeking intruders.
+~
+     This githyanki stands here, scaning the vast plane for intruders into the
+ domain of the legendary lich queen Gith. In its hands is a silvery sword known
+ through out the realms as one belonging to a githyanki, able to sever the
+ silver cord that attaches a persons life force to them.
+~
+2088 134217816 2 0 0 -1000 S
+GI 0 22
+50 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3546
+beholder huge~
+&+LA huge &+Gb&+Le&+Gh&+Lo&+Gl&+Ld&+Ge&+Lr&n~
+&+LA huge &+Gbeholder&n &+Lstands here looking for new slaves.&n
+~
+     A huge beholder floats before you, its eye stalks all moving seperatly and
+watching you intently. Furious to your intrusion, this beholder frowns deeply
+than suddenly lances out in a furious attack upon you.
+~
+1073741992 402653338 264192 0 0 -1000 S
+BH 0 3
+56 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3547
+shadow daemon~
+&+LA shadow daemon&n~
+&+LA shadow wavers in the silvery void here.&n
+~
+&+L     This demonic entity floats around you, chilling the room. The shadows
+&+Lseem to crawl all around you as a demonic form takes shape, standing 12 feet
+&+Ltall with medium sized horns protruding from the gruesomly shaped head.
+&+LTalons nearly a foot long extend from its hands as it leaps to attack you.
+~
+2216 524376 262146 0 0 -1000 S
+X 0 1
+58 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3548
+elemental smoke~
+&+La smoke elemental&n~
+&+LA small elemental composed of smoke swirling around here.&n
+~
+     Composed completely of smoke, this elemental seems an outcast to any of
+the elemental planes, and has choosen to be adrift the astral plane. Standing
+near 8 feet tall, the smoke curls in upon itself revealing the form of a large
+man shaped monster, althought as he leaps to attack you, he doesn't appear to
+be all that friendly.
+~
+133352 0 0 0 0 0 S
+EA 0 1
+51 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3549
+dragon crystaline large~
+&+Wa c&+Crys&+Wta&+Cli&+Wne &+Cdr&+Wag&+Con&n~
+&+CA large crystaline dragon soars through the plane here.&n
+~
+     Before you lies a gigantic crystaline dragon. All over it, scales of
+crystal shimmer all over it as it stretches its wings into the expanse
+around you. Gleaming green eyes dance around the astral plane, searching
+for some great evil to destroy. As you approch the great dragon its eyes
+follow you half expecting you to bow down in homage.
+~
+33564744 0 0 0 0 960 S
+D 0 10
+60 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3550
+planeswalker mage alashi human~
+&+bthe mage, Alashi&n~
+&+bA powerful planeswalker stands here, scaning the astral void.
+~
+     This mage is dressed in a billowing blue robe that seems to engulf the body
+of the mage. In his hands rests a staff of great power. Every item he has seems
+to radiate a magical power of some sort, and occasionaly a faint hum can be heard
+from some unknown item.
+~
+395336 403177630 264193 0 532512 0 S
+PE 0 10
+60 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3551
+lich twisted~
+&+La twisted lich&n~
+&+LA twisted lich stands in mid-air here, guarding the portal.&n
+~
+&+L     Standing in mid-air here, this lich grins evily as u approch. An evil
+&+Laura of power radiates from the lich. Behind him stand a portal to the negative
+&+Lmaterial plane. As he starts to chant in an arcane language a feeling of dread
+&+Lsweeps over you.
+~
+41971498 2551709850 296961 0 532512 -1000 S
+X 0 11
+60 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3552
+heavily clad war horse warhorse~
+&+Wa heavily clad warhorse&N~
+&+WA heavily clad &N&+cwar&+Whorse stands here, ready for battle.&N
+~
+     Standing 18 hands tall, this warhorse stands before you, armor gleaming in
+the sunlight.
+~
+138412040 0 0 0 0 1000 S
+AE 0 1
+1 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#3553
+black nightmare horse pitch~
+&+La pitch black deadly nig&N&+rhtm&+Lare&n~
+&+LA pitch black nightmare stands here, snorting &+Rfire&+L.&N
+~
+&+L     Before you stands a large pitch black nightmare. A great mane of flames
+&+Lstretches down the back of the horse as the seering hooves scorths the ground.
+&+LJets of flames shoot out of the nightmares nose as it paces around the area.
+~
+138412040 0 0 0 0 -1000 S
+AE 0 1
+1 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#0
+#BASTOBJECTS
+#3544
+sword twilight longsword destruction~
+&+CT&+Ww&+Ci&+Wl&+Ci&+Wg&+Ch&+Wt&n &+Lthe sword of&n &+bdestruction&n~
+&+LA dark longsword lies here, sucking light into its pitch-black blade.~
+~
+5 19 3 1 15 0 103989313 8396801 961 1 0
+5 8 6 3 0 0 0 0
+2 398053395 100
+E
+twilight longsword sword destruction~
+&+L   This long sword seems to radiate an aura of pure destruction.&+B Blue
+&+Land black flames dance across the blade creating what appears to be a
+&+Lvortex of flames. The black blade slenders down meeting a narrow pommel.
+&+LAt the base of the sword a series of &+rblood red rubys &+Lline the bottem
+&+Leach one in the shape of a tear.
+~
+A
+18 8
+A
+19 8
+#3545
+crown dancing flames~
+&+ra crown of dancing flames&n~
+&+rA small crown composed of tiny dancing flames lies here.~
+~
+9 1 3 1 15 100 67125249 17 512 1 0
+25 0 0 5 1 0 0 0
+1 64654 100
+A
+19 6
+A
+18 6
+#3546
+portal swirling flames fire~
+&+ra portal of swirling flames&n~
+&+rA portal of swirling flames floats in mid-air here.&n~
+~
+25 15 3 0 7 0 1 0 0 1 0
+0 7 -1 0 0 0 0 0
+0 0 100
+#3547
+portal wind winds air~
+&+Ca portal of winds&n~
+&+CA portal of living winds hangs in mid-air here.&n~
+~
+25 15 3 0 7 0 1 0 0 1 0
+0 7 -1 0 0 0 0 0
+0 0 100
+#3548
+large earthen earthen portal~
+&+yAn earthen portal&n~
+&+yA large earthen portal hangs in mid-air here.&n~
+~
+25 15 3 0 7 0 1 0 0 1 0
+0 7 -1 0 0 0 0 0
+0 0 100
+#3549
+large watery water portal~
+&+ba large watery portal&n~
+&+bA large watery portal hangs in mid-air here.&n~
+~
+25 15 3 0 7 0 1 0 0 1 0
+0 7 -1 0 0 0 0 0
+0 0 100
+#3550
+portal blinding light positive~
+&+Wa portal of blinding light&n~
+&+WA large portal of blinding light rests in mid-air here&n~
+~
+25 15 3 0 7 0 1 0 0 1 0
+0 7 -1 0 0 0 0 0
+0 0 100
+#3551
+portal dark energy~
+&+LA portal of dark energy&n~
+&+LA portal of dark energy hangs in mid-air here.&n~
+~
+25 15 3 0 7 0 1 0 0 1 0
+0 7 -1 0 0 0 0 0
+0 0 100
+#3552
+githyanki longsword sword silver silverish~
+&+Wa silverish &+Ygith&+Cyanki &+Wlongsword&n~
+&+WA silverish longsword lies here, discarded.&n~
+~
+5 22 3 1 14 0 3170625 8193 1 1 0
+5 4 6 3 0 0 0 0
+2 45654 100
+A
+13 25
+A
+18 5
+#3553
+sword crystaline dream weaver~
+&+WA c&+Cry&+Wst&+Cal&+Win&+Ce s&+Wwo&+Crd &+Wna&+Cme&+Wd &+L'D&+Mr&+Le&+Ma&+Lm &+MW&+Le&+Ma&+Lv&+Me&+Lr'~
+&+CA crystaline longsword lies here, humming softly.&n~
+~
+5 8 3 1 15 0 70287361 8193 704 1 0
+5 8 6 3 0 0 0 0
+1 4654664 100
+A
+18 8
+A
+19 8
+#3554
+staff blue flames magi~
+&+Bthe staff of the magi&n~
+&+BA staff enshrouded in blue flames lies here.&n~
+~
+4 1 3 0 15 1 3145809 24577 512 1 0
+60 1000 1000 77 0 0 0 0
+1 876876 100
+A
+18 15
+A
+33 15
+#3555
+ring tiny negative energy~
+&+La ring of negative energy&n~
+&+LA tiny ring lies here, pulling light into itself.&n~
+~
+9 1 3 1 15 100 70255169 3 512 1 0
+15 0 0 4 0 0 0 0
+1 5465654 100
+A
+35 10
+A
+19 5
+#0
+
+#BASTROOMS
+#3544
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3545
+D2
+~
+~
+0 0 3549
+D5
+~
+~
+0 0 3569
+S
+#3545
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3546
+D2
+~
+~
+0 0 3550
+D3
+~
+~
+0 0 3544
+D5
+~
+~
+0 0 3570
+S
+#3546
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3547
+D2
+~
+~
+0 0 3551
+D3
+~
+~
+0 0 3545
+D5
+~
+~
+0 0 3571
+S
+#3547
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3548
+D2
+~
+~
+0 0 3552
+D3
+~
+~
+0 0 3546
+D5
+~
+~
+0 0 3572
+S
+#3548
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D2
+~
+~
+0 0 3553
+D3
+~
+~
+0 0 3547
+D5
+~
+~
+0 0 3573
+S
+#3549
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3544
+D1
+~
+~
+0 0 3550
+D2
+~
+~
+0 0 3554
+D5
+~
+~
+0 0 3574
+S
+#3550
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3545
+D1
+~
+~
+0 0 3551
+D2
+~
+~
+0 0 3555
+D3
+~
+~
+0 0 3549
+D5
+~
+~
+0 0 3575
+S
+#3551
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3546
+D1
+~
+~
+0 0 3552
+D2
+~
+~
+0 0 3556
+D3
+~
+~
+0 0 3550
+D5
+~
+~
+0 0 3576
+S
+#3552
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3547
+D1
+~
+~
+0 0 3553
+D2
+~
+~
+0 0 3557
+D3
+~
+~
+0 0 3551
+D5
+~
+~
+0 0 3577
+S
+#3553
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3548
+D2
+~
+~
+0 0 3558
+D3
+~
+~
+0 0 3552
+D5
+~
+~
+0 0 3578
+S
+#3554
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3549
+D1
+~
+~
+0 0 3555
+D2
+~
+~
+0 0 3559
+D5
+~
+~
+0 0 3579
+S
+#3555
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3550
+D1
+~
+~
+0 0 3556
+D2
+~
+~
+0 0 3560
+D3
+~
+~
+0 0 3554
+D5
+~
+~
+0 0 3580
+S
+#3556
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3551
+D1
+~
+~
+0 0 3557
+D2
+~
+~
+0 0 3561
+D3
+~
+~
+0 0 3555
+D4
+~
+~
+0 0 3673
+D5
+~
+~
+0 0 3581
+S
+#3557
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3552
+D1
+~
+~
+0 0 3558
+D2
+~
+~
+0 0 3562
+D3
+~
+~
+0 0 3556
+D5
+~
+~
+0 0 3582
+S
+#3558
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3553
+D2
+~
+~
+0 0 3563
+D3
+~
+~
+0 0 3557
+D5
+~
+~
+0 0 3583
+S
+#3559
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3554
+D1
+~
+~
+0 0 3560
+D2
+~
+~
+0 0 3564
+D5
+~
+~
+0 0 3584
+S
+#3560
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3555
+D1
+~
+~
+0 0 3561
+D2
+~
+~
+0 0 3565
+D3
+~
+~
+0 0 3559
+D5
+~
+~
+0 0 3585
+S
+#3561
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3556
+D1
+~
+~
+0 0 3562
+D2
+~
+~
+0 0 3566
+D3
+~
+~
+0 0 3560
+D5
+~
+~
+0 0 3586
+S
+#3562
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3557
+D1
+~
+~
+0 0 3563
+D2
+~
+~
+0 0 3567
+D3
+~
+~
+0 0 3561
+D5
+~
+~
+0 0 3587
+S
+#3563
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3558
+D2
+~
+~
+0 0 3568
+D3
+~
+~
+0 0 3562
+D5
+~
+~
+0 0 3588
+S
+#3564
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3559
+D1
+~
+~
+0 0 3565
+D5
+~
+~
+0 0 3589
+S
+#3565
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3560
+D1
+~
+~
+0 0 3566
+D3
+~
+~
+0 0 3564
+D5
+~
+~
+0 0 3590
+S
+#3566
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3561
+D1
+~
+~
+0 0 3567
+D3
+~
+~
+0 0 3565
+D5
+~
+~
+0 0 3591
+S
+#3567
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3562
+D1
+~
+~
+0 0 3568
+D3
+~
+~
+0 0 3566
+D5
+~
+~
+0 0 3592
+S
+#3568
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3563
+D3
+~
+~
+0 0 3567
+D5
+~
+~
+0 0 3593
+S
+#3569
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3570
+D2
+~
+~
+0 0 3574
+D4
+~
+~
+0 0 3544
+D5
+~
+~
+0 0 3594
+S
+#3570
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3571
+D2
+~
+~
+0 0 3575
+D3
+~
+~
+0 0 3569
+D4
+~
+~
+0 0 3545
+D5
+~
+~
+0 0 3595
+S
+#3571
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3572
+D2
+~
+~
+0 0 3576
+D3
+~
+~
+0 0 3570
+D4
+~
+~
+0 0 3546
+D5
+~
+~
+0 0 3596
+S
+#3572
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3573
+D2
+~
+~
+0 0 3577
+D3
+~
+~
+0 0 3571
+D4
+~
+~
+0 0 3547
+D5
+~
+~
+0 0 3597
+S
+#3573
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D2
+~
+~
+0 0 3578
+D3
+~
+~
+0 0 3572
+D4
+~
+~
+0 0 3548
+D5
+~
+~
+0 0 3598
+S
+#3574
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3569
+D1
+~
+~
+0 0 3575
+D2
+~
+~
+0 0 3579
+D4
+~
+~
+0 0 3549
+D5
+~
+~
+0 0 3599
+S
+#3575
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3570
+D1
+~
+~
+0 0 3576
+D2
+~
+~
+0 0 3580
+D3
+~
+~
+0 0 3574
+D4
+~
+~
+0 0 3550
+D5
+~
+~
+0 0 3600
+S
+#3576
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3571
+D1
+~
+~
+0 0 3577
+D2
+~
+~
+0 0 3581
+D3
+~
+~
+0 0 3575
+D4
+~
+~
+0 0 3551
+D5
+~
+~
+0 0 3601
+S
+#3577
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3572
+D1
+~
+~
+0 0 3578
+D2
+~
+~
+0 0 3582
+D3
+~
+~
+0 0 3576
+D4
+~
+~
+0 0 3552
+D5
+~
+~
+0 0 3602
+S
+#3578
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3573
+D2
+~
+~
+0 0 3583
+D3
+~
+~
+0 0 3577
+D4
+~
+~
+0 0 3553
+D5
+~
+~
+0 0 3603
+S
+#3579
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3574
+D1
+~
+~
+0 0 3580
+D2
+~
+~
+0 0 3584
+D4
+~
+~
+0 0 3554
+D5
+~
+~
+0 0 3604
+S
+#3580
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3575
+D1
+~
+~
+0 0 3581
+D2
+~
+~
+0 0 3585
+D3
+~
+~
+0 0 3579
+D4
+~
+~
+0 0 3555
+D5
+~
+~
+0 0 3605
+S
+#3581
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3576
+D1
+~
+~
+0 0 3582
+D2
+~
+~
+0 0 3586
+D3
+~
+~
+0 0 3580
+D4
+~
+~
+0 0 3556
+D5
+~
+~
+0 0 3606
+S
+#3582
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3577
+D1
+~
+~
+0 0 3583
+D2
+~
+~
+0 0 3587
+D3
+~
+~
+0 0 3581
+D4
+~
+~
+0 0 3557
+D5
+~
+~
+0 0 3607
+S
+#3583
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3578
+D2
+~
+~
+0 0 3588
+D3
+~
+~
+0 0 3582
+D4
+~
+~
+0 0 3558
+D5
+~
+~
+0 0 3608
+S
+#3584
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3579
+D1
+~
+~
+0 0 3585
+D2
+~
+~
+0 0 3589
+D4
+~
+~
+0 0 3559
+D5
+~
+~
+0 0 3609
+S
+#3585
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3580
+D1
+~
+~
+0 0 3586
+D2
+~
+~
+0 0 3590
+D3
+~
+~
+0 0 3584
+D4
+~
+~
+0 0 3560
+D5
+~
+~
+0 0 3610
+S
+#3586
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3581
+D1
+~
+~
+0 0 3587
+D2
+~
+~
+0 0 3591
+D3
+~
+~
+0 0 3585
+D4
+~
+~
+0 0 3561
+D5
+~
+~
+0 0 3611
+S
+#3587
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3582
+D1
+~
+~
+0 0 3588
+D2
+~
+~
+0 0 3592
+D3
+~
+~
+0 0 3586
+D4
+~
+~
+0 0 3562
+D5
+~
+~
+0 0 3612
+S
+#3588
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3583
+D2
+~
+~
+0 0 3593
+D3
+~
+~
+0 0 3587
+D4
+~
+~
+0 0 3563
+D5
+~
+~
+0 0 3613
+S
+#3589
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3584
+D1
+~
+~
+0 0 3590
+D4
+~
+~
+0 0 3564
+D5
+~
+~
+0 0 3614
+S
+#3590
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3585
+D1
+~
+~
+0 0 3591
+D3
+~
+~
+0 0 3589
+D4
+~
+~
+0 0 3565
+D5
+~
+~
+0 0 3615
+S
+#3591
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3586
+D1
+~
+~
+0 0 3592
+D3
+~
+~
+0 0 3590
+D4
+~
+~
+0 0 3566
+D5
+~
+~
+0 0 3616
+S
+#3592
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3587
+D1
+~
+~
+0 0 3593
+D3
+~
+~
+0 0 3591
+D4
+~
+~
+0 0 3567
+D5
+~
+~
+0 0 3617
+S
+#3593
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3588
+D3
+~
+~
+0 0 3592
+D4
+~
+~
+0 0 3568
+D5
+~
+~
+0 0 3618
+S
+#3594
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3595
+D2
+~
+~
+0 0 3599
+D4
+~
+~
+0 0 3569
+D5
+~
+~
+0 0 3619
+S
+#3595
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3671
+D1
+~
+~
+0 0 3596
+D2
+~
+~
+0 0 3600
+D3
+~
+~
+0 0 3594
+D4
+~
+~
+0 0 3570
+D5
+~
+~
+0 0 3620
+S
+#3596
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3672
+D1
+~
+~
+0 0 3597
+D2
+~
+~
+0 0 3601
+D3
+~
+~
+0 0 3595
+D4
+~
+~
+0 0 3571
+D5
+~
+~
+0 0 3621
+S
+#3597
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3598
+D2
+~
+~
+0 0 3602
+D3
+~
+~
+0 0 3596
+D4
+~
+~
+0 0 3572
+D5
+~
+~
+0 0 3622
+S
+#3598
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D2
+~
+~
+0 0 3603
+D3
+~
+~
+0 0 3597
+D4
+~
+~
+0 0 3573
+D5
+~
+~
+0 0 3623
+S
+#3599
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3594
+D1
+~
+~
+0 0 3600
+D2
+~
+~
+0 0 3604
+D4
+~
+~
+0 0 3574
+D5
+~
+~
+0 0 3624
+S
+#3600
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3595
+D1
+~
+~
+0 0 3601
+D2
+~
+~
+0 0 3605
+D3
+~
+~
+0 0 3599
+D4
+~
+~
+0 0 3575
+D5
+~
+~
+0 0 3625
+S
+#3601
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3596
+D1
+~
+~
+0 0 3602
+D2
+~
+~
+0 0 3606
+D3
+~
+~
+0 0 3600
+D4
+~
+~
+0 0 3576
+D5
+~
+~
+0 0 3626
+S
+#3602
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3597
+D1
+~
+~
+0 0 3603
+D2
+~
+~
+0 0 3607
+D3
+~
+~
+0 0 3601
+D4
+~
+~
+0 0 3577
+D5
+~
+~
+0 0 3627
+S
+#3603
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3598
+D2
+~
+~
+0 0 3608
+D3
+~
+~
+0 0 3602
+D4
+~
+~
+0 0 3578
+D5
+~
+~
+0 0 3628
+S
+#3604
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3599
+D1
+~
+~
+0 0 3605
+D2
+~
+~
+0 0 3609
+D3
+~
+~
+0 0 3669
+D4
+~
+~
+0 0 3579
+D5
+~
+~
+0 0 3629
+S
+#3605
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3600
+D1
+~
+~
+0 0 3606
+D2
+~
+~
+0 0 3610
+D3
+~
+~
+0 0 3604
+D4
+~
+~
+0 0 3580
+D5
+~
+~
+0 0 3630
+S
+#3606
+The Center of the Astral Plane~
+     While direction and distance seem to mean little in the astral plane,
+where land masses and gravity are absent, there is a feeling that this
+immediate area represents the heart of the plane. The area feels more
+stable, and very few the random rogue portals pop into existance. An
+unchanging gray atmosphere surrounds everything, and althought the
+grayness seems to stretch infinitely in all directions, it doesn't
+hamper your vision or other senses.
+~
+1 4 23
+D0
+~
+~
+0 0 3601
+D1
+~
+~
+0 0 3607
+D2
+~
+~
+0 0 3611
+D3
+~
+~
+0 0 3605
+D4
+~
+~
+0 0 3581
+D5
+~
+~
+0 0 3631
+S
+#3607
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3602
+D1
+~
+~
+0 0 3608
+D2
+~
+~
+0 0 3612
+D3
+~
+~
+0 0 3606
+D4
+~
+~
+0 0 3582
+D5
+~
+~
+0 0 3632
+S
+#3608
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3603
+D1
+~
+~
+0 0 3670
+D2
+~
+~
+0 0 3613
+D3
+~
+~
+0 0 3607
+D4
+~
+~
+0 0 3583
+D5
+~
+~
+0 0 3633
+S
+#3609
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3604
+D1
+~
+~
+0 0 3610
+D2
+~
+~
+0 0 3614
+D4
+~
+~
+0 0 3584
+D5
+~
+~
+0 0 3634
+S
+#3610
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3605
+D1
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3615
+D3
+~
+~
+0 0 3609
+D4
+~
+~
+0 0 3585
+D5
+~
+~
+0 0 3635
+S
+#3611
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3606
+D1
+~
+~
+0 0 3612
+D2
+~
+~
+0 0 3616
+D3
+~
+~
+0 0 3610
+D4
+~
+~
+0 0 3586
+D5
+~
+~
+0 0 3636
+S
+#3612
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3607
+D1
+~
+~
+0 0 3613
+D2
+~
+~
+0 0 3617
+D3
+~
+~
+0 0 3611
+D4
+~
+~
+0 0 3587
+D5
+~
+~
+0 0 3637
+S
+#3613
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3608
+D2
+~
+~
+0 0 3618
+D3
+~
+~
+0 0 3612
+D4
+~
+~
+0 0 3588
+D5
+~
+~
+0 0 3638
+S
+#3614
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3609
+D1
+~
+~
+0 0 3615
+D4
+~
+~
+0 0 3589
+D5
+~
+~
+0 0 3639
+S
+#3615
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3610
+D1
+~
+~
+0 0 3616
+D3
+~
+~
+0 0 3614
+D4
+~
+~
+0 0 3590
+D5
+~
+~
+0 0 3640
+S
+#3616
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3611
+D1
+~
+~
+0 0 3617
+D2
+~
+~
+0 0 3671
+D3
+~
+~
+0 0 3615
+D4
+~
+~
+0 0 3591
+D5
+~
+~
+0 0 3641
+S
+#3617
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3612
+D1
+~
+~
+0 0 3618
+D3
+~
+~
+0 0 3616
+D4
+~
+~
+0 0 3592
+D5
+~
+~
+0 0 3642
+S
+#3618
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3613
+D3
+~
+~
+0 0 3617
+D4
+~
+~
+0 0 3593
+D5
+~
+~
+0 0 3643
+S
+#3619
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3620
+D2
+~
+~
+0 0 3624
+D4
+~
+~
+0 0 3594
+D5
+~
+~
+0 0 3644
+S
+#3620
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3621
+D2
+~
+~
+0 0 3625
+D3
+~
+~
+0 0 3619
+D4
+~
+~
+0 0 3595
+D5
+~
+~
+0 0 3645
+S
+#3621
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3622
+D2
+~
+~
+0 0 3626
+D3
+~
+~
+0 0 3620
+D4
+~
+~
+0 0 3596
+D5
+~
+~
+0 0 3646
+S
+#3622
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3623
+D2
+~
+~
+0 0 3627
+D3
+~
+~
+0 0 3621
+D4
+~
+~
+0 0 3597
+D5
+~
+~
+0 0 3647
+S
+#3623
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D2
+~
+~
+0 0 3628
+D3
+~
+~
+0 0 3622
+D4
+~
+~
+0 0 3598
+D5
+~
+~
+0 0 3648
+S
+#3624
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3619
+D1
+~
+~
+0 0 3625
+D2
+~
+~
+0 0 3629
+D4
+~
+~
+0 0 3599
+D5
+~
+~
+0 0 3649
+S
+#3625
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3620
+D1
+~
+~
+0 0 3626
+D2
+~
+~
+0 0 3630
+D3
+~
+~
+0 0 3624
+D4
+~
+~
+0 0 3600
+D5
+~
+~
+0 0 3650
+S
+#3626
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3621
+D1
+~
+~
+0 0 3627
+D2
+~
+~
+0 0 3631
+D3
+~
+~
+0 0 3625
+D4
+~
+~
+0 0 3601
+D5
+~
+~
+0 0 3651
+S
+#3627
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3622
+D1
+~
+~
+0 0 3628
+D2
+~
+~
+0 0 3632
+D3
+~
+~
+0 0 3626
+D4
+~
+~
+0 0 3602
+D5
+~
+~
+0 0 3652
+S
+#3628
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3623
+D2
+~
+~
+0 0 3633
+D3
+~
+~
+0 0 3627
+D4
+~
+~
+0 0 3603
+D5
+~
+~
+0 0 3653
+S
+#3629
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3624
+D1
+~
+~
+0 0 3630
+D2
+~
+~
+0 0 3634
+D4
+~
+~
+0 0 3604
+D5
+~
+~
+0 0 3654
+S
+#3630
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3625
+D1
+~
+~
+0 0 3631
+D2
+~
+~
+0 0 3635
+D3
+~
+~
+0 0 3629
+D4
+~
+~
+0 0 3605
+D5
+~
+~
+0 0 3655
+S
+#3631
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3626
+D1
+~
+~
+0 0 3632
+D2
+~
+~
+0 0 3636
+D3
+~
+~
+0 0 3630
+D4
+~
+~
+0 0 3606
+D5
+~
+~
+0 0 3656
+S
+#3632
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3627
+D1
+~
+~
+0 0 3633
+D2
+~
+~
+0 0 3637
+D3
+~
+~
+0 0 3631
+D4
+~
+~
+0 0 3607
+D5
+~
+~
+0 0 3657
+S
+#3633
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3628
+D2
+~
+~
+0 0 3638
+D3
+~
+~
+0 0 3632
+D4
+~
+~
+0 0 3608
+D5
+~
+~
+0 0 3658
+S
+#3634
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3629
+D1
+~
+~
+0 0 3635
+D2
+~
+~
+0 0 3639
+D4
+~
+~
+0 0 3609
+D5
+~
+~
+0 0 3659
+S
+#3635
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3630
+D1
+~
+~
+0 0 3636
+D2
+~
+~
+0 0 3640
+D3
+~
+~
+0 0 3634
+D4
+~
+~
+0 0 3610
+D5
+~
+~
+0 0 3660
+S
+#3636
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3631
+D1
+~
+~
+0 0 3637
+D2
+~
+~
+0 0 3641
+D3
+~
+~
+0 0 3635
+D4
+~
+~
+0 0 3611
+D5
+~
+~
+0 0 3661
+S
+#3637
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3632
+D1
+~
+~
+0 0 3638
+D2
+~
+~
+0 0 3642
+D3
+~
+~
+0 0 3636
+D4
+~
+~
+0 0 3612
+D5
+~
+~
+0 0 3662
+S
+#3638
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3633
+D2
+~
+~
+0 0 3643
+D3
+~
+~
+0 0 3637
+D4
+~
+~
+0 0 3613
+D5
+~
+~
+0 0 3663
+S
+#3639
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3634
+D1
+~
+~
+0 0 3640
+D4
+~
+~
+0 0 3614
+D5
+~
+~
+0 0 3664
+S
+#3640
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3635
+D1
+~
+~
+0 0 3641
+D3
+~
+~
+0 0 3639
+D4
+~
+~
+0 0 3615
+D5
+~
+~
+0 0 3665
+S
+#3641
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3636
+D1
+~
+~
+0 0 3642
+D3
+~
+~
+0 0 3640
+D4
+~
+~
+0 0 3616
+D5
+~
+~
+0 0 3666
+S
+#3642
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3637
+D1
+~
+~
+0 0 3643
+D3
+~
+~
+0 0 3641
+D4
+~
+~
+0 0 3617
+D5
+~
+~
+0 0 3667
+S
+#3643
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3638
+D3
+~
+~
+0 0 3642
+D4
+~
+~
+0 0 3618
+D5
+~
+~
+0 0 3668
+S
+#3644
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3645
+D2
+~
+~
+0 0 3649
+D4
+~
+~
+0 0 3619
+S
+#3645
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3646
+D2
+~
+~
+0 0 3650
+D3
+~
+~
+0 0 3644
+D4
+~
+~
+0 0 3620
+S
+#3646
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3647
+D2
+~
+~
+0 0 3651
+D3
+~
+~
+0 0 3645
+D4
+~
+~
+0 0 3621
+S
+#3647
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D1
+~
+~
+0 0 3648
+D2
+~
+~
+0 0 3652
+D3
+~
+~
+0 0 3646
+D4
+~
+~
+0 0 3622
+S
+#3648
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D2
+~
+~
+0 0 3653
+D3
+~
+~
+0 0 3647
+D4
+~
+~
+0 0 3623
+S
+#3649
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3644
+D1
+~
+~
+0 0 3650
+D2
+~
+~
+0 0 3654
+D4
+~
+~
+0 0 3624
+S
+#3650
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3645
+D1
+~
+~
+0 0 3651
+D2
+~
+~
+0 0 3655
+D3
+~
+~
+0 0 3649
+D4
+~
+~
+0 0 3625
+S
+#3651
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3646
+D1
+~
+~
+0 0 3652
+D2
+~
+~
+0 0 3656
+D3
+~
+~
+0 0 3650
+D4
+~
+~
+0 0 3626
+S
+#3652
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3647
+D1
+~
+~
+0 0 3653
+D2
+~
+~
+0 0 3657
+D3
+~
+~
+0 0 3651
+D4
+~
+~
+0 0 3627
+S
+#3653
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3648
+D2
+~
+~
+0 0 3658
+D3
+~
+~
+0 0 3652
+D4
+~
+~
+0 0 3628
+S
+#3654
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3649
+D1
+~
+~
+0 0 3655
+D2
+~
+~
+0 0 3659
+D4
+~
+~
+0 0 3629
+S
+#3655
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3650
+D1
+~
+~
+0 0 3656
+D2
+~
+~
+0 0 3660
+D3
+~
+~
+0 0 3654
+D4
+~
+~
+0 0 3630
+S
+#3656
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3651
+D1
+~
+~
+0 0 3657
+D2
+~
+~
+0 0 3661
+D3
+~
+~
+0 0 3655
+D4
+~
+~
+0 0 3631
+D5
+~
+~
+0 0 3674
+S
+#3657
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3652
+D1
+~
+~
+0 0 3658
+D2
+~
+~
+0 0 3662
+D3
+~
+~
+0 0 3656
+D4
+~
+~
+0 0 3632
+S
+#3658
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3653
+D2
+~
+~
+0 0 3663
+D3
+~
+~
+0 0 3657
+D4
+~
+~
+0 0 3633
+S
+#3659
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3654
+D1
+~
+~
+0 0 3660
+D2
+~
+~
+0 0 3664
+D4
+~
+~
+0 0 3634
+S
+#3660
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3655
+D1
+~
+~
+0 0 3661
+D2
+~
+~
+0 0 3665
+D3
+~
+~
+0 0 3659
+D4
+~
+~
+0 0 3635
+S
+#3661
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3656
+D1
+~
+~
+0 0 3662
+D2
+~
+~
+0 0 3666
+D3
+~
+~
+0 0 3660
+D4
+~
+~
+0 0 3636
+S
+#3662
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3657
+D1
+~
+~
+0 0 3663
+D2
+~
+~
+0 0 3667
+D3
+~
+~
+0 0 3661
+D4
+~
+~
+0 0 3637
+S
+#3663
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3658
+D2
+~
+~
+0 0 3668
+D3
+~
+~
+0 0 3662
+D4
+~
+~
+0 0 3638
+S
+#3664
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3659
+D1
+~
+~
+0 0 3665
+D4
+~
+~
+0 0 3639
+S
+#3665
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3660
+D1
+~
+~
+0 0 3666
+D3
+~
+~
+0 0 3664
+D4
+~
+~
+0 0 3640
+S
+#3666
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3661
+D1
+~
+~
+0 0 3667
+D3
+~
+~
+0 0 3665
+D4
+~
+~
+0 0 3641
+S
+#3667
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3662
+D1
+~
+~
+0 0 3668
+D3
+~
+~
+0 0 3666
+D4
+~
+~
+0 0 3642
+S
+#3668
+The Astral Plane~
+  The surroundings here are comprised of a gray atmosphere which
+seems to extend infinitely in all directions. No land masses or other
+solid surfaces can be seen. Gravity seems to be non-existan. Maintaining
+your sense of direction in the silvery astral environment is troublesome,
+a task made even more diffucult by the sudden appearance of sudden,
+extremely brief portals that are created randomly, offering glimpses
+into the other planes of existance.
+~
+1 0 0
+D0
+~
+~
+0 0 3663
+D3
+~
+~
+0 0 3667
+D4
+~
+~
+0 0 3643
+S
+#3669
+&+rThe Astral Plane&n~
+   The gray atmosphere of the area seems to solidify a bit here,
+marking an area where the astral plane is more closely linked to
+another plane of existance. The surrounding area seems extremely
+warm compaired to the rest of the plane, almost unbearably so.
+The portals that pop up from time to time seem to be the source
+of this hear, the elemental plane of fire.
+~
+1 4 23
+D1
+~
+~
+0 0 3604
+S
+#3670
+&+BThe Astral Plane&n~
+   A change seems to have taken place in the overwhelmingly dull gray
+atmosphere of the plane. The air around you feels damp to the touch,
+a startling change from the complete absence of feeling from most of
+the rest of the astral plane. Even more odd, globulals of water seem
+to appear and disappear in the blink of an eye. After a moment, it
+becomes clear that these aren't simply spots of water in the air...
+they're portals to the elemental plane of water.
+~
+1 4 23
+D3
+~
+~
+0 0 3608
+S
+#3671
+&+yThe Astral Plane&n~
+   The gray atmosphere of the area seems to solidify a bit here,
+marking an area where the astral plane is more closely linked
+to another plane of existance. Before you small rifts tear into
+the astral plane revealing small tunnels and huge caverns, then
+suddenly they pop out of exsistence. Obviously these small
+portals lead to the fabled elemental plane of earth.
+~
+1 4 23
+D0
+~
+~
+0 0 3616
+S
+#3672
+&+CThe Astral Plane&n~
+   The gray atmosphere of the area seems to solidify a bit here, marking
+an area where the astral plane is more closely linked to another plane of
+existance. Random smaller portals to other planes appear more frequently
+and disappear even more rapidly than on the rest of the plane. In the
+extremely short time these gates are open, many of them seem to offer
+glimpses into the elemental plane of air.
+~
+1 0 0
+D2
+~
+~
+0 0 3596
+S
+#3673
+&+WThe Astral Plane&N~
+   The gray atmosphere of the area seems to solidify a bit here, marking
+an area where the astral plane is more closely linked to another plane of
+existance. From the various portals that open in front of you, blinding
+radiance shoots out, illuminating the area about you. Light strikes you
+from the various portals filling you with a warm feeling, healing your
+wounds. Before you lies a portal to the positive energy plane.
+~
+1 0 23
+D5
+~
+~
+0 0 3556
+S
+#3674
+&+LThe Astral Plane&N~
+   The gray atmosphere of the area seems to solidify a bit more marking
+an area where the astral plane is more closely linked to another plane
+of existence. Around you the grayness seems to have darkened consderably.
+All around you portals open up revealing a bleak darkness and a chilling
+coldness. Your very life essence seems to be sucked out of you as you
+stand before the portal to the negative energy plane.
+~
+1 0 0
+D4
+~
+~
+0 0 3656
+S
+#0
+
+#BASTRESETS
+#1
+The Astral Plane~
+3674 2 0 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+*
+O 0 3546 1 3669 100 0 0 0          * a portal of swirling flames
+O 0 3549 1 3670 100 0 0 0          * a large watery portal
+O 0 3548 1 3671 100 0 0 0          * An earthen portal
+O 0 3547 1 3672 100 0 0 0          * a portal of winds
+O 0 3550 1 3673 100 0 0 0          * a portal of blinding light
+O 0 3551 1 3674 100 0 0 0          * A portal of dark energy
+*
+M 0 3547 13 3546 100 0 0 0         * A shadow daemon
+M 0 3548 6 3554 100 0 0 0          * a smoke elemental
+M 0 3545 10 3555 100 0 0 0         * a githyanki hunter
+E 1 3552 5 16 100 0 0 0            *   a silverish githyanki longsword
+M 0 3545 10 3556 100 0 0 0         * a githyanki hunter
+E 1 3552 5 16 100 0 0 0            *   a silverish githyanki longsword
+M 0 3545 10 3556 100 0 0 0         * a githyanki hunter
+E 1 3552 5 16 100 0 0 0            *   a silverish githyanki longsword
+M 0 3548 6 3557 100 0 0 0          * a smoke elemental
+M 0 3547 13 3559 100 0 0 0         * A shadow daemon
+M 0 3548 6 3559 100 0 0 0          * a smoke elemental
+M 0 3548 6 3564 100 0 0 0          * a smoke elemental
+M 0 3547 13 3565 100 0 0 0         * A shadow daemon
+M 0 3547 13 3565 100 0 0 0         * A shadow daemon
+M 0 3547 13 3569 100 0 0 0         * A shadow daemon
+M 0 3547 13 3571 100 0 0 0         * A shadow daemon
+M 0 3545 10 3580 100 0 0 0         * a githyanki hunter
+E 1 3552 5 16 100 0 0 0            *   a silverish githyanki longsword
+M 0 3546 1 3581 100 0 0 0          * A huge beholder
+M 0 3548 6 3582 100 0 0 0          * a smoke elemental
+M 0 3547 13 3584 100 0 0 0         * A shadow daemon
+M 0 3547 13 3584 100 0 0 0         * A shadow daemon
+M 0 3547 13 3591 100 0 0 0         * A shadow daemon
+M 0 3548 6 3592 100 0 0 0          * a smoke elemental
+M 0 3545 10 3607 100 0 0 0         * a githyanki hunter
+E 1 3552 5 16 100 0 0 0            *   a silverish githyanki longsword
+M 0 3545 10 3613 100 0 0 0         * a githyanki hunter
+M 0 3547 13 3621 100 0 0 0         * A shadow daemon
+M 0 3544 1 3631 100 0 0 0          * The pit fiend, Torash
+E 1 3544 1 16 100 0 0 0            *   Twilight the sword of destruction
+M 0 3547 13 3639 100 0 0 0         * A shadow daemon
+M 0 3547 13 3642 100 0 0 0         * A shadow daemon
+M 0 3549 1 3646 100 0 0 0          * a crystaline dragon
+E 1 3553 1 16 100 0 0 0            *   A crystaline sword named 'Dream Weaver'
+M 0 3545 10 3649 100 0 0 0         * a githyanki hunter
+M 0 3545 10 3649 100 0 0 0         * a githyanki hunter
+M 0 3550 1 3658 100 0 0 0          * the mage, Alashi
+E 1 3545 1 6 100 0 0 0             *   a crown of dancing flames
+E 1 3554 1 16 100 0 0 0            *   the staff of the magi
+M 0 3545 10 3659 100 0 0 0         * a githyanki hunter
+M 0 3545 10 3659 100 0 0 0         * a githyanki hunter
+M 0 3547 13 3667 100 0 0 0         * A shadow daemon
+M 0 3551 1 3674 100 0 0 0          * a twisted lich
+E 1 3555 1 1 100 0 0 0             *   a ring of negative energy
+*
+S
+
+#SPECIALS
+O 3544 spec_wp_chill
+R 3544 spec_haste
+Q 3544 spec_stoneskin
+T 3544 spec_wp_bigby
+U 3544 spec_wp_lightning
+P 3544 spec_wp_cyclone
+X 3544 spec_hum
+S
+
+
+#QUESTS
+#0
+#$
+

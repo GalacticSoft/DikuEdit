@@ -1,0 +1,829 @@
+#AREADATA
+Name        Buggers~
+Author      Relinun~
+Levels      1 50
+Security    1
+VNUMs       2728 2747
+Builders    Relinun~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#2728
+&+LA Dark Entrance to the&N &+gBu&+rgg&+ger &+LCaves&N~
+&+L   The entrance to the cave is very narrow, and little &+Ylight &+Lseems to penetrate
+&+Lthis place. The walls are &+bcool &+Land damp to the touch. The air has a pungent
+&+Lodor to it.  Small chittering noises are coming from deep within the caves,
+&+LThere are many small insects about three feet tall entering and exiting the
+&+Lcaves, some are carring large quantities of food pinched in their inscisors.&N
+~
+1 4107 13
+D3
+~
+~
+0 0 1008
+D5
+~
+~
+0 0 2729
+S
+#2729
+&+LAn Intersection of Tunnels&N~
+&+L   This is where the three main tunnels of this &N&+gbug&+rger &+Lcolony come together and
+&+Llead up to the serface. This &N&+gbug&+rger&N &+Lcolony seems to be relitivly new and was
+&+Lprobably &+Lcreated by a recently born queen that left the main colony. The tunnel
+&+Lto the north is slightly larger than the tunnels to the west and east. There is
+&+Lvery minimal light down here wich makes the tunnels feel very eerie and very
+&+Luncomfortbale.&N
+~
+1 4107 13
+D0
+~
+~
+0 0 2730
+D1
+~
+~
+0 0 2735
+D3
+~
+~
+0 0 2734
+D4
+~
+~
+0 0 2728
+D5
+~
+~
+0 0 2745
+S
+#2730
+&+LWithin the &N&+gBrooding &+LTunnel&N~
+&+L   The &N&+gbrooding&N &+L tunnel is a large tunnel that is made for hatching the
+&+Lyoung &N&+rbug&+ggers&N&+L. The walls have tiny little compartments that are carved out
+&+Levery foot and are about six inches wide and about a foot deep into the cave
+&+Lwalls.  Some of the holes are covered with a sticky material. Inside some of
+&+Lthe open holes you can see a small &+Wwhite egg. &+LThis tunnel seems to be about
+&+Lten degrees &+Rhotter&N&+L than all the &+Lother caverns.&N
+~
+1 4107 13
+D0
+~
+~
+0 0 2731
+D2
+~
+~
+0 0 2729
+S
+#2731
+&+LIn the&N &+gBrooding &+LCaves&N~
+&+L  In this section of the &N&+gbrooding &+Lcave the &+Wlarvae &+Lholes have all been
+&+Lfilled with &+Wlarvae&N &+Land are covered with a translucent sticky fluid. The
+&+Lsticky &+Ggoo&N&+L pulsates in and out with each movement of the maturing &+Wlarve&N&+L.
+&+LSome of the workers occasionly open the holes and remove a pupa and move
+&+Lit to a deeper section of the caves.&N
+~
+1 4107 13
+D2
+~
+~
+0 0 2730
+D5
+~
+~
+0 0 2732
+S
+#2732
+&+LDeeper in the &N&+gBrooding &+LCave&N~
+&+L   Deeper in the &N&+gbrooding&N &+Lcave it is only a few degres warmer than the other
+&+Lcaves in the colony. The holes in each wall are about a foot in diamater and
+&+Labout two feet deep, most are covered with the sticky fluid, but some are open
+&+Land have the corpses of the little pupas that where in them. A worker will
+&+Loccasionaly remove the sticky fluid from a hole and put some food in or take
+&+Lout a grey and &+Wwhite&N &+Lcacoon, and take it deeper into the caves.&N
+~
+1 4107 13
+D2
+~
+~
+0 0 2733
+D4
+~
+~
+0 0 2731
+S
+#2733
+&+LAt the End of the &N&+gBrooding &+LCave&N~
+&+L   This is the room in which &N&+gbug&+rger&N &+Lcaccoons hatch into newborn adults the
+&+Ltemperature of this room is about the same temperature as the main caves. There
+&+Lis a lot of food on the floor to feed the newly hatching buggers. A few corpses
+&+Lare lying in here becuase not all &N&+rbug&+ggers&+L are born heathly enough to survive
+&+Lafter they have hatched, some of the bugger attendants kill the newborns as a
+&+Lway of population control. The exit is to the north.&n
+~
+1 4107 13
+D0
+~
+~
+0 0 2732
+S
+#2734
+&+LHeading Down the &N&+gQue&+Rens&+L Tunnel&N~
+&+L   The &n&+gQue&+Rens &+Lis a special tunnel made for trasporting food to the &+gQue&+Ren
+&N&+Lwhile she is laying her &+Weggs&N.&+L Other workers are taking the &+Weggs&N&+L from the
+&N&+gQue&+Reens &+Lchamber to be put into the &N&+gBrooding &+Lcaves.  This cave is on a very
+&+Lsteep slope down, the walls are very smooth and with nothing to hold on to.
+&+LThe air &+Ldown here is more pungent and thicker, probably because of the&N &+gQue&+Rens&+L
+&+Lpharamones thats she uses to keep control over &+Lher workers. One may travel
+&+Ldown or east.&N
+~
+1 4107 13
+D1
+~
+~
+0 0 2729
+D5
+~
+~
+0 0 2738
+S
+#2735
+&+LThe &N&+rWor&+gkers &+LTunnel&N~
+&+L   This side tunnel is used by the&N &+rwor&N&+gkers&N&+L to transport food and other random
+&+Lthings.  The tunnel is very tight yet the&N&+r wor&N&+gkers&N&+L often are forced to walk in
+&+Ltwo lines, one going each direction.  The tunnel is very stuffy as there isn't
+&+Lmuch in the way of air flow this far below the surface.  The black rock of the
+&+Ltunnel walls has a glassy surface that not much will stick to.  The ceiling
+&+Ljuts down at sharp angles making travel here a dangerous thing.  One may travel
+&+Lsouth or west.&N
+~
+1 4107 13
+D2
+~
+~
+0 0 2736
+D3
+~
+~
+0 0 2729
+S
+#2736
+&+LThe &N&+rWor&+gkers &+LTunnel&N~
+&+L   The workers tunnel continues through the dark.  The tunnel is quite tight
+&+Land cramped for the large creatures that live here.  The tunnel has been
+&+Lsloping downward for quite a while but it evens out at this point.  There is a
+&+Llarge hole in the floor that leads into yet another lower level of the &N&+rbug&N&+gger
+&+Ltunnels.  The&N &+rwor&N&+gker &N&+rbug&N&+ggers&N&+L use this tunnel for many things that are vital to
+&+Ltheir day to day activities.  The darkness here is very thick and there is no
+&+Llight what-so-ever.  One may travel north and down.&N
+~
+1 4107 13
+D0
+~
+~
+0 0 2735
+D5
+~
+~
+0 0 2737
+S
+#2737
+&+LDeep Within The &N&+rWor&+gkers &+LTunnel&N~
+&+L   The dark tunnel continues twisting and turning into the depths of the
+&+Lblack rock of the Underdark.  The rock walls and ceiling have been leveled off
+&+Lto make the surfaces smooth and without the jagged edges found in many of the
+&+Lcrude tunnels dug in the vile underworld.  The tunnel is used by the many
+&+rbug&N&+gger&n &+rwor&N&+gkers&N &+Lin their day to day activites.  One may travel either south
+&+Lor up.&N
+~
+1 4107 13
+D2
+~
+~
+0 0 2741
+D4
+~
+~
+0 0 2736
+S
+#2738
+&+LHeading to the &N&+gQue&+Rens &+LChamber&N~
+&+L   You have entered the final tunnel of the &N&+gQue&+Rens &+Ltunnel, her chamber is
+&+Ldirectly to the north, and as you get closer the smell of her pharamones are
+&+Lmore and more pungent. The further you go down the tunnel the warmer it seems
+&+Lto get, and the chittering from workers in the &N&+gQue&+Rens &+Lare getting louder
+&+Las you go &+Ldeeper into her tunnel.  One may travel north or up.&N
+~
+1 4107 13
+D0
+~
+~
+0 0 2739
+D4
+~
+~
+0 0 2734
+S
+#2739
+&+LNearing The &N&+gQue&+Rens &+LChamber&N~
+&+L   Nearing the &N&+gQue&+Rens &+Lchamber the air is getting thicker and &+Rhotter&N, &+Lthe smell
+&+Lof her pharamones are almost sickening. The tunnel is widening slightly as it
+&+Lgets closer to the &N&+gQue&+Rens &+Lchamber. The chittering sounds of the workers are
+&+Lgetting much closer as you enter this dank little room.  The tunnel walls are
+&+Lcovered with small gouges and scrapings made by the inhabitants.  The floor of
+&+Lthe tunnel is very rough and almost exclusively naturally formed.  One may go
+&+Lto the north or south.&N
+~
+1 4107 13
+D0
+~
+~
+0 0 2740
+D2
+~
+~
+0 0 2738
+S
+#2740
+&+LWithin The &N&+gQue&+Rens &+LChamber&N~
+&+L   The &N&+gQue&+Rens&N &+Lchamber is very dark and damp, the air here feels thick and &+Rhot&N&+L.
+&+LThe air is heavy with the scent of the &N&+gQue&+Rens &+Lpharamones. This room is very
+&+Llarge and there is a special &+Wegg&+L depository that the &N&+gQue&+Ren &+Llays her &+Weggs &+Lin.
+&+LThe drones, in turn, take them out of the depository and transport them to the
+&N&+gbrooding &+Lcaves where they are nursed into their next stage of life.  The small
+&+Lroom is used only by the &+gQue&N&+Ren&N&+L and the drones, and any other that dares to
+&+Lenter this room can be killed on sight.  The exit is to the south.&N
+~
+1 4107 13
+D2
+~
+~
+0 0 2739
+S
+#2741
+&+LDeep Into The &N&+rWork&+gers &+LTunnel&N~
+&+L   Few creatures see this part of the &N&+rbug&N&+gger&N&+L tunnels save the many workers
+&+Lwho have the job of expanding the colonies boudaries.  There is ample room for
+&+Ltravel in the tunnels here for they have been enlarged enough to allow multiple
+&+rbug&N&+ggers&N&+L to travel side by side.  The black stone is rough here but not in a way
+&+Lthat makes the tunnel dangerous to walk in.  The air is very stuffy and humid
+&+Lfeeling, which isn't all that suprising since this is so far beneath the
+&+Lsurface.  The tunnel continues to the east and north.&N
+~
+1 4107 13
+D0
+~
+~
+0 0 2737
+D1
+~
+~
+0 0 2742
+S
+#2742
+&+LA Change In The &+LTunnel&N~
+&+L   The tunnel continues twisting and turning through the darkness of the
+&+Lblack stone indiginous to this region.  There are many long scratch marks in
+&+Lthe walls and on the floor, probably left there by the tunnel workers.  There
+&+Lare no loose rocks or pebbles on the tunnel floor as the &N&+rbug&N&+gger&N&+L cleaning crew
+&+Lhas removed all such rubble while they were digging this new tunnel.  One may
+&+Ltravel west or down.&N
+~
+1 4107 13
+D3
+~
+~
+0 0 2741
+D5
+~
+~
+0 0 2743
+S
+#2743
+&+LWithin A Narrowing Tunnel&N~
+&+L   The tunnel continues to narrow as it winds deeper into the bowels of the
+&+LUnderdark.  The stone walls are quite rough but that is to be expected for this
+&+Lsection of tunnels is almost brand new.  The tunnel has grown exceedingly hot
+&+Lthe further down the tunnels twist.  This is quite odd for a cold and lifeless
+&+Lplace that should have little to no heat.  The &N&+rbug&N&+ggers&N&+L must have tapped into
+&+Lsome kind of heat source in the lower regions of the tunnels.  One may travel
+&+Lsouth or up.&N
+~
+1 4107 13
+D2
+~
+~
+0 0 2744
+D4
+~
+~
+0 0 2742
+S
+#2744
+&+LAn Unfinished Tunnel&N~
+&+L   The tunnel has abruptly ended at this point.  The &N&+rbug&N&+ggers&N&+L have yet to
+&+Lfinish this remote part of the colony.  There are many small and large pieces
+&+Lof stone strewn upon the floor.  There are large gouge marks on the wall left
+&+Lfrom the&N&+r wor&N&+gkers&N&+L.  There is a fair amount of rock dust on the floor as well
+&+Lthat, when disturbed, makes it hard to breathe.  The tunnel is very warm and
+&+Lhumid this far deep.  It seems that the &N&+rbug&N&+ggers&N&+L have dug close to a hot vent
+&+Lor a &N&+rlava spring&N&+L.  One may leave here by traveling north.
+~
+1 4107 13
+D0
+~
+~
+0 0 2743
+S
+#2745
+&+LHeading to the &N&+yStorage &+LCavern&N~
+&+L   This tunnel is located below the main tunnels or the &N&+gbug&N&+rgers&N&+L.  The tunnel
+&+Lis used by primarily &N&+rwor&N&+gkers&N&+L who are either storing or removing food for the
+&+Lqueen.  Most of the &N&+rwor&N&+gkers&N &+Lhave to actually find their own source of food for
+&+Lthe food in the storage tunnels is for the &N&+Rque&N&+gen&N&+L exclusively.  The tunnel is
+&+Lvery tight and one worker couldn't possibly meet another here.  The black rock
+&+Lof the walls is smooth like glass but the ceiling is very rough and has many
+&+Lsharp edges.  One may travel up or south.&N
+~
+1 12555 13
+D2
+~
+~
+0 0 2746
+D4
+~
+~
+0 0 2729
+S
+#2746
+&+LHeading to the &N&+yStorage &+LCavern&N~
+&+L   The storage tunnel widens slightly here allowing two lines of &N&+rwor&N&+gkers&N&+L to
+&+Lmeet at this point.  The tunnel is quite stuffy and cramped when multiple
+&+rwor&N&+gkers&N&+L are meeting.  This part of the &N&+gbug&N&+rger&N&+L tunnel complex is used for the
+&+Ltransportation of food for the&N&+g que&N&+Ren&N&+L and her closest advisors.  The tunnel was
+&+Lone of the last to be made when they were dug out of the hard stone.  It only
+&+Lbecame practical to store the excess food when the colony was taking in more
+&+Lfood than it was using.  One may travel north or down.&N
+~
+1 4107 13
+D0
+~
+~
+0 0 2745
+D5
+~
+~
+0 0 2747
+S
+#2747
+&+LThe &N&+yStorage &+LCavern&N~
+&+L   This large storage chamber is used by the &N&+rbug&N&+ggers&N&+L to store the &N&+RQue&N&+gens &N&+Llarge
+&+Lamount of food.  It is a very large chamber measuring forty meters on each side
+&+Land over twenty meters high.  There is a staggering amount of food piled here,
+&+Lready to be consumed by the &N&+RQue&N&+gen&N&+L.  The walls are relatively rough as the
+&+Lfunctionality of the place is just the storage of food wares.  The piles of
+&+Lfood have been pushed back to the southern wall in an effort to provide more
+&+Lspace to store the incoming food.  One may exit the storage room by traveling
+&+Lupwards.&N
+~
+1 4107 13
+D4
+~
+~
+0 0 2746
+S
+#0
+
+#BASTMOBS
+#2728
+bugger sentinal~
+&+La &N&+gbug&+rger &+Lsentinal&N~
+&+LA&N &+gbug&+rger &+Lsentinal stands here protecting its &N&+gbrood &+Lfrom invasion&N
+~
+&+g  This small bugger has six leggs and stands about three feet tall. It's front
+&+glegs are helded in a mantis position making it look larger and more
+&+gintimidating. The segmented eyes of this creature give off a rainbow of colors
+&+gwhen any amount of light reflect off of them. It's abdomen seems to be slightly
+&+gdamp when &+Ylight &+Wreflects&N &+goff of its&N &+rred &+gand &N&+ggreen &+gexoskeleton.&N
+~
+2122 0 0 0 0 -600 S
+TK 0 1
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2729
+bugger sentinal~
+&+La &N&+rbug&+gger &+Lsentinal&N~
+&+LA &N&+rbug&+gger &+Lstands at the entrance to the cave to protect the queen.&N
+~
+&+g   This small &+rbug&+gger only stands about two feet tall, and is missing one
+&+gof its rear legs, probably from a battle. its metalic looking skin has a redish
+&+gtint to it, but at differnt angles it reflects a greenish tint. It's eyes give
+&+gthe same rainbow tint as the rest of the buggers. and its two front legs are
+&+gheld in the mantis position, they have a very sharp serated edge to them.&N
+~
+2122 0 0 0 0 -600 S
+TK 0 1
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2730
+bugger queen~
+&+Lthe &N&+rbug&N&+gger&N &+RQue&N&+gen&N~
+&+LThe &N&+rbug&N&+gger&N&+R Que&N&+gen&N&+L stands here amongst here many eggs.&N
+~
+&+g   The &+RBug&N&+gger Que&+Ren&N&+g is the leader of the &+gBugg&+Rers &N&+gshe stand about five feet tall
+&+gand has very large multi-fascited eyes, She is the only bugger that has wings,
+&+gshe has about a six foot wing span and from what is visable of them in this
+&+Ldark&N &+gplace they seems &+Mmu&+Rlt&+Ci-&+Bco&+Ylo&+Gred&N&+g. Her abdomen is about ten times larger
+&+gthan the other bu&+Rgge&N&+grs abdomens because she carries many &+Weggs&N &+g
+~
+10314 0 0 0 0 -800 S
+TK 0 5
+25 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2731
+larvae~
+&+Ga &+Wlarvae&N~
+&+gA disgusting &+Wlarvae&N &+gis here waiting to be taken care of.&N
+~
+&+g   This small &+Wlarvae&N &+g is very disgusting it has tiny little stumps for legs
+&+gand two large round &+Rred&N&+g eyes. It almost looks like a grub bout about ten times
+&+gBigger&N.
+~
+8 0 0 0 0 -600 S
+AW 0 1
+1 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2732
+pupa~
+a &+wpupa&N~
+&+gA small nasty looking &+wpupa&N
+~
+&+g  This is a small bug&+rger &+wpupa &+git is a nasty green color that looks like
+&+gvomit. It looks just like a miniture bug&+rger &+gbut it hasnt reached its caccoon
+&+gphase yet.&N
+~
+8 0 0 0 0 -600 S
+I 0 1
+2 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2733
+adult bugger baby~
+&+ga &+Lbaby&n&+g adult&N~
+&+gA newly born adult &+gbu&+Rgg&N&+ger &+grests here, waiting for its exo-skeleton to dry&N
+~
+&+g   This newly hatched bugger has just emerged from it's caccoon and is waiting
+&+gfor it's soft exo-skeleton to harden before it can starts doing it's labor. It
+&+gis however about half the size of a full grown adult and will reach full
+&+gmaturity in about a year or so.&N
+~
+8 0 0 0 0 -600 S
+TK 0 1
+5 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2734
+bugger attendant~
+&+ga &+rbu&+ggg&+rer&+g attendant&N~
+&+gA &+rbu&+ggg&+rer &+gattendant stands here caring for the hives babies.&N
+~
+&+g   The &+rbu&+ggg&+rer&N &+g attendants main job is to take care of the small
+&+ghelpless larvae, pupas, and new born adults. They have a special organ on the
+&+gtop of thier head that will release the sticky substance that covers the holes
+&+gon some of the brooding holes.&n
+~
+2056 0 0 0 0 -600 S
+TK 0 1
+10 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2735
+bugger attendant~
+&+ga &+Rbug&+Gger&N &+gattendant~
+&+gA &+Rbug&+Gger &N&+gattendant stands here tending to the young.&N
+~
+&+g   The &+Rbug&+Gger&N&+g attendant is smaller than most other buggers, she stands only
+&+gabout two feet tall. Its multi-fascited eyes are reflecting many different
+&+gshades of metalic collers. It's goo organ must have been recently used becuase
+&+gof the small strand of slime hanging from it.&N
+~
+8 0 0 0 0 -600 S
+TK 0 1
+10 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2736
+bugger attendant~
+&+g a &+gbug&+Rger&N &+gattendant&N~
+&+gA bug&+Rger&N&+g attendant is here feeding the young&N
+~
+&+g   This attendant is about four feet tall and is here putting food into the
+&+gholes for the bugger children.  This attendant carries a special pouch that
+&+gholds food in it. It has specialy designed claws that are narrow enough to
+&+gfit into the brooding holes.&N
+~
+8 0 0 0 0 -600 S
+TK 0 1
+10 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2737
+bugger attendant~
+&+ga &+gbu&+rgg&+ger &+gattendant&N~
+&+gA bu&+rgg&+ger attendant is here iserting &+Weggs&N&+g into the brooding holes.&N
+~
+&+g   This bugger is designated to put newly liad eggs into the brooding holes.
+&+gIt carries one of the bugger carying pouches filled with eggs. Her skin has
+&+gsome strange &+mviolet&N&+g streaks in it, this must designate her as one of
+&+gthe few buggers that can work with the Queens eggs.&N
+~
+8 0 0 0 0 -600 S
+TK 0 1
+10 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2738
+spotted fungus~
+&+Ma s&+Bpo&+Mtt&+Bed &+Mfu&+Bng&+Mus&N~
+&+MA s&+Bpo&+Mtt&+Bed &+Mfu&+Bng&+Mus &+Bis &+Mon &+Bth&+Me w&+Bal&+Bl h&+Mer&+Be.&N
+~
+&+M  This small spotted fungus seems to grow in the &N&+gbug&+rgers &+Mmoist storage caves
+&+Mnaturaly. It is purple with lots of little &+Bblue &+Mspots, it has got a very large
+&+Mhead with a long thick shaft.&N
+~
+2058 0 0 0 0 -600 S
+VP 0 1
+7 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2739
+bugger caretaker~
+&+ga &+rbug&+Gger&N~
+a &+rbug&+Gger&N&+g caretaker is here tending over the colonies storage room.&N
+~
+&+g   The caretaker tends to things that are kept in the storage chamber. It has
+&+gtwo legs that have been converted into pinchers to pick up things and move them
+&+gthe caretaker keeps the storage chamber clean and tidy. The caretaker is also
+&+gin charge of rationing the food in times of shortages and population booms.&N
+~
+2058 0 0 0 0 -600 S
+TK 0 1
+10 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2740
+digging bugger~
+&+ga &+Gbug&N&+rger&N~
+&+gA digging &+Gbug&N&+rger &+gis here digging through the thick rock&N
+~
+&+g   This bugger is one of the colonies diggers its sole purpose is to expand the
+&+gborders of the colony by digging as far as it can. It's front legs evolved
+&+gvery sharp tips so it can cut through the hard rock. It's eyes have a special
+&+gcovering on them to protect them from the harmfull dust resulting from the
+&+gdigging. This bugger stands about four feet tall and has a redish color to its
+&+gskin.&N
+~
+2058 0 0 0 0 -600 S
+TK 0 1
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2741
+digging bugger~
+a &+gbug&+Rger&N~
+&+gA bug&+Rger &N&+gis here digging through the stone&N
+~
+&+g  This bugger is part of the digging team he has specialy sharpened claws.
+&+git has the same special eye covers as all the other diggers. It's red green
+&+gskin refects all the light that hits it but it is hard to make out in this
+&+gdark place.&N
+~
+2058 0 0 0 0 -600 S
+TK 0 1
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2742
+bugger~
+a &+rb&+Ru&N&+rg&+Gg&N&+ge&+Gr&N~
+&+gA bugger is here cleaning up some rubble.&N
+~
+&+g   This bugger was specialy made to transport waste materials such as rocks
+&+gand dirt from the digging sites. It's claws are have specialy designed scoops
+&+gthat are probabaly a design of evolution. It carries the dirt and stones in
+&+git's front scopes. It's exo-skeleton has many scrapes and scratches on it.&N
+~
+2056 0 0 0 0 -600 S
+TK 0 1
+10 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2743
+bugger drone~
+&+ga &+rbugger&N~
+&+gA &+rbugger&N &+gdrone is standing here awaiting something to do.&N
+~
+&+g   The drones whole purpose is to mate with the queen when she chooses. The
+&+gQueen usualy kills the drones after she has mated with them so this drone has
+&+gbeen lucky or maybe not so lucky to havent yet mate with the queen. The drones
+&+ghave no other purposes in the colony some are often used as a found source when
+&+gfood runs low.&N
+~
+2056 0 0 0 0 -600 S
+TK 0 1
+13 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2744
+bugger servant~
+&+ga &+gbugg&+rer&N~
+&+gA bugg&+rer&N&+g servant is here helping the queen lay eggs.&N
+~
+&+g   This bug&+rger&N is one of the queens servants, It's main purpose is to feed
+&+gthe queen and tend to her needs. The servant also tends to the queens newly
+&+glaid &+Weggs&N.  Its skin is a light green color and it has a little symbol
+&+gon its forehead that designates it as a queens servant.&N
+~
+2058 0 0 0 0 -600 S
+TK 0 1
+13 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#0
+#BASTOBJECTS
+#2728
+corpse bugger~
+a dead &+rbug&N&+gger&N~
+The corpse of a &N&+rbug&N&+gger&N lies here on the ground.&N~
+~
+15 10 3 0 3 0 0 0 0 1 0
+100 0 0 100 0 0 0 0
+99999 0 100
+E
+corpse bugger~
+&+L   This dead creature was killed by something savage as its head has been
+&+Ltotally caved in.  It appears to be a full grown male &+rbug&N&+gger&N&+L.
+~
+#2729
+bugger pouch carrying~
+&+ga &+Rbu&+Ggg&+Rer&N &+gcarrying pouch&N~
+a small chitinous pouch is here.~
+~
+15 46 3 0 8 0 0 2049 0 1 0
+50 0 0 50 0 0 0 0
+5 0 100
+E
+bugger pouch carrying~
+&+g   This small pouch is made to carry the Queen buggers eggs in. It is made of
+&+ghard bugger flesh and has a large strap on it.&N
+~
+#2730
+bugger egg~
+&+ga bug&+rger &+Wegg&N~
+A small round egg lies here.~
+~
+19 48 3 0 7 0 0 1 0 1 0
+24 0 0 0 0 0 0 0
+2 0 100
+E
+bugger egg~
+&+W   This small white egg is very shinny and its looks pretty tasty.&N
+~
+#2731
+bugger egg~
+&+ga bug&+rger &+Wegg&N~
+&+gA small &+gbug&+rgers &+Wegg&N&+g sits here.&N~
+~
+12 46 3 0 7 0 8491016 1 0 1 0
+0 0 0 0 0 0 0 0
+2 0 100
+E
+bugger egg~
+&+W   This small bugger egg seems to be lost.
+~
+#2732
+bugger egg~
+&+ga bug&+rger &+Wegg&N~
+&+ga round shiny bug&+rgers &+Wegg &N&+gis here&N~
+~
+13 46 3 0 7 0 8392712 0 0 1 0
+0 0 0 0 0 0 0 0
+2 0 100
+E
+bugger egg~
+&+W   This small shiny buggers egg seems to have been misplaced.&N
+~
+#2733
+bugger carapace~
+&+ga &+rbug&+ggers cara&+rpace&N~
+&+gA &+rbug&+ggers cara&+rpace &+gis piled here.&N~
+~
+12 46 3 0 7 0 0 1 0 1 0
+0 0 0 0 0 0 0 0
+10 0 100
+E
+bugger carapace~
+&+g   This is the left over skin from a dead bugger maybe it could be made into
+&+gsome fancy looking armor, or maybe the Queen wants some proof one of her
+&+gservants has died.&N
+~
+#2734
+carapace armor~
+&+gsome &+rspi&+gked cara&+rpace &+garmor&N~
+a suit of spiked armor is on the ground here.&n~
+~
+9 46 3 0 10 0 536871232 1 0 1 0
+10 0 0 5 0 0 0 0
+10 0 100
+E
+carapace armor~
+&+g   This spiked carapace armor is very high quality and is made out of a buggers
+&+gcorpse. It has some large spikes sticking out of the knee and elbow areas and a
+&+gfew small spikes on the shoulders.&N
+~
+A
+13 5
+A
+19 1
+#0
+
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#1
+The Bugger Caves~
+2747 2 0 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+*
+O 0 2728 1 2741 100 0 0 0          * a dead bugger
+P 1 2733 1 2728 100 0 0 0          *   a buggers carapace
+O 0 2732 1 2744 100 0 0 0          * a bugger egg
+O 0 2731 1 2747 100 0 0 0          * a bugger egg
+*
+M 0 2728 1 2728 100 0 0 0          * a bugger sentinal
+M 0 2729 1 2728 100 0 0 0          * a bugger sentinal
+M 0 2743 6 2729 100 0 0 0          * a bugger
+M 0 2731 4 2730 100 0 0 0          * a larvae
+M 0 2732 5 2730 100 0 0 0          * a pupa
+M 0 2733 4 2730 100 0 0 0          * a baby adult
+M 0 2737 1 2730 100 0 0 0          * a bugger attendant
+E 1 2729 1 13 100 0 0 0            *   a bugger carrying pouch
+P 1 2730 2 2729 100 0 0 0          *   a bugger egg
+P 1 2730 2 2729 100 0 0 0          *   a bugger egg
+M 0 2731 4 2731 100 0 0 0          * a larvae
+M 0 2732 5 2731 100 0 0 0          * a pupa
+M 0 2733 4 2731 100 0 0 0          * a baby adult
+M 0 2736 1 2731 100 0 0 0          *  a bugger attendant
+M 0 2732 5 2732 100 0 0 0          * a pupa
+M 0 2732 5 2732 100 0 0 0          * a pupa
+M 0 2731 4 2732 100 0 0 0          * a larvae
+M 0 2733 4 2732 100 0 0 0          * a baby adult
+M 0 2735 1 2732 100 0 0 0          * a bugger attendant
+M 0 2743 6 2732 100 0 0 0          * a bugger
+M 0 2732 5 2733 100 0 0 0          * a pupa
+M 0 2731 4 2733 100 0 0 0          * a larvae
+M 0 2733 4 2733 100 0 0 0          * a baby adult
+M 0 2734 1 2733 100 0 0 0          * a bugger attendant
+M 0 2743 6 2734 100 0 0 0          * a bugger
+M 0 2742 4 2735 100 0 0 0          * a bugger
+M 0 2743 6 2736 100 0 0 0          * a bugger
+M 0 2730 1 2740 100 0 0 0          * the bugger Queen
+M 0 2744 2 2740 100 0 0 0          * a bugger
+M 0 2744 2 2740 100 0 0 0          * a bugger
+M 0 2743 6 2740 100 0 0 0          * a bugger
+M 0 2742 4 2741 100 0 0 0          * a bugger
+M 0 2742 4 2742 100 0 0 0          * a bugger
+M 0 2743 6 2743 100 0 0 0          * a bugger
+M 0 2740 1 2744 100 0 0 0          * a bugger
+M 0 2741 1 2744 100 0 0 0          * a bugger
+M 0 2742 4 2744 100 0 0 0          * a bugger
+M 0 2738 3 2745 100 0 0 0          * a spotted fungus
+M 0 2738 3 2746 100 0 0 0          * a spotted fungus
+M 0 2738 3 2747 100 0 0 0          * a spotted fungus
+M 0 2739 1 2747 100 0 0 0          * a bugger
+*
+S
+#QUESTS
+#2730
+Q
+&+g ChItTeRcHiTtErChItTeR  Thank you for returning my babies ChItTeRcHiTtEr&N
+~
+R I 2734
+G I 2731
+G I 2732
+G I 2733
+S
+#0
+#$
+
+

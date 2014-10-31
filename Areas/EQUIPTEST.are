@@ -1,0 +1,74 @@
+#AREADATA
+Name        &+LLimbo&n~
+Author      Veygoth~
+Levels      0 0
+Security    1
+VNUMs       1 1000
+Builders    Veygoth~
+Recall      3001
+Reset       You hear the patter of little feet.~
+End
+#BASTMOBS
+#0
+#BASTOBJECTS
+#285
+bow~
+a bow~
+a bow~
+~
+6 15 3 0 7 0 0 8193 0 1 0
+1 1 0 1 0 0 0 0
+0 0 100
+#286
+arrow~
+&+ran arrow&N~
+an arrow~
+~
+7 15 3 0 7 0 0 24577 0 1 0
+2 5 5 1 0 0 0 0
+0 0 100
+#287
+sword tyrus~
+&+rTyrus' Sword of &+LDark &+RBanashing&n~
+a sword collects dust here~
+~
+5 15 3 0 7 0 33816897 8193 0 1 0
+9 1 1 2 0 0 0 0
+0 0 100
+A
+18 1
+A
+19 1
+A
+19 2
+#288
+bow green~
+a green bow~
+A green bow lies here~
+~
+6 15 3 0 7 0 33816897 8193 0 1 0
+2 2 1 1 0 0 0 0 
+0 0 100
+#0
+
+#BASTROOMS
+#0
+#BASTRESETS
+#2
+Basic Objects~
+200 2 0 40 50 0
+*
+* Zone edited with dikuEdit v3.00c
+*
+*
+*
+*
+*
+S
+#SPECIALS
+O 287 spec_wp_bigby
+S
+#QUESTS
+#0
+#$
+

@@ -1,0 +1,403 @@
+#HELPS
+-1 ALPHA DISCLAIMER TESTING~
+Please note that we are currently in what is known as "alpha" testing.
+This means that we are performing initial testing on the mud code and
+that bugs will be common.
+
+There &+W_will_&n be crashes and reboots very often.  We &+W_will_ &nbe doing
+pwipes and making drastic changes to the classes, races, spells,
+skills... the whole damned thing.
+
+Do &+RNOT &nask for levels, equipment, or other godly favors.  If you die
+because of a bug, so be it.  The purpose of the alpha test is to TEST
+the code, not provide entertainment.  We find the bugs and problems now
+so we will be entertaining later.
+
+Please use the "bug", "typo", and "idea" commands.  Do not rely on
+petitions to report problems, because in a lot of cases the gods are
+idle doing code or zone work and miss them.  
+
+Have fun, but keep in mind that The Realm is a work in progress.  We
+don't have a day in mind for the "real" opening.  We're trying to get
+a lot of work done (rewriting a mud codebase and a lot of zones) as
+fast as we can.
+
+Most importantly, don't bother Relinun.  He gets a headache too easily.
+
+If you are interested in contributing zones of any kind contact Thendar
+at: Jo182sh@aol.com.
+
+&+BThe Admins of The Realm.&n
+~
+
+-1 NEWS~
+&+RTyrus&N 	
+
+&+R06-25-00&N
+If you are level 56 you cannot gain a level past 56. If you are
+level 51+ you will see your current amount of exp in numeric form
+The spell  "elemental form" has been added and I tweaked stuff 
+no one will notice.
+
+&+R06-12-00&N
+You can now see who is on in your clan via the society command. 
+If you have a bow wear it in your secondary hand find and arrow,
+reload the bow and shoot <missle> <direction> <target>. The mud 
+will now run continuosly when my comp is running even if I'm not
+here to babysit.(thanks Halmir for the help.)
+
+&+R06-11-00&n
+Undead, elementals, and illusions will not longer leave corpses. 
+Necromancers gained the spell 'embalm' and 'heal undead'.
+
+&+R06-06-00&N
+All races now work and wont crash the mud. Shouldn't have anymore 
+problems with room_is_dark crashing the mud as for weather update 
+that hasn't been resolved yet. removed the fraglist a while back,
+although you can still frag and brag about how many frags you have
+other people just cant look at them, we might readd the fraglist 
+later but atm it has to many bugs.
+ 
+&+R06-4-00&N
+Illithids are on a new racewar side. added sex nuetral. All
+fighter classes expcet paladin/antipaladins get extra hasted 
+attacks. Necromancers now get the spells "raise dracolich", 
+"raise zombie", "raise skeleton", "vampiric touch", "raise wraith"
+"raise lich", "raise vampire" and "raise spectre". Added 'Monk' 
+class, they get  special chants skills in for monks are "chant" 
+and "kaoken".
+
+&+R05-21-00&N
+when you use animate dead you will now see the correct names 
+for your undead. There can be up to seven perms per object 
+this couts procs prots and perms. mobs now cast the correct 
+spells when casting.
+
+&+R05-14-00&N
+You assassins might like to find a vial of poison and apply it 
+to your weapons, if you are warrior or a ranger you will get 
+more attacks when hasted. You paladins and anti-paladins 
+now have horses. Astral Plane written by Cyric has been added
+
+&+R05-05-00&N
+haste works you have 85% chance for a bonus hit on your first 
+hand 80% chance for a hit with second hand and a 10% chance to
+get a bonus attack. layhands has been roughed out and should 
+work within the week. summon mounts will work for anti paladin 
+and paladins it is a skill enjoy
+
+&+R05-01-00&N
+Mobs now cast although they cast the wrong spells somtimes. 
+Dragons will breath on you and whoop your ass now. Welcome 
+Cyric the new god head of zones. new test map.
+
+
+&+R04-11-00&N
+You now see more informative attributes as you gain levels.
+Clan code is working somewhat and is fine untill i update it.
+You now see someones clan when you see them in a room and you
+will also see your clan name in score once you are in a clan.
+Map is working i will soon add a larger map in.
+Added two new necro spells, 'Animate Dead' will raise zombies,
+and 'Withering hand' does slightly less than chill damage.
+Barbarians no longer available to players since they make the 
+mud crash
+
+&+R02-02-00&N
+Changed att and score both are now finished. I also added in 
+some of Dubar's zones, added two more bonus roles at character 
+creation and also made stats slightly easier to roll. Started 
+working on a map also it is not totaly functioning.
+
+&+R02-01-00&N
+Added in a few zones from Dubar
+Welcome Dubar he is now the god of zones
+
+&+R01-29-00&N
+Reworking most of character creation due to the fact i dont 
+like it very much. Also added in race faerie and took out aquatic 
+elves, created a connecter for zones last week.&N
+
+&+R01-26-00&N
+Added the connecter thats where all the new zones will be added 
+eventualy.
+
+&+R01-24-00&N
+Changed login screen a bit tell me if ya like the new changes
+Added race Thri-Kreen still needs work for 4 arms tho
+added archer just a test class...rolling stats will be done shortly
+made a few minor changes here and there. planning on changing the 
+class selection screen very shortly.
+
+
+~
+-1 GREETING_COLOR~
+
+			 8888  8888888
+                   888888888888888888888888
+                8888:::8888888888888888888888888
+              8888::::::8888888888888888888888888888
+             88::::::::888:::8888888888888888888888888
+           88888888::::8:::::::::::88888888888888888888
+         888 8::888888::::::::::::::::::88888888888   888
+            88::::88888888::::m::::::::::88888888888    8
+          888888888888888888:M:::::::::::8888888888888
+         88888888888888888888::::::::::::M88888888888888
+         8888888888888888888888:::::::::M8888888888888888
+          8888888888888888888888:::::::M888888888888888888
+         8888888888888888::88888::::::M88888888888888888888
+       88888888888888888:::88888:::::M888888888888888   8888
+      88888888888888888:::88888::::M:::o*M*o:888888888    88
+     88888888888888888:::8888:::::M:::::::::::88888888    8
+    88888888888888888::::88::::::M:::::::::::::888888888
+   8888888888888888888:::8::::::M::aAa::::::::M8888888888       8
+   88   8888888888::88::::8::::M:::::::::::::888888888888888 8888
+  88  88888888888:::8:::::::::M:::::::::::::88:88888888888888888
+  8  8888888888888:::::::::::M::"@@@@@@@"::::8w8888888888888888
+   88888888888:888::::::::::M:::::"@a@":::::M8i888888888888888
+  8888888888::::88:::::::::M88:::::::::::::M88z88888888888888888
+ 8888888888:::::8:::::::::M88888:::::::::MM888!888888888888888888
+ 888888888:::::8:::::::::M8888888MAmmmAMVMM888*88888888   88888888
+ 888888 M:::::::::::::::M888888888:::::::MM88888888888888   8888888
+ 8888   M::::::::::::::M88888888888::::::MM888888888888888    88888
+  888   M:::::::::::::M8888888888888M:::::mM888888888888888    8888
+   888  M::::::::::::M8888:888888888888::::m::Mm88888 888888   8888
+    88  M::::::::::::8888:88888888888888888::::::Mm8   88888   888
+    88  M::::::::::8888M::88888::888888888888:::::::Mm88888    88
+    8   MM::::::::8888M:::8888:::::888888888888::::::::Mm8     4
+        8M:::::::8888M:::::888:::::::88:::8888888::::::::Mm    2
+       88MM:::::8888M:::::::88::::::::8:::::888888:::M:::::M
+      8888M:::::888MM::::::::8:::::::::::M::::8888::::M::::M
+     88888M:::::88MM:::::::::8:::::::::::M::::8888::::M::::M
+    88 888MM:::888:M:::::::::::::::::::::::M:888:::::::::::M:
+    8 88888M:::88::M:::::::::::::::::::::::MM:88::::::::::::M
+      88888M:::88::M::::::::::*88*::::::::::M:88::::::::::::::M
+     888888M:::88::M:::::::::88@@88:::::::::M::88::::::::::::::M
+     888888MM::88::MM::::::::88@@88:::::::::M:::8::::::::::::::*8
+     88888  M:::8::MM:::::::::*88*::::::::::M:::::::::::::::::88@@
+     8888   MM::::::MM:::::::::::::::::::::MM:::::::::::::::::88@@
+      888    M:::::::MM:::::::::::::::::::MM::M::::::::::::::::*8
+      888    MM:::::::MMM::::::::::::::::MM:::MM:::::::::::::::M
+       88     M::::::::MMMM:::::::::::MMMM:::::MM::::::::::::MM
+        88    MM:::::::::MMMMMMMMMMMMMMM::::::::MMM::::::::MMM
+         88    MM::::::::::::MMMMMMM::::::::::::::MMMMMMMMMM
+          88   8MM::::::::::::::::::::::::::::::::::MMMMMM
+           8   88MM::::::::::::::::::::::M:::M::::::::MM
+               888MM::::::::::::::::::MM::::::MM::::::MM
+              88888MM:::::::::::::::MMM:::::::mM:::::MM
+              888888MM:::::::::::::MMM:::::::::MMM:::M
+             88888888MM:::::::::::MMM:::::::::::MM:::M
+            88 8888888M:::::::::MMM::::::::::::::M:::M
+            8  888888 M:::::::MM:::::::::::::::::M:::M:
+               888888 M::::::M:::::::::::::::::::M:::MM
+              888888  M:::::M::::::::::::::::::::::::M:M
+              888888  M:::::M:::::::::@::::::::::::::M::M
+              88888   M::::::::::::::@@:::::::::::::::M::M
+             88888   M::::::::::::::@@@::::::::::::::::M::M
+            88888   M:::::::::::::::@@::::::::::::::::::M::M
+           88888   M:::::m::::::::::@::::::::::Mm:::::::M:::M
+           8888   M:::::M:::::::::::::::::::::::MM:::::::M:::M
+          8888   M:::::M:::::::::::::::::::::::MMM::::::::M:::M
+       8888    MM::::Mm:::::::::::::::::::::MMMM:::::::::m::m:::M
+      888      M:::::M::::::::::::::::::::MMM::::::::::::M::mm:::M
+   8888       MM:::::::::::::::::::::::::MM:::::::::::::mM::MM:::M:
+              M:::::::::::::::::::::::::M:::::::::::::::mM::MM:::Mm
+             MM::::::m:::::::::::::::::::::::::::::::::::M::MM:::MM
+             M::::::::M:::::::::::::::::::::::::::::::::::M::M:::MM
+            MM:::::::::M:::::::::::::M:::::::::::::::::::::M:M:::MM
+            M:::::::::::M88:::::::::M:::::::::::::::::::::::MM::MMM
+            M::::::::::::8888888888M::::::::::::::::::::::::MM::MM
+            M:::::::::::::88888888M:::::::::::::::::::::::::M::MM
+            M::::::::::::::888888M:::::::::::::::::::::::::M::MM
+            M:::::::::::::::88888M:::::::::::::::::::::::::M:MM
+            M:::::::::::::::::88M::::::::::::::::::::::::::MMM
+            M:::::::::::::::::::M::::::::::::::::::::::::::MMM
+            MM:::::::::::::::::M::::::::::::::::::::::::::MMM
+             M:::::::::::::::::M::::::::::::::::::::::::::MMM
+             MM:::::::::::::::M::::::::::::::::::::::::::MMM
+              M:::::::::::::::M:::::::::::::::::::::::::MMM
+              MM:::::::::::::M:::::::::::::::::::::::::MMM
+               M:::::::::::::M::::::::::::::::::::::::MMM
+               MM:::::::::::M::::::::::::::::::::::::MMM
+                M:::::::::::M:::::::::::::::::::::::MMM
+                MM:::::::::M:::::::::::::::::::::::MMM
+                 M:::::::::M::::::::::::::::::::::MMM
+                 MM:::::::M::::::::::::::::::::::MMM
+                  MM::::::M:::::::::::::::::::::MMM
+                  MM:::::M:::::::::::::::::::::MMM
+                   MM::::M::::::::::::::::::::MMM
+                   MM:::M::::::::::::::::::::MMM
+                    MM::M:::::::::::::::::::MMM
+                    MM:M:::::::::::::::::::MMM
+                     MMM::::::::::::::::::MMM
+                     MM::::::::::::::::::MMM
+                      M:::::::::::::::::MMM
+                     MM::::::::::::::::MMM
+                     MM:::::::::::::::MMM
+                     MM::::M:::::::::MMM:
+                     mMM::::MM:::::::MMMM
+                      MMM:::::::::::MMM:M
+                      mMM:::M:::::::M:M:M
+                       MM::MMMM:::::::M:M
+                       MM::MMM::::::::M:M
+                       mMM::MM::::::::M:M
+                        MM::MM:::::::::M:M
+                        MM::MM::::::::::M:m
+                        MM:::M:::::::::::MM
+                        MMM:::::::::::::::M:
+
+
+                   [1;34mWelcome to The Realm[0m
+
+[31mWhat is your name: [37m~
+
+-1 GREETING_ASCII~
+
+			8888  8888888
+                   888888888888888888888888
+                8888:::8888888888888888888888888
+              8888::::::8888888888888888888888888888
+             88::::::::888:::8888888888888888888888888
+           88888888::::8:::::::::::88888888888888888888
+         888 8::888888::::::::::::::::::88888888888   888
+            88::::88888888::::m::::::::::88888888888    8
+          888888888888888888:M:::::::::::8888888888888
+         88888888888888888888::::::::::::M88888888888888
+         8888888888888888888888:::::::::M8888888888888888
+          8888888888888888888888:::::::M888888888888888888
+         8888888888888888::88888::::::M88888888888888888888
+       88888888888888888:::88888:::::M888888888888888   8888
+      88888888888888888:::88888::::M:::o*M*o:888888888    88
+     88888888888888888:::8888:::::M:::::::::::88888888    8
+    88888888888888888::::88::::::M:::::::::::::888888888
+   8888888888888888888:::8::::::M::aAa::::::::M8888888888       8
+   88   8888888888::88::::8::::M:::::::::::::888888888888888 8888
+  88  88888888888:::8:::::::::M:::::::::::::88:88888888888888888
+  8  8888888888888:::::::::::M::"@@@@@@@"::::8w8888888888888888
+   88888888888:888::::::::::M:::::"@a@":::::M8i888888888888888
+  8888888888::::88:::::::::M88:::::::::::::M88z88888888888888888
+ 8888888888:::::8:::::::::M88888:::::::::MM888!888888888888888888
+ 888888888:::::8:::::::::M8888888MAmmmAMVMM888*88888888   88888888
+ 888888 M:::::::::::::::M888888888:::::::MM88888888888888   8888888
+ 8888   M::::::::::::::M88888888888::::::MM888888888888888    88888
+  888   M:::::::::::::M8888888888888M:::::mM888888888888888    8888
+   888  M::::::::::::M8888:888888888888::::m::Mm88888 888888   8888
+    88  M::::::::::::8888:88888888888888888::::::Mm8   88888   888
+    88  M::::::::::8888M::88888::888888888888:::::::Mm88888    88
+    8   MM::::::::8888M:::8888:::::888888888888::::::::Mm8     4
+        8M:::::::8888M:::::888:::::::88:::8888888::::::::Mm    2
+       88MM:::::8888M:::::::88::::::::8:::::888888:::M:::::M
+      8888M:::::888MM::::::::8:::::::::::M::::8888::::M::::M
+     88888M:::::88MM:::::::::8:::::::::::M::::8888::::M::::M
+    88 888MM:::888:M:::::::::::::::::::::::M:888:::::::::::M:
+    8 88888M:::88::M:::::::::::::::::::::::MM:88::::::::::::M
+      88888M:::88::M::::::::::*88*::::::::::M:88::::::::::::::M
+     888888M:::88::M:::::::::88@@88:::::::::M::88::::::::::::::M
+     888888MM::88::MM::::::::88@@88:::::::::M:::8::::::::::::::*8
+     88888  M:::8::MM:::::::::*88*::::::::::M:::::::::::::::::88@@
+     8888   MM::::::MM:::::::::::::::::::::MM:::::::::::::::::88@@
+      888    M:::::::MM:::::::::::::::::::MM::M::::::::::::::::*8
+      888    MM:::::::MMM::::::::::::::::MM:::MM:::::::::::::::M
+       88     M::::::::MMMM:::::::::::MMMM:::::MM::::::::::::MM
+        88    MM:::::::::MMMMMMMMMMMMMMM::::::::MMM::::::::MMM
+         88    MM::::::::::::MMMMMMM::::::::::::::MMMMMMMMMM
+          88   8MM::::::::::::::::::::::::::::::::::MMMMMM
+           8   88MM::::::::::::::::::::::M:::M::::::::MM
+               888MM::::::::::::::::::MM::::::MM::::::MM
+              88888MM:::::::::::::::MMM:::::::mM:::::MM
+              888888MM:::::::::::::MMM:::::::::MMM:::M
+             88888888MM:::::::::::MMM:::::::::::MM:::M
+            88 8888888M:::::::::MMM::::::::::::::M:::M
+            8  888888 M:::::::MM:::::::::::::::::M:::M:
+               888888 M::::::M:::::::::::::::::::M:::MM
+              888888  M:::::M::::::::::::::::::::::::M:M
+              888888  M:::::M:::::::::@::::::::::::::M::M
+              88888   M::::::::::::::@@:::::::::::::::M::M
+             88888   M::::::::::::::@@@::::::::::::::::M::M
+            88888   M:::::::::::::::@@::::::::::::::::::M::M
+           88888   M:::::m::::::::::@::::::::::Mm:::::::M:::M
+           8888   M:::::M:::::::::::::::::::::::MM:::::::M:::M
+          8888   M:::::M:::::::::::::::::::::::MMM::::::::M:::M
+       8888    MM::::Mm:::::::::::::::::::::MMMM:::::::::m::m:::M
+      888      M:::::M::::::::::::::::::::MMM::::::::::::M::mm:::M
+   8888       MM:::::::::::::::::::::::::MM:::::::::::::mM::MM:::M:
+              M:::::::::::::::::::::::::M:::::::::::::::mM::MM:::Mm
+             MM::::::m:::::::::::::::::::::::::::::::::::M::MM:::MM
+             M::::::::M:::::::::::::::::::::::::::::::::::M::M:::MM
+            MM:::::::::M:::::::::::::M:::::::::::::::::::::M:M:::MM
+            M:::::::::::M88:::::::::M:::::::::::::::::::::::MM::MMM
+            M::::::::::::8888888888M::::::::::::::::::::::::MM::MM
+            M:::::::::::::88888888M:::::::::::::::::::::::::M::MM
+            M::::::::::::::888888M:::::::::::::::::::::::::M::MM
+            M:::::::::::::::88888M:::::::::::::::::::::::::M:MM
+            M:::::::::::::::::88M::::::::::::::::::::::::::MMM
+            M:::::::::::::::::::M::::::::::::::::::::::::::MMM
+            MM:::::::::::::::::M::::::::::::::::::::::::::MMM
+             M:::::::::::::::::M::::::::::::::::::::::::::MMM
+             MM:::::::::::::::M::::::::::::::::::::::::::MMM
+              M:::::::::::::::M:::::::::::::::::::::::::MMM
+              MM:::::::::::::M:::::::::::::::::::::::::MMM
+               M:::::::::::::M::::::::::::::::::::::::MMM
+               MM:::::::::::M::::::::::::::::::::::::MMM
+                M:::::::::::M:::::::::::::::::::::::MMM
+                MM:::::::::M:::::::::::::::::::::::MMM
+                 M:::::::::M::::::::::::::::::::::MMM
+                 MM:::::::M::::::::::::::::::::::MMM
+                  MM::::::M:::::::::::::::::::::MMM
+                  MM:::::M:::::::::::::::::::::MMM
+                   MM::::M::::::::::::::::::::MMM
+                   MM:::M::::::::::::::::::::MMM
+                    MM::M:::::::::::::::::::MMM
+                    MM:M:::::::::::::::::::MMM
+                     MMM::::::::::::::::::MMM
+                     MM::::::::::::::::::MMM
+                      M:::::::::::::::::MMM
+                     MM::::::::::::::::MMM
+                     MM:::::::::::::::MMM
+                     MM::::M:::::::::MMM:
+                     mMM::::MM:::::::MMMM
+                      MMM:::::::::::MMM:M
+                      mMM:::M:::::::M:M:M
+                       MM::MMMM:::::::M:M
+                       MM::MMM::::::::M:M
+                       mMM::MM::::::::M:M
+                        MM::MM:::::::::M:M
+                        MM::MM::::::::::M:m
+                        MM:::M:::::::::::MM
+                        MMM:::::::::::::::M:
+
+
+
+                   Welcome to The Realm
+
+What is your name: ~
+
+58 IMOTD~
+
+
+&n
+~
+
+-1 MOTD~
+	
+&+rWelcome to the realm we are currently under construction	
+&+rso expect reboots often and many changes to go in so don't	
+&+rget used to anything.&n	
+
+	&+RTy&N&+rru&+Rs&N
+
+~
+
+-1 LOGIN_MENU~
+&+RWelcome to The Realm:&N
+&+bษออออออออออออออออออออออออออป
+&+bบ &+B0. &+rLeave this world&n     &+b บ
+&+bบ &+B1. &+rEnter the game&N       &+b บ
+&+bบ &+B2. &+rChange your password&N &+b บ
+&+bบ &+B3. &+rDelete this character&N&+b บ
+&+bศออออออออออออออออออออออออออผ&n
+
+&+RChoose an option:&N
+~
+0 $~
+#$

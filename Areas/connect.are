@@ -1,0 +1,203 @@
+#AREADATA
+Name        Connecter~
+Author      Relinun~
+Levels      1 50
+Security    1
+VNUMs       1001 1009
+Builders    Relinun~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#1001
+&+MThe Zone Connection Area.&N~
+&N  &+MThis is where i will be adding zone too feel free to look around have fun,
+&+Mand enjoy yourself, its a work and progress and will take much time. thanks for
+&+Mthe patients and help!&N&+Y And if you find bugs/typos or have ideas use the BUG
+&+YTYPO and IDEA commands with a message after them.&N&+G If you wanna help me out
+&+Gwith anything mail me at Jo182sh@aol.com or tyrus182@yahoo.com.&N&+B Hometowns
+&+Bare to the east and newbie zones are to the west and high level zones are south
+&+Bthe planes are up.&N
+~
+2 0 0
+D0
+~
+~
+0 0 200
+D1
+~
+~
+0 0 1002
+D2
+~
+~
+0 0 1004
+D3
+~
+~
+0 0 1003
+D4
+~
+~
+0 0 1005
+D5
+~
+~
+0 0 1006
+S
+#1002
+&+MConnector For Hometowns.&N~
+&N&+M   This is the connecter for hometowns it will be where i am adding them as
+&+Mi get them/make them.&N
+~
+2 0 0
+D0
+~
+~
+0 0 15000
+D1
+~
+~
+0 0 2002
+D3
+~
+~
+0 0 1001
+D5
+~
+~
+0 0 1007
+S
+#1003
+&+MConnector For Newbie Zones&N~
+&N&+B   Here is where i will be adding newbie zones as they come in&N
+~
+2 0 0
+D0
+~
+~
+0 0 3501
+D1
+~
+~
+0 0 1001
+D2
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1009
+S
+#1004
+&+LConnecter For Mid-High Level Zones&N~
+&N&+L   Here is where i shall add mid to high level exp/eq zones enjoy&N
+~
+2 0 0
+D0
+~
+~
+0 0 1001
+S
+#1005
+&+RConnector For the planes.&N~
+&N&+R   This is connector for the plains as they go in. have fun and enjoy.&N
+~
+2 0 0
+D5
+~
+~
+0 0 1001
+S
+#1006
+&+LTyrus'&+R emergency &+BInn&N~
+&N    This inn was added untill there are hometowns and such in.&N
+~
+2 524288 0
+D4
+~
+~
+0 0 1001
+S
+#1007
+&+LIn The &+RB&N&+ro&+Lw&+Re&N&+rl&+Ls of the &+MConnecter&N~
+ &+MDeep dark section of the home town connecter
+~
+2 0 0
+D0
+~
+~
+0 0 2200
+D4
+~
+~
+0 0 1002
+D5
+~
+~
+0 0 2551
+S
+#1008
+&+CNewbie Zone Connecter&N~
+&+M   You are in the newbie zone connector have fun&N
+~
+2 0 0
+D0
+~
+~
+0 0 1003
+D1
+~
+~
+0 0 2668
+D3
+~
+~
+0 0 2728
+S
+#1009
+&+MConnector To Newbie Zones&N~
+&+B   You guessed it more newbie zones&N
+~
+2 0 0
+D0
+~
+~
+0 0 2691
+D1
+~
+~
+0 0 1003
+D2
+~
+~
+0 0 2711
+S
+#0
+
+#BASTMOBS
+#0
+#BASTOBJECTS
+#0
+
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#2
+&+Mconnecter&N~
+1009 2 8 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+*
+*
+*
+S
+#QUESTS
+#0
+#$
+
+

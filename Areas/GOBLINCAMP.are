@@ -1,0 +1,844 @@
+#AREADATA
+Name        Goblin Camp~
+Author      Dubar~
+Levels      1 50
+Security    1
+VNUMs       2691 2808
+Builders    Dubar~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#2691
+&+gThe Entrance to the Goblin Encampment&N~
+   The entrance to this campground is a very filthy place.  The &+gtrees&N and small
+&+gshrubs &Nhave been trampled and hacked by the careless &+ggoblins&N that have taken up
+camp in this &N&+gforest&N.  There is a &+Ldirt path&N that has been trampled into the
+tough turf of the &+gforest&N which leads north.  There are many signs of life here
+but nothing natural.  All the &N&+yanimals&N in the region have been &+Rslaughtered&N for
+use by the smelly &+ggoblins&N.  There is a small &+rfire pit&N located here that the
+guards use to cook whatever they can get their hands on.  One may travel north
+or south.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2692
+D2
+~
+~
+0 0 1009
+E
+pit fire~
+&N   This &+rfire pit&N is used to cook food.  There is a circle of stones that
+surround the pit itself.  There are many sharp sticks lying nearby to cook the
+meat on.&N
+~
+S
+#2692
+&+gInside the Outer Edge of the Goblin Camp&N~
+&N   The &+Gforest&N gives way to the messy &+ggoblin&N campground here.  The &+Gtrees&N have
+been cut down and fashioned in a way to make a very simple perimeter wall.  The
+trees and small &+Gshrubberies&N here have either been knocked down or trampled flat
+by the careless creatures.  There are several small bedrolls lying in random
+places beneath the larger &+yoak &N&+gtrees.&N  The dirt trail that leads in a generally
+northern direction is &+Lmuddy&N and slick from the many&+g goblins&N that decided to
+relieve themselves right on the trail.  The small &+Gforest&N spreads out in all
+directions.  One may travel north, south, east or west.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2703
+D1
+~
+~
+0 0 2695
+D2
+~
+~
+0 0 2691
+D3
+~
+~
+0 0 2693
+S
+#2693
+&+gAlong the Wooden Wall of the Temporary Goblin Campground&N~
+&N   The &+Gforest&N is slightly thicker here and there is less &+ggoblin&N traffic.  The
+large &+ywooden barricade&N to the south has been hastily constructed with smaller
+&+Gtress&N wired together between the larger &+ytrunks&N.  The &+Ggrasses&N have been trampled
+flat by the many &+ggoblins&N that run through this part of the &+gwoods&N.  There are a
+few scattered blankets and &+Ystraw mats&N lying amongst the many tall &+Gtrees&N.  The
+areas around the bases of the &+Gtrees&N has been cleared of any and all small weeds
+or &+Gtrees&N.  The bark at the bases of many of the &+Gtrees&N has been scraped off for
+use in the &+rcampfires&N.  The &+Gtrees&N will soon die from all the damage the &+ggoblins&N
+have done.  One may travel east, west or north.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2700
+D1
+~
+~
+0 0 2692
+D3
+~
+~
+0 0 2694
+S
+#2694
+&+gIn the Corner of the Goblin Encampment&N~
+&N   This corner of the &+ggoblin encampment&N is marred by a large hole in the ground
+that is filled with piles and piles of &+Ltrash&N and animal carcasses.  There are
+many &+yrats&N and &+Wbug larvae&N crawling in and about the garbage heap.  The smell
+here is utterly revolting.  The &+Lgarbage hole&N has brought such &+Gtoxicity&N has
+killed off all the plants and trees near the mess.  It is safe to assume that
+this much &+Lfilth&N has permanently poisoned the &+bwater&N supply.  The &+ywooden wall&N
+that lies to the south and west of here has many large holes in it since it was
+obviously hastily erected.  One may travel to the north or east.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2697
+D1
+~
+~
+0 0 2693
+S
+#2695
+&+gInside The Goblin Camp That Has Devestated The Natural Forest&N~
+&N   The &+ggoblin camp&N is filled with hundreds of the smelly humanoids.  The &+gtrees&N
+and other &+Gnatural fauna&N have been utterly decimated by the careless inhabitants
+of this once peaceful &+gforest&N.  The ground is littered with &+Ltrash&N and &+Lfilth&N of
+all sorts making the natural landscape here all but non-existant.  The many
+&+gtrees&N that once grew high and tall have been stripped of their lower &+ylimbs&N and
+&+yb&N&+La&N&+yr&N&+Lk&N making them very susceptable to &+ydisease&N and &+ywood-rot&N.  There are several
+places where one can see small, extinguised &+rcampfires&N that are surrounded by
+many sleeping rugs and mats.  The camps temporary &+ywooden wall&N is located to the
+south and rises to a height of ten to fifteen feet high.  One may travel to the
+east, west or north.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2706
+D1
+~
+~
+0 0 2696
+D3
+~
+~
+0 0 2692
+S
+#2696
+&+gA Corner of the Goblin Camp Site&N~
+&N   This corner of the&+g goblin encampment&N has less inhabitants than some of the
+other sections of this &+Gforest&N.  There is a great amount of &+Lfilth&N and trash
+lying strewn about the shorter&+g bushes&N of the &+Gforest&N floor.  The lower branches
+of the &+gtrees&N have been broken off and used as &+yfir&N&+Lewo&N&+yod&N.  There are several
+small&+W piles of bones&N left over from the meals of wild game that the &+Lfilthy&N
+&+ggoblins&N have enjoyed here.  The camp continues to both the north and the west
+but the &+gforest&N is so thick to the east and south that one cannot hope to
+possilby travel in those directions.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2709
+D3
+~
+~
+0 0 2695
+E
+piles pile bones bone~
+&N   These assorted &+Wbones&N appear to be from many different species of animals
+because they vary so greatly in size and shape.  They are more than likely from
+chickens and small rabbits that the&+L filthy &N&+ggoblins&N snared.&N
+~
+S
+#2697
+&+gNorth of the Dump of the Goblin Camp&N~
+&N   The ground of the &+Gforest&N slopes gently south from here.  The &+Gtress&N grow
+close together but provide little shelter from the cold winds.  There are
+several small &+Rcampfires&N around the camp that cast strange and scary looking
+&+Lshadows&N.  There are many &+ggoblins&N in the &+Gforest&N but no animals are around.  It's
+safe to say that the vile&+g goblins&N have killed all the animals that were foolish
+enough to stay around after the &+ggoblins&N arrived.  The &+Gtrees&N and other natural
+&+Gfauna&N has been utterly decimated by the careless creatures.  Most of the &+gtrees
+are missing a great deal of their &+ybark&N and lower &+ybranches&N.  The camps outer
+&+ywall&N is located to the west and is used to keep out any unwanted invaders.  One
+may travel north or west into the camp, or south to the&+L dump.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2698
+D1
+~
+~
+0 0 2700
+D2
+~
+~
+0 0 2694
+S
+#2698
+&+gAlong the Western Wall of the Goblin Camp&N~
+&N   The western part of the &+ggoblin encampment&N if filled with many little &+bblue&N
+plants that produce a sweeet fruit.  Due to their greed and insatiable hunger,
+the &+ggoblin&N leaders have made this section of the &+gforest&N off-limits to most of
+the population.  There are quite a few of the &+Gbushes&N here but they have all
+been picked clean by the greedy guards. There are some tall&+G trees &Nthat provide
+a great deal of shade when the &+Ysun&N rises high.  This section of the camp is
+often enshrouded with a thick blanket of mist which leaves behind a fresh coat
+of dew every morning.  The &+ggoblins&N have not wrecked this part of the land but
+they will eventually.  The camps perimeter &+ywall&N is located to the west.  One
+may travel north, south or east in the camp.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2699
+D1
+~
+~
+0 0 2701
+D2
+~
+~
+0 0 2697
+S
+#2699
+&+gThe Northwestern Corner of the Goblin Encampment&N~
+&N   This corner of the camp is one of the safest in the camp.  There are a
+great deal more camp sites located in this section of the &N&+gforest&N.  It also
+happens to be the &+Ldirtiest&N and most abused section of the campground.  There
+is a layer of &+Lfilth&N covering everything here.  The &+ggoblins&N have totally abused
+this section of land to the point where it may never recover.  Most of the
+&+Gtrees&N here have been knocked down and used as &+rfire&N&+ywood&N.  There are few &+gtrees&N
+left standing but there are a great deal more stumps.  The only shelter
+provided is that by the camps perimeter &+ywall&N. One may travel east or south.&N
+~
+1 33554432 3
+D1
+~
+~
+0 0 2702
+D2
+~
+~
+0 0 2698
+S
+#2700
+&+gIn the Goblins Forest Encampment&N~
+&N   Hundreds of &+gtrees &Nlie upon the ground here.  It seems that the &+ggoblins&N are
+stockpiling a massive amount of &+ywood &Nfor something.  Perhaps they are going to
+expand the camps &+yperimeter wall &Nor build a large building.  The &+gtrees &Nhave been
+knocked down in many random directions and it appears that there was no means
+of organization.  The large piles of &+gtrees &Nare hard to navigate through so it
+is best to go around.  There is a layer of dew upon all the&+G leaves &Nof the
+felled &+gtrees&N, which are still &+ggreen&N.  There is a great amount of evidence that
+these &+gtrees&N were recently cut down.  There are also many &+ggoblin &Ncamp sights in
+and around the jumble of&+g trees&N.  It seems that they believe the fallen &+ytrunks
+of the &+gforest&N as an added amount of protection.  Small &+ycamp&N&+rfires&N can be seen
+in the &+gforest&N surrounding.  The broken &+ybranches &Nof the&+g trees&N offer a great
+amount of fuel for their &+rfires&N.  one may travel in any direction.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2701
+D1
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2693
+D3
+~
+~
+0 0 2697
+S
+#2701
+&+gInside the Goblin Camp and Near a Campfire&N~
+&N   The &+gforest canopy &Nabove provides some shelter from the elements and the
+&+rcampfire&N burning here offers both heat and peace of mind.  The nights in the
+&+gforest&N are more than a little spooky for even the savage&+g goblins&N.  There are
+many odd and scary sounds in the&+L darkness&N.  The&+g trees&N grow semi-thick here for
+the simple reason that they are too large to be chopped down with the basic
+tools and weapons the&+g goblins &Ncarried with them out of the Underdark.  There
+are many strange sights and sounds in the &+ggoblin&N encampment that would boggle
+the minds of many of the more enlightened people of the surface, but they are
+not always excepted here.  The &+gforest&N continues in all directions.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2702
+D1
+~
+~
+0 0 2704
+D2
+~
+~
+0 0 2700
+D3
+~
+~
+0 0 2698
+E
+campfire fire camp~
+&N   This campfire burns brightly, illuminating the area.&N
+~
+S
+#2702
+&+gAlong the Northern &N&+yWall&N&+g of the Goblin Camp&N~
+&N   The older &+ggoblins&N spend quite a lot of time here feeding, and then promptly
+killing, and &+gforest&N&+y creature &Nwho wanders near.  There are many dead carcasses
+lying about the ground of the camp, some are even semi-devoured.  The older
+&+ggoblins&N have lived a long and fruitful life, but coming to this vile&+g forest
+after living a safe and comfortable life in &+gMalch'hor Ganl &Nhas all but killed
+their spirits.  The camps &+yperimeter wall &Nis located to the north and it shields
+the camp from both the cutting winds and the savage &+gforest &Nanimals.  One may
+travel east, west or south in the camp.&N
+~
+1 33554432 3
+D1
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2701
+D3
+~
+~
+0 0 2699
+S
+#2703
+&+gIn the Center of the Goblin Encampment&N~
+&N   This is relatively close to the center of both the forest and the &+ggoblin&N
+encampment.  There is an enomous &+rbon&N&+L-&N&+rfire&N burning here giving both a great
+deal of warmth and illumination to the &+Lfilthy&N&+g goblins&N who live here.  The
+ground has been pounded down to the point where it is as hard as the stone
+floor of the &+ggoblins &Noriginal home,&+g Malch'hor Ganl&N.  There are many large
+&+gtrees&N here being used by the goblins as fire wood.  The &+ggoblins&N care little
+for the health of this&+g forest&N as they do not expect to stay here for much
+longer.  There are many&+g goblins&N visible, milling around amongst the many &+gtree&N
+&+ystumps&N.  One may travel in any direction.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2704
+D1
+~
+~
+0 0 2706
+D2
+~
+~
+0 0 2692
+D3
+~
+~
+0 0 2700
+S
+#2704
+&+gIn the &N&+LFilthy&N&+g Forest of the Goblins&N~
+&N   The&+g trees&N and small&+g underbrush &Nhave been covered with all kinds of &+Lfilth&N.
+The&+g goblins &Nof this camp have paid no heed to health and welfare of the &+gforests&N
+ecosystem.  There are many &+Lcamp&N&+rfires&N scattered amongst the many sturdy &+yoak&N
+&+gtrees&N.  The &+ggoblins&N have spent several years in this &+gforest&N, living day to day
+with no real plan of action.  The &+ggoblins&N are poorly lead in both their future
+plans and their allocation of the natural resources of the &+gforest&N.  There is a
+lot of&+L filth&N and&+g goblin&N waste on the ground as the creatures don't think twice
+about defecating where ever they wish.  One may travel in any direction in the
+&+ggoblin&N forest.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2705
+D1
+~
+~
+0 0 2707
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2701
+S
+#2705
+&+gThe Northern Perimeter of the Goblin Camp&N~
+&N   The northern perimeter of the camp is where most of the older &+ggoblins &Nspend
+their time.  The&+g trees&N and&+g underbrush&N is thicker here providing a great deal of
+shelter.  There are a few small, overhanging shelters that have been built onto
+the camps perimeter&+y wall&N.  The&+g trees&N here have not been used too much like the
+rest of the camp but all the &+ylower branches &Nhave been removed.  There are some
+piles of rocks near the wall.  It seems that the older &+ggoblins&N have plans to
+further fortify their position but making a &N&+Ls&N&+Wt&N&+Lo&N&+Wn&N&+Le&N wall.  Perhaps these &+ggoblins&N
+are here to stay.  One may travel west, east or south.&N
+~
+1 33554432 3
+D1
+~
+~
+0 0 2708
+D2
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2702
+S
+#2706
+&+gAmongst the Trees in the Goblin Camp&N~
+&N   This&+g forest&N is inhabited by many of the smelly &+ggoblins&N.  They have taken
+over this peaceful&+g forest&N by force, displacing the many&+y deer&N and &+bbirds&N that
+once made this their home.  The&+g goblins&N came here over a year ago with the idea
+of getting some large &+ytimbers&N to bring back to their homeland in the Underdark.
+They quickly found that they were on their own and didn't have to do anything
+they didn't want to do.  They have erected a &+ywooden wall&N around the camp in
+order to further solidify their position.  It appears that the &+ggoblins&N are here
+to stay.  There are many bedrolls lying around the ground seeking the dry
+protection offered by the &+Gtree boughs&N.  One may travel in any direction in the
+&+ggoblin camp.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2707
+D1
+~
+~
+0 0 2709
+D2
+~
+~
+0 0 2695
+D3
+~
+~
+0 0 2703
+S
+#2707
+&+gAmongst the Many Trees of the Goblin Forest Campground&N~
+&N   The many &+gtrees &Nof the&+g forest &Nstand here like silent guardians of nature.
+There are many&+g goblins&N running around these same&+g trees&N like little smelly
+creatures of the Underdark.  It is quite odd to see this large of a community
+of &+ggoblins&N this far out of the Underdark.  Perhaps they were part of a botched
+raid on a surface community, or left behind on a &+glum&N&+yber&N gathering mission.  It
+is uncertain why they are still here, but what is evident is the fact that the
+creatures have almost entirely destroyed the natural beauty of the &+gforest&N.  The
+&+gtrees&N have been hacked at by various tools and sharp&+g goblin &Nclaws.  There is
+all kinds of &+Lbodily waste &Non the ground and &+Gleaves&N of the &+Gunderbrush&N.  It is
+quite apparant that the &+ggoblin &Npopulation does not care one bit about the
+health of this &+gforest&N.  One may travel in any direction in the camp.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2708
+D1
+~
+~
+0 0 2710
+D2
+~
+~
+0 0 2706
+D3
+~
+~
+0 0 2704
+S
+#2708
+&+gIn the Northern Region of the Goblin Forest&N~
+&N   The &+gtrees &Nand &+gunderbrush &Nhere have been stripped of all their &+Gleaves&N and
+&+ybranches&N.  The result is acres and acres of naked &+gtree &N&+ytrunks &Nrising like the
+&+Wskeletons&N of the&+g forest&N.  The &+ggoblins&N would burn the&+y trunks&N too if they could
+figure out a lazy way to cut them down.  They have tried to avoid doing such
+strenuous exercise, and take the easily achieved leaves and &+ybranches&N for their
+warm&+rfires&N.  There seems like there are more &+rfire&N&+L pits &Nthan &+ggoblins&N but it
+seems like they get used.  The &+ggoblins &Nhave used up a tremendous amount of&+y wood
+since they arrived from &+gMalch'hor Ganl&N.  They have forever marred this &+gforest&N
+and the eco-systems that coexist with the trees.  The camp wall is located to
+the north and has been well maintained.  One may travel west, east or south in
+the&+g goblin &Ncamp.&N
+~
+1 33554432 3
+D1
+~
+~
+0 0 2711
+D2
+~
+~
+0 0 2707
+D3
+~
+~
+0 0 2705
+S
+#2709
+&+gAlong the &N&+yWooden Wall&N&+g of the Goblin Camp&N~
+&N   The camp continues here through the &+gforest&N.  The &+ggoblins&N have firmly
+entrenched themselves in this &+ywooded&N area by adding a &+ywooden wall&N to the
+perimeter of the camp.  The &+ywall&N is tall and sturdy where there aren't large
+holes.  The careless&+g goblins &Ndon't fear any intruders because of their sheer
+numbers.  The guards spend more time gambling than keeping watch.  The &+gtrees&N
+and &+Gbushes &Ninside the camp have been badly damanged and will probably never
+recover.  The&+g goblins&N came into this&+g forest&N and have totally ruined it for
+future generations.  The ground is&+L muddy &Nand filled with the tracks of the
+&+ggoblin&N children.  There are many shouts and yells coming from somewhere west
+of here.  One may travel north, south or west.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2710
+D2
+~
+~
+0 0 2696
+D3
+~
+~
+0 0 2706
+S
+#2710
+&+gOn the Eastern Perimeter of the Forest&N~
+&N   The &+ggoblins&N have organized this part of the campground as a base for all
+military operations.  In reality, this part of the camp is where the pile their
+&+ys&N&+Lpears&N.  The &+ys&N&+Lpears&N have been piled like&+y cord-wood&N but, for the most part, the
+piles have fallen over making the collection of weapons no more than a jamble
+of &+ywood&N.  The &+gtrees&N here are almost all dead and tipped over, further adding to
+the mess.  The camps perimeter &+ywall&N is located to the east and has been fairly
+well maintained by the &+ggoblin&N workers.  One may travel north, south or west
+from this point.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2711
+D2
+~
+~
+0 0 2709
+D3
+~
+~
+0 0 2707
+S
+#2711
+&+gAt the Northeastern Corner of the Goblin Camp&N~
+&N   The&+g trees&N are considerably less tall in this part of the camp as this is a
+younger plot of &+gtrees&N.  The camps &+ywall&N is located to the north and east and it
+protects the &+ggoblins&N from the many &+gforest&N creatures that could easily rip them
+apart.  The ground has been packed tightly from the many&+g goblins&N running about
+the &+gforest &Nfloor.  There are many odd smells here, both of&+L rot &Nand of sweet
+smelling meat.  This &+gforest&N camp is truly a different experience for an
+outsider to have.  The camp spreads out before you to the west and south.&N
+~
+1 33554432 3
+D2
+~
+~
+0 0 2710
+D3
+~
+~
+0 0 2708
+S
+#0
+
+#BASTMOBS
+#2691
+goblin viscious guard~
+&+La viscious&N&+g goblin&N~
+&+LA large and viscious &N&+ggoblin&N&+L guards the camp here.&N
+~
+&N   This large &+ggoblins&N job is to keep out any unwanted visitors.  His face wears
+a grim expression as he goes about his job with little enthusiasm.  He stands
+at nearly five feet tall, which is enormous for a &+ggoblin&N.  He stands with his
+muscular arms wrapped in front of his chest.&N
+~
+75499594 128 0 0 0 -800 S
+HG 0 1
+40 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2692
+goblin woman~
+&+ga goblin woman&N~
+&+LA large &N&+ggoblin&N&+L woman walks through the forest here.&N
+~
+&N   This large woman walks through the &+gforest&N looking for something to do.  Her
+clothes are torn and ragged and they look as cheap as she does.  She is a very
+muscular creature and can hold her own against most male &+ggoblins&N.  She came
+with the original&+g goblin &Nraiding group that settled in this once peaceful
+&+gforest&N.  She is a very formidable opponent.&N
+~
+2124 0 0 0 0 -400 S
+HG 0 1
+25 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2693
+goblin male warrior~
+&+La &N&+ggoblin&N &+Lmale&N~
+&+LA muscular &N&+ggoblin&N&+L warrior stalks through the forest.&N
+~
+&N   This large &+ggoblin &Nis one of the many warriors that made the original
+pilgimage from the dark city of &+gMalch'hor Ganl&N.  His body is well toned for
+battle and he has fought and won against many larger opponents.  His teeth
+are stained &+yyellow&N but sharp and deadly as any weapon he might brandish.  He
+stands at almost five feet tall and weighs about two hundred pounds.&N
+~
+2124 0 0 0 0 -789 S
+HG 0 1
+27 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2694
+child toddler goblin~
+a &+ggoblin&N child&N~
+&+LA &N&+ggoblin&N&+L toddler walks through the camp here.&N
+~
+&N   This small child has lived its entire life in the goblin camp.  It has
+never gazed upon the dark tunnels of its homeland,&+g Malch'hor Ganl&N.  He is very
+short &+ggoblin&N but he appears to be very intelligent.  He is rather emaciated and
+his stomach is sticking out due to lack of malnutrtion.&N
+~
+8 0 0 0 0 -450 S
+HG 0 0
+6 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2695
+old elderly goblin~
+&+Lan elderly &N&+ggoblin&N~
+&+LAn elderly &N&+ggoblin&N&+L hobbles through the camp here.&N
+~
+&+L   This old male has seen many years.  He hobbles through the camp trying to
+&+L&+Lput on a brave face.  He is in constant danger of being killed by one of the
+&+Lyounger warriors.  It seems that he has lost the respect of those&N&+g goblins.&N
+~
+76 0 0 0 0 -500 S
+HG 0 13
+18 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2696
+goblin elderly female woman~
+&+Lan elderly &N&+ggoblin&N~
+&+LA very old &N&+ggoblin&N&+L female has lost her mind.&N
+~
+&+L   This old &N&+ggoblin&N&+L has lost her mind.  She was never a smart creature, even
+&+Lduring her childhood in the underground city of &N&+gMalch'hor Ganl&N&+L she was quite
+&+Lstupid.  She has grown quite senile in her old age.&N
+~
+14 0 0 0 0 -400 S
+HG 0 0
+22 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2697
+goblin female woman maiden~
+&+La &N&+ggoblin&N&+L female&N~
+&+LA young &N&+ggoblin&N&+L maiden hurries about the camp doing chores.&N
+~
+&+L   This young &N&+ggoblin &N&+Lwoman was just a baby when her people struck out from
+&+Ltheir home of &N&+gMalch'hor Ganl&N&+L.  She has grown up in this &N&+gforest&N&+L and has thrived.
+&+LShe is very strong and good looking for a&N&+g goblin&N&+L.  This is one female to not
+&+Lmess with.&N
+~
+72 0 0 0 0 -200 S
+HG 0 0
+25 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2698
+goblin shaman~
+&+La &N&+ggoblin&N&+L shaman&N~
+&+LA &N&+ggoblin&N&+L shaman walks through the campground here.&N
+~
+&+L   This&N&+g goblin&N&+L shaman is very important to the&N&+g goblin&N&+L community.  He is one
+&+Lof the more important members of the &N&+ggoblins&N&+L as a whole, but, with his advanced
+&+Lage, has lost most of his mind.  He is more of a figurehead than a real leader
+&+Lnow, but once he was a great man.  He stands at barely over four feet tall and
+&+Lhe weighs nearly two hundred pounds.  Quite frankly, he is fat.&N
+~
+67110984 0 0 0 0 -900 S
+HG 0 9
+41 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2699
+goblin warrior~
+&+La &N&+ggoblin&N&+L warrior&N~
+&+LA large &N&+ggoblin&N&+L warrior walks through the forest here.&N
+~
+&+L   This large&N&+g goblin &N&+Lwarrior will fight anyone who dares pass in front of
+&+Lhim.  He is an ugly creature covered with many nasty looking scars.  He has
+&+Lspent his entire life in this&N&+g forest&N&+L and knows every inch of it.  He stares
+&+Lout with insane looking eyes.&N
+~
+805308488 0 0 0 0 -1000 S
+HG 0 1
+33 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#0
+#BASTOBJECTS
+#2691
+dump garbage trash hole~
+the dump~
+Piles and piles of trash are lying in this hole&N~
+~
+15 1 3 0 1 0 2 0 0 1 0
+100 0 0 100 0 0 0 0
+-1 0 100
+E
+dump garbage trash hole~
+&+L   This hole is filled with trash and other unmentionable filth.  There is
+&+Ltons of junk here.&N
+~
+#2692
+thigh goblin bone~
+&+Wa &+ggoblin&N &+Wthigh bone&N~
+&+Wa white bone lies here on the ground.&N~
+~
+5 10 3 0 3 0 4104 8193 0 1 0
+11 2 2 7 0 0 0 0
+4 0 100
+E
+thigh goblin bone~
+&N  This bone came from a large &+ggoblin&N.  It looks as if it could be used as a
+weapon.&N
+~
+#2693
+pine pinewood totem~
+&+La &N&+gpine&N&+Lwood totem&N~
+&+LA &N&+ywooden&N&+L totem lies here on the ground.&N~
+~
+34 5 3 0 10 0 1 16385 0 256 0
+2 0 0 0 0 0 0 0
+8 0 100
+E
+pine pinewood totem~
+&N   This totem is a very nice piece of art and is also very functional.  It
+glows with power.&N
+~
+A
+13 10
+A
+3 3
+#2694
+goblin sword iron~
+&+La &N&+ggoblin&N&+L-made &N&+Lsword&N~
+&+LAn iron sword lies here on the ground.&N~
+~
+5 15 3 0 3 0 0 16385 0 32862 0
+13 3 3 3 0 0 0 0
+8 0 100
+E
+goblin sword iron~
+&N   This sword is a sword.&N
+~
+A
+2 2
+#0
+
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#1
+&+gThe Goblin Camp&N~
+2711 2 0 40 50 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+*
+O 0 2691 1 2694 100 0 0 0          * the dump
+P 1 2692 1 2691 100 0 0 0          *   a goblin thigh bone
+*
+M 0 2691 1 2691 100 0 0 0          * a viscious goblin
+E 1 2694 4 18 100 0 0 0            *   a goblin-made sword
+M 0 2692 5 2692 100 0 0 0          * a goblin woman
+M 0 2694 9 2692 100 0 0 0          * a goblin child
+M 0 2693 8 2693 100 0 0 0          * a goblin male
+E 1 2694 4 18 100 0 0 0            *   a goblin-made sword
+M 0 2697 4 2693 100 0 0 0          * a goblin female
+M 0 2693 8 2695 100 0 0 0          * a goblin male
+M 0 2694 9 2696 100 0 0 0          * a goblin child
+M 0 2697 4 2696 100 0 0 0          * a goblin female
+M 0 2693 8 2697 100 0 0 0          * a goblin male
+E 1 2694 4 18 100 0 0 0            *   a goblin-made sword
+M 0 2694 9 2698 100 0 0 0          * a goblin child
+M 0 2697 4 2698 100 0 0 0          * a goblin female
+M 0 2693 8 2699 100 0 0 0          * a goblin male
+E 1 2694 4 18 100 0 0 0            *   a goblin-made sword
+M 0 2695 2 2700 100 0 0 0          * an elderly goblin
+M 0 2696 3 2700 100 0 0 0          * an elderly goblin
+M 0 2694 9 2701 100 0 0 0          * a goblin child
+M 0 2694 9 2702 100 0 0 0          * a goblin child
+M 0 2696 3 2702 100 0 0 0          * an elderly goblin
+M 0 2693 8 2703 100 0 0 0          * a goblin male
+M 0 2694 9 2703 100 0 0 0          * a goblin child
+M 0 2696 3 2704 100 0 0 0          * an elderly goblin
+M 0 2697 4 2705 100 0 0 0          * a goblin female
+M 0 2698 1 2705 100 0 0 0          * a goblin shaman
+E 1 2693 1 18 100 0 0 0            *   a pinewood totem
+M 0 2692 5 2707 100 0 0 0          * a goblin woman
+M 0 2693 8 2707 100 0 0 0          * a goblin male
+M 0 2692 5 2708 100 0 0 0          * a goblin woman
+M 0 2694 9 2708 100 0 0 0          * a goblin child
+M 0 2692 5 2709 100 0 0 0          * a goblin woman
+M 0 2693 8 2709 100 0 0 0          * a goblin male
+M 0 2694 9 2709 100 0 0 0          * a goblin child
+M 0 2695 2 2710 100 0 0 0          * an elderly goblin
+M 0 2693 8 2711 100 0 0 0          * a goblin male
+M 0 2694 9 2711 100 0 0 0          * a goblin child
+M 0 2692 5 2711 100 0 0 0          * a goblin woman
+M 0 2699 1 2711 100 0 0 0          * a goblin warrior
+*
+S
+#QUESTS
+#0
+#$
+
+

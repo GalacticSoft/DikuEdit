@@ -1,0 +1,1453 @@
+#AREADATA
+Name        Field of Endolin~
+Author      Dubar~
+Levels      1 50
+Security    1
+VNUMs       3501 3542
+Builders    Dubar~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#3501
+&+gThe Beginning of a Large Field&N~
+&+g   A large and spacious field opens up before you here.  The field is long and
+&+gvery wide.  There are many tufts of lush green grass that can be seen even at
+&+ga very great distance.  The sky opens very wide above the field as there are
+&+gno trees at all to break up the skyline. One can see many miles of open prairie
+&+gto the north.  One may travel to the north into the field or south out of the
+&+gentire prairie area.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3502
+D2
+~
+~
+0 0 1003
+S
+#3502
+&+gUpon the Field of Endolin&N~
+&+g   The Field of Endolin is a very lush and healthy prairie.  The sod here has
+&+ggrown solid with a tough looking grass.  The grass is a dark green and very
+&+gstrong.  There are many trails leading off further onto the field.  There are
+&+gsome &N&+ybuffalo chips&N&+g lying on the ground.  It has been said by the older native
+&+Bbarbarians &N&+gthat the &N&+ybuffalo chips&N&+g can be used as a fire starter.  There are
+&+gmiles of prairie stretching out to the north.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3505
+D1
+~
+~
+0 0 3504
+D2
+~
+~
+0 0 3501
+D3
+~
+~
+0 0 3503
+E
+buffalo chip chips~
+&+y   This pile of feces was left by a buffalo.  It is large and flamable.&N
+~
+S
+#3503
+&+gUpon the Lush Grasses of The Field of Endolin&N~
+&+g   The Fields of Endolin have been this large and wide open plain that lies
+&+gbefore you for centuries.  The entire area was once covered with tons of ice
+&+gand rock as the large glaciers moved south.  The ground was not scarred like
+&+gsome of the canyons in the western regions but actually was leveled totally
+&+gflat.  The green grasses grow very well in the infertile soil of the prairie.
+&+gThe grass is about all that grows here save an occasional weed.  One may travel
+&+gto the north or east.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3506
+D1
+~
+~
+0 0 3502
+S
+#3504
+&+gIn Some Wet Grass on the Vast Prairie&N~
+&+g   The field here is very lush and green.  The grasses show a hint of dryness
+&+gas the field has not had a heavy rain in several months.  There are many small
+&+ggame trails running across the prairie.  There is a fair amount of wildlife in
+&+gthis area of the realm as many small critters can be seen scurrying through the
+&+gtall grasses.  The grass here is wet as something has used this part of the
+&+gfield to relieve itself.  One may travel north or west.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3507
+D3
+~
+~
+0 0 3502
+S
+#3505
+&+gSurrounded By Miles and Miles of Open Prairie&N~
+&+g   The miles and miles of lush green grass stretched in every direction.  It
+&+gis as if this part of the field is the exact center of a huge, green disk.  The
+&+gamount of grass here is staggering.  There are several small prairie dog holes
+&+gthat have been recently dug.  Small piles of dirt surround each hole.  The sky
+&+gis wide open above your head.  There are some game trails heading off to the
+&+gnorth.  One may travel in any direction from this point.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3508
+D1
+~
+~
+0 0 3507
+D2
+~
+~
+0 0 3502
+D3
+~
+~
+0 0 3506
+S
+#3506
+&+gGrassy Plain that is the Field of Endolin&N~
+&+g   This grassy plain is covered with miles of prairie grass and clover.  The
+&+gfield meets the horizon in every single direction.  Below your feet the grass
+&+gis lush and green with jusdt a hint of being dehydrated.  The grass here sways
+&+gslightly in the wind, looking very much like a wave over the plain.  There are
+&+gmany small holes that animals have dug into the sod.  One may travel in any
+&+gdirection they choose.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3509
+D1
+~
+~
+0 0 3505
+D2
+~
+~
+0 0 3503
+D3
+~
+~
+0 0 3518
+S
+#3507
+&+gThe Endless Fields of Grass&N~
+&+g   The plain stretches far and wide.  The grasses here are very healthy
+&+glooking, although the grass crunches slightly when one walks over it.  It seems
+&+gthat this part of the world has been without water for a few weeks.  There are
+&+gmany signs of animals here on the plain as one can see many game trails.  The
+&+gsign of&N&+y buffalo&N&+g is even more evident as there are some very large piles of
+&+ybuffalo chips&N&+g.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3510
+D1
+~
+~
+0 0 3519
+D2
+~
+~
+0 0 3504
+D3
+~
+~
+0 0 3505
+S
+#3508
+&+gOn the Prairie Grasses&N~
+&+g   The grasses of the prairie are very lush and green here.  They stretch out
+&+gfor miles and miles in every direction.  The field is full of wildlife.  You
+&+gcan see many animals running freely across the plain.  There are many different
+&+gkinds of animals that live on this plain.  One can see many small prairie dog
+&+gholes dotting the field.  There are also signs of larger animals as there are
+&+gquite a few large piles of waste.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3511
+D1
+~
+~
+0 0 3510
+D2
+~
+~
+0 0 3505
+D3
+~
+~
+0 0 3509
+S
+#3509
+&+gOn the Grassy Plain&N~
+&+g   This grassy plain is the home to many different kinds of animals.  The
+&+ganimals live in peace usually, but the predators that live here need to live
+&+gand eat as well.  Most of the creatures live off of the hearty grasses that
+&+ggrow in great abundance here.  The plains are the ideal place in nature, too
+&+gbig to ruin, yet one area of the plain is as peaceful as another.  The Field
+&+gof Endolin is a very large field of grasses that is often traveled across by
+&+gmerchants or travelers.  Armies rarely travel here, preferring to stick close
+&+gto the mountain ranges, out of sight to their foes.  One may travel in any
+&+gdirection on the plain.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3513
+D1
+~
+~
+0 0 3508
+D2
+~
+~
+0 0 3506
+D3
+~
+~
+0 0 3521
+S
+#3510
+&+gOn The Grassy Range&N~
+&+g   This natural field is inhabited by many different species of animals.  The
+&+ggrasses that grow here are both hearty and resilient, surviving both harsh
+&+gwinters and intense heat.  The animals that live here eat the grasses almost
+&+gexclusively, for little else grows here.  One may travel for miles without ever
+&+gseeing another non-animal.  The Field of Endolin is just that vast.  One may
+&+gtravel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3512
+D1
+~
+~
+0 0 3520
+D2
+~
+~
+0 0 3507
+D3
+~
+~
+0 0 3508
+S
+#3511
+&+gStanding On the Thick Sod of the Prairie&N~
+&+g   The soil here is very far below the surface.  The sod on this part of the
+&+gprairie is much like the other parts in that it is very thick and would take a
+&+gfair amount of digging to reach it.  There are some weeds growing amongst the
+&+gtall prairie grasses but they are few and far between.  There are several small
+&+gprairie dog holes that appear to be fresh.  The holes are surrounded by small
+&+gpiles of dirt, which was thrown there by the industrious little rodents.  One
+&+gmay travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3514
+D1
+~
+~
+0 0 3512
+D2
+~
+~
+0 0 3508
+D3
+~
+~
+0 0 3513
+S
+#3512
+&+gSurrounded by The Fertile Plains&N~
+&+g   The ground here is very fertile.  The tall green grasses completely
+&+gblock out any other weeds or grasses that would have tried to gain a foot-hold
+&+gon the Field of Endolin.  The grasses lie mostly bent over from a recent
+&+gstorm, looking very much like a criss-cross pattern on a quilt.  There are
+&+gmany faint trails leading in many directions here, most likely from the small
+&+ganimals that run about the plain.  There are also many signs of the large
+&N&+ybuffalo &N&+gthat roam here.  There large beds are evident from when they bedded
+&+gdown for the night, large areas of flattened grasses.  One may travel in any
+&+gdirection.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3516
+D1
+~
+~
+0 0 3527
+D2
+~
+~
+0 0 3510
+D3
+~
+~
+0 0 3511
+S
+#3513
+&+gOn the Vast Field of Endolin&N~
+&+g   The plain is vast and stretches forever.  The peace and beauty of this
+&+gplace is only broken by the occasional buffalo or other furry animal grazing
+&+gon the hearty grasses.  There is an entire eco-system evident here, the
+&+gconstant perfection of the wonder of nature.  During the dry season these
+&+ggrasses are often very crisp and dusty.  The sheer amount of open land seems
+&+godd and frightening to any of those who originally came from villages or cities
+&+gwith many buildings.  One may travel in any direction on the Field of Endolin.
+~
+1 33554432 2
+D0
+~
+~
+0 0 3515
+D1
+~
+~
+0 0 3511
+D2
+~
+~
+0 0 3509
+D3
+~
+~
+0 0 3522
+S
+#3514
+&+gBy a Weedy Section of The Grassy Plains&N~
+&+g   The grassy plains stretch for miles and miles here.  The resilience of the
+&+gprairie grasses is well known as the grasses are sometimes cut from the ground
+&+gand replanted elsewhere when grass is needed.  This section of the plain was
+&+gonce stripped of its sod.  The open soil provided a fresh place for these many
+&+gweeds that grow here.  The weeds are very colorful and add an extra amount of
+&+glife to the prairie.  There are still some open places where the black topsoil
+&+gcan be seen.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3517
+D1
+~
+~
+0 0 3516
+D2
+~
+~
+0 0 3511
+D3
+~
+~
+0 0 3515
+S
+#3515
+&+gOn the Grasses of the Field of Endolin&N~
+&+g   The fields grasses are very lush and healthy here.  The fertile soil of the
+&+gprairie is filled to capactity with the hearty grasses.  There are signs of
+&+gwildlife upon the prairie.  Some, like the signs left by buffalo, are very easy
+&+gto spot, but there are others, like the field mouse or the prairie dog, which
+&+gare only discernable by the keenest of trackers.  Several animals can be seen
+&+ggrazing upon the grasses in the distance.  The sky opens wide above the plain
+&+gmaking this place wide open to the elements.  One may travel in any direction.
+~
+1 33554432 2
+D0
+~
+~
+0 0 3526
+D1
+~
+~
+0 0 3514
+D2
+~
+~
+0 0 3513
+D3
+~
+~
+0 0 3523
+S
+#3516
+&+gOn The Field of Endolin&N~
+&+g   The many miles of this prairie have been umarred by any race.  There has
+&+gnever been a building or even temporary shelter erected here in its entire
+&+gexistance.   The natural state of the Field of Endolin is unequaled in the
+&+gentire world, often written about by the traveling minstrils and sung in the
+&+ghighest and most powerful kingdoms courts.  The grasses here are criss-crossed
+&+gwith many wild game trails.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3531
+D1
+~
+~
+0 0 3528
+D2
+~
+~
+0 0 3512
+D3
+~
+~
+0 0 3514
+S
+#3517
+&+gSurrounded By the Natural Beauty of the Prairie&N~
+&+g   The Field of Endolin is very unique in the realms for its natural beauty.
+&+gThe vast prairie lands here are covered with thick and hearty grasses that the
+&+gnumerous animals graze upon year round.  There is no need for the animals to
+&+gmigrate for they have everything they need here on the prairie.  The climate
+&+ghere is not too cold or too hot for the animals, primarily the buffalo.  The
+&+gfields stretch for many many miles.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3536
+D1
+~
+~
+0 0 3531
+D2
+~
+~
+0 0 3514
+D3
+~
+~
+0 0 3526
+S
+#3518
+&+gOn the Field of Endolin&N~
+&+g   The Field of Endolin is covered with miles and miles of prairie grass.
+&+gThe grasses are about two feet high and very thick.  Some tall weeds add some
+&+gcolor to the vast green ocean of green grass.  The lush prairie lands reach to
+&+gthe furthest horizons.  There are a few small holes in the sod here where some
+&+gprairie dogs live.  There are some game trails through the tall grass.  One may
+&+gtravel north or east.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3521
+D1
+~
+~
+0 0 3506
+S
+#3519
+&+gOn the Hearty Prairie Grasses&N~
+&+g   The wide field on the plains is characterized by the miles upon miles of
+&+glush green grass.  There is little to see here, yet at the same time this field
+&+gis so full of life that one could watch for days and still not take in all that
+&+gthere is to see.  The sky opens wide above ones head, seeming to stretch to
+&+ginfinity.  The smells of the prairie are plain yet somewhat exotic.  The earthy
+&+gsmells are often accompanied by the sweet smells of the prairie flowers.  One
+&+gmay travel to the north or west.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3520
+D3
+~
+~
+0 0 3507
+S
+#3520
+&+gOn the Prairie Fields&N~
+&+g   The history of the Field of Endolin has been long and boring.  Most often
+&+gthis region of the world is only passed through in great war campaigns or in
+&+ghastily planned retreats.  The many miles of prairie are filled with many
+&+gdifferent kinds of animals, the largest being the large and stupid &N&+ybuffalo&N&+g.
+&+gThe ground is littered with many &N&+yprairie dog&N&+L holes&N&+g, their homes in the ground.
+&+gThere are rumors of strange activities on this field, but they make little
+&+gsense seeing as how no group has civilized even a corner of this region.  One
+&+gmay travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3527
+D1
+~
+~
+0 0 3530
+D2
+~
+~
+0 0 3519
+D3
+~
+~
+0 0 3510
+S
+#3521
+&+gOn The Grassy Field Of Endolin&N~
+&+g   The vast grassy plain is wide open to the elements.  During the harsher
+&+gwinters this land is a death fields, for none of the animals migrate away from
+&+gthe harsh conditions.  There are many bones and such that have been consumed by
+&+gthe fast growing grasses.  They are now no more than bumps on the surface of
+&+gthe field.  There are many small game trails winding in random directions from
+&+gthis point.  One may travel north, south, west or east.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3522
+D1
+~
+~
+0 0 3509
+D2
+~
+~
+0 0 3518
+D3
+~
+~
+0 0 3524
+S
+#3522
+&+gSurrounded by Miles of Open Prairie&N~
+&+g   This large and open grassy field has been named The Field of Endolin.  It
+&+gis unknown where this term originally came from.  In fact, the only language
+&+gthat has a word even remotely like Endolin is the gutteral language of the
+&N&+Lorcs&N&+g, which doesn't make much sense because the &N&+Lorcs &N&+gdon't care enough to name
+&+gpieces of land, they just destroy them.  The vast prairie rarely shows up on
+&+gmaps, for few of the scribes know of a name for this place.  It is as natural
+&+ga place as any in the entire realm.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3523
+D1
+~
+~
+0 0 3513
+D2
+~
+~
+0 0 3521
+D3
+~
+~
+0 0 3525
+S
+#3523
+&+gOn the Wide Expanses of the Plains&N~
+&+g   The prairie here is filled with the beauty and pure aura of nature.  This
+&+gpart of the world is free of any evil or malice, lacks in greed or pride. The
+&+gField of Endolin is a beautiful place unspoiled by mankind. Here on the prairie
+&+gthe sky and and land play as the winds blow around them.  This is as pure a
+&+gplace as any temple or cathedral.  Here nature is king.  One may travel in any
+&+gdirection.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3534
+D1
+~
+~
+0 0 3515
+D2
+~
+~
+0 0 3522
+D3
+~
+~
+0 0 3533
+S
+#3524
+&+gThe Edge of the Field of Endolin&N~
+&+g   The Field of Endolin ends here when it reaches another region of the realm.
+&+gThere is little difference between this part of the prairie and any other.  It
+&+gseems that this entire region is the most boring area in all existance.  There
+&+gare no civilizations, no communities, not even a wandering tribe of nomads.
+&+gAll that lives here are animals and grass, not exactly exciting.  &N&+WWinter&N&+g is the
+&+gonly time this region gets interesting, because that is when many animals can
+&+geither starve to death or kill to live.  The &N&+ybuffalo&N&+g dig through the &N&+Wsnow&N&+g to
+&+gget at the frozen blades of grass that help them survive the &N&+Wwinter&N&+g.  The many
+&+yprairie dogs&N&+g try to store enough food to live through the &N&+Wwinter&N&+g, but the rest
+&+gof the animals must try to find another source of food.  One may travel east or
+&+gnorth on the field.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3525
+D1
+~
+~
+0 0 3521
+S
+#3525
+&+gOn the Wild and Natural Field of Endolin&N~
+&+g   The plain stretches far and wide.  The grasses here are very healthy
+&+glooking, although the grass crunches slightly when one walks over it.  It seems
+&+gthat this part of the world has been without water for a few weeks.  There are
+&+gmany signs of animals here on the plain as one can see many game trails.  The
+&+gsign of&N&+y buffalo&N&+g is even more evident as there are some very large piles of
+&+ybuffalo chips&N&+g.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3533
+D1
+~
+~
+0 0 3522
+D2
+~
+~
+0 0 3524
+D3
+~
+~
+0 0 3532
+E
+chips chip poop shit~
+&N   It's brown and smelly.  It's buffalo dung.&N
+~
+S
+#3526
+&+gThe Wide Expanses of Prairie Lands&N~
+&+g   The vast expanses of the Field of Endolin are almost unmatched in both
+&+gsize and natural beauty.  There is a great deal tiny trails here, leading off
+&+ginto the distance.  The grasses here have grown at varying lengths, some up to
+&+gwaist length, others at only ankle deep.  The animals that are indiginous to
+&+gthis region do the majority of the grass eating.  Buffalo are the primary
+&+gherbivores here, often exceeding to numbers of thousands.  One may travel in
+&+gany direction from this point.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3535
+D1
+~
+~
+0 0 3517
+D2
+~
+~
+0 0 3515
+D3
+~
+~
+0 0 3534
+S
+#3527
+&+gOn the Field of Endolin&N~
+&+g   The Field of Endolin is a place of legend, a place of mystery and a place
+&+gof wonderment.  There has been speculation that this prairie had some kind of
+&+gmystical power or dangerous secret.  Many travelers have come to this prairie
+&+gin search of a dangerous secret or a glorious &N&+Ytreasure&N&+g hoard.  The adventurers
+&+galways left the fertile plains frustrated and bored out of their minds.  There
+&+gis little to do on such a great expanse of grass and&N&+y prairie dogs&N&+g.  Other that
+&+ghave come here are amazed by the natural beauty and purity of the place.  One
+&+gmay travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3528
+D1
+~
+~
+0 0 3529
+D2
+~
+~
+0 0 3520
+D3
+~
+~
+0 0 3512
+S
+#3528
+&+gSurrounded by Miles Of Open Prairie&N~
+&+g   There are many miles of open prairie in every direction from this point.
+&+gThe high soaring &N&+yeagles &N&+gwould view this place as a huge field of unchanging
+&+ggrasses stretching from horizon to horizon.  To the creatures that travel upon
+&+gthis wide plain, the ground changes and is not nearly as uniform as it appears
+&+gfrom above.  The field is an entirely different ecosystem than the surrounding
+&+gareas.  The large&N&+L Black Dog Mountains&N&+g provide a great deal of protection from
+&+gthe harsh north-eastern winds that would lower the temperature of this place
+&+gseveral degrees.  Many creatures call this place their home.  One may travel in
+&+gany direction from this point.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3539
+D1
+~
+~
+0 0 3538
+D2
+~
+~
+0 0 3527
+D3
+~
+~
+0 0 3516
+S
+#3529
+&+gAmongst the Wide Expanses of the Field of Endolin&N~
+&+g   The wide expanses of the Field of Endolin can be very overwhelming to any
+&+gcreature, the sheer distance between the borders can hardly be fathomed.  There
+&+gare many small holes in the ground from the &N&+yprairie dogs&N&+g who make their home
+&+gunder the ground.  The air is filled with the smells of wet grass and damp
+&+gsoil, a sweet and musty combination.  In countless eons this plain has been
+&+gin existance, it has changed very little.  The sky opens wide above the Field
+&+gof Endolin.  One may travel in any direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3538
+D1
+~
+~
+0 0 3537
+D2
+~
+~
+0 0 3530
+D3
+~
+~
+0 0 3527
+S
+#3530
+&+gOn the Edge of the Field of Endolin&N~
+&+g   The grasses of the prairie here have somehow been&N&+L burnt&N&+g severly, even
+&+gshowing the &N&+Lsoil &N&+gbeneath.  Its difficult to determine if the &N&+rfire &N&+gwas set by
+&+gsomeone or if it was a naturally occuring phenomenon, perhaps from a &N&+Wlightning &N
+&+gstrike.  The&N&+L burnt &N&+ggrass crumbles and as it is stepped on, making quite a dirty
+&+gmess on ones boots.  The entire area has been marred and will be for a great
+&+gdeal of time.  One can gaze over many miles of lush green prairie in the
+&+gdistance, yet looking down one can see the exact opposite of lush green grass,
+&N&+Lburnt &N&+gprairie.  One may travel north or west.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3529
+D3
+~
+~
+0 0 3520
+S
+#3531
+&+gOn The Grasses of the Vast Prairie&N~
+&+g   There are many small trails leading to the east, seeming to randomly start
+&+gand end.  There seems to be a great deal of animals grazing here, more than
+&+glikely because of the close proximity to the watering hole.  The Field of
+&+gEndolin is a vast prairie, reaching far and wide.  The dark mass of the&N&+L Black
+&N&+LDog Mountains &N&+gcan be seen to the northeast, an ominous reminder of the danger
+&+gof this place.  The rumors that surround those mountains are more than a little
+&+gscary.  One may travel in any direction on the grassy plain.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3540
+D1
+~
+~
+0 0 3539
+D2
+~
+~
+0 0 3516
+D3
+~
+~
+0 0 3517
+S
+#3532
+&+gThe Edge of the Vast Open Prairie&N~
+&+g   The Field of Endolin effectively ends here as it meets with some of the
+&+glower hills of the large mountain ranges to the north and west.  The grasses
+&+ggrow significantly higher here, often undisturbed for a long while.  The grassy
+&+gplain is very peaceful almost all times of the year.  Some years, when the
+&+ghunting is bad in other regions, some wandering tribes will hunt the&N&+y buffalo
+&N&+ghere instead of trying to find the diminishing herds in their regions.  One
+&+gmay travel to the east, towars the main body of the Field of Endolin.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 3525
+S
+#3533
+&+gThe Natural Prairie&N~
+&+g   The power of nature is evident here on the pristine grasses of the Field
+&+gof Endolin.  This large prairie is well known in both myth and present times
+&+gfor its abundance of animals.  The large and grassy plain has been untouched by
+&+gany civilizations in fear of the wrath of nature.  Not once in this prairies
+&+gexistance has a building or tent of any kind been erected on its natural
+&+gsurface.  The grasses are long and healthy looking.  It is rumored that on a
+&+gclear night one can become one with nature if they lie on the ground of the
+&+gField of Endolin.  One may travel south or east.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 3523
+D2
+~
+~
+0 0 3525
+S
+#3534
+&+gOn The Grasses of the Prairie&N~
+&+g   This vast and grassy plain is filled with animals.  There are many &N&+ybuffalo
+&+gand &N&+yprairie dogs&N&+g visible in the surrounding fields.  The grasses here grow to
+&+gnearly waist high but since there is so much animal activity the grasses lie
+&+gmostly on the ground.  The grasses have naturally woven together making walking
+&+gthrough these grasses difficult.  All around is the green of the grass making
+&+gthis place feel very in tune to nature.  There are a few &N&+yprairie dog&N&+g holes dug
+&+ginto the ground near this point.  One may travel south or east.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 3526
+D2
+~
+~
+0 0 3523
+S
+#3535
+&+gThe Edge of the Field of Endolin&N~
+&+g   The vast prairie is filled with signs of life.  This grassy plain is a
+&+ggreat animal haven with few natural predators to hunt the defenseless animals.
+&+gThe grasses here are very green and healthy looking.  The sky opens wide above
+&+gthe prairie here.  This is where the sun rises from the ground.  The grassy
+&+gplains are natural and beautiful.  One may travel south or east.&N
+~
+1 33554432 2
+D1
+~
+~
+0 0 3536
+D2
+~
+~
+0 0 3526
+S
+#3536
+&+gOn the Natural Grasses of the Field of Endolin&N~
+&+g   The tall prairie grasses grow everywhere on this fertile field.  The climate
+&+gin this region is perfect for growing such a tough and resilient grass.  The
+&+ggrasses have grown here since before the dawn of all the civilizations of the
+&+gentire realm of Basternae.  There are many small creatures living in and on
+&+gthe prairie. &N &+YPrairie dogs &N&+gand&N&+y buffalo &N&+glive in conjunction, both adding some
+&+gsmall part to the total ecosystem.  The wide open spaces of the Field of
+&+gEndolin is a magnificient place for all creatures to enjoy.  One may travel in
+&+gany direction.&N
+~
+1 33554432 2
+D0
+~
+~
+0 0 3541
+D1
+~
+~
+0 0 3540
+D2
+~
+~
+0 0 3517
+D3
+~
+~
+0 0 3535
+S
+#3537
+&+gNear the Foothills of the &N&+LBlack Dog Mountains&N~
+&+g   The wide expanses of the Field of Endolin taper to a point here when they
+&+gmeet up with the foothills of the &N&+LBlack Dog Mountains&N&+g.  The &N&+Wwinters&N&+g on the
+&+gwide prairie are only manageable by most of the animals if they make their way
+&+gup into the foothills where they can hide from the cutting winds that sweep
+&+gacross the the green fields.  Many prospectors have come to the &N&+LBlack Dog
+&N&+LMountains&N&+g looking for deposits of &N&+csilver&N&+g or &N&+Ygold&N&+g but none have ever been found.
+&+gThe harshness of the mountains is daunting as one gazes up at their snow-capped
+&+gpeaks.  The mountains have never been passed due to the fact that there is no
+&+gtraverseable path evident across the entire range.  One may travel west to
+&+gre-enter the Field of Endolin.&N
+~
+1 33554432 2
+D3
+~
+~
+0 0 3529
+S
+#3538
+&N&+gNear the &N&+LBlack Dog Mountains&N~
+&N&+g   The long &N&+Lshadow &N&+gof the&N&+L Black Dog Mountains&N&+g hangs over this part of the
+&+gField of Endolin like a huge monster looming over its prey.  The grasses here
+&+gare still quite green, but one can observe some darker grasses growing on the
+&+gsides of the mountain.  The mountains seem to be quite out of place in this
+&+gpart of the world.  Miles and miles of prairie stretch out as far as one can
+&+gsee except to the north and east.  It is almost as if the mountains appeared
+&+gout of nowhere just because they could.  One may travel south or west from
+&+gthis point.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 3529
+D3
+~
+~
+0 0 3528
+S
+#3539
+&+gThe Site of a &+BWatering Hole&N~
+&+g   The grassy plains are very flat but a naturally formed depression has
+&+gformed this clear pool of&N&+B water&N&+g.  The pool is only a few feet deep but overy
+&+gtwenty feet wide.  All of the various animals that live on the Field of Endolin
+&+gmust frequent this place as it is the main source of &N&+Bwater&N&+g on the prairie.  The
+&+gtrails all seem to lead here and travel in many random directions.  The pools
+&+gsurface is calm and undisturbed.  The &N&+LBlack Dog Mountains&N&+g loom in the distance
+&+gto the north and east.  One may travel to the west or south.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 3528
+D3
+~
+~
+0 0 3531
+S
+#3540
+&N&+gNear the &N&+LBlack Dog Mountains&N&+g, The Edge of The Field of Endolin&N~
+&+g   The grasses of the Field of Endolin begin to become more hilly here at
+&+gthe foothills of the&N&+L Black Dog Mountains&N&+g.  The grasses here are still green
+&+gand healthy, an indicator of the natural state of the entire prairie.  The
+&+gplain spreads out far and wide to the southwest, covering a large portion of
+&+gthe area.  The mountains to the north and east are tall and ominous.  There
+&+gare many spirals of smoke twisting up into the sky.  It is uncertain whether
+&+gthe &N&+Lsmoke&N&+g is from a&N&+L vol&N&+rca&N&+Lnic mountain&N &+gor a &N&+rcampfire&N&+g.  One may travel west or
+&+gsouth.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 3531
+D3
+~
+~
+0 0 3536
+S
+#3541
+&+gThe Far Northern Region of the Field of Endolin&N~
+&+g   This farthest northern part of the plain is the most isolated.  Few
+&+gcivilized creatures have ever set foot on the robust grasses that grow here.
+&+gThe animals that live here don't give this place much thought, as to them it
+&+gis just some more grass to run upon.  However, to the druids of the realms,
+&+gthis is a powerful place.  There is a lot of magical energy here for druids
+&+gto tap into.  There are many small holes dug by the prairie dogs.  There are
+&+glittle mounds of dirt near each hole.  There are many more miles of prairie to
+&+gthe north and west, but it would be wise to stay in the region of the Fields
+&+gof Endolin which is located to the south.&N
+~
+1 33554432 2
+D2
+~
+~
+0 0 3536
+S
+#3542
+&+bUnderwater in the Clean Pool&N~
+&+b   The cool waters could knock the breath out of the strongest creature.
+&+bThe muddy banks of the pool are slick and covered with a thick layer of slime.
+&+bThe nature of the water causes any light that enters the pool to twirl and
+&+bshimmer like some kind of ethereal pulse of energy.  The water is rather clear
+&+band clean, unlike many of the rivers near the larger cities of the realms.  A
+&+bpool this large without any fish or other aquatic life is odd, but that's the
+&+btruth of this place.  One may travel to the north or up from this point.&N
+~
+1 32 9
+D0
+&+b   This way an underwater passage begins in the stone bank of the pool.  It
+&+bleads off into the darkness, a tunnel of cold water.&N
+~
+~
+0 0 3543
+D4
+&+b   The &N&+Ysunlight&N&+b glimmers on the refractive surface of the pool.  The beams of
+&+blight feel warm in the cool water.&N
+~
+~
+0 0 3539
+S
+#3543
+&+bIn an Underwater Passage&N~
+~
+1 32 9
+D2
+~
+~
+0 0 3542
+S
+#0
+
+#BASTMOBS
+#3501
+buffalo~
+&+ya large buffalo&N~
+A large and very shaggy &N&+ybuffalo&N grazes on the prairie.
+~
+&N   This buffalo has lived its entire life in relative safety grazing on the
+lush grasses of the prairie.  Its thick and shaggy coat of hair keeps it both
+warm in the winter and insulates against the heat during the summer.  It has
+a set of long horns that come to a very sharp point.  Its eyes show how stupid
+of an animal this is.&N
+~
+72 0 0 0 0 0 S
+A 0 0
+30 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3502
+prairie dog~
+&+ya prairie dog&N~
+&+yA &N&+Ygolden&N &N&+yprairie dog sits here looking at your queerly.&N
+~
+&N   This furry prairie dog lives in the ground.  His race of creatures is known
+for the destruction they cause to a field such as the one they are in.  Their
+holes can hurt many of the larger creatures who share the ground with this
+pesky varmint.  It is a larger than a rat but smaller than a badger.  His beady
+little eyes show more intelligence than they really have.  They are incredibly
+fast for their size.&N
+~
+72 0 0 0 0 0 S
+A 0 0
+5 0 0 1d1+1 1d1+1
+0.0.0.0 0
+6 8 2
+#3503
+vulture filthy~
+&N&+La filthy &N&+rvulture&N~
+A &N&+Lfilthy&N&+r vulture&N flies above you.&N
+~
+&N   This vulture is ugly and &N&+Lblack&N.  It has a long and crooked beak that is
+uses to pick the flesh off any dead creatures it can find.  Her feathers are
+very sickly looking.  You can see her bloated underbelly as she flies over you.&N
+~
+133256 0 0 0 0 -300 S
+B 0 0
+9 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#3504
+sparrow bird~
+&+ya sparrow&N~
+&+WA&N&+y sparrow&N&+W hops about the ground here.&N
+~
+&N   This male sparrow hops about the ground looking very happy.  Its brown
+feathers are very clean and well groomed.  Its small yet hard beak is currently
+holding a tasty looking seed.&N
+~
+133256 0 0 0 0 0 S
+B 0 0
+4 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3505
+field mouse~
+a field mouse~
+A field &N&+Wmouse&N scurries through the grass here.&N
+~
+&N   This field mouse is small and dark.  Its little eyes shine with what appears
+to be intelligence.  Its white whiskers are used for navigating through the
+very irregular paths in the tall prairie grass.&N
+~
+2184 0 0 0 0 0 S
+A 0 0
+2 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3506
+female buffalo~
+a female &N&+ybuffalo&N~
+A large and hairy female &N&+ybuffalo&N grazes here.&N
+~
+&N   This female is very large but not quite as large as its male counterpart.
+She is covered with a very thick coat of hair.  Although she is smaller than
+the male, she makes up for that in intelligence.  She looks very content here
+grazing on the lush grasses of the prairie.&N
+~
+8 0 0 0 0 0 S
+A 0 0
+25 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#3507
+young buffalo~
+a young&N&+y buffalo&N~
+A young &N&+ybuffalo&N runs gaily through the prairie.&N
+~
+&N   This young buffalo is roughly half the size of its parents.  It has a short
+yet thick coat of hair.  Although it is just a young bison, it is still very
+strong.  Its sharp hooves carry its three hundred pound frame over the tall
+grasses of the prairie.&N
+~
+8 0 0 0 0 0 S
+A 0 0
+20 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3508
+rabbit~
+a small &N&+Wrabbit&N~
+A small &N&+Wrabbit&N bounds over the prairie here.&N
+~
+&+W   This small hare has soft brown fur to help it blend into its surroundings
+&+Wa little bit.  Its large and floppy ears hang very low to the ground.  Its eyes
+&+Ware black and shiny making it look as intelligent as it really is.  The hares
+&+Wvery large feet help it bound over the prairie.  Its large hind legs are very
+&+Wpowerful and strong.&N
+~
+8 0 0 0 0 0 S
+A 0 0
+5 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#3509
+wolf black~
+&+La black wolf&N~
+A starving looking &N&+Lblack wolf&N prowls the prairie here.&N
+~
+&+L   This black wolf is the only hunter on this prairie.  Its shaggy coat of
+&+Lfur is dirty and very sick looking.  It hangs its head low as it hasn't eaten
+&+Lin many days.  It appears to be too old to run down any prey.&N
+~
+1073743880 0 0 0 0 0 S
+A 0 0
+14 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#3510
+horse wild~
+&+Wa wild horse&N~
+&NA &N&+Wwild horse&N stands here ready to go for a run.&N
+~
+&N   This&N&+W wild horse &Nstands very tall and proud.  It has never been brushed
+or bridaled by anyone, living its life free and happy.  This wild horse has
+run over the miles of open prairie for days at a time, only stopping to drink
+or eat some &N&+ggrass.&N
+~
+134219784 0 0 0 0 0 S
+AE 0 0
+24 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#3511
+half-elf half elf explorer adventurer~
+&N&+Ba &N&+Chalf-elf&N &+Bexplorer~
+A &N&+Chalf-elf&N&+B explorer&N surveys the &N&+gField of Endolin&N, looking for something.&N
+~
+&N   This tall &N&+Chalf-elf&N has traveled a great distance in his life.  He looks
+like nothing more than a &+Lshadow&N as he runs across the vast expanses of the
+&+gplains&N, his clothes so closely resembling his surroundings.  He is a pure
+survivalist than can live off the land as easily as any wild animal.  His eyes
+are a beautiful shade of&N&+g light green&N, glimmering in the setting &N&+Ysun&N.  His body
+is covered with a thick layer of rippling muscle, a product of his tireless
+travels.  He has explored areas no other man or woman has seen.  He is a ranger
+in the purest sense of the word.&N
+~
+1082685512 285286552 0 0 0 500 S
+P2 0 2
+60 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#3512
+golden eagle~
+&+ya &N&+Ygolden&N&+y eagle&N~
+&NA large &N&+Ygolden&N&+y eagle&N flies a few feet above the ground.&N
+~
+&N&+y   This large predator flies through the air looking for a fresh kill.  Its
+&+ywingspan is nothing short of remarkable as it glides through the air.  The
+&+ycreatures feathers are a deep&+y brown&N&+y, looking like&N&+Y gold&N&+y when the sun hits it
+&+yright.  Its talons are sharp and deadly, often used to pick up small animals,
+&+ythey are also quite effective in fighting any creature that would attack it.&N
+~
+10248 134217728 0 0 0 -300 S
+B 0 0
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#0
+#BASTOBJECTS
+#3501
+hole water~
+&+Ba small pond&N~
+&+BThe watering hole is filled with cool water.&N~
+~
+17 40 3 0 1 0 0 0 0 1 0
+1000 -1 0 0 0 0 0 0
+99999 0 100
+E
+hole water~
+&+B   The water looks cool and refreshing.  Many animals have taken a dip in this
+&+Bpool to cool off.&N
+~
+#3502
+pool~
+&+Bthe pool&N~
+&+BA pool of fresh water.&N~
+~
+25 40 3 0 10 0 2 0 0 1 0
+3542 6 0 0 0 0 0 0
+-1 0 100
+E
+pool~
+&N   &+BThe water looks cool and refreshing.&N
+~
+#3503
+buffalo-hide buffalo hide bp backpack~
+&+ya buffalo&N&+W-&N&+Lhide&N&+y backpack&N~
+&+yA pile of buffalo hide has been left here upon the ground.&N~
+~
+15 12 3 0 10 0 16448 4194305 0 1 0
+300 1 0 300 0 0 0 0
+4 0 100
+E
+buffalo-hide buffalo hide bp backpack~
+&N   This backpack is made from tough&+y buffalo hide&N.  The shoulder straps are
+made of very smooth and soft strips of baby &+ybuffalo hide&N.  This backpack can
+hold a great deal of weight.&N
+~
+A
+14 5
+#0
+
+#BASTSHOPS
+#0~
+S
+#BASTRESETS
+#1
+&+gThe Field of Endolin&N~
+3543 2 0 30 35 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+*
+O 0 3501 1 3539 100 0 0 0          * a small pond
+O 0 3502 1 3539 100 0 0 0          * the pool
+*
+M 0 3507 13 3501 100 0 0 0         * a young buffalo
+M 0 3507 13 3501 100 0 0 0         * a young buffalo
+M 0 3508 17 3501 100 0 0 0         * a small rabbit
+M 0 3510 9 3501 100 0 0 0          * a wild horse
+M 0 3501 13 3502 100 0 0 0         * a large buffalo
+M 0 3502 14 3503 100 0 0 0         * a prairie dog
+M 0 3507 13 3503 100 0 0 0         * a young buffalo
+M 0 3508 17 3503 100 0 0 0         * a small rabbit
+M 0 3501 13 3504 100 0 0 0         * a large buffalo
+M 0 3508 17 3504 100 0 0 0         * a small rabbit
+M 0 3505 11 3505 100 0 0 0         * a field mouse
+M 0 3506 12 3505 100 0 0 0         * a female buffalo
+M 0 3508 17 3505 100 0 0 0         * a small rabbit
+M 0 3510 9 3505 100 0 0 0          * a wild horse
+M 0 3510 9 3505 100 0 0 0          * a wild horse
+M 0 3501 13 3506 100 0 0 0         * a large buffalo
+M 0 3504 9 3506 100 0 0 0          * a sparrow
+M 0 3503 6 3507 100 0 0 0          * a filthy vulture
+M 0 3507 13 3507 100 0 0 0         * a young buffalo
+M 0 3505 11 3508 100 0 0 0         * a field mouse
+M 0 3502 14 3509 100 0 0 0         * a prairie dog
+M 0 3503 6 3509 100 0 0 0          * a filthy vulture
+M 0 3507 13 3509 100 0 0 0         * a young buffalo
+M 0 3512 1 3509 100 0 0 0          * a golden eagle
+M 0 3502 14 3510 100 0 0 0         * a prairie dog
+M 0 3507 13 3510 100 0 0 0         * a young buffalo
+M 0 3510 9 3510 100 0 0 0          * a wild horse
+M 0 3505 11 3511 100 0 0 0         * a field mouse
+M 0 3505 11 3511 100 0 0 0         * a field mouse
+M 0 3508 17 3511 100 0 0 0         * a small rabbit
+M 0 3509 3 3511 100 0 0 0          * a black wolf
+M 0 3503 6 3512 100 0 0 0          * a filthy vulture
+M 0 3508 17 3512 100 0 0 0         * a small rabbit
+M 0 3501 13 3513 100 0 0 0         * a large buffalo
+M 0 3510 9 3513 100 0 0 0          * a wild horse
+M 0 3501 13 3514 100 0 0 0         * a large buffalo
+M 0 3501 13 3514 100 0 0 0         * a large buffalo
+M 0 3504 9 3514 100 0 0 0          * a sparrow
+M 0 3506 12 3514 100 0 0 0         * a female buffalo
+M 0 3502 14 3515 100 0 0 0         * a prairie dog
+M 0 3508 17 3515 100 0 0 0         * a small rabbit
+M 0 3502 14 3516 100 0 0 0         * a prairie dog
+M 0 3507 13 3516 100 0 0 0         * a young buffalo
+M 0 3502 14 3517 100 0 0 0         * a prairie dog
+M 0 3503 6 3517 100 0 0 0          * a filthy vulture
+M 0 3507 13 3517 100 0 0 0         * a young buffalo
+M 0 3510 9 3518 100 0 0 0          * a wild horse
+M 0 3501 13 3519 100 0 0 0         * a large buffalo
+M 0 3508 17 3519 100 0 0 0         * a small rabbit
+M 0 3502 14 3520 100 0 0 0         * a prairie dog
+M 0 3502 14 3520 100 0 0 0         * a prairie dog
+M 0 3506 12 3520 100 0 0 0         * a female buffalo
+M 0 3507 13 3520 100 0 0 0         * a young buffalo
+M 0 3501 13 3521 100 0 0 0         * a large buffalo
+M 0 3507 13 3521 100 0 0 0         * a young buffalo
+M 0 3505 11 3522 100 0 0 0         * a field mouse
+M 0 3508 17 3522 100 0 0 0         * a small rabbit
+M 0 3508 17 3522 100 0 0 0         * a small rabbit
+M 0 3508 17 3522 100 0 0 0         * a small rabbit
+M 0 3503 6 3523 100 0 0 0          * a filthy vulture
+M 0 3506 12 3523 100 0 0 0         * a female buffalo
+M 0 3506 12 3523 100 0 0 0         * a female buffalo
+M 0 3504 9 3524 100 0 0 0          * a sparrow
+M 0 3511 1 3524 100 0 0 0          * a half-elf explorer
+E 1 3503 1 27 100 0 0 0            *   a buffalo-hide backpack
+M 0 3504 9 3525 100 0 0 0          * a sparrow
+M 0 3506 12 3525 100 0 0 0         * a female buffalo
+M 0 3507 13 3525 100 0 0 0         * a young buffalo
+M 0 3505 11 3526 100 0 0 0         * a field mouse
+M 0 3508 17 3526 100 0 0 0         * a small rabbit
+M 0 3510 9 3526 100 0 0 0          * a wild horse
+M 0 3501 13 3527 100 0 0 0         * a large buffalo
+M 0 3502 14 3527 100 0 0 0         * a prairie dog
+M 0 3504 9 3528 100 0 0 0          * a sparrow
+M 0 3506 12 3528 100 0 0 0         * a female buffalo
+M 0 3504 9 3529 100 0 0 0          * a sparrow
+M 0 3506 12 3529 100 0 0 0         * a female buffalo
+M 0 3505 11 3530 100 0 0 0         * a field mouse
+M 0 3505 11 3530 100 0 0 0         * a field mouse
+M 0 3508 17 3530 100 0 0 0         * a small rabbit
+M 0 3505 11 3531 100 0 0 0         * a field mouse
+M 0 3505 11 3531 100 0 0 0         * a field mouse
+M 0 3509 3 3531 100 0 0 0          * a black wolf
+M 0 3505 11 3532 100 0 0 0         * a field mouse
+M 0 3506 12 3532 100 0 0 0         * a female buffalo
+M 0 3507 13 3532 100 0 0 0         * a young buffalo
+M 0 3508 17 3532 100 0 0 0         * a small rabbit
+M 0 3504 9 3533 100 0 0 0          * a sparrow
+M 0 3501 13 3534 100 0 0 0         * a large buffalo
+M 0 3502 14 3534 100 0 0 0         * a prairie dog
+M 0 3506 12 3534 100 0 0 0         * a female buffalo
+M 0 3507 13 3534 100 0 0 0         * a young buffalo
+M 0 3503 6 3535 100 0 0 0          * a filthy vulture
+M 0 3504 9 3535 100 0 0 0          * a sparrow
+M 0 3506 12 3535 100 0 0 0         * a female buffalo
+M 0 3508 17 3535 100 0 0 0         * a small rabbit
+M 0 3509 3 3535 100 0 0 0          * a black wolf
+M 0 3501 13 3536 100 0 0 0         * a large buffalo
+M 0 3508 17 3536 100 0 0 0         * a small rabbit
+M 0 3510 9 3536 100 0 0 0          * a wild horse
+M 0 3501 13 3537 100 0 0 0         * a large buffalo
+M 0 3502 14 3537 100 0 0 0         * a prairie dog
+M 0 3508 17 3537 100 0 0 0         * a small rabbit
+M 0 3510 9 3537 100 0 0 0          * a wild horse
+M 0 3502 14 3538 100 0 0 0         * a prairie dog
+M 0 3501 13 3539 100 0 0 0         * a large buffalo
+M 0 3502 14 3540 100 0 0 0         * a prairie dog
+M 0 3504 9 3540 100 0 0 0          * a sparrow
+M 0 3506 12 3540 100 0 0 0         * a female buffalo
+M 0 3502 14 3541 100 0 0 0         * a prairie dog
+*
+S
+#QUESTS
+#3511
+M
+black dog mountain mountains~
+&N   "Yeah, they are over to the north-east but they are totally impassible.  I
+don't really know what to tell you.  They are tall and there is no way around
+them."&N
+~
+M
+field endolin~
+&N   "Isn't this the biggest most boring piece of land you have ever seen?  I
+can't figure out what in the hell God put this place onto the planet for.
+There is absolutely nothing here but some smelly buffalo and a few other dumb
+creatures."&N
+~
+M
+something~
+&N   "I don't really know what I'm looking for.  There is so much speculation
+about a piece of land this big.  It must have something in it worth-while.
+Well, I'm about to go back to my hometown and break the news to them...There
+is absolutely nothing here.  What an insane waste of space."&N
+~
+S
+#0
+#$
+
+

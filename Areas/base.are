@@ -1,0 +1,56 @@
+#AREADATA
+Name        &+LLimbo&n~
+Author      Veygoth~
+Levels      0 0
+Security    1
+VNUMs       1 1000
+Builders    Veygoth~
+Recall      3001
+Reset       You hear the patter of little feet.~
+End
+
+#BASTMOBS
+
+
+
+
+#0
+#BASTOBJECTS
+
+
+
+
+#0
+
+#BASTROOMS
+
+
+
+
+#0
+
+#BASTRESETS
+#2
+Basic Objects~
+200 2 0 40 50 0
+*
+* Zone edited with dikuEdit v3.00c
+*
+*
+*
+*
+*
+S
+
+#SPECIALS
+O 280 spec_wp_lightning
+O 281 spec_wp_harm
+O 282 spec_wp_burn
+O 283 spec_wp_chill
+O 284 spec_wp_fireball
+S
+
+#QUESTS
+#0
+#$
+

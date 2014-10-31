@@ -67,8 +67,8 @@ BOOL CWinDEApp::ProcessMessageFilter(int code, LPMSG lpMsg)
 {
 	if(m_haccel)
 	{
-		if (::TranslateAccelerator(m_pMainWnd->m_hWnd, m_haccel, lpMsg)) 
-			return(TRUE);
+//		if (::TranslateAccelerator(m_pMainWnd->m_hWnd, m_haccel, lpMsg)) 
+	//		return(TRUE);
 	}
 	
     return CWinApp::ProcessMessageFilter(code, lpMsg);

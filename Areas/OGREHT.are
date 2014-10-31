@@ -1,0 +1,5200 @@
+#AREADATA
+Name        Kragthor~
+Author      Dubar~
+Levels      1 50
+Security    1
+VNUMs       2200 2329
+Builders    Dubar~
+Recall      3001
+Reset       You hear some strange noises.~
+End
+#BASTROOMS
+#2200
+The Beginning of a Rocky Mountain Path&N~
+&N   The mountains in this region are very rough and unforgiving to the many
+unprepared travelers who wander this way.  The harsh realities of the mountain
+regions has made this section of the world uninhabitable for almost every race
+imaginable.  There is a large &+Chuman&N settlement located somewhere up in the
+mountains here.  There is a &+ywooden sign&N that has been knocked down into the
+&+Ldirt&N.  There is a narrow and rocky path that leads to the north.&N
+~
+1 33554432 5
+D0
+~
+~
+0 0 2201
+D2
+~
+~
+0 0 1007
+S
+#2201
+A Turn on a Narrow Mountain Path&N~
+&N   The narrow mountain path turns here in another direction.  The &+Lstone walls&N
+naturally provided by the mountains prevent much of the &+Cchill winds&N from biting
+into ones skin, but the temperature alone could &+Cfr&N&+cee&N&+Cze&N someone to death.  The
+&+Lrocks &Nand &+Lstone&N of the mountains is grey in color, much like the atmosphere of
+this remote place.  The path has been recently cleared of any rockfalls that
+are quite frequent in these mountains.  There is no sign of life, however, as
+all the &+yanimals&N seem to be hiding.  It seems queer that no one from the village
+has come out to greet the incoming travelers.  The guards could obviously see
+anyone coming from their high vantage point.  It does not matter though for
+there are many miles still before one could reach the city gates.  One may go
+south out of this place, or east, further into the mountains and towards the
+mountain village.&N
+~
+1 33554432 5
+D1
+~
+~
+0 0 2202
+D2
+~
+~
+0 0 2200
+S
+#2202
+A Turn on the Rocky Mountain Pass&N~
+&N   The narrow mountain path continues to twist and turn through the treacherous
+mountains.  The rocky faces of the moutain sides has many sharp and jagged
+edges, entirely preventing any climbing by unwanted visitors.  The large path
+is obviously a main road to a community of civilized creatures.  The cold rock
+does not hint at what kind of creatures live up in the mountains, but it is
+safe to say they have intelligence.  One can see some large towers on the many
+assorted mountain plateaus, obviously &N&+Lwatch&N&+W-&N&+Ltowers&N.  One may travel west or
+north on this mountain trail.&N
+~
+1 33554432 5
+D0
+~
+~
+0 0 2203
+D3
+~
+~
+0 0 2201
+S
+#2203
+On a Rocky Path Through the Mountains~
+&N   This narrow path continues to wind and twist through the rocky mountain
+side.  The trail has kept climbing up and up the side of the mountain.  Often
+the path has been so steep that one would have to backtrack to find a climbable
+section.  Little grows at this high altitude besides some knotty old &+gtrees&N and
+&+Lth&N&+gor&N&+Lny&N&+g bushes&N.  There are many large boulders on the nearby mountain side,
+often taller than a&+C human&N being.  There are large deposits of slippery gravel
+and rocky&+L soil&N near the trail, often times spilling onto the path.  One may
+travel west or south.&N
+~
+1 33554432 5
+D2
+~
+~
+0 0 2202
+D3
+~
+~
+0 0 2204
+S
+#2204
+On a Narrow Mountain Path&N~
+&N   This narrow path continues over the rocky rubble of the mountainside.  The
+path is little more than a narrow game trail winding amongst the boulders and
+rocks.  There are some small diseased &+gbushes&N growing in the rocky soil, giving
+a little bit of color to the drab surrounding areas.  The air is crisp and
+cold, refreshing to those of the surface.  The wind is deadly this high up in
+the mountains, cutting through clothes easily and without much regard to the
+safety of the travelers.  There is evidence of a recent landslide just off the
+path.  One may travel north or east.&N
+~
+1 33554432 5
+D0
+~
+~
+0 0 2205
+D1
+~
+~
+0 0 2203
+S
+#2205
+At the Bottom of a Steep Incline&N~
+&N   The path turns and climbs up the sharp face of a rocky hill here.  There
+are many large boulders and rocks strewn about the rocky terrain.  The amount
+of boulders here seems overly silly, as there is no possible way that this many
+boulders could have naturally landed here.  The ground is about half&+L soil&N and
+half crushed rock making the earth very hard to grow &+gplants&N in.  The harsh
+conditions both protect and isolate the region from outside attacks.  It is
+apprant that the path is well used but poorly maintained.  One may travel
+south or up.&N
+~
+1 33554432 5
+D2
+~
+~
+0 0 2204
+D4
+~
+~
+0 0 2206
+S
+#2206
+A Narrow Mountain Path&N~
+&N   This narrow mountain path winds back and forth to make traveling up the
+steep incline easier.  There are many large boulders and rocks strewn about the
+face of the ridge.  There are just a handful of small &+gshrubs&N growing amongst
+the &N&+Lr&N&+Wu&N&+Lb&N&+Wb&N&+Ll&N&+We&N, sticking out in a sharp contrast.  The mountains are traversable
+here but they are impassible higher up.  This one of the highest elevated areas
+that is inhabitated in the entire world.  If one turns to the south and looks
+out across the surrounding areas, a great deal of land is visible.  Great &N&+ggreen&N
+fields of &+ggrass&N and hills covered with large &N&+gtrees&N are nearby and the&N&+C o&N&+cc&N&+Ce&N&+ca&N&+Cn&N
+is on the horizon.  One may travel up or down.&N
+~
+1 33554432 5
+D4
+~
+~
+0 0 2207
+D5
+~
+~
+0 0 2205
+F
+25
+S
+#2207
+Before the Gates of the City of &N&+BKr&N&+Lagth&N&+Bor&N~
+&N   The large iron gates of the city prevent any unwanted access to this remote
+&+Bogre&N village.  The village was once inhabited by the &+Chumans&N who built it.  They
+called it&+C Th&N&+Wor&N&+Lnt&N&+Who&N&+Lr&N but the&N&+B ogres&N have renamed it&N&+B Kr&N&+Lagth&N&+Bor&N, for the brutal&N&+B ogre&N
+who led the successful raid.  The &N&+Ls&N&+Wt&N&+Lo&N&N&+Wn&N&+Le &Nwalls of the city are on two sides of
+the path, one on the left and one on the right.  The huge iron gates have been
+reinforced by the &+Bogre&N&+L ironsmiths&N because the old gates were badly damaged from
+the brutal fight that ensued when the city fell.  There are small rooms to the
+west and east where the guards take breaks or play cards.  The great tactical
+advantage that this place gives is a clear view of the entire lowlands and of
+course the higher ground.  The &+Bogres&N have firmly entrenched themselves in this
+mountain village.&N
+~
+1 33554432 1
+D0
+&N   The large iron gates have been reinforced to increase strength.&N
+~
+gates iron~
+1 0 2210
+D1
+~
+~
+0 0 2209
+D3
+~
+~
+0 0 2208
+D5
+~
+~
+0 0 2206
+F
+33
+S
+#2208
+The Side Room of the Guards Station&N~
+&N   This small side room is often used to store weapons for the guards of the
+village.  One could often see a pile of boulders right next to a rack full of
+daggers or other weapons for use by skilled weaponmasters.  The&+B ogre&N guards are
+either very stupid and strong or very skilled and smaller than the rest of his
+peers.  There is a place for every male &+Bogre&N in the villages army.  The&+B ogres
+&Nare a savage and viscious race that would not stop fighting until they were
+victorious.  The fight for the city they renamed &+BKr&N&+Lagth&N&+Bor&N was a brutal raid.
+The guards of the city tried in vain to prevent the rading party from gaining
+the inside of the village by preventing them from accessing the gate.  The
+&+Chuman&N guards could not match the strength of the huge warriors.  Many &+Chumans
+&Nwere killed in this small side room.  One may travel east.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2207
+S
+#2209
+The Guards Sleeping Quarters&N~
+&N   The &+Chuman&N guards that once guarded the city gates used this place to rest
+and sleep between shifts.  The &+Bogres&N of&N&+B Kr&N&+Lagth&N&+Bor&N, however, use the small room
+to brutalize any travelers dull enough to try to gain access to the city when
+they aren't wanted.  The room is small for an &+Bogre&N even after they removed all
+the furniture.  There are pieces of mutton and other such meats discarded upon
+the ground.  There is a small&+y wooden table&N located near the center of the room.
+The gates of the city are located to the west.&N
+~
+1 33554432 1
+D3
+~
+~
+0 0 2207
+S
+#2210
+Just Inside the &N&+LCity Gates&N and on the&N&+L M&N&+Rai&N&+Ln S&N&+Rtree&N&+Lt&N of &N&+BKr&N&+Lagth&N&+Bor&N~
+&N   This mountain village was once populated by hundreds of peaceful and very
+enlightened&N&+C humans&N.  They lived here in peace, trading with neighboring towns
+and villages.  There were many schools of higher learning, places rich people
+sent their children.  The village became quite wealthy and the standard of
+living was rather high.  Then one day an&+B ogre &Nraiding party blasted down the
+gates of the village and went about destroying the town and enslaving or eating
+the &+Chuman &Npopulance.  The village gates are located to the south.  There is a
+large watch tower located to the east, a great place to spot passing merchants.
+They are made of &+Liron &Nand have been reinforced several times.  The main path
+of the village of &N&+BKr&N&+Lagth&N&+Bor&N travels to the north and south.  On may travel east
+to the watch tower.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2211
+D1
+~
+~
+0 0 2324
+D2
+~
+gates iron~
+1 0 2207
+S
+#2211
+The Wide Roadway Named &+LGatto&N Road&N~
+&N   &+LGatto&N road was originally called, &N&+gThe Road of Evergreen&N.  The&+B ogres &Nwho
+took part in destroying the mountain village boasted that this road was the
+easiest place to kill&+C humans&N, so easy that any gatto could do it.  In the&N&+B ogre &N
+tongue, gatto means moron.  The translation of the name of this road is "moron
+road".  The road itself was once paved with &N&+Lco&N&+Wbb&N&+Lle&N&+Wst&N&+Lon&N&+Wes&N but after the &+Bogres
+sacked the city, most of the stones were removed in an effort to acquire
+enough building materials to build the larger dwellings for the &+Bogres&N.  There
+are large houses left over from before the &+Bogres &Ncame here.  One may travel
+north and south on&+L Gatto &Nroad, or west into a&+C human&N house.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2212
+D2
+~
+~
+0 0 2210
+D3
+~
+door~
+1 0 2219
+S
+#2212
+In Front of a Home on &N&+LGatto&N Road&N~
+&N   The sacking of this city was quick and brutal.  The &N&+Chumans &Nthat once were
+the inhabitants of this mountain village have been either&N&+r sl&N&+Lau&N&+rgh&N&+Lte&N&+rre&N&+Ld&N or forced
+into slavery.  The road,&N&+L Gatto&N Road, is the main thoroughfare through the city,
+a wide and well traveled street.  There are many large&+y wooden&N building built
+here, left over from the time the&+C humans&N lived here, but there are also some
+newer buildings made of stone by the &+Bogres&N.  The &+Bogres &Nmake almost all of their
+most important buildings out of &+Lstone&N, the reason is unknown but it has been
+speculated by outsiders that they do it to feel more at home in "civilized"
+surroundings such as villages or cities far away from their mountain caves
+where they once lived.  One may enter a&+y wooden &Nhouse by traveling east or south
+and north on &+LGatto &NRoad.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2213
+D1
+~
+door~
+1 0 2223
+D2
+~
+~
+0 0 2211
+S
+#2213
+A Four Way Intersection at the Town Proper&N~
+&N   This large square was once used by the&+C humans&N for their daily market needs.
+Food and other goods were sold here by merchants who usually came from out of
+town.  They would come here and stay for the week and go home on the weekend.
+The square is rather large and was once well maintained by the citys workers,
+but now its just a place for the&+B ogre &Nwomen to come and gossip.  The stone
+fountain here was once cleaned daily but has no fell into disarray.  &+LGatto&N
+Road intersects&N&+L P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N here, making it one of the most important
+intersections in the village.  One may travel north or south on &+LGatto &NRoad or
+east and west on &N&+LP&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2214
+D1
+~
+~
+0 0 2227
+D2
+~
+~
+0 0 2212
+D3
+~
+~
+0 0 2226
+S
+#2214
+&NOn the Wide Path That is the &N&+LGatto &NRoad&N~
+&N   The wide road continues to travel to the north and south.  The &+LGatto&N Road
+was a very important road for the&+C humans&N because of all the trading they did,
+but it is little more than just another road to the &N&+Bogres&N.  The&N&+B ogres&N have no
+real trade with outside communities, unless of course you count relieving the
+poor merchants who come too near to the village of their&N&+L h&N&+reads&N and coin purses.
+The &N&+Bogres &Ntake everything by force, which fits very well to their nature.
+There are large&+y wooden&N buildings located on both sides of the road.  The
+majority of the residences are located on this road or just off it.  One may
+travel north or south on&N&+L Gatto &NRoad or west into a weapons shop.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2215
+D2
+~
+~
+0 0 2213
+D3
+&N   There is a weapon shop located in this direction.&N
+~
+~
+0 0 2236
+S
+#2215
+&NOn the Main Path of &N&+BKr&N&+Laght&N&+Bor&N, &N&+LGatto&N Road&N~
+&N  &+L Gatto&N Road continues in its general northerly direction passing the inn
+of&N&+B Kr&N&+Lagth&N&+Bor &Nhere.  The inn looms high over the street, one of the higher
+buildings this side of the world.  The two story building was once a grand and
+expensive place to the &+Chumans &Nthat once lived here.  Now, however, its just a
+place for&+B ogres &Nand their guests to sleep or visit the prostitutes.  The &+ggrass&N
+outside the inn has been killed by the &+Lbodily wastes &Nthey have dumped out of
+the upper story windows.  There is a great deal of other &+Ltrash &Nand &+Lru&N&+Wbbi&N&+Lsh&N on
+the ground here, adding to the dumpy look.  The road continues to the north
+and south.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2216
+D1
+&N   The inn is located to this direction.&N
+~
+door~
+1 0 2237
+D2
+~
+~
+0 0 2214
+S
+#2216
+On the Central Path of &N&+BKr&N&+Lagth&N&+Bor&N&+L&N,&N&+L Gatto&N Road&N~
+&N   When the&+B ogres&N poured through the gates of the city that fateful night,
+the frightened&+C humans&N stampeded north on this main road.  Several dozen people
+were killed just in the general confusion, trampled under the bare feet of the
+still sleepy citizens.  The&+B ogres&N quickly followed cutting great swath through
+the &+Chumans&N.  The sound of crunching &+Wbones &Nand&+W skulls &Nwas loud and carried on
+through the night.  The night of horror these &+Chumans &Nfelt will never be known
+anywhere else in the world because no one escaped.  &+LGatto&N Road continues to the
+north here.  It is not as damaged as it is further south due to the fact that
+less fighting went on here.  This was primarily the area between the two areas
+of fighting.  The&+C human &Nguards fought to hold the gate to the south and the
+final fight happened in the north with the &+Chumans&N trying to fend off the
+oncoming army of&+r blood&N&+W-&N&+rthirsty&N&+B ogres&N.  One may travel north or south.&N
+~
+1 33554432 1
+D0
+&+L   Gatto &NRoad continues in this direction.&N
+~
+~
+0 0 2217
+D2
+~
+~
+0 0 2215
+S
+#2217
+&NThe Intersection of &N&+LGatto&N and &N&+LDark &N&+gThorn&N&+L Roads&N~
+&N   This wide intersection is where the main road of &N&+BKr&N&+Lagth&N&+Bor&N, the &+LGatto&N Road,
+intersects with the &N&+LDark &N&+gThorn &N&+LRoad&N.  They meet here roughly the center of
+the mountain village.  This used to be where the&+C humans&N held their "yearly
+execution" of criminals.  There was once a large &+ygallow system&N here that could
+hang up to ten criminals at once.  The entire square was more of a warning
+than an actual device for getting rid of criminals.  The entire time the &+Chumans&N
+lived here, not one person was executed.  There were two thieves who got a hand
+cut off but that was the extent of the punishment given out.  The &+Bogres&N killed
+a great deal of &+Chumans &Non these two roads, and they took great pleasure while
+doing it.  The road travel in different directions.  One may travel east or
+west on the&N&+L Dark&N&+g Thorn&N&+L Road &Nor north and south on&+L Gatto&N Road&N.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2218
+D1
+~
+~
+0 0 2245
+D2
+~
+~
+0 0 2216
+D3
+~
+~
+0 0 2249
+E
+gallow gallows wooden~
+&+y   This wooden structure was once used as a deterrent to crime.  It is made
+&+yof wooden beams crossed over eachother to hold the weight of the hanged.&N
+~
+S
+#2218
+&NOn Northern &N&+LGatto&N &NRoad&N~
+&N   The main road of the mountain village continues through the town here.  On
+this main roadway, many&+B ogres&N conduct their day to day activities, such as
+purchasing food for their families, acquiring household goods and slaves and
+meeting with other &N&+Bogres&N for some labor.  The labor usually comprises of the
+common search and destroy method used to rob merchants of their lives and of
+their purses. &N&+L Gatto&N Road travels right in front of a merchants store which is
+located to the west.  The building looks like it was once used by a poor&N&+C human
+&Nfamily and has not been renovated too much ever since.  There are some plate
+glass windows on this side of the building and one can see many different kinds
+of goods being sold by the shopkeeper.  One may travel north or south on this
+road or west into the shop.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2252
+D2
+~
+~
+0 0 2217
+D3
+~
+~
+0 0 2326
+S
+#2219
+Inside One of the Many Sacked Homes of &N&+BKr&N&+Lagth&N&+Bor&N~
+&N   This house was one of the first to be attacked and destroyed by the&+B ogre&N
+raiding party.  The house was once inhabited by a well to do family that was
+well respected by the people of the city.  The house originally held many
+small, valuable items, mainly religious in nature.  The floor is made from
+heavy&+y oaken boards&N, but from a small &+Gforest &Nlocated somewhere out of the rocky
+surfaces of the mountains.  The place now smells terrible, the smell of death.
+One may travel inside the house or exit by going east.&N
+~
+1 33554440 1
+D0
+~
+~
+0 0 2222
+D1
+~
+door~
+1 0 2211
+D2
+~
+~
+0 0 2220
+D3
+~
+~
+0 0 2221
+S
+#2220
+&NThe Bedroom of the &N&+CHuman&N Family That Lived Here Before the &N&+BOgre&N Raid&N~
+&N   This large bedroom was once the main sleeping area for the villagers who
+once lived in this house.  The &+Bogres&N now occassionally stumble into this room
+to grab a quick nap.  There is a large, plush bed located in the center of the
+southern wall.  There are many large and wicked looking cuts in the &+ywood &Nof the
+walls, left from the sharp axes of the raiding &+Bogre &Nwarriors.  This bedroom
+was the sight of a brutal&+r mas&N&+Lsa&N&+rcre&N as the entire family of this house was
+gathered together during their prayer time.  The stench of death hangs over the
+room quite ominously.  One may travel north.&N
+~
+1 33554440 1
+D0
+~
+~
+0 0 2219
+E
+bed~
+&N   This large bed is often slept on.  For the previous&+C human&N owners it was
+much too big, for the &+Bogres&N who now often sleep in it, it is much too small.&N
+~
+S
+#2221
+&NThe Kitchen of the Sacked Home&N~
+&N   This kitchen was once used by the villagers who lived in this house to
+prepare meals and feasts.  There are several large,&+y oaken tables&N that were
+once used for rolling dough and cutting meats.  There are some large, metal
+hooks that pots and pants used to be hung from on the wall.  The large &+Liron&N
+&+Lstove&N located here was used as both a cooking surface and the main heat source
+for the house.  The &+Bogre &Nraid ended the use of the stove for such pleasantries.
+The kitchen seems very empty and cold now.  The center of the house is located
+to the east.&N
+~
+1 33554440 1
+D1
+~
+~
+0 0 2219
+S
+#2222
+&NThe Living Room Once Used by a &+CHuman&N Family&N~
+&N   This was once the living room of the&+C human &Nfamily.  Many festive and grand
+celebrations took place here.  The family probably took the time to clean and
+carefull prepare this place for guests and holidays.  The &+Bogre &Nraid ended all
+celebrating here.  The &+Chumans&N were quickly slaughtered or herded together.  The
+living room is now where some&+B ogres&N occassionally play cards or drink together
+into a drunken stupor.  The room smells of death and scotch, a not too pleasant
+combination.  There was once a &+ylarge couch&N here, but the &+Bogres&N have used it as
+&+rfire&N&+y wood&N long ago.  One may travel south in the house.&N
+~
+1 33554440 1
+D2
+~
+~
+0 0 2219
+S
+#2223
+Inside a Modest Home Now Taken Over by &+BOgres&N~
+&N   This house was once a grand display of the power of the middle class.  It
+was located on the main thoroughfare of the mountain village and great
+attention was given to the outside beauty of the building.  There was once a
+&+ygreat table&N here where the family feasted and drank&+L coffee &Nwith friends.  The
+table has long been burnt in the large&+r bonfires&N that the &+Bogres &Nlike so much.
+There are many&+W thigh&N and &+Wrib bones&N from&+y deer&N lying on the &+ywooden floor&N, more
+often than naught crawling with &+Wmaggots&N.  There are some large&+L holes&N in the
+&+ywalls&N, kicked in by the savage &+Bogre&N raiding parties.  One may travel upstairs
+by going up or into another part of the house by going east. &+L Gatto&N road is
+located to the west.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2225
+D3
+~
+door~
+1 0 2212
+D4
+&N   There is an upstairs room in that direction.&N
+~
+~
+0 0 2224
+S
+#2224
+&NUpstairs in a Former &N&+CHuman&N Home&N~
+&N   Perhaps once&+C human&N children played games and wrestled in this upstairs
+room.  After the complete &+Bogre&N victory all such games have ended here.  The
+&+Chumans&N that lived here were killed for fun, some of their&+W bones &Nstill lying
+here on the floor.  The room is now totally abandonned and a thick layer of
+dust has settled on the floor and whatever&+y furniture&N remains.  The light is
+filtering through the one broken window, casting a very strange looking &+Lshadow
+&Non the floor.  There is a &+ywooden stairway &Nthat has been built up against the
+wall which leads down to the lower level of the house.  One may travel down.&N
+~
+1 33554432 1
+D5
+~
+~
+0 0 2223
+S
+#2225
+&NThe Back Room Used by an &N&+BOgre&N Family&N~
+&N   This back room was more than likely the family room of the&+C human&N family.
+They would often meet here in the evening to talk and to praise the glory of
+God.  The &N&+Bogres &Nwho sacked this mountain village killed the occupants of this
+home and have taken it over.  The &N&+Bogre &Nfamily that lives here now is rather
+careless, often smashing&N&+y furniture &Nin their clumsiness.  The &+Bogres &Nnow live in
+relative happiness, not even knowing the pain and suffering that the original
+&N&+Chuman&N family fealt as they were eliminated one by one.  One may travel west in
+the home.&N
+~
+1 33554432 1
+D3
+~
+~
+0 0 2223
+S
+#2226
+&+LP&N&+rr&N&+Li&N&+rm&N&+La&N&+rl &N&+LA&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+&+L   This side street is often where the male&N &+Bogre &N&+Lchildren meet to wrestle or
+&+Lpractice their fighting skills.  The &N&+Bogre&N&+L girls often come to watch the funny
+&+Lspectacle, taking pleasure in the boys inability to be co-ordinated.  There
+&+Lare many muddy tufts of&N&+g grass &N&+Lon the street that were either torn up from the
+&+Lfighting or in a sod fight.  It is uncertain what the&N&+C humans &N&+Lused this street
+&+Lfor, more than likely to trade goods or exchange ideas.  The &N&+Bogre&N&+L community
+&+Ldoesn't waste their time with such nonsense.  The way of the &N&+Bogres &N&+Lis to kill
+&+Land destroy, which makes this community even stranger.  They have killed all
+&+Lthose who once lived here but they have also rebuilt the village and made it
+&+Ltheir own.  They show an odd sense of reverance for something that is theirs,
+&+Lbut at the same time, great irreverance for the property of others.  One may
+&+Ltravel east or west on P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl &N&+LA&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N&+L.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2213
+D3
+~
+~
+0 0 2231
+S
+#2227
+&+LOn &+LP&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N &+LA&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+&+L   P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N&+L is not an overly important road for the &N&+Bogre &N&+Lvillage.  A few
+&+Lhouses are located here but the majority of the population lives elsewhere.  A
+&+Lfair amount of attention is given to the eastern part of the avenue because of
+&+Lthe fact that the bank is located in this part of the village.  The avenue is
+&+Llarge enough for two full grown &N&+Bogres&N&+L to walk side by side without any major
+&+Lproblems save the occassional low awning.  Many&N &+ywooden &N&+Lbuildings are visible in
+&+Lthe nearby area, their sides and back-yards visible from this point.  One may
+&+Ltravel west or east from this point.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2228
+D3
+~
+~
+0 0 2213
+S
+#2228
+&+LBetween Some Buildings on &+LP&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+&+L   The road continues here traveling between the many homes and buildings of
+&+Lthe mountain village.  The street is littered with many&N&+Y sun&N-&N&+Wbleachd bones&N &+Land
+&+Lstrips of&N&+r flesh&N&+L, left behind by a well-fed &+Bogre&N&+L.  The buildings here block out
+&+Lthe wind and, for a majority of the day, the sun.  There are homes on either
+&+Lside of the street, once inhabited by&N&+C humans&N&+L, now inhabited by&N &+Bogres&N&+L and their
+&+Lfamilies.  The house to the north appears to have been involved in a large fire
+&+Lor something to that effect.  There is some small piles of &N&+ywood&N&+L piled up on the
+&+Llawn, more than likely from some &N&+Bogre&N&+L children who were playing.  This place
+&+Lsmells of a badly rotting corpse and the amount of flies here is staggering.
+&+LOne may travel east and west on the road or north into the house.&N
+~
+1 33554432 1
+D0
+&+L   A burnt out house is located here.&N
+~
+door~
+1 0 2321
+D1
+~
+~
+0 0 2229
+D3
+~
+~
+0 0 2227
+S
+#2229
+&+LIn Front of the Bank on P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+&+L   The large street ends here at the corner of the mountain village.  There
+&+Lare a few small rocks and pebbles in the road, the final remnants of the large
+&+Land well made cobblestone street that the &N&+Chumans&N&+L proudly made.  There is a
+&+Llarge and important looking &N&+ywooden &N&+Lbuilding to the south, one of the few
+&+Lstructures not destroyed for fun by the lead&N&+B ogre&N&+L war parties. There is a large
+&+Lporch and a well maintained yard, quite odd for an &N&+Bogre&N&+L community.  The road
+&+Lends here at a &N&+ywooden wall&N&+L erected to keep the wild animals away from the
+&N&+Lhuman&N&+L children, now used to keep the&N&+C human&N&+L slaves in.  There is a tangled mess
+&+Lof &N&+ythorny&N&+g bushes&N&+L to the north.  One may travel south into the bank or west on
+&N&+LP&N&+rr&N&+Li&N&+rm&N&+La&N&+rl &N&+LA&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N&+L.&N
+~
+1 33554432 1
+D2
+~
+~
+0 0 2230
+D3
+~
+~
+0 0 2228
+S
+#2230
+&+LThe P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rv&N&+Lu&N&+re&N&+L Bank&N~
+&+L   This bank is used by the&N&+B ogres &N&+Lto store any money they happen upon.  They
+&+Lare never sure why exactly they save their money, but usually its to treat
+&+Lthemselves with a nice new sword once in a while.  The bank is a converted
+&+Lchapel used by one of the different religious sects the&N&+C humans&N&+L had before the
+&N&+Bogre&N&+L raid.  There is a large&N&+y counter &N&+Lnear the back of the room where the many
+&N&+Ltransactions take place.  The &N&+ytable &N&+Lwas originally used in sacrifical offerings
+&+Lby the &N&+Chuman&N&+L cult.  There are no other tables or chairs in the entire building.
+&+LOne can see where the pews were onced nailed to the floor by the large holes
+&+Lthat are now there.  The pews were more than likely ripped out for use in the
+&+Lconstruction of the larger buildings that &N&+Bogres&N&+L made.  There is no door on the
+&+Lbank because that too was ripped off.  One may travel north.&N
+~
+1 301989896 1
+D0
+~
+~
+0 0 2229
+S
+#2231
+&+LIn Front of a House on P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+&+L   The wide avenue continues here through the mountain village.  &N&+BKr&N&+Lagth&N&+Bor&N
+&+Lwas once a very prosperous mountain town, trading with the surrounding towns
+&+Land villages.  One fateful night a savage party of raiding &N&+Bogres&N&+L quickly over-
+&+Ltook the guards of the village.  They brutally murdered or enslaved every
+&+Lsingle &N&+Chuman&N&+L in the entire village.  There are many signs of the raid still
+&+Lclearly visible on the surrounding buildings.  There are many former &N&+Chuman&N&+L
+&+Lhomes nearby that still bear the scars of &N&+rf&N&+Li&N&+rre&N&+L.  Many of the houses have been
+&+Lpummeled with rocks and large &N&+yclubs&N&+L so they lean at odd angles.  The most
+&+Levident sign of the &N&+Bogre&N&+L raid, however, is the many dead bodies that still
+&+Llitter the ground and floors of the buildings.  There is a house to the south
+&+Lof here that one can explore.  The road continues to the east and west.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2226
+D2
+~
+door~
+1 0 2234
+D3
+~
+~
+0 0 2232
+S
+#2232
+&N&+LIn &N&+BKr&N&+Lagth&N&+Bor&N&+L On &N&+LP&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+&+L   The town of &N&+BKr&N&+Lagth&N&+Bor&N&+L is a very strange place for outsiders.  In most modern
+&+Lsocieties the dead are either buried or burned in large &N&+ypyres&N&+L but here in this
+&+Lremote mountain village, the dead are left out in the street to be devoured by
+&+Lwhatever creature happens to come upon the&N&+W corpse&N&+L.  The &N&+Bogres&N&+L often burn their
+&+Ldead but they have left the slain&N&+C human &N&+Lbodies in the streets and in their
+&+Lhomes.  The town smells of rot and decay, an all too unpleasant smell.  The
+&+Lcold mountain air often rids the village of such smells, but on warm days it
+&+Lsmells terrible.  There are many homes in this part of the village.  The road
+&+Lis covered with small tufts of &N&+ggrass&N&+L and &N&+Gweeds&N&+L.  One may travel to the east or
+&+Lwest from this point.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2231
+D3
+~
+~
+0 0 2233
+S
+#2233
+&+LBetween Some Buildings on P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+&+L   P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl &N&+LA&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N&+L continues through the mountain village here.  There are many
+&N&+ywooden buildings&N&+L located on this road, most of which are inhabited.  &N&+gGrass&N&+L and
+&N&+Gweeds&N&+L have grown up on the once well maintained road, making this town look
+&+Lmuch like a ghost town.  The inhabitants of this village spend a great
+&+Lportion of their time either fighting amongst themselves or instigating fights
+&+Lwith surrounding communities.  Quite often merchants are slain as they pass
+&+Lin the shadows of these mountains.  On this particular section of town many
+&N&+Chumans&N&+L were slain.  A&N&+C human &N&+Wskull &N&+Llies here on the ground attracting both flies
+&N&+Land carnivorous birds.  One may travel either east or west.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2232
+D3
+~
+~
+0 0 2279
+S
+#2234
+Inside a Destoryed &N&+CHuman&N Home&N~
+&N   This was once a paupers home, the poor &+Chuman&N male who never had any real
+amount of money.  He built this home himself out of&+y logs&N he personally cut from
+a nearby &+gforest&N.  The &+Bogres&N who sacked this home crushed the man under a big
+&+Lrock&N.  They ate his skinny body in less than twenty minutes and quickly moved
+on to look for another kill.  The house has been absolutely demolished.  The
+&+ytables&N and&+y chairs&N that once were located here have been smashed and thrown
+about to the point where they just look like individual pieces of &+ywood&N.  This
+house is a deffinite &+rfire &Nhazard and will probably burn down before the&+y wood
+&Ngets used for any practical purpose.  There is an upstairs loft that is still
+stable enough to stand upon.  It can be reached by going up or go north back
+into the street.&N
+~
+1 33554440 1
+D0
+~
+door~
+1 0 2231
+D4
+~
+~
+0 0 2235
+S
+#2235
+&NUpstairs in a Destroyed &N&+CHuman&N Home&N~
+&N   The upstairs loft of this&+C human&N house was the final resting place of one
+of the neighbors of this house.  The man who lies dead here came in to see what
+all the commotion was about and was promptly smashed with a large&+y club&N.  The
+body flew right upstairs and has lied here ever since.  The loft was once used
+as a bedroom for the pauper who lived here.  The floor is warped and covered
+with &+Gmold&N.  There are some small pieces of&+y furniture &Nagainst the north wall
+but they have rotted excessively.  One may travel down into the house.&N
+~
+1 33554432 1
+D5
+~
+~
+0 0 2234
+E
+mold~
+&N   This&+G mold &Nhas grown here in the dark and dampness of this house.  The &+Gmold
+&Nis fuzzy and covers a large area.&N
+~
+S
+#2236
+The Weapons Shop of &+BUrrook'Gak&N~
+&N   This weapons shop is the only such shop in the entire village of &N&+BKr&N&+Lagth&N&+Bor&N.
+The blacksmith has been here since the&+B ogres&N first took this mountain village.
+The shop is in the same blacksmith building that the &+Chumans&N used.  The only
+difference is that this buildings roof has been&+L burnt &Noff.  The shop has many
+&+ywooden racks &Nused to store weapons that are either for sale or awaiting further
+alterations.  There is also a large grinding wheel that is used to further
+sharpen the blades of the weapons.  The large work&+y table &Nis covered with many
+&+Ci&N&+cr&N&+Co&N&+cn&N rods and solid blocks of&N&+C i&N&+cr&N&+Co&N&+cn&N, all of which are awaiting usage on a fine
+weapon.  One may buy many things in this store.  &+LGatto&N Road is located to the
+east.&N
+~
+1 33554440 1
+D1
+~
+~
+0 0 2214
+E
+table~
+&N   This table is used in the creation of weapons. &N
+~
+E
+roof~
+&N   There is no roof, silly.&N
+~
+S
+#2237
+&NInside a Large Building Once Used as an Inn~
+&N   This large sitting room was used to attract visitors to the inn.  There
+were once many plush sitting &+ycouches&N used by the patrons of the inn as they
+waited for a room to open up.  There are still some broken &+Yla&N&+Wm&N&+Yps&N hanging from
+the ceiling, more than likely smashed in some raucous fun by the&+B ogres&N.  The
+&+ywooden floor &Nhas been allowed to become and stay&+L dirty&N over the many months
+since the &+Bogre&N raid.  There was once a &+ylarge desk&N used by the clerk to check
+in the guests &+yluggage&N or valuables.  The &+ycounter &Nhas been smashed down and
+kicked apart, now lying in pieces in the corner.  There were once two large
+plate-glass windows that overlooked the street outside, but they too have been
+smashed.  The large &+yoak door&N to the west is still amazingly upon its hinges.
+One may take the &+ywooden stairs&N up to the nest level of the inn.  One may travel
+east, north or south in the inn, or west to get outside.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2238
+D1
+~
+~
+0 0 2239
+D2
+~
+~
+0 0 2240
+D3
+~
+door~
+1 0 2215
+D4
+~
+~
+0 0 2241
+S
+#2238
+&NA Small Side Room Used to Feed the Troops&N~
+&N   This large room is used to feed the hungry guards and raiding parties that
+are put into use every day.  The large room was once used as a dining room by
+a rich business man to entertain his guests.  There are many large &+ywooden
+&+ytables&N and &+ychairs&N scattered about the floor, no real order to them.  There are
+some small &+ycarts&N with wheels on them, used by the&+B ogre&N serving wenches to
+bring the food into the room.  There are few scraps on the &+yfloor&N because of
+the many&+y r&N&+La&N&+yt&N&+Ls&N who hide beneath the feet of the &+Bogres &Nas they eat.  One may
+find a bite to eat here.  The exit of the room is south.&N
+~
+1 33554432 1
+D2
+~
+~
+0 0 2237
+S
+#2239
+&NThe Back Room of the Inns Lobby&N~
+&N   This back room was once a stage where the dancing girls performed.  &+BOgre&N
+women aren't exactly graceful dancers so that particular tradition died when
+the&+C humans&N did.  The small back room is now used to store large&+y barrels&N of
+&+Bwater&N, stored just in case of a drought.  The room itself has a high ceiling
+with some lanterns hanging from it which &+Willuminate &Nthe room.  There are some
+small&+y tables &Nand &+ychairs&N around the floor, once used by the &+Chumans&N, but are now
+too small to be used by the large &+Bogre&N adults.  The &+ytables &Nare often used by
+the &+Bogre&N children when they plan their mock raids on the &+gforest&N animals nearby.
+One may travel west in the large building that is the towns inn.&N
+~
+1 33554432 1
+D3
+~
+~
+0 0 2237
+S
+#2240
+&NA Room Full of &N&+yWooden Chairs &Nand&N&+y Tables&N~
+&N   This room was once used as a reading room by the guests of the inn.  It was
+a popular place to socialize and meet with business associates.  The&+y tables&N and
+&+ychairs&N are made of &+ywood &Nand are extremely comfortable.  The floor was once very
+shiny and clean.  The children who stayed here would have a great deal of fun
+sliding around the floor with their stocking feet.  The floor has lost its high
+gloss shine and is now very scuffed up and &+Ldirty&N.  The &N&+Ccha&N&+cndel&N&+Cier&N that once
+hung from the ceiling has been pulled down and smashed upon one of the larger
+&+ytables&N.  There is a large bay window in the southern wall which overlooks a
+large&+g green lawn&N.  One may travel north in the inn.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2237
+S
+#2241
+&NAbove the Spiraling Stairway of the Inn&N~
+&N   The top level of the inn has had less damage than the rest of the lower
+levels of the inn.  There is a large and rather clean room here, used by the
+&N&+Chumans &Nto hold large and grandly decorated dances.  The &N&+Bogres &Nonly dance on
+the graves of their enemies so this room is obviously not used very much.  The
+&N&+ywooden boards &Nthat make up the floor have warped somewhat, adding to the look
+of neglect.  There was once a large&N&+Y c&N&+Wh&N&+Ya&N&+Wn&N&+Yd&N&+We&N&+Yl&N&+Wi&N&+Ye&N&+Wr&N hanging from the ceiling, but
+that, much like the &+Chumans&N that once lived here, has been pulled down and
+stomped flat.  There are several rooms on the top floor of the inn, many of
+which are locked shut.  There are rooms to the north and south that remain
+unlocked that one may visit.  To the east is the inn itself, a place where one
+may obtain a key to a room.  There is a large and winding set of stairs leading
+downward to the lower level of the inn.  One may travel north, south, east or
+downward.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2242
+D1
+~
+door~
+1 0 2243
+D2
+~
+door~
+1 0 2244
+D5
+~
+~
+0 0 2237
+S
+#2242
+&NA Large Room Once Used To Entertain The Inns' Guests&N~
+&N   This large room was essentially a meeting room for important guests and
+their clients.  It was usually used as a place for merchants to meet important
+suppliers to try to secure their accounts.  The room is very comfortable and
+homey feeling.  There is a large&+L h&N&+We&N&+La&N&+Wr&N&+Lt&N&+Wh&N in the western wall that is almost
+constantly well stocked with&+y wood&N.  The heat given off is almost enough to heat
+the entire top level of the inn, but there is usually windows open to assure
+the utmost comfort.  The &+Bogres&N use this room in much the same manner except
+for the fact they are not doing any business.  The &+Bogre&N women usually meet here
+to gossip about other women, a trait common to almost every race in Basternae.
+There is a small coffee&+y table&N that is covered with salted meat for the women
+to snack on.  One may travel south in the inn.&N
+~
+1 33554432 1
+D2
+~
+~
+0 0 2241
+S
+#2243
+The Inn of the City of &N&+BKr&N&+Lagth&N&+Bor&N~
+&N   The inn of &N&+BKr&N&+Lagth&N&+Bor&N is a rowdy and disorderly place.  The place closely
+resembles a boisterous pub or a raucous tavern.  Many&+y tables &Nand&+y chairs&N are
+thrown about the room during the &+rsa&N&+Lva&N&+rge&N fights that occur here nightly.  The
+innkeeper rents out rooms here for almost nothing.  This inn is often a place
+to garner to information about future raiding parties or quests for adventure.
+The innkeeper can be found here, handing out keys to any who wishes to spend
+the night here.  The entire room reaks of&+Y urine&N and congealed &+rblood&N.  Huge
+&+Lblack flies &Ncloud the air, looking for scraps of food to devour.  Many &+Bogres&N
+have died in this very spot.  On the other hand, hundreds of&+C humans&N were
+hearded into this room to be tortured and killed.  One may travel west.
+~
+1 34078720 1
+D3
+~
+door~
+1 0 2241
+S
+#2244
+&NIn a Side Room Used by the &N&+BOgre&N Call Girls&N~
+&N   This room once held the human call girls of the inn.  Those women were
+dragged out into the street and raped by the &N&+Bogre &Nteenagers that were involved
+with the successful raid.  Those women were later killed and have been long
+forgotten.  This room is now the home to another group of prostitutes, this
+group made up of&N&+B ogres&N.  The scent of&N&+M perfume&N is heavy in the air, almost to
+where it stings an individuals eyes.  There is a large rug on the floor that
+was taken from a passing merchant.  There are many large beds in the corner,
+obviously for use in the prostitutes trade.  One may travel north in the inn.
+~
+1 33554432 1
+D0
+~
+door~
+1 0 2241
+S
+#2245
+&+LNear a &N&+yWooden Fence &N&+Lon Dark &N&+gThorn &N&+LRoad&N~
+&+L   This side street travels into what was once a park used by the &N&+Chuman&N
+&+Lpopulance.  There were many small &N&+gtrees&N&+L and&N&+g shrubs &N&+Lplanted in ordered rows
+&+Lfor the enjoyment of the older citizens.  The &N&+Bogres&N&+L care little for such
+&+Laesthetic silliness and have let the well kept park turn into a &N&+Gweedy &N&+Land
+&+Ltangled mess of&N&+g bushes&N&+L.  The road as been renamed Dark&N&+g Thorn&N&+L Road by the
+&+Lchildren, for the dark&N&+g thorns&N&+L on the &N&+gbushes&N&+L often catch the youngers tunics
+&+Land hair.  The dark&N&+g thorns&N&+L grow to a length of nearly two inches from the
+&N&+ybranches&N&+L.  There is a&N&+y wooden fence &N&+Ltangled in the mess to the north, once the
+&+Lboundary the park.  The road travels east and west
+~
+1 33554432 1
+D0
+~
+fence~
+1 0 2253
+D1
+~
+~
+0 0 2246
+D3
+~
+~
+0 0 2217
+S
+#2246
+&+LIn Front of a House on &N&+LDark &N&+gThorn&N&+L Road&N~
+&+L   Tall &N&+ggrasses&N&+L grow here right in the street, a testament to the amount of
+&+Ldegeneration this place has experienced since the successful raid.  &N&+gTrees&N&+L and
+&N&+gbushes&N&+L grow to the north, hanging ominously over the street.  There used to be
+&+La &N&+ywooden bench&N&+L here under the shade of one of the &N&+gtrees&N&+L, but the &N&+Bogres &N&+Lhave
+&+Llong since ripped it off and used it in a &N&+rfire&N&+L.  There is a large&N&+y wooden &N&+Lhouse
+&+Llocated to the south, its lawn overgrown and full of &N&+gweeds&N&+L.  One may travel
+&+Lsouth into the house or east and west on the Dark &N&+gThorn&N&+L Road.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2248
+D2
+~
+door~
+1 0 2247
+D3
+~
+~
+0 0 2245
+S
+#2247
+A Small House&N~
+&N   This small house is unremarkable and was probably used by a common worker
+and his family.  The&+y wooden floor&N is full of smally cut marks which are filled
+with dirt and dust.  The scratches were probably made before the time of the
+&+Bogre&N raid because it appears that this house was not damaged badly, if at all,
+in the fighting.  All the furniture remains relatively intact as only time has
+damaged it.  This house remains empty for reasons unknown.  Perhaps it is just
+too small for an&+B ogre &Nfamily to use comfortably.  One may travel north out of
+this house.&N
+~
+1 33554440 1
+D0
+~
+door~
+1 0 2246
+S
+#2248
+&+LDark &N&+gThorn&N &+LRoad&N~
+&+L   Dark&N&+g Thorn&N&+L Road ends here as it is blocked by a thick copse of&N&+g bushes&N&+L.
+&+LThe thorny&N&+g bushes&N&+L prevent any further travel in any direction.  There was once
+&+La black marble fountain here surrounded by many &N&+ywooden benches&N&+L.  These things
+&+Lhave been smashed or taken out and used for other purposes.  It seems that this
+&+Lplace was once a park used by the &N&+Chumans&N&+L when they had musical festivals or
+&+Lother forms of entertainment.  Just beyond the thorny bushes the rock walls of
+&+Lthe mountain side start their ascention.  They look very high and forboding
+&+Land seem to keep the inhabitants of this mountain village in.  One may travel
+&+Lto the west to leave this part of the city.&N
+~
+1 33554432 1
+D3
+~
+~
+0 0 2246
+S
+#2249
+&+LOn Dark &N&+gThorn&N&+L Road&N~
+&+L   This street travels east and west through&N&+B Kr&N&+Lagth&N&+Bor&N&+L.  The road itself is
+&+Lnot well maintained by the &N&+Bogres &N&+Lof the village.  It was, however, maintained
+&+Lwith great pride by the humans when they were in control of the remote mountain
+&+Lcommunity.  There are many homes on this side street, often small and only one
+&+Lrooms.  The &N&+Glawns&N&+L were small and often not maintained because the inhabitants
+&+Ljust didn't care.  There are many &N&+gthorny bushes&N&+L growing in those same unkept
+&+L&N&+glawns&N&+L.  To the south there is a rundown old house.  It's hard to tell if anyone
+&+Llives in there from the look of it.  One may travel east or west on Dark &N&+gThorn&N
+&+LRoad.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2217
+D2
+~
+door~
+1 0 2280
+D3
+~
+~
+0 0 2250
+S
+#2250
+&N&+LAmongst the Many Houses of Dark &N&+gThorn&N&+L Road&N~
+&+L   Many small homes are located upon this street.  The street is made up of
+&+Lmostly dirt and fine sand with very few&N&+g weeds &N&+Lgrowing on it.  There are many
+&+Lsigns of a great fire on the&N&+y wooden&N&+L faces of the buildings, a solemn reminder
+&+Lof that brutal raid.  These things are those that bring the &N&+Bogre &N&+Lpeople great
+&+Lpride, yet remind the &N&+Chuman &N&+Lslaves of what happened to their town. &N&+B Kr&N&+Lagth&N&+Bor&N
+&+Lis a powerful center for the entire &N&+Bogre &N&+Lrace, a place to prosper and pray upon
+&+Lpassing merchants.  To the &N&+Chuman &N&+Lrace, this mountain village is a sad reminder
+&+Lof what happens when they are not prepared.  It is easy to see the gravity of
+&+Lthe situation on the faces of the slaves, they know that their death is on the
+&+Lway.  This road is one of the primary roads in the village, used for traveling
+&+Lbetween a majority of the homes.  One may travel east or west on Dark &N&+gThorn&N
+&+LRoad or south into a former &N&+Chuman &N&+Lhome.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2249
+D2
+~
+door~
+1 0 2281
+D3
+~
+~
+0 0 2251
+S
+#2251
+&N&+LOn the Side Street, Dark &N&+gThorn&N&+L Road&N~
+&+L   The wide street continues here through the mountain village of the&N&+B ogres&N&+L,
+&N&+BKr&N&+Lagth&N&+Bor&N&+L.  Many houses are located on this street, inhabited by&N&+B ogre&N&+L families
+&+Lor abandonned since the time the &N&+Chumans&N&+L lived here.  The road is entirely
+&+Lcovered with some thick&N&+g grass&N&+L, often hiding what lies beneath it.  There are
+&+Lsome trails that have stamped the &N&+ggrass&N&+L flat, used as the&N&+B ogre &N&+Lchildren play
+&+Land run after one another.  There are some out of control &N&+gbushes&N&+L growing on
+&+Lboth sides of the road on the &N&+ggreen lawns &N&+Lof the former&N&+C human&N&+L homes. To
+&+Lthe north is a large tent made from what appears to be &N&+ydeer hide&N&+L.  The tent is
+&+Llarge and appears to be well taken care of.  One may travel east or west on
+&+Lthe road, north into the tent, or south into a home.&N
+~
+1 33554432 1
+D0
+~
+flap hide~
+1 0 2328
+D1
+~
+~
+0 0 2250
+D2
+~
+door~
+1 0 2282
+D3
+~
+~
+0 0 2274
+S
+#2252
+A Turn on the Wide Street of &+LGatto&N~
+&N   &N&+LGatto Street &Nturns here as it weaves through the town.  The turn is due to
+a large rock formation to the north that forces the road to turn around it.
+The rock formation is covered with a great deal of crude phrases and other
+forms of &N&+Lgr&N&+Wap&N&+Lhiti&N.  The road is covered with some cobblestones that appear have
+not been well tended to, sticking out at odd angles.  There is a medium size
+&N&+ywooden house&N to the east that has been well taken care of.  The road continues
+to the south and east and one may enter the former&N&+C human&N house by traveling to
+the east.&N
+~
+1 33554432 1
+D1
+&N   A&N&+y wooden house&N is located in this direction.  There is a&N&+y wooden &Ndoor.&N
+~
+door wood wooden~
+1 0 2327
+D2
+~
+~
+0 0 2218
+D3
+~
+~
+0 0 2284
+E
+rock formation~
+&N                       -
+&N                -..   | |
+&N               |   |_/   }
+&N              |           |-   * '.
+&N             .  Eatt sh.t   L '    '.
+&N            |                '-    . ' ' .
+&N           |              "     |       . .
+&N            |   orks            :_         .
+&N           -       sok     "       "       '
+&N         |        -                |""|     '
+&N         |         '                   }     '
+&N        /     i hed Torggs              |   '
+&N       {        mam          '>          ] '
+&N        |          .                 '      |
+&N       |       .                    '        ""
+&N      |         .                  '          |&N
+~
+S
+#2253
+&+yBehind the Fence and On a Narrow &N&+LDirt Path&N~
+&N   This narrow dirt path is located within the heart of the overgrown park.
+The many thorned &+gtrees&N and &+gbushes&N reach into the once wide path, often causing
+wicked scratch marks and gouges.  The path may have been once paved with small
+cement blocks but it is no longer visibile amongst the&+L dirt&N and &+Lmud&N.  The path
+is little more than a game trail now heading off to the east through the
+tangled mess of &+ybranches&N.  There is a large &N&+ywooden fence &Nlocated to the south,
+once used to keep out the wild animals, now it keeps them in.  One may travel
+east or south.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2254
+D2
+~
+fence~
+1 0 2245
+S
+#2254
+&+yWalking Behind the Buildings on a &N&+LDirt Path&N~
+&N   This dirt path winds back and forth behind the&+y wooden &Nbuildings of the
+village.  There are many small&+g bushes&N and&+g trees &Nlocated to the north, not
+hampering travel too much.  This back path seems to be both a secret and a
+favorite hiding place for the young&+B ogre&N boys.  One can clearly see many small
+&+Wbones &Nleft over from hares the boys have clubbed to death.  Few of the older
+&+Bogres&N come back here because it is regarded as "geehash" or childsplay and a
+place adults wouldn't need bother with.  The path is slightly &+Lmuddy&N from a
+recent rain and the place smells oddly fresh.  One may travel east or west.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2255
+D3
+~
+~
+0 0 2253
+S
+#2255
+&NTraveling Away From &N&+BKr&N&+Lagth&N&+Bor&N~
+&N   This small&+L dirt path&N has led away from the &+Bogre&N hometown.  From this far
+away from &+BKr&N&+Lagth&N&+Bor&N one can see the destruction laid upon the city somewhat.
+There are many burnt and partially destroyed &+Lroof&N&+W-&N&+ytops&N visible just above the
+&+gtree&N line.  There are many sounds of &+Bogres&N yelling and shouting back and forth,
+obviously over something they both wanted.  There are many skinny tendrils of
+&+Lsmoke &Nrising up over the town into the cold moutain air.  They twist and weave
+like dancing &+Lsn&N&+Gakes&N in the sky, reaching out towards heaven.  To the east lies
+the narrow &+Ldirt path&N that heads further up into the mountains.  A small &+gforest&N
+is visible in that direction, some distance above this level.  One may travel
+east or west.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2256
+D3
+~
+~
+0 0 2254
+S
+#2256
+&NA Turn on the &+LDirt &NTrail&N~
+&N   This&+L dirt trail &Nis now littered with an increasing number of large rocks
+and boulders.  The large obstacles make it harder to travel swiftly or safely.
+The rocks have all tumbled down from the rocky mountain cliffs to the north and
+east.  The path has been rather straight to the west but it bends here and
+travels south.  Some sparse &+gvegetation &Ngrows here in the unfertile &+Lsoil&N.  The
+&+Lsoil&N here has far too much gravel and sand for most large &+gplants&N to grow.  The
+many smaller scrub &+gtrees &Nand &+gbushes&N can grow here if they are far enough apart.
+When the&+W snow&N falls this area is an eerie landscape, the &+Wsnow&N on rocks looking
+very alien and out of place.  One may travel west or south from this point.&N
+~
+1 33554432 1
+D2
+~
+~
+0 0 2257
+D3
+~
+~
+0 0 2255
+S
+#2257
+&N&NA Turn on the Small Stone Path&N~
+&N   The trail turns here through the various rocks and boulders that have come
+to rest on the mountainside.  There are many scraggly &+ggrasses &Ngrowing in the
+little &+Lsoil&N their &+Wroots &Ncan find.  There is a great deal of a&N&+r rud&N&+Ld&N&+ry&N colored
+soil covering the majority of the path, perhaps a ceremonial marker for the
+trail.  The &+Bogres&N rarely come out of the comfort of the village to this part
+of the mountain range because there is no real reason.  When the&+B ogres &Ndo leave
+the village its to raid or kill and that is to the south.  The surrounding
+areas in the mountains have not even been looked at by the&+B ogres&N who find no
+value in these areas.  The mountain range rises to the east, looming like the
+titans who once roamed the planet.  The trail continues to the east and west
+through the mountainside.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2256
+D1
+~
+~
+0 0 2258
+S
+#2258
+&NBelow a Steep Mountain Ridge&N~
+&N   This small &+Ldirt trail&N has gradually turned into a small rocky trail as it
+winds up the side of the mountain.  The&+C humans &Nrarely traveled back this way by
+all appearances, the path showing no signs of ware.  Small&+g plants&N and scrub
+&+ggrasses&N grow in the rocky &+Lsoil&N, somehow finding a way to live where nothing
+rightly should.  Many wild creatures live here behind &N&+BKr&N&+Lagth&N&+Bor&N, but they are
+no more violent or deadly as the&N &+Bogres &Nwho live within the mountain village.
+This trail is quite puzzling as it serves no obvious purpose as it winds about
+the mountainside.  One may travel west or upward from this point.&N
+~
+1 33554432 1
+D3
+~
+~
+0 0 2257
+D4
+~
+~
+0 0 2259
+S
+#2259
+&NOn a Small Mountain Ridge&N~
+&N   This small mountain ridge runs almost parallel to the sheer mountain face.
+There is a narrow trail that travels roughly on the very top of the ridge,
+staying almost perfectly north.  Few&+g plants&N grow at this altitude, but those
+which do are very hearty and can withstand the harsh conditions.  Small rocks
+litter the side of the ridge and the side of the mountain, both adding to the
+hazard of traveling here.  One can see much from this point, a great deal of
+the town is visible from this higher vantage point. A great deal of&N&+C m&N&+Wist&N covers
+this part of the mountain range in the early morning.  One may travel down the
+perilous slope or north on the ridge.  A narrow valley appears to open to the
+north between the two rock faces.&N
+~
+1 33554432 5
+D0
+~
+~
+0 0 2260
+D5
+~
+~
+0 0 2258
+E
+plant plants~
+&+g   These plants are green and unhealthy looking.  They might die any day.&N
+~
+S
+#2260
+In a Very Narrow Valley in the Mountains&N~
+&N   The path continues to wind through the rocky areas of the mountain side.
+There rock walls rise very high at this point completely surrounding this path.
+They rise high up on both sides completely preventing any travel that deviates
+from direction of the path.  The path is entirely made of stone at this point,
+no&N&+g plants&N grow here to allow&N&+L soil&N to buildup.  The wind is almost entirely dead
+in this rocky valley, prevented access to this path by the towering rocky
+walls.  This area smells rather stagnant and stale as there is no way for it
+to be aired out.  One may travel south or east from this point on the narrow
+rock path.&N
+~
+1 33554432 5
+D1
+~
+~
+0 0 2261
+D2
+~
+~
+0 0 2259
+S
+#2261
+A Narrow Path Through the Mountains&N~
+&N   The narrow rocky path continues here through the mountains.  A lush and
+&N&+ggreen forest&N is visible to the north, spreading out on a small outcropping on
+the mountainside.  There is some&N&+L dirt &Nand &N&+ggrass&N growing here, a nice break from
+the boring and disheartening rocky paths to the south and west.  Few travelers
+come up to this part of the mountain.  The &N&+Bogres&N tend to steer towards the many
+passing merchants in the foothills and the &N&+Chumans&N tended to keep to themselves.
+This part of the world is seldom seen by any race save the animals.  One may
+travel north or west on this rocky mountain trail.&N
+~
+1 33554436 5
+D0
+~
+~
+0 0 2262
+D3
+~
+~
+0 0 2260
+S
+#2262
+&+gThe Entrance to the Forest in the &N&+yMountains&N~
+&+g   The mountain forest begins here high in the mountains.  The trees are
+&+grather gnarly and wretched looking.  They seem to be malnourished and very
+&+gdehydrated.  The green leaves grow sparsely on the &N&+ybrown&N&+g branches, providing
+&+gjust enough to keep the tree alive.  Some scraggely grass grows in the soil
+&+gleft behing by the decomposed leaves.  There are some low lying bushes growing
+&+gamongst the roots of the larger trees.  There are many&N&+L r&N&+Wo&N&+Lc&N&+Wk&N&+Ls&N&+g sticking up out
+&+gof the &N&+Lsoil&N&+g, looking very much like uneven teeth sticking out of the earth.
+&+gOne may travel north into the forest or south onto the trail.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2263
+D2
+~
+~
+0 0 2261
+S
+#2263
+&+gFurther Into the &N&+yMountain&N&+g Forest&n~
+&+g   The trees of this &N&+ymountain&N&+g forest are very malnourished and emaciated
+&+gfrom the very infertile soil that has been deposited here on the rock face.
+&+gThe&N&+L soil&N &+gis the remnants of the decomposed leaves, animals and trees that have
+&+gfound this to be their final resting place.  The tress grow very randomly,
+&+gwherever there is soil.  There are many rocks protruding from the dry grasses
+&+gthat grow near the base of the trees.  The ground is covered with dry and
+&+gcrispy&N&+G pine needles&N. &+g One may travel north, east or south.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2265
+D1
+~
+~
+0 0 2264
+D2
+~
+~
+0 0 2262
+S
+#2264
+&+gInside the Forest&N~
+&+g   The odd forest continues to sprawl out on the narrow plateau in the wild
+&+gmountainside.  The mere fact that this forest exists is a little unnerving,
+&+gseeming very unnatural and out of place.  Perhaps this forest was created by
+&+gthe powerful magics of the shamans who came with the tribe, but that makes
+&+glittle sense.  The&N&+B ogre&N&+g people have no appreciation for beauty or nature.  The
+&+gshamans themselves manipulate nature to help them bring war upon the world.
+&+gThere is no reverance in their hearts.  Perhaps the&N&+C humans&N&+g had a powerful druid
+&+gwho created this forest, a place where he or she could come and meditate.
+&+gEither way, this forest is filled with many animals and trees, which grow in
+&+gthe rocky&N&+L soil&N&+g.  One may travel east, west or north from this point in the
+&+gforest.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2266
+D1
+~
+~
+0 0 2272
+D3
+~
+~
+0 0 2263
+S
+#2265
+&+gIn the Small &N&+yMountain&N&+g Forest&N~
+&+g   This small mountain forest is perched on a narrow outcropping of the
+&+gmountains.  The entire forest is probably no more than a few dozen yards wide,
+&+gbut it is very long and stretches around the side of the mountain.  There are
+&+gfew varieties of trees, but the ones that do grow seem to be healthy enough.
+&+gEither these trees were planted here by someone or a seed was dropped here by
+&+gpure chance by a bird or animal.  Little grass grows here to keep the &N&+Lsoil&N&+g from
+&+geroding, but the many small bushes and trees keep the &N&+Lsoil &N&+gin place in a manner
+&+gthat prevents the precious &N&+Ldirt&N&+g from washing away during the spring melt or
+&+gthe summer rains.  One may travel north, south or east in this forest.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2267
+D1
+~
+~
+0 0 2266
+D2
+~
+~
+0 0 2263
+S
+#2266
+&N&+gThe Forest in the Mountainside&N~
+&+g   The steep&N&+L rock&N&+g face of the mountain ends this mountain forest to the
+&+gnorth, but it stretches off in the other directions.  The forest is so thick
+&+gthat one cannot even see mountain village of the&N&+B ogres&N&+g.  Many animals have
+&+glived their entire lives in this small copse of trees, often never venturing
+&+gbeyond the green borders of the treeline.  The thick&N&+y bark&N&+g of the trees provides
+&+ga good deal of protection from both the animals and the environment.  The
+&N&+ybrown &N&+gcolor of the trees sticks out sharpy in contrast to the deep green color
+&N&+gof the leaves.  One may travel west, east or south from this point.&N
+~
+1 33554432 3
+D1
+~
+~
+0 0 2271
+D2
+~
+~
+0 0 2264
+D3
+~
+~
+0 0 2265
+S
+#2267
+&+gA Turn in the Forest&N~
+&+g   The rocky plateau that this forest is located on narrows considerably
+&+ghere as it follows along the natural curve of the mountain range.  The trees
+&+ggrow tall but thin here in the rocky &N&+Lsoil&N&+g.  There are many rocks sticking up
+&+gout of the &N&+Lsoil&N&+g, often even altering the natural growth of the trees.  Some
+&+gtrees, in fact, grow at wierd angles until they reach around the hard rocks.
+&+gSmall tufts of grass grow near the tree trunks and in the lower depressions
+&+gof the forest.  One may travel west or south in the mountain forest.&N
+~
+1 33554432 3
+D2
+~
+~
+0 0 2265
+D3
+~
+~
+0 0 2268
+S
+#2268
+&+gIn the Dense Forest in the Mountains&N~
+&+g   The mountain forest continues here on the rocky slopes of the mountain
+&+gside.  There are many rocks visible amongst the low lying bushes and exposed
+&+groots of the large trees that grow here.  The &N&+Lsoil&N&+g is very thin and filled with
+&+gmany sorts of rocks or gravel.  There are few signs of any animals, but they
+&+gcan easily be heard chirping in the thick tree limbs above.  To the south one
+&+gcan look over on the surrounding areas, and also the mountain village inhabited
+&+gby the&N&+B ogre&N&+g tribe.  The air is crisp and clean up here, a welcomed change from
+&+gthe dirty village.  One may travel north, west or east from this point in the
+&+gmountain forest.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2270
+D1
+~
+~
+0 0 2267
+D3
+~
+~
+0 0 2269
+S
+#2269
+&N&+gNear a Cliff in the &N&+yMountain&N&+g Forest&N~
+&+g   The forest thins out here at the edge of a great mountain cliff.  Over the
+&+Lrocky edge&N&+g one can see the entire layout of the mountain village of &N&+BKr&N&+Lagth&N&+Bor&N.
+&+gThe&N&+C human&N&+g village was once a peaceful and prosperous community, living and
+&+gtrading with its neighbors.  Many generations had grown up happy and secure.
+&+gThe &+Bogres &N&+gwho now inhabit the town have destroyed that peaceful serenity and
+&+gcreated their own community.  The&+B ogres&N &+ghave retained some sense of unity as
+&+gthe tribe they once were, yet many divisions have been formed amongst the
+&+gvarious small groups.
+&+g   The mountains that surround the village are cold and hard, much like the
+&+Bogres &N&+gthemselves.  The&N &+Wsnow capped peaks &N&+gto the north supply much of the known
+&+grealms water supply.  It is said that during the formation of the world the
+&+ggods that lived in the underdark pushed the mountains up in an effort to get
+&+gthemselves more space.  They loom now over the entire area, a testament to the
+&+gpower of nature.  One may travel east back into the&+g forest&N.&N
+~
+1 33554432 3
+D1
+~
+~
+0 0 2268
+S
+#2270
+&N&+gA Small Niche In the Mountainside&N~
+&+g   This small niche in the mountainside is slightly higher than the surrounding
+&+gforest, like a small shelf on the rocky southern face.  The trees that grow in
+&+gthis part of the forest are smaller because they have to grow in a smaller area
+&+gof&N&+L soil&N&+g.  The rocky &N&+Lsoil&N&+g appears to be very infertile, but the plants that do
+&+ggrow here look healthy enough.  There are many large rocks sticking up out of
+&+gthe &N&+Lsoil&N&+g, looking like the skulls of giant earth elementals.  The smells here
+&+gare deffinetly that of a typical forest, both sweet and musky.  One may travel
+&+gto the south in this mountain forest.&N
+~
+1 33554432 3
+D2
+~
+~
+0 0 2268
+S
+#2271
+&+gAlong the High Stone Wall of the Mountain&N~
+&+g   The forest thins out considerably here as it runs out of room to grow.
+&+gThe steep mountain wall to the east prevents any plants from gaining a good
+&+ghold and growing.  There are many small rocks and pebbles near the base of the
+&+gwall, which fell down in the harsh&N&+W winter&N&+g storms or in the rain.  Small bushes
+&+ggrow around the bases of the trees, but they are a ugly yet resilient breed.
+&+gThe trees provide a great deal of shade in this part of the forest, but the
+&+grocky mountain face gets very hot in the mid-day sun.  One may travel west or
+&+gsouth from this point in the forest.&N
+~
+1 33554432 3
+D2
+~
+~
+0 0 2272
+D3
+~
+~
+0 0 2266
+S
+#2272
+&+gInside The &N&+yMountain &N&+gForest&N~
+&+g   This mountain forest seems very alive and flourishes in spite of the
+&+gsavage &N&+Bogres &N&+gwho live in the village down below.  The comparisson between this
+&+gpeaceful forest and the carnage that usually is brought on by the&N&+B ogres &N&+gis
+&+gquite remarkable.  Here, peace rules, not the fist.  The trees grow tall and
+&+gproud in the almost infertile and rocky soil.  Animals live in peace and grow
+&+gto be strong and content.  Many small bushes grow here, making traveling a
+&+glittle bit difficult, but there are many small paths made by the animal
+&+ginhabitants.  One may travel west, north or south from this point.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2271
+D2
+~
+~
+0 0 2273
+D3
+~
+~
+0 0 2264
+S
+#2273
+&+gA Dead End in the &N&+yMountain &N&+gForest&N~
+&+g   The mountain forest ends here as it comes into the rocky grasp of the
+&+gsurrounding mountains.  The mountain walls are sheer and without any holds for
+&+gthe forest to start their roots upon.  The rocks look very bare and alone in
+&+gcomparisson to the lush green forest to the north.  This small depression in
+&+gthe side of the mountain makes this part of the forest both a death trap and
+&+ga good hiding place, depending upon ones situation.  The &N&+ybrown trunks &N&+gof the
+&+gsurrounding trees are intersected by various&N&+y branches&N&+g and underbrush that seems
+&+gto grow everywhere.  One may travel north in this mountain forest.&N
+~
+1 33554432 3
+D0
+~
+~
+0 0 2272
+S
+#2274
+&N&+LIn Front of a Demolished House on Dark &N&+gThorn&N&+L Road&N~
+&N&+L   Dark &N&+gThorn&N &N&+LRoad continues to travel east and west from this point.  The
+&N&+Lstreet has been allowed to grow up with various&N&+g plants&N&+L and &N&+ggrasses&N&+L covering the
+&+Lonce well maintained roadway.  There are many houses along this home, some
+&+Linhabited, some deserted.  There are many &N&+ywooden&N&+L objects that lie half buried
+&+Lin the tall grasses of the lawns.  One can see many&N&+y wooden &N&+Lswings, well houses,
+&+Lpicnic tables and even a planter every once in a while.  These things are a
+&+Lsolemn reminder to the &N&+Chuman&N&+L slaves of what they once had.  These ghosts of
+&+Lthe past slowly fade into the grass much like the&N&+C humans &N&+Lthat once lived here
+&+Lin&N&+B Kr&N&+Lagth&N&+Bor&N&+L.  To the&N&+B ogres&N&+L, they are wood and nothing more.  There is a dead
+&+Lcat that has been smashed into the ground in the middle of the street.  There
+&+Lis a home to the south and one may travel east or west on the street.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2251
+D2
+~
+door~
+1 0 2283
+D3
+~
+~
+0 0 2275
+S
+#2275
+&N&+LIntersection of Dark &N&+gThorn&N&+L Road and Looga Street&N~
+~
+1 33554432 1
+D1
+~
+~
+0 0 2274
+D2
+~
+~
+0 0 2276
+S
+#2276
+&N&+LOn the Muddy Looga Street&N~
+~
+1 33554432 1
+D0
+~
+~
+0 0 2275
+D2
+~
+~
+0 0 2277
+S
+#2277
+&+LThe Intersection of the Path of the Warriors and Looga Street&N~
+~
+1 33554432 1
+D0
+~
+~
+0 0 2276
+D2
+~
+~
+0 0 2278
+D3
+~
+~
+0 0 2303
+S
+#2278
+&+LOn the Wide Walkway of Looga Street&N~
+~
+1 33554432 1
+D0
+~
+~
+0 0 2277
+D2
+~
+~
+0 0 2279
+S
+#2279
+&+LIntersection of Looga and P&N&+rr&N&+Li&N&+rm&N&+La&N&+rl&N&+L A&N&+rv&N&+Le&N&+rn&N&+Lu&N&+re&N~
+~
+1 33554432 1
+D0
+~
+~
+0 0 2278
+D1
+~
+~
+0 0 2233
+S
+#2280
+&NIn a &+gMoss &NCovered Family Room&N~
+&N   This was once the family room of a&+C human &Nhome.  In fact, this room was the
+entire house as it was a very poor family.  The one room held the entire family
+comfortably as bunk beds were used on the southern wall to save space.  The
+entire building is now covered with a thick layer of&+g moss &Nand &+Lpeat&N.  The fact
+that the building was open to the elements helped to accelerate the general
+&+Ldecay &Nof this building.  Even the tables and chairs are covered with the&+g moss&N,
+adding to the look of hopelessness of this mountain village.  There are some
+&+Wwhite bones&N visible on the &+gmoss &Nbeds.  One may travel north to the street.&N
+~
+1 33554440 1
+D0
+~
+door~
+1 0 2249
+S
+#2281
+&NInside a House Without a Roof&N~
+&N   This house was badly &+Lburnt&N in the raid to overtake this mountain village.
+The walls and floor are covered with a layer of &+Lblack&N and&+y muddy&N&+L soot&N.  There
+are some large &+Wfootprints&N in the&+L muck&N, seeming to just barely examine the
+home.  The roof of the house has been completely &+Lburnt &Noff, completely exposing
+the house to the elements.  When it rains outside, it rains in the house.
+The &+ytables &Nand &+ychairs&N that once were here have been&+L burnt &Nto a crisp.  There
+is a large couch on the eastern wall that is also gutted, the makeshift springs
+poking up, looking like &+Gweeds&N in the &+ywooden frame&N.  One may leave this house
+by traveling north.&N
+~
+1 33554432 1
+D0
+~
+door~
+1 0 2250
+E
+foot footprints~
+&N              ooo
+&N              {m}          &+LThese footprints have been left in the
+&N     ooo      {P           &+Lmuck.  They are small and appear to have
+&N     {m}          ooo      &+Lbeen left by small children.  It's very
+&N     {P           {m}      &+Lodd that they only have three toes.&N
+&N                  {P&N
+&N
+~
+S
+#2282
+&NIn a House Now Inhabited By a Bachelor &+BOgre&N~
+&N   This former&+C human &Nhouse was once inhabited by a &+Chuman &Nbachelor and his pet
+&+ydog&N.  After the raid, an alcoholic bachelor &+Bogre &Nmoved in and has been drinking
+ever since.  The&+C human&N once had a large cabinet full of liquor and ale but it
+has been significantly reduced by the heavy drinking done here.  There is not
+much furniture remaining save one &+ytable &Nand two &+ychairs&N, just enough for the
+drinking activities.  The &+yfloor boards&N are slightly warped and look as if they
+have been stained with &+Yurine&N.  One may travel north to the road.&N
+~
+1 33554440 1
+D0
+~
+door~
+1 0 2251
+S
+#2283
+&NInside a Demolished Former &N&+CHuman&N House&N~
+&N   This was yet another human house the&+B ogres &Ndecided to demolish.  Although
+the occupants had long been dead, the&+B ogre&N warriors decided that this place
+needed to have a custom remodeling.  They tore the place up, damaging the place
+so badly that it can no longer be inhabited.  The western &+ywall&N has been kicked
+so hard that the entire building now shifts in that direction.  There are many
+&+yboards&N scattered around the room, more than likely from shattered &+yfurniture&N and
+floor&+y boards&N.  The only part of this house that was not damaged was the cellar
+and that was only because the &+Bogres &Ndidn't know it was there.  There are some
+&+yfloor boards &Nbroken in half and sticking up, making the floor very unstable.
+One may travel north to the road.&N
+~
+1 33554440 1
+D0
+~
+door~
+1 0 2274
+E
+floor wood~
+&N   It is very dark down below here, it appears that there is a cellar to this
+home.  There is no way to possible squeeze through the narrow holes in the
+floor...&N
+~
+S
+#2284
+A Turn of &+LGatto&N Road&N~
+~
+1 33554432 1
+D0
+~
+~
+0 0 2285
+D1
+~
+~
+0 0 2252
+S
+#2285
+In Front of the Former &N&+CHuman&N School&N~
+&N   &N&+LGatto&N Road continues its generally north and south path here as it passes
+a former &N&+Chuman&N school.  The school building it one of the larger structures in
+&N&+BKr&N&+Lagth&N&+Bor&N and was once a point of pride for the &N&+Chuman&N inhabitants of this small
+mountain village.  The school was once a place for&N&+C humans&N to learn and to grow
+intellectually.  Now, however, the school is used for another, more sadistic
+purpose.  On the outside of the school a large&N&+y wooden sign&N has been nailed to
+the outer wall.  There are&N&+c iron&N&+L bars &Non all of the windows, one of the new
+additions to the school done by the&N&+B ogres &Nthemselves.  There is a large door
+that appears to be reinforced with &N&+Lst&N&+ce&N&+Lel&N.  One may travel north or south on
+the road or west into the former &N&+Chuman&N school.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2290
+D2
+~
+~
+0 0 2284
+D3
+&N   A former &N&+Chuman&N school is located in this direction.&N
+~
+door~
+1 0 2293
+E
+sign wooden~
+&N   The sign reads:
+&N&+y                         '                       '"  ' ' '" ' ' '
+&N&+y                       .' ' ' '                    '    '
+&N&+y     '        '        .               '                 '
+&N&+y     ' '     ' '       .             '  "                 '
+&N&+y     '  '   '   '      . '''       '     '               '
+&N&+y     '   ' '     '     .            ' -'- '              '
+&N&+y     '    '       ''   .            '      '              '
+&N&+y     '              '  .' ' '''    "         '            '
+&N&+y   '                 '            '           '           '
+&N
+&N   The sign is made of&N&+y wood &Nand appears to have been roughly made by a set
+of unskilled hands.&N
+~
+S
+#2286
+Inside the Destroyed &+CHuman&N School&N~
+&N   This entrance to the former &+Chuman &Nschool once was used to store the many
+coats and lunch pails of the children who attended here.  When the &+Wsnows &Ncame
+they would stomp their feet to get all of the snow off before taking their
+seats within the classroom.  The school is now used to store&+C human&N prisoners
+before they are cut up and sold for meat by the brutal town &N&+rbu&N&+Ltch&N&+rer&N.  There are
+many signs of struggle here on the floor, long and &+rbloody &Ngoughes in the floor,
+left by the&N&+C humans&N fingernails as they were drug out.  Small pieces of scalp
+and hair are also easiliy visible.  There is a large &+ywooden door&N to the east
+that is locked in several places from the outside, ensuring that these &+Chumans&N
+could never dare to escape.  One may travel north, west, south or east from
+this point in the&+C human&N school.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2287
+D1
+~
+door~
+1 0 2293
+D2
+~
+~
+0 0 2288
+D3
+~
+~
+0 0 2289
+S
+#2287
+In the Corner of the Former School House&N~
+&N   This corner of the school was once where the students hung their coats.
+Several &+ywooden pegs&N have been embedded into the wall for that purpose.  The
+&+ywooden floor&N was once highly polished and swept daily.  Now it is covered with
+both bodily remains and splattered&N&+r blood&N from the &N&+Chuman &Nprisoners that are held
+here.  The windows on the eastern and northern walls have been broken out, some
+of the glass inside the school.  The paint on the walls has faded and chipped
+a great deal, adding to the general look of dissaray of this place.  One may
+travel south or west.&N
+~
+1 33554432 1
+D2
+~
+~
+0 0 2286
+D3
+~
+~
+0 0 2292
+S
+#2288
+&NA Corner of the &N&+CHuman&N Holding Pens&N~
+&N   This school has been turned into a make-shift holding pen for the &+Chuman&N
+captives.  Eventually, when the &+Chuman&N population is either eaten or killed off,
+this building will probably be inhabited by a large &+Bogre&N family or reallocated
+for some other purpose.  The &+ywooden floor&N is splattered with &+rblood&N, obviously
+&+Chuman&N.  There are some windows on the southern wall but they have been&+y boarded&N
+shut by the&+B ogre &Nwarriors.  The ceiling is cracked and more than likely will
+fall in if not repaired.  The &+Chumans &Nthat are restrained here are forced to
+&N&+Ldef&N&+yic&N&+Late&N and &+Yurinate&N upon the floor for there are no bathroom facilities.  One
+may travel north or west in this former &+Chuman&N school.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2286
+D3
+~
+~
+0 0 2291
+S
+#2289
+&NInside the Building Once Used as a School&N~
+&N   It is very likely that the teachers&+y desk&N once rested here when the &+Chumans
+&Nstill were in control of this mountain town.  That teacher was more than likely
+killed long ago, raped and beaten to death.  The &+ydesk&N has long ago been used in
+a fire, burnt up to heat the cold hands of the&+B ogre &Nchildren during the harsh
+winters.  The school is used now to house &+Chuman &Nprisoners, both from before the
+time of the raid and the occassional captured merchant.  The entire building
+reaks of &N&+Ld&N&+We&N&+La&N&+rt&N&+Lh&N and of unimaginable&+L filth&N.  One can feel the presence of death
+that envelops this place.  One may travel east, north or south from this point
+in the former&+C human &Nschool.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2292
+D1
+~
+~
+0 0 2286
+D2
+~
+~
+0 0 2291
+S
+#2290
+Traveling Along &+LGatto&N Road&N~
+~
+1 33554432 1
+D0
+~
+~
+0 0 2294
+D2
+~
+~
+0 0 2285
+S
+#2291
+&NIn the &N&+CHuman&N Holding Pens&N~
+&N   This corner in the former&+C human&N school is covered with &+Lfilth &Nthat is
+thick and has been spread everywhere.  The &+Chumans&N that live here have kept some
+degree of sanity and have designated this area of the building to be used for
+the wastes that all creatures must dispense of.  The floor &+yboards&N have been
+stained from the sheer volume of&+L filth&N that has been spread over them.  The
+windows have been&+y boarded &Nshut and then covered with thick metal bars to
+prevent any slaves from escaping.  The paint on the wall has chipped and faded
+to leave much of the original &+ywood&N visible.  One may travel north or east from
+this point.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2289
+D1
+~
+~
+0 0 2288
+S
+#2292
+&NThe Final Holding Pens of The &N&+BOgre&N Food&N~
+&N   This final holding pen of the&+C humans&N that are to used as food looks very
+broken down and abused.  It is safe to say that the&+C humans &Nwho live there last
+hours in this place know and dread their fate. &+B Ogres&N do not show the kind of
+humanity most other races do, they skin their food alive, often enjoying the
+look of utter horror on the faces of their prey.  This room has a sturdy&N&+y wooden
+floor&N, but the walls and ceiling look as if they could fall down at any moment.
+Few of the&+B ogre&N tribe actually come into this former school, the &N&+rbu&N&+Ltch&N&+rer&N being
+the only one who really uses this building.  The windows are barred with heavy
+metal&+L bars&N to prevent anyone from trying to break free.  One may travel east or
+south from this point in the former &+Chuman&N school.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2287
+D2
+~
+~
+0 0 2289
+S
+#2293
+The Shop of &+BKodnorg&N, the&N&+r Bu&N&+Ltch&N&+rer&N~
+&N   This butcher shop is used by the&+B ogre &N&+rbu&N&+Ltch&N&+rer&N to fully meet his villages
+meat needs.  He works up to twelve hours a day to process all the meat that is
+needed.  Not that he needs it, he loves his work.  The entire shop is kept
+clean and sanitary and there is no meat that is wasted.  There are some large
+hooks that hang from the ceiling where the&N&+r ca&N&+Lrcasses &Nof cattle, goats and
+&+Chumans&N are hung before skun and then cut up for individual use.  There is a
+large counter that is used for the various jobs the &N&+rbu&N&+Ltch&N&+rer &Nneeds it for.
+There is a door in the back of the shop that leads to a large room that was
+once the school and is now a holding area for&+C humans&N before their slaughter
+and subsequent consumption.  One may travel east or west from this&N&+r bu&N&+Ltch&N&+rer&N
+shop.&N
+~
+1 33554432 1
+D1
+~
+door~
+1 0 2285
+D3
+~
+door~
+1 0 2286
+S
+#2294
+On the Wide &N&+LGatto&N&+w Road&N~
+~
+1 33554432 1
+D0
+~
+~
+0 0 2295
+D2
+~
+~
+0 0 2290
+S
+#2295
+The Intersection of &N&+LGatto&N Road and &N&+LThe Path of the Shaman&N~
+&N   At this point in the mountain village of &N&+BKr&N&+Lagth&N&+Bor&N the&+L Gatto &NRoad intersects
+with the very important&+L Path of the Shaman&N.   This particular intersection was
+not here during the times the&+C humans &Ninhabited this place.  The shaman caves
+were created by the&+B ogre&N shamans after the raid was completed and the road that
+travels west from here was created soon after.  There are some buildings here
+as well that house&+B ogre&N families and also some destroyed ruins of buildings.
+The buildings were destroyed in the brutal raid that first brought the &+Bogres&N
+here.  This road is often maintained by the&N&+C human&N slaves, supervised by the
+&+Lslave&N&+W-&N&+Lmasters&N.  One may travel in any direction from this intersection.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2308
+D2
+~
+~
+0 0 2294
+D3
+~
+~
+0 0 2296
+S
+#2296
+&+LThe Path of the Shaman&N~
+&+L   This path is very faint in the scruffy mountain grass that grows here.
+&+LThis small street was not here when the &N&+Chumans&N&+L held this mountain village.  In
+&+Lfact, the path was created right after the raid when the shamans of the ogre
+&+Ltribe found a place to practice and teach their magical art.  The path should
+&+Llook a lot older and wider than it appears to be, but a simple magical spell
+&+Lhas been cast on it to prevent it from looking well used.  There are some odd
+&+Llooking stones on the northern side of the path, used as a sign to help shamans
+&+Lof other tribes find the underground chamber of the&N&+B ogres&N&+L.  One may travel west
+&+Lor east from this point on the Path of the Shaman.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2295
+D3
+~
+~
+0 0 2297
+S
+#2297
+&+LAlong the Path of the Shaman&N~
+&+L   This dark path seems to be shrouded in a kind of perpetual darkness.  The
+&+Lair is thick and humid on even the coldest winter nights, and there is often a
+&+Lthick layer of fog resting on the moist soil.  Small and strange looking plants
+&+Lare growing on either side of the path.  These small plants appear to be alive
+&+Leven though they do not move.  The plants are rumored to be carnivorous and
+&+Lhave been enchanted with a magical spell to attack and eat any creature with
+&+La goodly aura.  There are some small rocks and pebbles placed in what seems to
+&+Lbe a random order, but to any of the&N&+B ogre&N&+L shamans, the placement of the stones
+&+Lis significant and contains great power.  One may travel east or west from this
+&+Lpoint on the path.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2296
+D3
+~
+~
+0 0 2298
+S
+#2298
+&+LOn the Dusty Path of the Shaman&N~
+~
+1 33554432 1
+D1
+~
+~
+0 0 2297
+D3
+~
+~
+0 0 2299
+S
+#2299
+&+LOn the Path of the Shaman Before the Mouth of the Shaman Cave&N~
+&+L   The path of the shamans ends here in front of the mouth to a cave.  The
+&+Lcave is used by the shamans but for what purpose is unknown to most people,
+&N&+Bogres &+Lof the tribe included.  The cave mouth is located in seemingly a random
+&+Lplace, right in the middle of the ground.  The fact that this cave seems to
+&+Lappear to be out of place tends to lead to the opinion that it is not naturally
+&+Lformed.  The shamans probably crafted the cave into the stone of the mountain
+&+Lso they would have a secluded place to practive their craft.  The dirt path
+&+Lcontinues on to the east and the cave leads downwards.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2298
+D5
+~
+~
+0 0 2300
+S
+#2300
+&+LInside the Shaman Cave&N~
+&+L   The first step into the shaman cave is filled with a swirling cloud of
+&+Lcolors and smells.  These sensations are only in ones head, and are used to
+&+Ldisorient anyone who should not be here.  The cave is highly defendable, but
+&+Lnot by sheer man power.  The power of the shamans is in their link to the
+&+Lnatural power of the planet.  There are enough wards in this cave to bring
+&+Lthe entire place down if need be.  The cave here is empty and very clean,
+&+Llooking both natural and serene.  Quite the opposite is the actual truth.  The
+&+Lshamans are brutal and unrelenting in their pursuits for more power.  This
+&+Lcave is dangerous.  One may travel up or east from this point.&N
+~
+1 33554432 14
+D1
+~
+~
+0 0 2301
+D4
+~
+~
+0 0 2299
+S
+#2301
+&+LApproaching the Shaman Training Cave&N~
+&+L   This cave looks so natural that it could only be unnatural.  The cave walls
+&+Lhave a look that could only be something produced.  The rocky surface is uneven
+&+Land jagged in places, looking both natural and alive.  The feeling of this cave
+&+Lis one of power and of an eerie magical presence.  The air is thick and dank,
+&+Llike the air of a deep and stagnant pool.  The floor of the cave is relatively
+&+Lclear of any debris and appears to be either abandonned or well maintained,
+&+Lyet another way that this cave seems out of place.  There are some odd sounds
+&+Lcoming from further in the cave, sounding both like a chant and a tribal dance.
+&+LOne may travel west or down from this point in the shaman cave.&N
+~
+1 33554432 14
+D3
+~
+~
+0 0 2300
+D5
+~
+~
+0 0 2302
+S
+#2302
+&+LThe Center of the Shaman Cave&N~
+&+L   The center of this cave is filled with many different kinds of exotic
+&+Lsmells.  The entire cave system feels strange and mysterious to outsiders,
+&+Lcomfortable and right to those who practice here, the&N&+B ogre &N&+Lshamans.  There are
+&+Lseveral side caves that lead from this point and even a set of stone stairs
+&+Lleading down to a lower level.  This cave is not naturally formed as the walls
+&+Lare smooth and glassy to the touch.  The shamans have practiced here ever
+&+Lsince the successful &N&+Bogre&N&+L raid that captured this city.  One may trave east,
+&+Lwest, south or down from this point.  Going up another flight of stone steps
+&+Lleads out of the shaman caves.&N
+~
+1 33554432 14
+D1
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2305
+D3
+~
+~
+0 0 2306
+D4
+~
+~
+0 0 2301
+D5
+~
+~
+0 0 2307
+S
+#2303
+&+LThe Beginning of the Path of the Warriors&N~
+&N   Great&N&+y to&N&+rr&N&+ych&N&+re&N&+ys&N burn on both sides of the path.  Some powerful enchantment
+has been placed on them so they burst into life when a great warrior passes by
+them.  The great path is covered with hard packed&N&+L dirt&N and all&+g weeds&N are
+immediately removed.  This is the path of the warriors of&N&+B Kr&N&+Lagth&N&+Bor&N, a place
+for the leaders of this great village to meet and to plan.  It is also a very
+important street because it is where the warriors in training are first brought
+into their trials of manhood.  Few women are ever allowed upon this trail, but
+the one that are have deffinetly earned it.  Gazing east one can see the trail
+continue to travel west through the many &N&+rblazing &N&+ytorches&N.  One can easily see
+that this part of town is savage and very important.  One may travel west on
+the &+LPath of the Warrior&N or east onto &N&+LLooga Street&N.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2277
+S
+#2304
+&N&+LA Dark and Musty Cave&N~
+&+L   One of the older shamans uses this cave to distribute totems to any shamans
+&+Lwho may have lost theirs.  The cave is not huge, but it is as large as a medium
+&+Lsized room.  The cave is entirely natural and pitch dark.  There is a small
+&+ywooden work bench&N&+L in the center of the room.  The totems that are sold here are
+&+Lof the utmost importance for the magics the shamans use.  On the wall hang
+&+Lsome tapestires that depict the glory of the &N&+Bogre&N&+L shamans.  It is safe to say
+&+Lthat they are exaggerated.  One may travel west in the shaman caves.&N
+~
+1 33554432 14
+D3
+~
+~
+0 0 2302
+S
+#2305
+&N&+LA Dark Corner of the Shaman Cave&N~
+&+L   This dark corner of the shaman caves seems to be some kind of communal
+&+Lgathering place for the shamans.  There are several tables and chairs made out
+&+Lof what appears to be ironwood.  The rooms is filled with all kinds of totems.
+&+LSome are broken, some are just prototypes for new styles of totems, and others
+&+Lare only used as center pieces.  The amount of totems in this room is quite
+&+Limpressive.  The room is often filled with the younger shamans boasting and
+&+Llying about their heroic deeds.  Several large fights have happened here with
+&+Lthe winners living and the losers dying an agonizing death.  The &N&+Bogres&N&+L who
+&+Lmaintain these caves think of this room as a place to socialize.  One may go
+&+Lnorth to the center of the shaman cave.&N
+~
+1 33554432 14
+D0
+~
+~
+0 0 2302
+S
+#2306
+&+LA Dark Cave Used By the Shamans&N~
+&+L   This section of the shaman caves is where the &N&+Bogre&N&+L teenagers are first
+&+Linitiated into the dark arts of the shaman.  The room is used in an ancient and
+&+Lvery well guarded tradition of initiation that is unknown to any civilization
+&+Loutside of this mountain village.  The room smells of &N&+Ysulphur&N&+L and a deep musky
+&+Lsmell.  The stone walls have been covered with ancient letters that are clearly
+&+Lundecipherable to any, even the best trained shamans here.  No furniture or
+&+Lrugs have been placed in this room adding to the general feel of emptiness.
+&+LOne may travel to the east to the center of the shaman caves.&N
+~
+1 33554432 14
+D1
+~
+~
+0 0 2302
+S
+#2307
+&+LThe Bottom of the Shaman Caves&N~
+&+L   This lowest chamber of the shaman caves is the office of Gog, the head
+&+Lshaman.  The cave is undecorated except for a few free standing torches that
+&+Willuminate&N&+L the room.  The stone floor is unnaturally smooth, creating a very
+&+Lodd and scary reflective surface.  A small urn rests here in the middle of the
+&+Lroom.  In the urn some musty smelling incense burns and the smoke spirals
+&+Lupwards.  There are some totems lying near the urn, used in some ancient shaman
+&+Lspells.  One may use the stone stairs to travel up.&N
+~
+1 33554432 14
+D4
+~
+~
+0 0 2302
+S
+#2308
+&NOn the Central Path of &N&+BKr&N&+Lagth&N&+Bor&N,&+L Gatto&N Road&N~
+&N   This part of town is quite a distance from the main gates of the city and
+therefore is more dangerous to be in.  There is a great deal of uncivilized
+fighting in this part of town, more like the tribe used to behave when it was
+a nomadic tribe.  Quite often there is much infighting amongst rival&N&+B ogre&N
+families.  The gate guards would usually bust up such annoyances just for the
+sake of a new fight to break up the monotony of the job guarding &N&+BKr&N&+Lagth&N&+Bor&N.
+There are fewer houses in this part of the town, most of the &N&+Bogre&N inhabitants
+in the northern regions live in either houses they have taken over or even
+some&N&+L caves&N in the side of the mountain.  A few of such &N&+Lcaves&N are visible from
+this vantage point, looking like empty eye sockets on the face of the mountain.
+There is a&N&+y wooden&N house to the west.  One may travel north, south or west from
+this point.&N
+~
+1 33554432 1
+D0
+~
+~
+0 0 2310
+D2
+~
+~
+0 0 2295
+D3
+~
+door~
+1 0 2309
+S
+#2309
+&+LInside an &N&+bOgre&N&+L House&N~
+&N   This &+Bogre&N house was built after the successful raid.  The house is built
+from a combination of rock and&+y wood&N.  Part of this house was originally here
+as a storage shed used by the &+Chumans &Nfor their livestock.  The small shed was
+the basis and foundation for the larger stone building.  The stone has been
+hauled to this site by the&+C human&N slaves and the house assembled by some wise
+&+rduergar&N stone craftsman.  The house is inhabited by a wise and well respected
+&+Bogre&N grandfather.  The place smells rather musty and closed up.  One may travel
+east back out of the house.&N
+~
+1 33554432 1
+D1
+~
+door~
+1 0 2308
+S
+#2310
+Unnamed~
+~
+1 33554432 1
+D2
+~
+~
+0 0 2308
+S
+#2311
+&+LA Random Load Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 176197840 2
+D0
+~
+~
+0 0 2312
+D1
+~
+~
+0 0 2313
+D2
+~
+~
+0 0 2314
+D3
+~
+~
+0 0 2315
+S
+#2312
+&+LA Random Load Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 243302608 0
+D0
+~
+~
+0 0 2316
+D1
+~
+~
+0 0 2318
+D2
+~
+~
+0 0 2311
+D3
+~
+~
+0 0 2317
+D4
+~
+~
+0 0 2320
+S
+#2313
+&+LA Mob Holding Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 243302608 2
+D1
+~
+~
+0 0 2314
+S
+#2314
+&+LA Mob Holding Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 176193746 2
+D5
+~
+~
+0 0 2313
+S
+#2315
+&+LA Mob Holding Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 176193744 0
+D3
+~
+~
+0 0 2313
+S
+#2316
+&+LA Random Load Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 243302610 0
+D0
+~
+~
+0 0 2319
+D2
+~
+~
+0 0 2312
+D3
+~
+~
+0 0 2311
+S
+#2317
+&+LA Mob Holding Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 243302608 0
+D2
+~
+~
+0 0 2318
+S
+#2318
+&+LA Mob Holding Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 243302610 0
+D4
+~
+~
+0 0 2317
+S
+#2319
+&+LA Random Load Room&N~
+&+L   If you somehow end up in this room, please contact an administrator as
+&+Lsoon as possible!!!  You should not be here!  Plus if you did get here they
+&+Lmessed up something :)&N
+~
+1 243302610 0
+D1
+~
+~
+0 0 2264
+D2
+~
+~
+0 0 2316
+D3
+~
+~
+0 0 2312
+D5
+~
+~
+0 0 2247
+S
+#2320
+&+LRandom Mob Equipment Room&N~
+&+L   If you are here you should not be.  Report to an administrator as soon
+&+Las possible.  This room should contain some equipment for the random load mobs
+&+Lto have a chance of picking up.&N
+~
+1 1317011666 0
+D5
+~
+~
+0 0 2312
+S
+#2321
+&+LInside a Burnt House&N~
+&+L   This house was almost completely gutted in a massive &N&+rfire&N&+L.  The &N&+Bogres&N&+L who
+&+Llit this&N&+r fire&N&+L had no idea how fast this building would go up in &N&+rflames&N&+L.  Two
+&N&+Bogres &N&+Ldied in the&N&+r fire&N&+L, unable to get out before the roof fell in.  Perhaps it
+&+Lwas a sign from an immortal being that this entire raid was not supported by
+&+Lthose in high positions.  Perhaps it was just dumb luck or dumb &N&+Bogres&N&+L that
+&+Lcauses the de&N&+Wa&N&+Lths.  Either way this entire building is black with charcoal and
+&+Lashes.  There is a thick layer of soot on the floor completely covering the
+&+Lblackened boards and the burnt rugs.  The windows are either broken out or
+&+Lstained with the sick &N&+yyellow &N&+Lcolor of smoke.  One may travel south to the road.&N
+~
+1 33554432 1
+D2
+~
+door~
+1 0 2228
+S
+#2322
+&+LIn the Dark Cellar Beneath the House&N~
+&+L   The ceiling of this cellar is the floor of the house that was broken so
+&+Lbadly that it gave away under the weight of those on it!&N
+&N
+&+L   This dark room was untouched during the &N&+Bogre&N&+L raid.  It has remained rather
+&+Ldry considering the amount of damage done to the house above.  There isn't
+&+Lreally anything down here save a few &N&+yshelves&N&+L and old &N&+yboxes&N&+L.  The dirt floor
+&+Lfeels rather odd and spongy and it smells rather damp down here.  The walls
+&+Lhave some&N&+G mold &N&+Lon them but they haven't rotted out yet.  There is a bad smell
+&+Lcoming from the east, as if something has been using this place as a bathroom.
+&+LThere is a &N&+yrope &N&+Lhanging down from the room above, perhaps the only way out of
+&+Lthis cellar as the &N&+yladder &N&+Lhas been broken in half.&N
+~
+1 33554432 1
+D1
+~
+wall~
+5 0 2323
+S
+#2323
+&+LThe Final Resting Place of a &N&+CHuman &N&+LFamily&N~
+&+L   This dark cellar was originally used as a storehouse of extra food and
+&N&+Wpotatoes&N&+L.  The cellar is roughly square and ten feet in any direction.  The
+&+Lceiling is only six feet high and the floor is comprises of dirt.  This is the
+&+Lfinal resting place of an entire &N&+Chuman &N&+Lfamily.  The glorious &N&+Bogre&N&+L raid forced
+&+Lthese people into hiding.  Hunger quickly overtook this family who proceeded
+&+Lto devour all their stored food.  The family died of starvation when the food
+&+Lran out because they couldn't really leave this underground hiding place.  Some
+&+Lassorted food containers lie upon the ground, devoid of any food.  This secret
+&+Lhiding place is accessable through the secret wall to the west.&N
+~
+1 33554432 1
+D3
+~
+wall~
+1 0 2322
+S
+#2324
+&NBelow A Large &N&+LWatch Tower&N~
+&N   Large&N&+y wooden beams&N support the entire watch tower.  There is a beam for
+every corner of the structure, all of which are firmly secured in stone
+footings and then reanchored with another&+y wooden stake&N system.  The stone
+floor is almost always dirty, not exactly a surprise for an&+B ogre&N village.
+The ogres of &+BKr&N&+Lagth&N&+Bor&N use this lookout tower to scan the surrounding areas
+for easy targets to kill and plunder.  They use this area below the tower to
+relieve themselves.  There is a great puddle of&+Y urine&N that has formed in the
+eastern part of the room, which just happens to be the lowest point.  There is
+also a &+ywooden plank&N with a hole in it that is used for the less appealing
+aspect of waste removal.  This small privy is&+L filthy&N, with layers of crap on
+the outside that never made it into the hole.  The hole more than likely just
+leads to a large holding pit below.  There is a tough looking iron ladder
+leading upwards to the floor of the watch tower.  One may travel up or west
+from this point.
+~
+1 33554432 1
+D3
+~
+~
+0 0 2210
+D4
+&+y   This trapdoor is made of wood.&N
+~
+trap trapdoor~
+1 0 2325
+E
+urine~
+&N   This puddle of&+Y urine &Nis disgusting.  It has grown thick and soupy as it
+has combined with other things such as dust and &+Lfeces&N.  It smells horribly bad
+and can bring a tear to the eye of the strongest&+B ogre&N.&N
+~
+S
+#2325
+&+LIn One of &N&+BKr&N&+Lagth&N&+Bor&N&+Ls Watch Towers&N~
+~
+1 33554432 1
+D5
+&+y   This trapdoor is made of wood.&N
+~
+trap trapdoor~
+1 0 2324
+S
+#2326
+&NThe Shop of &N&+BMoga&N~
+&N   The shop of&N&+B Moga&N is not a very large building.  It was more than likely
+used by a family of little means to shelter themselves from the harsh mountain
+winters.  &N&+BMoga&N'&N&+Bs&N shop is not clean by any measure and goods are scattered all
+over the place.  A wide variety of goods are sold here, hanging on hooks or
+displayed upon&N&+y wooden tables&N.  Three glass windows are on the eastern wall,
+a rarity in the&N&+B ogre&N culture. &N&+B Moga &Nis so feared that the &+Bogre &Nchildren don't
+dare to throw a rock through his glass windows.  If every window in town was
+busted out, one could be sure that these windows would not be.  The windows
+provide ample light to the store but at night a few strategically placed&N&+Y lamps
+&N&+Willuminate&N the building enough.  There is much to see and buy here.  One may
+leave the shop through the open door to the east.&N
+~
+1 33554440 1
+D1
+&N&+L   Gatto Road&N lies in this direction.&N
+~
+~
+0 0 2218
+S
+#2327
+&NInside an &N&+BOgre&N House&N~
+&N   This home is very small for an&+B ogre &Nhouse.  There are a few pieces of
+&+ywooden furniture&N, all &+Bogre&N-size of course.  There is a &+yrug&N made out of the
+hide of what appears to be either&+y horse&N or&+y moose&N.  The windows that haven't
+been &+yboarded&N up have been broken out by either the occupant or the&+B ogre &Nkids
+who enjoy such mischief.  There is a large &+ywooden table&N that is currently
+being used as a work station to clean and polish some cheap looking &+cweapons&N.
+There is a bed in each corner of the room, obviously for the many occupants.
+By the general look of this building, it is safe to say that the &+Bogres&N who
+live here are bachelors, for there is no sign of children or a womans touch.
+The house is plain yet functional.  One may travel west out the&+y wooden door&N
+to exit the building.&N
+~
+1 33554432 1
+D3
+~
+door wooden wood~
+1 0 2252
+S
+#2328
+&N&+yInside the Large Deer Hide Tent&N~
+&N   This&+y deer hide tent &Nhas been constructed in the same manner the&+B ogre&N tribe
+constructed them when they still wandered on the great &N&+gplains&N of&N&+g grass&N.  The
+&+ytent&N is made from &+ytanned deer hide&N that has been stretched and stitched
+together and then strung between sturdy &+gtrees &Nfound naturally growing at the
+camp site.  The&+B ogre&N tribe tried to stay near &+gforested&N areas so they could
+construct such shelters, but now that they have taken this&+C human &Ntown, they
+usually live in the&+y wooden &Nhomes that have already been built.  The&+B ogre &Nwho
+lives here is from the old school of the&+B ogre &Ntribe, not wanting to give up
+the old ways.  This is one of the few&+B ogre &N&+ytents&N left in this part of the
+world, for the nomadic tribes have either moved into caves or&+y wooden&N buildings.
+&N   The&+y tent&N smells like cooked meat, probably roasted over the &+rcampfire&N.  The
+floor is&N&+L dirt&N but has been swept clear of any&+L t&N&+gwi&N&+Lgs&N or &+Ldebris&N by someone.  The
+furniture here is almost totally unused, only to store things upon.  There is
+a large &N&+yoaken table&N covered with many&+y wooden &Ncarvings and various talismans
+used for luck or for spirit warding.  One may travel back into the town by
+opening the &+yhide flap&N to the south, or travel east in the &N&+Bogre &N&+ytent&N.&N
+~
+1 33554432 1
+D1
+~
+~
+0 0 2329
+D2
+~
+flap hide~
+1 0 2251
+S
+#2329
+&+yIn the Back of the Large Deer Hide Tent&N~
+&N   This back room of the &N&+ydeer hide tent&N is essentially the sleeping room of
+this domicile.  There is a large and reinforced cot near the wall of the &N&+ytent&N
+that is also made out of &N&+ytanned deer hides&N.  Long strips of &N&+ydeer hide&N hang down
+from the ceiling in an effort to further dry them.  Many odd pictograms have
+been drawn on the hide with&N&+L charcoal&N.  The pictograms depict many great battles
+and layouts of some of the earlier camp layouts.  The&N&+B ogre&N who lives here is of
+the older generations of the tribe that still adhere to the old ways.
+&N   The &N&+ytent&N smells rather pleasant, like cooked meat and &N&+yleather&N oils.  There
+is a large &N&+ypile of furs &Nin the corner, probably this &N&+Bogres &Ntraveling gear.  The
+ground has been swept clean, down to the hard &N&+Lsoil&N.  There is a small&N&+y barrel&N in
+the corner of the &N&+ytent&N that is filled with some clear &N&+bwater&N.  There is also a
+small&N&+y wooden table &Nthat appears to be as old as time itself.  One may travel
+west from this point in the&N&+y deer hide tent&N.&N
+~
+1 33554432 1
+D3
+~
+~
+0 0 2328
+S
+#0
+
+#BASTMOBS
+#2200
+guard warrior ogre~
+a viscious &N&+Bogre&N guard&N~
+A viscious &N&+Bogre&N &+Lwarrior&N stands guard here.&N
+~
+&N   This huge &+Bogre&N has been standing here for many years in his constant vigil
+to protect the village.  He is covered with many gruesome scars to attest to
+his prowess as a warrior.  His large arms and legs seem to have muscles upon
+the other muscles.  He is a very ugly creature and doesn't take kindly to
+any insults.&N
+~
+612905034 8 0 0 0 -1000 S
+PO 0 1
+40 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2201
+ogre guard warrior~
+an &N&+Bogre&N~
+A large and viscious &N&+Bogre&N stands guard here.&N
+~
+&N   This large and burly guard simply loathes his job.  He goes about his daily
+tasks half-heartedly and without passion.  His eyes clearly show how dumb he is
+for they are almost constantly glazed over in a look of stupidity. His large
+form barely fits into his suit of armor.  This &+Bogres&N name is not important to
+anyone save the captain of the guard.&N
+~
+612368458 136 0 0 0 -1000 S
+PO 0 1
+48 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2202
+urrook gak ogre shop shopkeeper~
+Urrook'Gak~
+The proprieter of this shop, &+BUrrook'Gak&N, stands here frowning.&N
+~
+&N   This large creature is quite old for an &+Bogre&N.  His arms and legs are not
+quite as large as they once were but he makes up for his lack of size in his
+keen mind.  He has seen it all for the &+Bogre&N people.  He was with the tribe when
+it still lived beneath the surface.  He has been relieved of all his duties to
+protect the ogre village and now he spends his days selling fine bladed weapons
+or large and savage looking clubs.  He is well respected by the rest of the
+&+Bogre&N people.&N
+~
+541075530 128 0 0 0 -1000 S
+PO 0 15
+51 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2203
+togwar captain guard ogre~
+Togwar~
+The captain of the &N&+Bogre&N guard, Togwar, leads his troops.&N
+~
+&N   This is one of the largest &+Bogres &Never.  He stands at over eight feet tall
+and looks like he weighs over a thousand pounds.  His arms and legs look like
+thick&N&+g tree &N&+ytrunks&N and his head is the size of a large boulder.  He is not the
+smartest creature but he knows the ways of warfare better than any.  He came to
+power after the full scale invasion upon the &+Chumans&N.  In that brutal sacking he
+killed many of the most skilled warriors of the village single handedly.&N
+~
+603981898 152 0 0 0 -1000 S
+PO 0 1
+60 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2204
+roblin red bird small robin~
+&+ya small &+Lrobin&N~
+&+yA small &N&+Rred&N&+W-&N&+ybeaked &N&+Lrobin&N&+y hops along here.&N
+~
+&N   This small bird has quite happy hopping along the path.  It has made its
+home somewhere in the rocky mountain walls with sticks and mud.  It has a &+rred&N
+beak that it uses to chew nuts and berries.&N
+~
+72 0 0 0 0 0 S
+B 0 0
+4 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2205
+drunk ogre~
+a drunk &N&+Bogre&N~
+A drunk &+Bogre&N that has been disturbed is looking for a fight&N.&N
+~
+&N   This drunk has a hard time being nice to anyone when he is intoxicated.  He
+sways and stumbles as he walks but one can easily see that he is a good fighter
+and powerful&+B Ogre&N.  He stands very tall and his girth is impressive indeed.&N
+~
+805310316 0 0 0 0 -500 S
+PO 0 1
+12 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2206
+golden snake~
+&+ya golden snake&N~
+A viscious &+Ygolden snake&N slithers across the ground here.&N
+~
+&N&+Y   This snake is a very aggressive creature and attacks anything that comes
+&+Ynear.  It is one of the realms oldest creatures and has lived off of killing
+&+Yfor centuries.  This particular snake is about three years old and weighs about
+&+Yten pounds.&N
+~
+805308457 0 0 0 0 0 S
+RS 0 0
+6 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2207
+kodnorg ogre butcher~
+&+BKodnorg&N, the&N&+r bu&N&+Ltch&N&+rer&n~
+&+BKodnorg&N, the&+r bu&N&+Ltch&N&+rer&N, motions you to the back room to choose.
+~
+&n   &+BKodnorg&N is the &+rbu&n&+Rtch&n&+rer&n is here carving up a new feast for the next lucky
+customer.  He is an enourmous &+Bogre&n with a large belly which jiggles with every
+flip of the butcher's knife.  Full well knowing that his customers like
+different types of&N&+r meat&N he allows his customers to go in the back room and
+decide for themselves.  He is also very skilled at the cooking and preparing
+of the various meats.&N
+~
+541065738 33554824 2 0 0 -900 S
+PO 0 15
+51 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2208
+chained human stock dirty~
+&n&+Lchained&n &+chuman&n stock&n~
+A sad looking &N&+Chuman&N has been chained to the wall, awaiting his death.&N
+~
+&n  This chained &+chuman&n unfortunately survived the fall of this once great city.
+Now he is here cowering in a corner, awaiting the death that surely follows
+his steps closely now.  Hungry &+Bogres&n have been looking him over with more and
+more appreciation as of late.  He huddles in a &+ydirty&n heap hoping to hide from
+that death.      &n
+~
+67110984 33554688 2 0 0 1000 S
+PH 0 1
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2209
+mean red ant~
+&na mean &+rred&n&+L ant&n~
+&nScuttling across the ground, a &+rred&n&+L ant&N looks for scraps here.&n
+~
+&n   This &+rred&n ant is scavenging here for his colony.  His scuttling legs wiggle
+as they hurry across the ground.  It looks around with it's feelers and
+searches for any scraps the gigantic beings would drop for it.  A stray &+Ydwarven&n
+leg can keep the colony well fed for a bit.&n
+~
+33554505 33554688 8194 0 0 0 S
+I 0 1
+5 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2210
+gog ogre shaman head~
+&+LGog&N, head shaman of &N&+BKr&N&+Lagth&N&+Bor&N~
+&+LThe head shaman of &N&+BKr&N&+Laght&N&+Bor&N&+L, Gog, stands here.&N
+~
+&N   This large &+Bogre &Nis dressed in the traditional garb of the shamans of the
+mountain village, whatever that particular shaman deems fit.  The shamans here
+aren't nearly as structured as some of the other races, and this particular
+&+Bogre&N is a prime example.  He is a large and fat creature, but his powers are
+linked directly to the earth and he can wield those powers very effectively.
+Although he is not the most intelligent creature, he is very wise and knows
+what he's doing.  He is missing all of his teeth and three fingers from his
+left hand.&N
+~
+34890 268435744 0 128 0 -500 S
+PO 0 9
+51 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2211
+human prisoner~
+&Na &N&+Chuman&N prisoner&N~
+&NA &N&+Chuman&N prisoner awaits the cold sleep of death here.&N
+~
+&N   This prisoner was left over from the ogre raid.  He looks quite pitiful
+as he has lived for far too long under the savage control of the&+B ogres&N who now
+live in this mountain village.&N
+~
+67110920 0 0 0 0 400 S
+PH 0 0
+7 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2212
+ogre boy~
+an &N&+Bogre&N boy&N~
+&NA young &N&+Bogre&N boy stands here picking at its head.&N
+~
+&N   This young &+Bogre&N boy looks very dumb.  It is safe to say that this young
+&+Bogre&N will become a warrior or a guard for the city.  He stands at over three
+feet, rather large for his age.  His hair is &+Lblack&N and tussled all about, as
+messy as one could possibly get.&N
+~
+2572 0 0 0 0 -200 S
+PO 0 1
+8 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2213
+ogre call girl prostitute whore~
+&Nan &N&+Bogre&N call girl&N~
+&NA fat and sassy &N&+Bogre&N call girl stands here flaunting her wares.&N
+~
+&N   This &+Bogre&N whore is rather fat.  She has a really bad attitude towards men,
+odd considering her profession.  She walks around like she is the only woman
+in the entire building.  She feels that she is beautiful beyond all measures,
+but that's only if you like your women fat.  Her breasts hang out of her skimpy
+top and she isn't wearing any pants.&N
+~
+2122 0 0 0 0 -199 S
+PO 0 13
+20 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2214
+teenage teenager prostitute ogre whore~
+a teenage prostitute&N~
+&NA teenage &N&+Bogre&N tries to seduce some of the males for money.&N
+~
+&N   This young&+B ogre&N girl has learned the power of sex the hard way.  She was
+brutally raped as a young girl by one of the guards.  After her family left her
+behind she had to find a way to stay alive so she started selling her body.
+She has a very ugly and pock-marked face but her body isn't too bad for an&+B ogre&N
+woman.  Her hair hangs low on her back and has a small braid with a ribbon.&N
+~
+2138 0 0 0 0 -50 S
+PO 0 13
+18 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2215
+male ogre prostitute whore~
+a male &N&+Bogre&N~
+A male &N&+Bogre&N tries to make money by prostituting himself.&N
+~
+&N   This male&+B ogre &Nsells his body to whomever wishes to acquire his company for
+the night or weekend.  His original idea was to sell himself to the richer
+female &+Bogres&N of the village, but what happened was not at all to his liking.
+It turns out that quite a few of the &+Bogre&N guards are quite fond of males.  He
+is often brutally raped and beaten for fun by up to four guards at a time.  His
+face has lost his youthful vibrance and now he wears the sullen face of a
+creature awaiting the cold sleep of death.&N
+~
+2122 0 0 0 0 -400 S
+PO 0 14
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2216
+ogre inn innkeeper male~
+the &N&+Bogre&N innkeeper&N~
+A large and ugly &N&+Bogre&N rents out rooms here.&N
+~
+&N   The innkeeper of &N&+BKr&N&+Lagth&N&+Bor&N is not a very pleasant&+B ogre&N.  His face is quite
+ugly and constantly wears a frown.  One of his front teeth curves up and out of
+his mouth, looking much like a tusk.  His large nostrils flare when he gets
+angry.  He is very large and is a little on the obese side.  He has seen many
+brutal battles and has lived to talk about it.&N
+~
+612378698 128 0 0 0 -450 S
+PO 0 1
+31 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2217
+banker bank ogre~
+&+Lthe &N&+Bogre&N&+L banker&N~
+&NA large &N&+Bogre&N stands here tending to the bank.&N
+~
+&N   This large &+Bogre&N has been entrusted by the village elders to manage whatever
+money the&+B ogres&N can come upon.  All he really does is take the money from the
+raids and gives it to some&+L orc &Nslaves that he has trade with some opportunistic
+&+Chumans&N who don't care much for whom they deal with.  He is a large &+Bogre&N and not
+overly friendly.  His arms are large and full of muscle, but one can see that
+he is on the decline side of his life.  He has a large mustache on his face
+that makes him look rather dignified.&N
+~
+612370506 0 0 0 0 -500 S
+PO 0 1
+56 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2218
+furry rat~
+&+La &N&+Lf&N&+yu&N&+Lr&N&+yr&N&+Ly&N&+y r&N&+La&N&+yt&N~
+&N&+LA &N&+yf&N&+Lu&N&+yr&N&+Lr&N&+yy&N&+L r&N&+ya&N&+Lt cowers on the ground here.&N
+~
+&+L   This rat is covered with thick fur.  It often hides from the large and
+&+Lheavy boots of the &N&+Bogre &N&+Lmales, careless as they are.  It has a long nose with
+&+Lmany wiskers protruding from the snout.  Its small feet have small nails on it
+&+Lthat it uses to hold onto things.&N
+~
+8390730 1572864 0 0 0 0 S
+AR 0 0
+4 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2219
+ogre father~
+&Nan &N&+Bogre&N father&N~
+The head of his household, this &N&+Bogre&N father watches over his family.&N
+~
+&N   This&+B ogre &Nfather has been crippled in a raid and is now unable to help
+with the strikes against neighboring communities.  He has now nothing to do
+besides watch over his family and occasionaly go out into the street to talk
+with the older &N&+Bogres&N.  His hair is a very dark shade of&+y brown&N and he has a
+wicked looking&N&+r s&N&+Lca&N&+rr&N on his face.&N
+~
+603990606 0 0 0 0 -500 S
+PO 0 9
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2220
+ogre totem maker totem-maker shaman~
+&+Lan &N&+Bogre&N&+L totem-maker&N~
+&N&+LAn &N&+Bogre&N&+L totem-worker&N&+L stands here making totems.&N
+~
+&+L   This &+Bogre&N&+L totem-maker is a rather old shaman.  He is larger than an average
+&+Bogre &N&+Land has few that can rival his power in the entire village.  His eyes are
+&+Lbright and his bushy eyebrows make them look devious indeed.  His hair has been
+&+Lbleached &+Wwhite&N&+L by time and his odd nutrition habits.  It seems that he likes
+&+Lto eat unborn babies cooked over a hot fire.  This&+B ogre &N&+Lsells a variety of
+&+Ltotems at reasonable prices.&N
+~
+612378698 0 0 0 0 -900 S
+PO 0 9
+51 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2221
+ogre burly~
+&Na burly &N&+Bogre&N~
+&NA burly &N&+Bogre&N walks through the streets of &N&+BKr&N&+Lagth&N&+Bor&N.&N
+~
+&N   This large and burly &+Bogre&N is walking through the streets.  Where he goes,
+no one cares to ask for her wears such a surly look upon his face.  He doesn't
+seem very friendly and its safe to say that he's in a bad mood.&N
+~
+603981896 0 0 0 0 -700 S
+PO 0 1
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2222
+human leader rebellion slave~
+&Nthe &N&+Chuman&N rebellion leader&N~
+The leader of the &N&+Chuman&N rebellion stands here ready to fight for his freedom.&N
+~
+&N   This &+Chuman&N is the leader of the&+C human&N rebellion.  The &+Chumans&N rarely get
+the chance to attack and fight for their freedom, but when they do they do it
+with all their hearts.  This&+C human &Nhas great standing amongst the few remaining
+slaves and he will not stop until he's free.&N
+~
+1376660748 16 0 0 0 1000 S
+PH 0 1
+31 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2223
+slave human~
+&Na &N&+Chuman&N slave&N~
+&NA &N&+Chuman&N sick of captivity fights for his freedom.&N
+~
+&N   This&+C human &Nis following his heart and his leader.  The brutal fight for
+their freedom has begun.  His eyes dart about very rapidly, looking for the
+fastest way to freedom.&N
+~
+1376135438 0 0 0 0 1000 S
+PH 0 0
+25 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2224
+girl human young slave~
+&Na young &N&+Chuman&N girl&N~
+&NA young &N&+Chuman&N girl follows her father in his flight to freedom.&N
+~
+&N   This young girl is scared out of her mind.  She blindly follows her father,
+hoping he's right about being able to become free of the vile &+Bogres&N.  She is
+young but can fight back.&N
+~
+301996430 0 0 0 0 500 S
+PH 0 14
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2225
+ogre commoner~
+&+Lan &N&+Bogre&N&+L commoner&N~
+&NAn &N&+Bogre&N commoner walks through &N&+BKr&N&+Lagth&N&+Bor&N without a care in the world.&N
+~
+&+L   This &N&+Bogre&N&+L woman is anything but pretty.  Her long black hair hangs lower
+&+Lthan her buttocks and is full of caked on &N&+ymud&N&+L.  She seems a little crazy and
+&+Ldetatched from the rest of the world.  Her husband is more than likely a guard
+&+Lfor the village.  She appears to be a shaman by her dress.&N
+~
+2120 0 0 0 0 -500 S
+PO 0 9
+19 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2226
+girl ogre~
+&+Lan &N&+Bogre&N &+Lgirl&N~
+&NA skinny &n&+Bogre&N girl looks at you dumbly.&N
+~
+&+L   This &N&+Bogre&N&+L girl appears to be more than a little dumb.  She is skinny and
+&+Lshort, probably because she not fed by her family.  &N&+BOgre&N&+L families don't accept
+&+Lor take care of their mentally handicapped children, often killing them out of
+&+Lkindness.  This girl has been kicked out of her home and looks like she's
+&+Lstarving to death.&N
+~
+16779273 0 0 0 0 -300 S
+PO 0 0
+11 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2227
+ogre slave master slave-master~
+&+Lan &N&+Bogre&N&+L slave&N&+W-&N&+Lmaster&N~
+&+LAn &N&+Bogre&N&+L slave&N&+W-&N&+Lmaster&N&+L performs his duties here.&N
+~
+&N   This &+Bogre&N has been assigned the duty of ensuring that the &+Chuman&N slaves he
+has been given perform all their duties.  He is a very viscious&+B ogre &Nthat takes
+great pleasure in brutalizing the slaves wherever and whenever he feels like
+it.  His massive arms and legs are perfect for throwing around multiple slaves
+at once.  He has had this job for a while and killed several slaves during his
+tenure as &N&+Lslave&N&+W-&N&+Lmaster&N.&N
+~
+68036680 0 0 0 0 -1000 S
+PO 0 1
+31 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2228
+slave human~
+a pitiful slave~
+&NA pitiful &N&+Chuman&N slave stands here ready to be beaten to a pulp.&N
+~
+&N   This male&+C human&N has been in captivity even since the&+B ogre&N raid.  He has
+lost a good deal of his weight and muscle mass.  The &+Bogres &Nbeat him senseless
+whenever they feel like it, often knocking him out for the night.  He is kept
+around to do the tedious chores not wanted by an &+Bogre&N.  He looks ver pitiful
+and as if he prays for a quick death.&N
+~
+2122 0 0 0 0 200 S
+PH 0 0
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2229
+ogre warrior grump grumpy~
+&+Lan &N&+Bogre&N&+L warrior&N~
+&NA grumpy looking &N&+Bogre&N is looking for a suitable mate.&N
+~
+&N   This large warrior has reached the age where he must soon find a mate or
+be ridiculed by his fellow warriors.  He has lost a great deal of the left side
+of his face in a savage battle, his eye dead to the world.  He wears a constant
+scowl as he regards those of the female sex.&N
+~
+553678920 0 0 0 0 -750 S
+PO 0 1
+23 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2230
+gross ogre booger~
+&+La gross&N&+B ogre&N~
+&NA &N&+Gbooger&N covered &N&+Bogre&N stands here looking very gross.&N
+~
+&N   This gross &+Bogre&N is covered with its own mucus and &N&+Gboogers&N.  It looks as
+if it has a very bad cold, perhaps pneumonia.  He coughs and weezes often as
+it tries to breath effectively.  He is not a very large creature, probably
+emaciated by the disease that infects his body.  &N
+~
+2632 0 0 0 0 -400 S
+PO 0 0
+18 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2231
+ogre shaman~
+&+Lan &N&+Bogre&N&+L shaman&N~
+&+LAn &N&+Bogre&N&+L shaman practices his dark art here in the cave.&N
+~
+&+L   This male ogre is practicing the powerful magical arts utilized by all of
+&+Lthe &N&+Bogre &N&+Lshamans.  His hair is more than a little messy and his face is tight
+&+Lwith the concentrated need to tap into the magical energies of nature.  He is
+&+Lrather skinny for his age and looks like he's hungry.&N
+~
+620771402 0 0 0 0 -900 S
+PO 0 9
+26 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2232
+ogre woman women working common commoner~
+a working &N&+Bogre&N woman~
+&NA common working &N&+Bogre&N woman stands here eyeing you with contempt.&N
+~
+&N   This woman is about seven feet tall and nearly five hundred pounds.  Her
+face looks tired and recently beaten.  She is a member of the working class,
+getting both no respect and no nice treatment.  She has very short black hair
+and calusses on both hands.  She is the type of &N&+Bogre&N who has made this village
+strong and well maintained.
+~
+2120 0 0 0 0 -500 S
+PO 0 9
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2233
+ogre child mischief~
+&+Lan &N&+Bogre&N&+L child&N~
+&NA silly &N&+Bogre&N child looks for some mischief here in town.&N
+~
+&N   This &+Bogre&N child is up to no good.  It wears a sly grin as it looks about,
+trying to figure out a fun thing to do.  This child appears to be homeless and
+without a care.  The black hair upon its head is messy and tangled about the
+eye brows.&N
+~
+2633 0 0 0 0 -500 S
+PO 0 0
+9 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2234
+large white hare rabbit~
+&Na large &N&+Wwhite hare&N~
+&NA &N&+Wlarge white hare&N bounds through the &N&+gforest&N.&N
+~
+&N   This large &+Wrabbit&N is at peace in the &+gforest&N, never really fearing for its
+life.  It is quite flighty and will often run at the sound of the wind blowing
+through the&+g tree-tops&N.  Its long ears stick up as it listens for intruders.&N
+~
+2248 0 0 0 0 300 S
+A 0 0
+5 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2235
+large ogre lookout warrior~
+&Na large &N&+Bogre&N lookout&N~
+&NA large &N&+Bogre&N warrior scans the surrounding plains for foes.&N
+~
+&N   This &+Bogres&N job is to scan the surrounding areas for both invaders and also
+passing merchants.  More often, he spots caravans that travel too near to this
+village and alerts the village militia.  Hundreds of merchants have been killed
+with the help of this lookout.  His eyes are better than most and shine with
+a&+b blue &Nlight, perhaps even intelligence.  He is bundled up in warm clothes to
+help him fight the cold away.&N
+~
+621164618 4 0 0 0 -900 S
+PO 0 1
+44 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2236
+pissing piss ogre warrior massive~
+a pissing &N&+Bogre&N~
+A massive warrior stands here relieving himself on the eastern wall.&N
+~
+&N   This massive warrior is on a short break from his guard duty.   He has
+opened his pants up to allow him access to his other sword.  He is currently
+&+Ypissing&N on the eastern wall and grunting the entire time.  His pimply face is
+drawn up in an ugly grin.&N
+~
+8398922 0 0 0 0 -300 S
+PO 0 1
+41 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2237
+human slave pitiful~
+a &N&+Chuman&N slave&N~
+A pitiful looking &N&+Chuman&N slave works very hard sweeping the floor of this home.&N
+~
+&N   This woman was captured in the&+B ogre&N raid and has been a servant ever since.
+She has grown very thin, her skin pulled taut against her &+Wbones&N.  Her back is
+bent over from the sheer amount of work she has been forced to do.  A great
+deal of her hair has been ripped out by her master, who enjoys not only the
+constant brutalizing he gives her, but he also occassionally enjoys her in
+other ways.  Whenever a &+Chuman&N woman gets pregnant with an&+B ogre &Nbaby, she is
+immediately turned over to the shamans and rituallistically sacrificied.  It
+is hard to say which would be better, dying or being worked to death.  She was
+once a pretty girl but now she looks as if she craves death either way.&N
+~
+10314 0 0 0 0 300 S
+PH 0 0
+16 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2238
+ogre woman~
+an &N&+Bogre&N woman&N~
+A rather large &N&+Bogre&N woman stands here in her new home.&N
+~
+&N   This large woman is the head of her household when her husband is away.
+She is a very tough woman who can hold her own against any slave in the entire
+village and over half of the younger guards.  Her large forehead is covered
+with nasty looking scars from the brutal headbutts she has delivered.  She is
+a savage fighter, but a loving mother.  She takes good care of her children.&N
+~
+10314 0 0 0 0 200 S
+PO 0 15
+26 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2239
+female woman ogre shaman~
+&Nan &N&+Bogre&N shaman&N~
+&NThis large female&N&+B ogre&N is practicing her shaman skills.&N
+~
+&N   This rather large female is one of the newer&N&+B ogre &Nshamans.  She is quite
+ugly and a few hundred pounds over-weight.  Her clothes are very plain and
+dirty looking, as if they haven't been washed in quite some time.  She scowls
+almost all the time, as if she does not enjoy life.  Her face looks sullen and
+her eye-sockets are depressed a little too far into her fat face.&N
+~
+83896392 0 0 0 0 -400 S
+PO 0 9
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2240
+ogre moga shopkeeper sly~
+&N&+BMoga&N, the shopkeeper&N~
+&NA large and sly looking &N&+Bogre&N stands here looking over his wares.&N
+~
+&N  &+B Moga&N is a large&+B ogre&N whose past life as a mercenary has allowed him to make
+quite a few platinum coins selling the stolen goods to those of his village.
+He stands at over seven feet tall and looks like he's made of solid muscle.  A
+small and funny looking &+Lbeard&N has formed on his chin and he is too lazy to cut
+it off.  There is a long and ugly &N&+Mbir&N&+mthmark &Non his cheek that looks like a full
+&N&+Cmoon&N.  He was often called "The &N&+LDeath &N&+CMoon&N" by his fellow warriors for his
+awesome displays of night raiding ability.  He is a very good business man but
+will not offer many good deals.&N
+~
+12362 0 0 0 0 -800 S
+PO 0 15
+51 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2241
+shaman ogre deranged~
+&+La de&N&+rr&N&+Lan&N&+rg&N&+Led&N&+B ogre&N&+L shaman&N~
+&+LA de&N&+rr&N&+Lan&N&+rg&N&+Led&N&+B ogre&N&+L shaman tears around looking for something to kill.&N
+~
+&N   This crazy shaman is more than a little pissed.  His eyes are filled with
+a crazy &N&+rrage&N as he looks for someone to kill.  His hair is long and is wildly
+layered over his head.  There are large patches of shaved scalp visible, which
+are covered with &N&+Rred tatoos&N.  He once had a place in the&N&+B ogre &Nsociety but now
+is regarded as an untouchable.  He is supported by the tribe, but not talked
+to.  He is allowed to do whatever he wants, he just isn't allowed to speak with
+others.  He is powerful for a young shaman but does not know nearly enough to
+become overly powerful.&N
+~
+1962950504 136 32768 128 0 -1000 S
+PO 0 9
+21 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2242
+human slave crazy~
+&Na crazy slave&N~
+&NThis slave has gotten loose and is attacking everything!&N
+~
+&N   This slave has some how managed to break free of its holding cell or
+master.  He is filled with &N&+rbloodlust &Nand attacking everything and anything
+that comes near him.  He is not a large man but is deadly all the same.&N
+~
+872955884 16 0 0 0 -300 S
+PH 0 1
+12 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2243
+bear black huge~
+&+La black bear&N~
+&+LA large black bear looks for something to eat here.&N
+~
+&+L   This huge black bear is a killer, plain and simple.  It is not like some
+&+Lof the more docile bears who scrounge for berries or nuts.  In fact, this bear
+&+Ldoesn't eat anything but meat.  He is a savage and feral creature that will
+&+Lattack any creature it feels like attacking.&N
+~
+1879060328 0 0 0 0 -500 S
+A 0 0
+15 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2244
+ogre girl small~
+&Nan &N&+Bogre&N girl&N~
+A small &N&+Bogre&N girl looks for something to do.&N
+~
+&N   This small &N&+Bogre&N girl looks happy.  She is currently looking for something
+to do, as she has grown bored from being inside all day.  Her life is not so
+bad at the moment, because she eats well and has no real adult responsibilities
+to deal with.  She is small for an&N&+B ogre&N, but she will grow up to be huge.&N
+~
+2122 0 0 0 0 -200 S
+PO 0 0
+11 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2245
+ogre elderly old~
+&Nan elderly &N&+Bogre&N~
+An ancient &N&+Bogre&N sits here silently, looking both timeless and noble.&N
+~
+&N   This ancient &N&+Bogre &Nhas been through everything this tribe has experienced
+in the past hundred years.  Not even he is sure of exactly how old he is, but
+he was a young boy when the tribe still wandered nomadically around the vast
+plains.  He is covered with many long and wicked looking &N&+Lscar&N&+rs&N, proof of his
+worth in battle even still.  He was on the front line of the&N&+B ogre&N raid, even
+at his advanced age.  His hair has turned almost&N&+W stark white&N, bleached by the
+sun and by time.  He prefers to live in his&N&+y deer hide tent&N, much like the old
+ways of his people.
+&N   Although he could still pick up a large &N&+csword&N to defend himself, this &N&+Bogre&N
+rarely does.  Instead he enjoys watching over the younger &+Bogres&N as they play
+and wrestle.  He is no longer filled with the &N&+rbloodlust&N and savagery of the
+warring people he lives amongst.  He is a kind creature and is revered by his
+tribe.  His name has been forgotten by even him, but is simply called "the
+important one" by all in the city of&N&+B Kr&N&+Lagth&N&+Bor&N.&N
+~
+67119178 268435600 64 2097216 270336 -100 S
+PO 0 1
+56 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2246
+ogre large~
+&Na large &N&+Bogre&N~
+&NA large &N&+Bogre&N sits here eating his meal.&N
+~
+&N   This large &N&+Bogre&N has recently seen battle.  He is wearing some fresh wraps
+on his arm to help the healing process along.  This is one large&+B ogre&N, no doubt
+a fearsome warrior.  He is wearing the clothes of a soldier, and probably
+carrying the coins of an unlucky merchant.  His &+Ljet black hair &Nhangs down on
+his back.&N
+~
+603990090 0 0 0 0 -400 S
+PO 0 1
+44 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2247
+ogre mercenary guard~
+an &N&+Bogre&N mercenary&N~
+An &N&+Bogre&N mercenary of the &N&+rRed Eye&N stands guard here.&N
+~
+&N   This large &+Bogre &Nhas joined up with the Mercenaries of the &+rRed Eye&N.  The
+guild is in no way secret, but few are allowed to join.  The &+Bogres &Nare not
+exactly team players, as their raids are often not coordinated with the raids
+of the village.  He is a huge creature and is covered with many gross looking
+battle scars.  His thick layer of muscle covers his body like a shield of
+strength.  Although he is a brutal fighter, he is quite intelligent.  The &N&+rRed&N
+&N&+rEye&N does not accept morons. &N
+~
+1073743948 0 0 0 0 -409 S
+PO 0 15
+31 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#2248
+human smelly~
+&Na smelly &N&+Chuman&N~
+A smelly &N&+Chuman&N stands here in the corner looking embarassed.&N
+~
+&N   This poor woman has been forced to live the end of her life here in the
+former&N&+C human &Nschool.  She is often raped by the other inmates, something that
+neither bothers nor affects her &N&+Bogre &Ncaptives.  She was once a pretty young
+girl, but her years of captivity have turned her into an ugly, sullen thing.
+She still looks strong, but probably has put her mind in another place, so now
+she mearly exists instead of lives.&N
+~
+67110984 0 0 0 0 300 S
+PH 0 1
+18 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 2
+#2249
+ogre elderly~
+&Nan elderly &N&+Bogre&N~
+&NAn elderly &N&+Bogre&N is here looking for something to do.&N
+~
+&N   This elderly &N&+Bogre&N is wandering about the city looking for something to do.
+Long &N&+Lblack hair &Ndrapes over its shoulders, looking like it is thinning and
+falling out.  The creatures face is covered with wrinkles and small poch marks.
+This is an older&N&+B ogre &Nin the village and has brought into life a long and
+powerful line of warriors.  &N
+~
+2120 0 0 0 0 -400 S
+PO 0 1
+30 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 0
+#2250
+teenage ogre boy~
+a teenage &N&+Bogre&N~
+A teenage &N&+Bogre&N rests here in his newly acquired home.&N
+~
+&N   This teenager is starting to grow into the full grown size of the &N&+Bogre&N men.
+He is starting to acquire the thick layer of muscle that makes the &N&+Bogre &Nrace so
+unique and powerful.  He has a thick mane of&N&+L black hair &Nthat hangs halfway down
+his back.  His eyes are still shining with a luster only found in the young.
+He still does not have many scars on his body, and his face is remarkably clear
+for one his age.&N
+~
+2122 0 0 0 0 -500 S
+PO 0 15
+26 0 0 1d1+1 1d1+1
+0.0.0.0 0
+8 8 1
+#0
+#BASTOBJECTS
+#2200
+fountain~
+a fountain~
+A simple &N&+Ls&N&+Wt&N&+Lo&N&+Wn&N&+Le&N fountain has been filled with &+Bwater&N here.&N~
+~
+17 11 3 0 3 0 0 0 0 1 0
+99999999 -1 0 0 0 0 0 0
+-1 0 100
+E
+fountain~
+&N   This simple&N&+L s&N&+Wt&N&+Lo&N&+Wn&N&+Le&N fountain provides a constant &+Bwater&N supply.  The artesian
+well that is tapped far beneath the the mountains provides an unlimited supply.
+The fountain itself is merely a &N&+Ls&N&+Wt&N&+Lo&N&+Wn&N&+Le&N ring around an open &N&+Bpool&N of &+Bwater&N.  The
+&+Bwater&N looks to be fresh.  There is a &+ywooden stake&N that has been set into a
+stone support.  Upon the stake is a &N&+CHuman&N &+Wskull.&N
+~
+E
+head skull human stake~
+&N   This&N&+C human&+W skull&N has been imapaled in a visciously barbed &+ywooden stake&N.
+The &+Wskull&N appears to be that of a young male warrior.  His face is forever
+frozen in a look of pure terror.  His eyes have been picked out by birds or
+maggots long ago.&N
+~
+#2201
+dagger black~
+&+La black hil&N&+Wted &N&+Ldag&N&+Wger&N~
+&+La dagger with a black hilt lies upon the ground here.&N~
+~
+5 15 3 0 4 0 262144 8193 0 122882 0
+2 2 2 11 0 0 0 0
+4 0 100
+E
+dagger black~
+&N   This dagger has a&N&+L black&N hilt and a silver blade.&N
+~
+A
+18 1
+#2202
+two handed sword claymore two-handed~
+&+La two-handed &N&+Wclay&N&+Lmore&N~
+A large sword lies on the ground looking very forgotten&N~
+~
+5 15 3 0 3 0 4194304 8193 0 2 0
+13 2 5 3 0 0 0 0
+13 0 100
+E
+two handed sword claymore~
+&N   This huge claymore is forged from some very sturdy steel.  It is very
+heavy and cumbersome.&N
+~
+A
+19 2
+#2203
+club wooden wood~
+&+ya w&N&+Lo&N&+yo&N&+Ld&N&+ye&N&+Ln&N &N&+yc&N&+Ll&N&+yu&N&+Lb&N~
+A &+ywooden club&N has been left behind and lies upon the ground&N~
+~
+5 6 3 0 3 0 0 8193 0 7968 0
+10 2 2 6 0 0 0 0
+6 0 100
+E
+club wooden wood~
+&N   This wooden club is smooth and easy to hold.&N
+~
+#2204
+sign wooden wood~
+&+ya wooden sign&N~
+a &N&+ypiece of wood&N lies here in the&N&+L dirt&N~
+~
+13 5 3 0 3 0 249856 0 0 1 0
+0 0 0 0 0 0 0 0
+-1 0 100
+E
+sign wooden wood~
+&N   The sign reads:
+&N
+&N       --_---=-^^=----==--==----=====-=
+&N       |&+L   Thornthor      &N&+yone mile   &N |
+&N       ^^^^^^^---^^^^^^^^===^^^^-==^^^=
+~
+#2205
+tree~
+&+ya large tree&N~
+&+yA large &N&+gtree&N&+y has fallen down upon the ground.&N~
+~
+5 5 3 0 2 0 4263936 8193 0 662568962 8077
+10 2 3 7 0 0 0 0
+20 0 100
+E
+tree~
+&N   This&+g tree&N is a &+gtree&N.  Looks very heavy.&N
+~
+A
+18 1
+#2206
+human corpse~
+&+Wa &N&+Chuman&N&+W corpse&N~
+The corpse of a long dead &N&+Chuman&N lies here in the corner.&N~
+~
+15 10 3 0 3 0 0 0 0 1 0
+100 0 0 100 0 0 0 0
+5 0 100
+E
+human corpse~
+&N   This&+C human&N was brutally killed when the&+B ogre&N minions sacked the city.  His
+head appears to have been caved in by a large and blunt object, probably a&N&+g tree&N
+or massive &N&+yclub&N.  Many of the wretched &+Chumans&N ribs have been smashed as well.
+It is safe to say that this full grown man died an agonizing death.&N
+~
+#2207
+human leg~
+a &n&+rh&n&+cuma&n&+rn&n &+rl&n&+We&n&+rg&n~
+Bleeding freely a severed &+rl&n&+We&n&+rg&n is here looking tasty.~
+~
+19 2 3 0 7 0 0 16385 0 1 0
+24 0 0 0 0 0 0 0
+3 0 100
+E
+human leg~
+&N   This leg has been severed near the hip.  It is still dripping some &+rblood&N.&N
+~
+#2208
+cast iron cast-iron stove~
+&+La cast-iron stove&N~
+&+LA cast-iron stove rests here, ready to be used.&N~
+~
+15 15 3 0 10 0 0 0 0 1 0
+5 1 0 10 0 0 0 0
+-1 0 100
+E
+cast iron cast-iron stove~
+&N   This stove was once used to cook food and to heat the house.  It is now
+cold and empty.&N
+~
+#2209
+dead dog corpse~
+&+ya dead dog&N~
+The long dead corpse of a &N&+ydog&N lies here upon the floor boards.&N~
+~
+15 2 3 0 3 0 0 0 0 1 0
+4 0 0 4 0 0 0 0
+-1 0 100
+E
+dead dog corpse~
+&+y   This dead dog once lived happily in this home.  It was killed in the &+Bogre
+&N&+yraid but the corpse was forgotten and ended up rotting before they could eat
+&+yit.  The dogs eyes have been eaten out by &N&+Wmaggots&N&+y.&N
+~
+#2210
+bed~
+a large bed&N~
+A large bed rests here in the center of the room.&N~
+~
+15 5 3 0 10 0 0 0 0 1 0
+100 0 0 100 0 0 0 0
+-1 0 100
+E
+bed~
+&N   This large bed was once used by the &+Chuman&N children that lived here.  They
+shared the bed to keep warm in even the coldest of winter nights.  The beds
+headboard is carved from a &+ydark oak&N as is the foot board.  The quilts that now
+lie on the bed are the same ones that were there before the &+Bogre &Nraid, a somber
+reminder of the peaceful times before.  The bed is covered with a thick layer
+of dust that has settled since then.&N
+~
+#2211
+barrel wooden water~
+&+ya wooden barrel&N~
+&+yA large wooden water barrel rests here near the wall.&N~
+~
+17 6 3 0 3 0 0 0 0 1 0
+10 10 0 0 0 0 0 0
+-1 0 100
+E
+barrel wooden water~
+&+y   This wooden barrel is filled with crystal cool &N&+Bwater&N&+y.  The wooden boards
+&+yare held together by &N&+Cm&N&+ce&N&+Ct&N&+ca&N&+Cl &N&+ybands.  The top has been removed to allow access to
+&+ythe water.&N
+~
+#2212
+corpse woman~
+&Na dead corpse&N~
+&NThe corpse of a pregnant woman lies here on the ground.&N~
+~
+15 10 3 0 5 0 0 0 0 1 0
+100 0 0 100 0 0 0 0
+-1 0 100
+E
+corpse woman~
+&N   This woman was killed in the&+B ogre &Nraid, a sad reminder of the mortal loss
+incurred during that fateful day.  Her&+r blood&N-&N&+rsoaked &Nhair stuck to the floor
+but the &+Lcarrion&N and &N&+Lflies&N have devoured most of her hair.  She was pregnant
+when she died, the child never having a chance at life.&N
+~
+#2213
+fetus dead~
+a dead fetus&N~
+A badly decomposed and dried out fetus lies here on the ground.&N~
+~
+19 2 3 0 9 0 4096 16385 0 1 0
+1 0 0 0 0 0 0 0
+3 0 100
+E
+fetus dead~
+&N   This baby was nevered nursed into its life outside the womb.  It was killed
+the moment its mother stopped breathing.  The &+Bogre&N who killed the woman was
+more than likely happy to know that this unborn child died with the mother.&N
+~
+#2214
+wooden work bench table~
+&+ywooden work bench&N~
+&+LA &N&+ywooden work bench&N&+L rests here in the center of the room.&N~
+~
+15 6 3 0 10 0 0 0 0 1 0
+10 0 0 10 0 0 0 0
+-1 0 100
+E
+wooden work bench table~
+&N   This work bench is where the shaman crafts his powerful magical totems.
+There are various wood and stone working tools resting on the table.  An old
+oil lamp rests here on the table to provide ample light to work.&N
+~
+#2215
+totem stone stonewood~
+&+La stonewood totem&N~
+&+LA totem made from stone lies here upon the ground.&N~
+~
+34 11 3 0 7 0 65608 16385 0 256 0
+4 0 0 0 0 0 0 0
+4 0 100
+E
+totem stone stonewood~
+&+L   This stone totem has been shaped into a roughly square shape.  It has a
+&+Lmagical presence to it, its power seeming to pulsate as if it were waiting to
+&+Lbe released.  It is not an expensive totem, but it gets the job done.&N
+~
+#2216
+fetus cooked cook~
+&N&+La cooked fetus&N~
+&+LA charred fetus lies here upon the ground covered with &N&+Wmaggots&N~
+~
+19 2 3 0 3 0 98312 16385 0 1 0
+1 0 0 0 0 0 0 0
+4 0 100
+E
+fetus cooked cook~
+&N   This unborn child has been roasted and cooked over a hot fire.  The face
+and head of this creature have been burnt and charred to give it a very odd
+and disturbing look.&N
+~
+#2217
+totem pulsating black~
+&+La &N&+Cpu&N&+cls&N&+Cat&N&+cin&N&+Cg&N &+Lblack totem&N~
+&+LA black totem lies here on the ground humming with energy.&N~
+~
+34 11 3 0 10 0 65609 16385 0 256 0
+12 0 0 0 0 0 0 0
+8 0 100
+E
+totem pulsating black~
+&N   This black totem is a very powerful item.  It pulses with great energy
+and is a very powerful weapon in the hands of a shaman.&N
+~
+A
+3 2
+A
+13 14
+#2218
+woman corpse dead~
+a dead woman~
+A womans corpse lies here on the floor, almost decomposed.&N~
+~
+15 2 3 0 10 0 0 0 0 1 0
+15 0 0 15 0 0 0 0
+-1 0 100
+E
+woman corpse dead~
+&N   This woman was once the matron of the family that lived in this house.  She
+was once a beautiful woman but the ogres smashed her with large and spiked
+clubs until she no longer moved.  Her head is almost gone, destroyed during the
+raid.&N
+~
+#2219
+baby decomposed corpse fetus~
+a decomposed baby&N~
+A decomposed baby lies here on the ground attracting flies.&N~
+~
+19 2 3 0 10 0 4096 16385 0 1 0
+1 0 0 0 0 0 0 0
+6 0 100
+E
+baby decomposed corpse fetus~
+&N   This baby died when its mother did.  It has decomposed inside her womb,
+never getting to see the light of day.  Its skin has been removed by the bugs
+and&+W maggots &Nthat devoured its mother.&N
+~
+#2220
+baby roasted corpse~
+a roasted baby&N~
+A small baby lies here after being roasted over a hot fire.&N~
+~
+19 2 3 0 10 0 8 16385 0 1 0
+1 0 0 0 0 0 0 0
+4 0 100
+E
+baby roasted corpse~
+&N   This baby has been roasted over a hot fire.  Its eyes have burst in the
+heat of the flames.  All in all a sad sight.&N
+~
+#2221
+eagle wood wooden totem~
+&+ya wooden eagle&N~
+&+yA wooden totem shaped like an eagle lies here upon the ground.&N~
+~
+34 5 3 0 10 0 98377 16385 0 256 0
+48 0 0 0 0 0 0 0
+3 0 100
+E
+eagle wood wooden totem~
+&N   This totem is shaped like a great bald eagle.  The wings of the eagle are
+spread wide as if it is flying.  The totem is used to connect to the spirits
+on the other side.  It has a magical presence to it.&N
+~
+A
+1 1
+A
+13 13
+#2222
+totem copper lion~
+&+ya copper lion&N~
+A small &N&+ycopper&N figurine lies here upon the ground.&N~
+~
+34 21 3 0 10 0 65609 16385 0 256 0
+2 0 0 0 0 0 0 0
+10 0 100
+E
+totem copper lion~
+&N   This totem is in the shape of a lion.  It has been fashioned out of copper
+and looks like an expensive relic.  The true power of this item is in the many
+magical attributes. One can access to powers of the animals with this totem.&N
+~
+A
+5 1
+A
+13 9
+#2223
+armor kragthor~
+&+La set of &N&+BKr&N&+Lagth&N&+Bor&N&+L armor&N~
+&+LA set of black armor lies discarded on the ground here.&N~
+~
+9 14 3 0 3 0 65536 9 0 32798 0
+10 0 0 2 0 0 0 0
+10 0 100
+E
+armor kragthor~
+&+L   This set of black armor is made of heavily tanned leather.  The armor
+&+Lbears the name of &N&+BKr&N&+Lagth&N&+Bor&N&+L.&N
+~
+A
+1 -1
+#2224
+jagged piece metal~
+&+La jagged piece of metal&N~
+&+LA jagged piece of metal lies here upon the ground.&N~
+~
+13 15 3 0 1 0 98312 16385 0 1 0
+0 0 0 0 0 0 0 0
+5 0 100
+E
+jagged piece metal~
+&N   This jagged piece of metal was probably originally used to sever the ropes
+that held the slaves to the wall.  It is so jagged it cannot even be used as
+a weapon.&N
+~
+#2225
+black mace~
+&+La black mace&N~
+&+LA black mace lies here upon the ground.&N~
+~
+5 15 3 0 7 0 114760 24577 0 33026 0
+6 2 7 6 0 0 0 0
+8 0 100
+E
+black mace~
+&N   This bald mace was probably stolen from the blacksmiths as the slaves
+planned their brave escape.  It is not an impressive piece but it does not
+appear as if it was finished.  Perhaps it means something to the former owner.&N
+~
+#2226
+spiked mace~
+&+La spiked mace&N~
+&+LA spiked mace lies here upon the ground forgotten.&N~
+~
+5 15 3 0 10 0 65536 8193 0 1 0
+7 4 5 6 0 0 0 0
+12 0 100
+E
+spiked mace~
+&N   &+LThis spiked mace was made in the &N&+Bogre &N&+Lvillage of &N&+BKr&N&+Lagth&N&+Bor&N&+L.&N
+~
+A
+18 2
+#2227
+corpse charred body human~
+&+La charred corpse&N~
+&+LThe charred corpse of a &N&+Chuman&N&+L lies here on the ground.&N~
+~
+15 2 3 0 4 0 4096 0 0 1 0
+18 0 0 18 0 0 0 0
+-1 0 100
+E
+corpse charred body human~
+&+L   This body was consumed in the &N&+rfire&N&+L.  The body is so badly burnt that it
+&+Lis almost impossible to tell even what race this creature is.  The &N&+Wbones&N&+L are
+&+Lbrittle and turn to dust easily.  The&N&+W bones &N&+Lare held together by thin strip of
+&+Lflesh that did not completly burn off.  The &N&+Wwhite bones &N&+Llook very odd amongst
+&+Lall the black ash and soot.&N
+~
+#2228
+board wooden boards~
+&+ya floor board&N~
+&+yOne of the many broken floor boards sticks out here.&N~
+~
+25 5 3 0 7 0 2 0 0 1 0
+2322 340 0 0 0 0 0 0
+-1 0 100
+E
+board wooden~
+&+y   This floor board sticks out of the floor, obviously broken in half.  If
+&+yone pulled on it the entire floor might give out.  It has a very jagged edge
+&+ythat could seriously injure a child playing here.&N
+~
+#2229
+rope~
+&+ya brown rope&N~
+&+yA brown rope hangs down from the room above.&N~
+~
+25 43 3 0 7 0 0 0 0 1 0
+2283 20 0 0 0 0 0 0
+-1 0 100
+E
+rope~
+&+y   This sturdy rope leads up to the floor of the house.&N
+~
+#2230
+dead corpse male adolescent~
+&+La dead corpse&N~
+&+LThe corpse of a male adolescent lies here in the darkness.&N~
+~
+15 2 3 0 7 0 0 0 0 1 0
+10 0 0 10 0 0 0 0
+-1 0 100
+E
+dead corpse male adolescent~
+&+L   This boy was on the verge of his teenage years when the &N&+Bogres &N&+Ldestroyed
+&+Lhis village.  He stayed with his family as they hid from the savage brutes.
+&+LHe was there when they destroyed his home.  He died here in the dark from
+&+Lstarvation.&N
+~
+#2231
+corpse woman womans~
+&+La womans corpse&N~
+&+LThe corpse of the mother of the family rests here in the dark.&N~
+~
+15 2 3 0 7 0 0 0 0 1 0
+10 0 0 10 0 0 0 0
+-1 0 100
+E
+corpse woman womans~
+&+L   This woman tried to hold her family together but there food supply ran
+&+Lout too fast.  She was the first to die as she had forced her children to eat
+&+Lher food before she would.  She slipped into the darkness of death while her
+&+Lfamily slept which was probably a good thing.  She didn't want to see their
+&+Lfaces as she passed from this realm.&N
+~
+#2232
+male father corpse~
+&+La male corpse&N~
+&+LThe corpse of the father of this family lies here.&N~
+~
+15 2 3 0 7 0 0 0 0 1 0
+10 0 0 10 0 0 0 0
+-1 0 100
+E
+male father corpse~
+&+L   This male hoped in vain that some help would come from outside the village.
+&+LThe &N&+Bogres &N&+Lover ran them to fast to send a messanger to any nearby communities.
+&+LHe died with the thoughts of &N&+Bogres&N&+L finding him and slaughtering his family in
+&+Lfront of his dying eyes.  That never happened, but he did watch his family die
+&+Lone by one before he did.  His face remains drawn back in the look of him
+&+Lcrying.&N
+~
+#2233
+girl baby corpse~
+&+La baby girl&N~
+&+LThe youngest of the family, this baby girl died from starvation.&N~
+~
+15 2 3 0 7 0 118792 16385 0 1 0
+1 0 0 1 0 0 0 0
+1 0 100
+E
+girl baby corpse~
+&+L   This baby girl died along with the rest of her family.  She was far too
+&+Lyoung to have perished from this world.  She might have grown up to be a great
+&+Lperson in her village.  The savage &N&+Bogres&N&+L never gave her the chance.&N
+~
+#2234
+cooked baby~
+&+La cooked baby&N~
+&+LA cooked baby lies here upon the ground.&N~
+~
+19 2 3 0 7 0 0 16385 0 1 0
+1 0 0 0 0 0 0 0
+2 0 100
+E
+cooked baby~
+&+L   This baby has been cooked and is ready to be eaten.  Looks yummy.&N
+~
+#2235
+symbol badge kragthor~
+&+La symbol of &N&+BKr&N&+Laghth&N&+Bor&N~
+&NA cloth badge has been left behind here.&N~
+~
+13 3 3 0 4 0 65544 2097153 0 1 0
+0 0 0 0 0 0 0 0
+1 0 100
+E
+symbol badge kragthor~
+&N   This is the symbol of the ogre village &N&+BKr&N&+Lagth&N&+Bor&N.&N
+~
+#2236
+pile empty containers container~
+pile of empty containers~
+&+LA pile of empty food containers lies here in the corner.&N~
+~
+15 1 3 0 3 0 69632 0 0 1 0
+10 0 0 10 0 0 0 0
+-1 0 100
+E
+pile empty containers container~
+&+L   This pile consists of many empty jars and tins.  These food containers
+&+Lwere the final meals of the &N&+Chuman&N&+L family that died here beneath the floor of
+&+Ltheir own home.  The food was originally saved in case of a bad&N&+W snow&N&+L-storm or
+&+Lother natural occurance.  The food didn't last nearly long enough for the
+&+Lfamily to outlaste the &N&+Bogre&N&+L occupation.  It lies here in the corner cleaned of
+&+Lall food.&N
+~
+#2237
+forked whip~
+&+ya forked whip&N~
+A brutal looking forked whip lies here upon the ground.&N~
+~
+5 14 3 0 10 0 65536 8193 0 1 0
+14 3 3 2 0 0 0 0
+3 0 100
+E
+forked whip~
+&N   This&+y forked whip&N is used in&N&+B Kr&N&+Lagth&N&+Bor&N by the&+B ogres&N to brutalize their &+Chuman &N
+slaves.  It is a mean looking weapon.&N
+~
+A
+2 2
+#2238
+dead human corpse warrior~
+a dead &N&+Chuman&N~
+&NThe corpse of a dead &N&+Chuman&N&+L warrior&N lies here on the ground.&N~
+~
+15 2 3 0 10 0 114688 0 0 1 0
+10 0 0 10 0 0 0 0
+-1 0 100
+E
+dead human corpse warrior~
+&N   This brave&N&+C human&N&+L warrior&N died defending his homeland.  He fought bravely
+but didn't slay a single &+Bogre&N in the furious fighting.  He fought with a team
+of men, whom together provided the greatest resistance against the powerful
+&+Bogres&N.  They were quickly destroyed by the &+yheavy clubs&N the&N&+B ogres &Ncarried with
+them.  This corpse is missing its&+r head&N, taken off by a&+y spiked club&N.  The skin
+and&+W bones&N are all that remains of this &+Wmaggot&N infested corpse.&N
+~
+#2239
+skull head human~
+a &N&+Chuman&N head&N~
+A severed &N&+Chuman&N head lies here on the road.&N~
+~
+15 2 3 0 10 0 245760 0 0 1 0
+10 5 0 10 0 0 0 0
+-1 0 100
+E
+head human severed~
+&N   This severed&N&+C human &N&+rhead&N was once attached to a human &+Lwarriors&N body.  It
+more than likely came from the corpse located to the east of here.  A viscios
+swing of an &+Bogre &N&+yclub&N took this head off and threw it through the air.  The
+hair is matted with&+r blood &Nand the&+L crows&N have picked they &+Weyes&N out of their
+sockets.  The face is twisted forever in a look of pure fright.&N
+~
+#2240
+human brains brain~
+&+Lsome &N&+Chuman&N&+m brains&N~
+&NSome &N&+Chuman&N &+mbrains&N have been discarded here on the ground.&N~
+~
+19 2 3 0 10 0 249857 8404993 0 1 0
+50 0 0 0 0 0 0 0
+2 0 100
+E
+human brains brain~
+&+m   These&N&+C human&N&+m brains are fleshy and tender.  They look very tasty and good
+&+min their raw state.  There are&n&+b blue veins&N&+m visible on the surface of the flesh,
+&+mlooking like rivers through the brain matter.&N
+~
+#2241
+cat dead corpse~
+&Na dead &N&+Lc&N&+Wa&N&+Lt&N~
+&NA dead &N&+Lc&N&+Wa&N&+Lt&N lies here &N&+rs&N&+Lqu&N&+ras&N&+Lh&N&+re&N&+Ld&N into the ground.&N~
+~
+15 2 3 0 7 0 245760 0 0 1 0
+4 0 0 4 0 0 0 0
+-1 0 100
+E
+cat dead corpse~
+&N   This &+Lc&N&+Wa&N&+Lt&N was more than likely smashed under the foot of an &+Bogre&N.  It is
+impossible to tell if this &N&+Lc&N&+Wa&N&+Lt&N was killed for fun or if it was a mere accident.
+One can see the insides of the&N&+L c&N&+Wa&N&+Lt&N sprayed out around it.  The corpse is badly
+mangled and is attracting a good deal of&N&+L flies&N.&N
+~
+#2242
+table brown~
+&+ya brown table&N~
+A &+ybrown table&N sits here in the center of the room.&N~
+~
+13 5 3 0 7 0 16384 0 0 1 0
+0 0 0 0 0 0 0 0
+-1 0 100
+E
+table brown~
+&N   This small &+ytable&N is covered with small pieces of food and assorted knives.
+There are many assorted scars dug into the &+ywood&N by swords or daggers.  The
+&+ywooden legs &Nare rather unstable and the&+y table &Nis easily overturned.&N
+~
+#2243
+robes ceremonial robe~
+&+Lsome ceremonial robes&N~
+&+LA large pile of cloth lies here upon the ground.&N~
+~
+9 3 3 0 10 0 254016 17409 0 939393280 8079
+12 0 0 1 0 0 0 0
+8 0 100
+E
+robes ceremonial robe~
+&+L   These black robes are covered with old runes.  They appear to be that of
+&+La powerful shaman, more than likely an &N&+Bogre&N&+L.  They are large and volumonous.
+&+LThere is a symbol of a mountain on the back.&N
+~
+A
+4 5
+A
+13 10
+#2244
+meat rabbit chunk~
+a chunk of rabbit meat&N~
+&NA piece of rabbit meat lies here upon the ground.&N~
+~
+19 48 3 0 7 0 4096 16385 0 1 0
+5 0 0 0 0 0 0 0
+3 0 100
+E
+meat rabbit chunk~
+&N   This is a piece of raw meat.  It looks rather tasty and does not need to
+be cooked.  Small bits of fur still cling to the flesh of the meat.&N
+~
+#2245
+human hanging corpse swing~
+&Na hanging &N&+Chuman&N~
+&NA dead &N&+Chuman&N sways back and forth from the &N&+ywooden&N gallows.&N~
+~
+15 2 3 0 10 0 67338248 0 0 1 0
+10 0 0 10 0 0 0 0
+-1 0 100
+E
+human hanging corpse swing~
+&N   This&+C human &Nhas been hung as a reminder to the slaves.  The body is starting
+to decompose as it sways to and fro in the wind.  The creatures eye sockets
+are empty, the&N&+W e&N&+Ly&N&+Wes&N eaten by&+L crows&N and &+Lflies&N.  There is a great deal of post
+mordem wounds on the corpse, inflicted out of sheer wickedness by the &+Bogre&N
+children.&N
+~
+#2246
+ogre made bracer~
+&+Lan &N&+Bogre&N&+L made bracer&N~
+&+LAn &N&+Bogre&N&+L made bracer lies here upon the ground.&N~
+~
+9 15 3 0 3 0 245760 4097 0 2 0
+5 0 0 3 0 0 0 0
+10 0 100
+E
+ogre made bracer~
+&N   This bracer is made of iron and was made by an&+B ogre&N artisan.  It is more
+ceremonial than functional, a symbol of leadership.&N
+~
+A
+18 3
+A
+5 -10
+#2247
+straw broom~
+&+Ya straw broom&N~
+&NA &N&+Ybroom&N made out of &N&+Ystraw&N has been left behind here.&N~
+~
+5 5 3 0 7 0 0 0 0 1 0
+10 2 2 6 0 0 0 0
+3 0 100
+E
+straw broom~
+&+Y   This broom is used for cleaning.  It is made of a&N&+y wooden handle &N&+Yand a
+&+Ynice straw head.&N
+~
+#2248
+knife butcher butchers large sharp~
+&+La sharp butchers knife&N~
+&+LA large knife lies here upon the ground.&N~
+~
+5 15 3 0 10 0 256 8193 0 123934 0
+2 3 3 11 0 0 0 0
+4 0 100
+E
+knife butcher butchers large sharp~
+&N   This sharp butchers knife is used to cut and skin various meat and meat
+carcasses.  It's fine blade can cut through many hard surfaces, including bone
+and some forms of metal.&N
+~
+A
+18 2
+A
+13 10
+#2249
+torch huge wooden~
+&+La huge &N&+yto&N&+rr&N&+ych&N~
+&+LA huge &N&+ywooden to&N&+rr&N&+ych&N&+L rests on both sides of the path. &N&+W(illuminating)&N.&N~
+~
+13 6 3 0 10 0 262144 0 0 1 0
+0 0 0 0 0 0 0 0
+-1 0 100
+E
+torch huge wooden~
+&+y   This torch &N&+Willuminates&N&+y the path with an eerie magical light.&N
+~
+#2250
+bp backpack large leather~
+&+ya large backpack&N~
+&NA large pile of leather lies here upon the ground.&N~
+~
+15 13 3 0 5 0 8 4210689 0 1 0
+100 1 0 100 0 0 0 0
+3 0 100
+E
+bp backpack large leather~
+&N   This backpack is used to store things.  The leather straps allow one to
+wear this upon their back.  All in all a handy piece of equipment to bring
+on any journey.&N
+~
+#2251
+skin waterskin ogre-made~
+&Nan &N&+Bogre&N&+W-&N&+Lmade&N &N&+ywaterskin&N~
+&NA strange looking waterskin has been left behind here.&N~
+~
+17 13 3 0 13 0 8 8404993 0 1 0
+10 10 0 0 0 0 0 0
+1 0 100
+E
+skin waterskin ogre-made~
+&N   This waterskin has been stitched rather well by an &N&+Bogre&N woman.
+~
+#2252
+leather cap~
+&+ya leather cap&N~
+&+yA leather cap has been left upon the ground here.&N~
+~
+9 13 3 0 3 0 8 16401 0 1 0
+2 0 0 1 0 0 0 0
+1 0 100
+E
+leather cap~
+&N   This leather cap was probably stolen from a merchant.  It is simply made
+and will not fend off much more than a weak punch.&N
+~
+#2253
+rope length~
+&+ya length of rope&N~
+&NA long length of &N&+ybrown rope&N lies here upon the ground.&N~
+~
+50 43 3 0 7 0 8 18433 0 1 0
+0 0 0 0 0 0 0 0
+2 0 100
+E
+rope length~
+&N   This rope is made out of hemp and is used for many purposes.&Nx
+~
+#2254
+wagon merchant merchants wooden~
+a merchants wagon&N~
+&NA destroyed merchants &N&+ywagon&N lies in ruins here.&N~
+~
+15 6 3 0 10 0 0 0 0 1 0
+1000 0 0 1000 0 0 0 0
+-1 0 100
+E
+wagon merchant merchants wooden~
+&N   This merchants &+ywagon&N has been completely sacked and destroyed.  The goods
+and the occupants of the&+y wagon&N are missing, as are the horses.  There is a good
+deal of &+rblood&N splattered on the&+y wood&N of the &+ywagon&N, and also upon the ground.
+The tattered remains of the&+W cloth&N that once covered the &+ywagon&N flap about in the
+wind.  The &+ywagon&N has been destroyed by something.  What exactly is not known.&N
+~
+#2255
+human flesh mask~
+&N&+ra mask of &N&+Chuman &N&+rflesh&N~
+A large piece of &N&+rflesh&N lies here upon the ground.&N~
+~
+9 2 3 0 10 0 65600 262145 0 1 0
+4 0 0 1 0 0 0 0
+2 0 100
+E
+human flesh mask~
+&N   This mask is made of &N&+Chuman&N&+r flesh&N.&N
+~
+A
+28 -10
+A
+18 2
+#2256
+campfire fire camp~
+&+ra campfire&N~
+&NA small &N&+rcampfire&N burns here in the center of the room. &N&+W(illuminating)&N~
+~
+15 5 3 0 10 0 507904 0 0 1 0
+100 0 0 100 0 0 0 0
+-1 0 100
+E
+campfire fire camp~
+&N   This &+rcampfire&N&+W illuminates&N the interior of the &+ydeer hide tent&N.  The &+rfire&N is
+very primative, but it was once the only source of heat and cooking for the
+&+Bogre&N tribes.  This particular &+rfire &Nis small but very &+rhot &Nand used to heat the
+room.&N
+~
+#2257
+badge red eye~
+the badge of the &N&+rRed Eye&N~
+A strip of red cloth lies here upon the ground.~
+~
+13 3 3 0 7 0 8 2097153 0 1 0
+0 0 0 0 0 0 0 0
+1 0 100
+E
+badge red eye~
+&N   The badge of the &+Bogre&N mercenaries is represented by this cloth.  There is
+a large &+rred eye&N in the center of the badge, a clear sign of allegiance to the
+&N&+rRed Eye&N&+L Clan&N in &N&+BKr&N&+Lagth&N&+Bor&N.  &N
+~
+A
+2 1
+#2258
+boots boot spiked pair~
+&+Lsome spiked boots&N~
+&+LA pair of black boots lie here upon the ground.&N~
+~
+9 14 3 0 9 0 0 16449 0 32770 0
+6 0 0 2 0 0 0 0
+5 0 100
+E
+boots boot spiked pair~
+&+L   This pair of black boots is covered with lots of small &N&+ciron&N&+L spikes.  There
+&+Lis a large buckle to keep it fastened to the feet of the wearer.  The boots are
+&+Loften stained with the&N&+r blood&N&+L of merchants.  &N
+~
+A
+18 1
+#2259
+iron band neck neck-band~
+&+Lan iron neck-band&N~
+&+LA circular band of metal lies here in the dust.&N~
+~
+9 15 3 0 10 0 0 16389 0 1 0
+3 0 0 2 0 0 0 0
+4 0 100
+E
+iron band neck neck-band~
+&+L   This iron band is worn upon the neck.  It offers a great deal of protection
+&+Land is made of hard iron.&N
+~
+A
+19 2
+A
+12 10
+#2260
+rat skin boots rat-skin~
+&+ya pair of &N&+Lrat&N&+y-skin boots&N~
+&+yA pair of &N&+Lrat&N&+y-skin boots has been left here.&N~
+~
+9 15 3 0 7 0 0 16449 0 1 0
+3 0 0 1 0 0 0 0
+0 0 100
+E
+rat skin boots rat-skin~
+&+y   These boots are made from the skins of many &N&+Lrats&N&+y.  This clothing smells
+and looks very bad, the individual skins of the&N&+L rats&N&+y are visible still on the
+surface of the boots.&N
+~
+A
+18 1
+#0
+
+#BASTSHOPS
+#2202~
+N
+2201
+2202
+2203
+0
+1.00
+1.00
+5
+4
+3
+0
+I'm not selling that, $N!~
+You don't seem to have that item, $N.~
+I won't buy that, $N.~
+Sorry there $N, but I don't have the money.~
+You don't have the money, $N!~
+Thank you, $N, that will be $t.~
+$N, I will give you $t for that.~
+0
+0
+2202
+0
+2236
+0
+28
+0
+28
+N
+N
+Y
+I am now open!~
+My shop is now closed.~
+0
+0
+Y
+9
+I do not sell to your people!~
+X
+#2207~
+N
+2207
+0
+1.00
+1.00
+0
+I'm not selling that, $N!~
+You don't seem to have that item, $N.~
+I won't buy that, $N.~
+Sorry there $N, but I don't have the money.~
+You don't have the money, $N!~
+Thank you, $N, that will be $t.~
+$N, I will give you $t for that.~
+0
+0
+2207
+0
+2293
+0
+28
+0
+28
+N
+Y
+N
+I am now open!~
+My shop is now closed.~
+0
+0
+N
+1
+I do not sell to your people!~
+X
+#2220~
+N
+2215
+0
+1.00
+1.00
+34
+0
+I'm not selling that, $N!~
+You don't seem to have that item, $N.~
+I won't buy that, $N.~
+Sorry there $N, but I don't have the money.~
+You don't have the money, $N!~
+Thank you, $N, that will be $t.~
+$N, I will give you $t for that.~
+0
+0
+2220
+0
+2304
+0
+28
+0
+28
+N
+N
+N
+I am now open!~
+My shop is now closed.~
+0
+0
+Y
+9
+Get the hell out of here!  I only sell to my people!~
+X
+#2240~
+N
+2250
+2251
+2252
+2253
+2260
+0
+0.90
+1.50
+5
+9
+32
+0
+Piss off $N!  I'm not selling that!~
+You don't even have that item, $N.~
+Go someplace else moron!  I don't buy that, $N.~
+Sorry there $N, but I don't have the money.~
+Not enough cash, $N!  Go rob a merchant!~
+Nice choice, $N.  Now give me $t.~
+$N, I will only give you $t for garbage.~
+0
+0
+2240
+0
+2326
+0
+28
+0
+28
+N
+Y
+N
+I am now open!~
+My shop is now closed.~
+0
+0
+Y
+9
+I do not sell to your people!~
+X
+#0~
+S
+#BASTRESETS
+#1
+&N&+BKr&N&+Lagth&N&+Bor&N~
+2329 2 12 20 25 0
+*
+* Zone edited with dikuEdit v3.03
+*
+*
+D 0 2207 0 1 100 0 0 0
+*     north exit from "Before the Gates of the City of Kragthor" to
+*     "Just Inside the City Gates and on the Main Street of Kragthor" - closed
+*
+D 0 2210 2 1 100 0 0 0
+*     south exit from "Just Inside the City Gates and on the Main Street of Kragthor" to
+*     "Before the Gates of the City of Kragthor" - closed
+*
+D 0 2211 3 1 100 0 0 0
+*     west exit from "The Wide Roadway Named Gatto Road" to
+*     "Inside One of the Many Sacked Homes of Kragthor" - closed
+*
+D 0 2219 1 1 100 0 0 0
+*     east exit from "Inside One of the Many Sacked Homes of Kragthor" to
+*     "The Wide Roadway Named Gatto Road" - closed
+*
+D 0 2212 1 1 100 0 0 0
+*     east exit from "In Front of a Home on Gatto Road" to
+*     "Inside a Modest Home Now Taken Over by Ogres" - closed
+*
+D 0 2223 3 1 100 0 0 0
+*     west exit from "Inside a Modest Home Now Taken Over by Ogres" to
+*     "In Front of a Home on Gatto Road" - closed
+*
+D 0 2215 1 1 100 0 0 0
+*     east exit from "On the Main Path of Kraghtor, Gatto Road" to
+*     "Inside a Large Building Once Used as an Inn" - closed
+*
+D 0 2237 3 1 100 0 0 0
+*     west exit from "Inside a Large Building Once Used as an Inn" to
+*     "On the Main Path of Kraghtor, Gatto Road" - closed
+*
+D 0 2228 0 1 100 0 0 0
+*     north exit from "Between Some Buildings on Primal Avenue" to
+*     "Inside a Burnt House" - closed
+*
+D 0 2321 2 1 100 0 0 0
+*     south exit from "Inside a Burnt House" to
+*     "Between Some Buildings on Primal Avenue" - closed
+*
+D 0 2231 2 1 100 0 0 0
+*     south exit from "In Front of a House on Primal Avenue" to
+*     "Inside a Destoryed Human Home" - closed
+*
+D 0 2234 0 1 100 0 0 0
+*     north exit from "Inside a Destoryed Human Home" to
+*     "In Front of a House on Primal Avenue" - closed
+*
+D 0 2241 1 1 100 0 0 0
+*     east exit from "Above the Spiraling Stairway of the Inn" to
+*     "The Inn of the City of Kragthor" - closed
+*
+D 0 2243 3 1 100 0 0 0
+*     west exit from "The Inn of the City of Kragthor" to
+*     "Above the Spiraling Stairway of the Inn" - closed
+*
+D 0 2241 2 1 100 0 0 0
+*     south exit from "Above the Spiraling Stairway of the Inn" to
+*     "In a Side Room Used by the Ogre Call Girls" - closed
+*
+D 0 2244 0 1 100 0 0 0
+*     north exit from "In a Side Room Used by the Ogre Call Girls" to
+*     "Above the Spiraling Stairway of the Inn" - closed
+*
+D 0 2245 0 1 100 0 0 0
+*     north exit from "Near a Wooden Fence on Dark Thorn Road" to
+*     "Behind the Fence and On a Narrow Dirt Path" - closed
+*
+D 0 2253 2 1 100 0 0 0
+*     south exit from "Behind the Fence and On a Narrow Dirt Path" to
+*     "Near a Wooden Fence on Dark Thorn Road" - closed
+*
+D 0 2246 2 1 100 0 0 0
+*     south exit from "In Front of a House on Dark Thorn Road" to
+*     "A Small House" - closed
+*
+D 0 2247 0 1 100 0 0 0
+*     north exit from "A Small House" to
+*     "In Front of a House on Dark Thorn Road" - closed
+*
+D 0 2249 2 1 100 0 0 0
+*     south exit from "On Dark Thorn Road" to
+*     "In a Moss Covered Family Room" - closed
+*
+D 0 2280 0 1 100 0 0 0
+*     north exit from "In a Moss Covered Family Room" to
+*     "On Dark Thorn Road" - closed
+*
+D 0 2250 2 1 100 0 0 0
+*     south exit from "Amongst the Many Houses of Dark Thorn Road" to
+*     "Inside a House Without a Roof" - closed
+*
+D 0 2281 0 1 100 0 0 0
+*     north exit from "Inside a House Without a Roof" to
+*     "Amongst the Many Houses of Dark Thorn Road" - closed
+*
+D 0 2251 0 1 100 0 0 0
+*     north exit from "On the Side Street, Dark Thorn Road" to
+*     "Inside the Large Deer Hide Tent" - closed
+*
+D 0 2328 2 1 100 0 0 0
+*     south exit from "Inside the Large Deer Hide Tent" to
+*     "On the Side Street, Dark Thorn Road" - closed
+*
+D 0 2251 2 1 100 0 0 0
+*     south exit from "On the Side Street, Dark Thorn Road" to
+*     "In a House Now Inhabited By a Bachelor Ogre" - closed
+*
+D 0 2282 0 1 100 0 0 0
+*     north exit from "In a House Now Inhabited By a Bachelor Ogre" to
+*     "On the Side Street, Dark Thorn Road" - closed
+*
+D 0 2252 1 1 100 0 0 0
+*     east exit from "A Turn on the Wide Street of Gatto" to
+*     "Inside an Ogre House" - closed
+*
+D 0 2327 3 1 100 0 0 0
+*     west exit from "Inside an Ogre House" to
+*     "A Turn on the Wide Street of Gatto" - closed
+*
+D 0 2274 2 1 100 0 0 0
+*     south exit from "In Front of a Demolished House on Dark Thorn Road" to
+*     "Inside a Demolished Former Human House" - closed
+*
+D 0 2283 0 1 100 0 0 0
+*     north exit from "Inside a Demolished Former Human House" to
+*     "In Front of a Demolished House on Dark Thorn Road" - closed
+*
+D 0 2285 3 1 100 0 0 0
+*     west exit from "In Front of the Former Human School" to
+*     "The Shop of Kodnorg, the Butcher" - closed
+*
+D 0 2293 1 1 100 0 0 0
+*     east exit from "The Shop of Kodnorg, the Butcher" to
+*     "In Front of the Former Human School" - closed
+*
+D 0 2286 1 1 100 0 0 0
+*     east exit from "Inside the Destroyed Human School" to
+*     "The Shop of Kodnorg, the Butcher" - closed
+*
+D 0 2293 3 1 100 0 0 0
+*     west exit from "The Shop of Kodnorg, the Butcher" to
+*     "Inside the Destroyed Human School" - closed
+*
+D 0 2308 3 1 100 0 0 0
+*     west exit from "On the Central Path of Kragthor, Gatto Road" to
+*     "Inside an Ogre House" - closed
+*
+D 0 2309 1 1 100 0 0 0
+*     east exit from "Inside an Ogre House" to
+*     "On the Central Path of Kragthor, Gatto Road" - closed
+*
+D 0 2322 1 1 100 0 0 0
+*     east exit from "In the Dark Cellar Beneath the House" to
+*     "The Final Resting Place of a Human Family" - closed
+*
+D 0 2323 3 1 100 0 0 0
+*     west exit from "The Final Resting Place of a Human Family" to
+*     "In the Dark Cellar Beneath the House" - closed
+*
+D 0 2324 4 1 100 0 0 0
+*     up exit from "Below A Large Watch Tower" to
+*     "In One of Kragthors Watch Towers" - closed
+*
+D 0 2325 5 1 100 0 0 0
+*     down exit from "In One of Kragthors Watch Towers" to
+*     "Below A Large Watch Tower" - closed
+*
+*
+O 0 2204 1 2200 100 0 0 0          * a wooden sign
+O 0 2254 1 2202 100 0 0 0          * a merchants wagon
+O 0 2242 1 2209 100 0 0 0          * a brown table
+O 0 2200 1 2213 100 0 0 0          * a fountain
+O 0 2245 1 2217 100 0 0 0          * a hanging human
+O 0 2208 1 2221 100 0 0 0          * a cast-iron stove
+O 0 2206 2 2222 100 0 0 0          * a human corpse
+O 0 2210 1 2224 100 0 0 0          * a large bed
+O 0 2238 1 2232 100 0 0 0          * a dead human
+O 0 2239 1 2233 100 0 0 0          * a human head
+P 1 2240 1 2239 100 0 0 0          *   some human brains
+O 0 2206 2 2235 100 0 0 0          * a human corpse
+O 0 2211 1 2239 100 0 0 0          * a wooden barrel
+O 0 2205 1 2266 100 0 0 0          * a large tree
+O 0 2241 1 2274 100 0 0 0          * a dead cat
+O 0 2212 1 2281 100 0 0 0          * a dead corpse
+P 1 2213 1 2212 100 0 0 0          *   a dead fetus
+O 0 2209 1 2282 100 0 0 0          * a dead dog
+O 0 2228 1 2283 100 0 0 0          * a floor board
+O 0 2249 1 2303 100 0 0 0          * a huge torch
+O 0 2214 1 2304 100 0 0 0          * wooden work bench
+O 0 2218 1 2309 100 0 0 0          * a dead woman
+P 1 2219 1 2218 100 0 0 0          *   a decomposed baby
+O 0 2225 1 2320 100 0 0 0          * a black mace
+O 0 2227 1 2321 100 0 0 0          * a charred corpse
+O 0 2229 1 2322 100 0 0 0          * a brown rope
+O 0 2230 1 2323 100 0 0 0          * a dead corpse
+O 0 2231 1 2323 100 0 0 0          * a womans corpse
+O 0 2232 1 2323 100 0 0 0          * a male corpse
+O 0 2236 1 2323 100 0 0 0          * pile of empty containers
+O 0 2233 1 2323 100 0 0 0          * a baby girl
+O 0 2256 1 2328 100 0 0 0          * a campfire
+*
+M 0 2203 1 2207 100 0 0 0          * Togwar
+E 1 2259 2 3 100 0 0 0             *   an iron neck-band
+E 1 2259 2 4 100 0 0 0             *   an iron neck-band
+E 1 2223 6 5 100 0 0 0             *   a set of Kragthor armor
+E 1 2258 1 8 100 0 0 0             *   some spiked boots
+E 1 2253 2 13 100 0 0 0            *   a length of rope
+E 1 2246 2 14 100 0 0 0            *   an ogre made bracer
+E 1 2246 2 15 100 0 0 0            *   an ogre made bracer
+E 1 2255 1 20 100 0 0 0            *   a mask of human flesh
+E 1 2235 3 24 100 0 0 0            *   a symbol of Kraghthor
+E 1 2250 2 27 100 0 0 0            *   a large backpack
+E 1 2202 4 16 100 0 0 0            *   a two-handed claymore
+F 1 2200 1 2207 100 0 0 0          * a viscious ogre guard (following)
+E 1 2223 6 5 100 0 0 0             *   a set of Kragthor armor
+E 1 2202 4 16 100 0 0 0            *   a two-handed claymore
+F 1 2201 1 2207 100 0 0 0          * an ogre (following)
+E 1 2223 6 5 100 0 0 0             *   a set of Kragthor armor
+E 1 2202 4 16 100 0 0 0            *   a two-handed claymore
+M 0 2209 6 2210 100 0 0 0          * a mean red ant
+M 0 2221 4 2212 100 0 0 0          * a burly ogre
+E 1 2223 6 5 100 0 0 0             *   a set of Kragthor armor
+M 0 2206 3 2213 100 0 0 0          * a golden snake
+M 0 2209 6 2213 100 0 0 0          * a mean red ant
+M 0 2242 1 2213 100 0 0 0          * a crazy slave
+M 0 2225 3 2214 100 0 0 0          * an ogre commoner
+M 0 2232 1 2214 100 0 0 0          * a working ogre woman
+M 0 2229 1 2215 100 0 0 0          * an ogre warrior
+M 0 2230 1 2216 100 0 0 0          * a gross ogre
+M 0 2209 6 2217 100 0 0 0          * a mean red ant
+M 0 2221 4 2218 100 0 0 0          * a burly ogre
+E 1 2223 6 5 100 0 0 0             *   a set of Kragthor armor
+E 1 2235 3 24 100 0 0 0            *   a symbol of Kraghthor
+M 0 2237 1 2219 100 0 0 0          * a human slave
+G 1 2247 1 0 100 0 0 0             *    a straw broom
+M 0 2212 2 2220 100 0 0 0          * an ogre boy
+M 0 2238 1 2221 100 0 0 0          * an ogre woman
+M 0 2244 1 2222 100 0 0 0          * an ogre girl
+M 0 2212 2 2225 100 0 0 0          * an ogre boy
+M 0 2219 1 2225 100 0 0 0          * an ogre father
+M 0 2233 1 2226 100 0 0 0          * an ogre child
+M 0 2221 4 2228 100 0 0 0          * a burly ogre
+E 1 2223 6 5 100 0 0 0             *   a set of Kragthor armor
+E 1 2203 4 16 100 0 0 0            *   a wooden club
+M 0 2217 1 2230 100 0 0 0          * the ogre banker
+M 0 2226 1 2232 100 0 0 0          * an ogre girl
+M 0 2202 1 2236 100 0 0 0          * Urrook'Gak
+G 1 2201 3 0 100 0 0 0             *    a black hilted dagger
+G 1 2202 4 0 100 0 0 0             *    a two-handed claymore
+G 1 2203 4 0 100 0 0 0             *    a wooden club
+G 1 2226 1 0 100 0 0 0             *    a spiked mace
+M 0 2218 7 2238 100 0 0 0          * a furry rat
+M 0 2218 7 2238 100 0 0 0          * a furry rat
+M 0 2218 7 2238 100 0 0 0          * a furry rat
+M 0 2246 1 2238 100 0 0 0          * a large ogre
+M 0 2218 7 2239 100 0 0 0          * a furry rat
+M 0 2218 7 2240 100 0 0 0          * a furry rat
+M 0 2218 7 2240 100 0 0 0          * a furry rat
+M 0 2218 7 2242 100 0 0 0          * a furry rat
+M 0 2216 1 2243 100 0 0 0          * the ogre innkeeper
+E 1 2235 3 24 100 0 0 0            *   a symbol of Kraghthor
+M 0 2213 1 2244 100 0 0 0          * an ogre call girl
+M 0 2214 1 2244 100 0 0 0          * a teenage prostitute
+M 0 2215 1 2244 100 0 0 0          * a male ogre
+M 0 2239 1 2246 100 0 0 0          * an ogre shaman
+M 0 2206 3 2247 100 0 0 0          * a golden snake
+M 0 2209 6 2248 100 0 0 0          * a mean red ant
+M 0 2204 11 2263 100 0 0 0         * a small robin
+M 0 2204 11 2263 100 0 0 0         * a small robin
+M 0 2243 1 2263 100 0 0 0          * a black bear
+M 0 2234 5 2264 100 0 0 0          * a large white hare
+G 1 2244 5 0 100 0 0 0             *    a chunk of rabbit meat
+M 0 2234 5 2265 100 0 0 0          * a large white hare
+G 1 2244 5 0 100 0 0 0             *    a chunk of rabbit meat
+M 0 2204 11 2266 100 0 0 0         * a small robin
+M 0 2204 11 2266 100 0 0 0         * a small robin
+M 0 2234 5 2266 100 0 0 0          * a large white hare
+G 1 2244 5 0 100 0 0 0             *    a chunk of rabbit meat
+M 0 2204 11 2267 100 0 0 0         * a small robin
+M 0 2204 11 2267 100 0 0 0         * a small robin
+M 0 2204 11 2269 100 0 0 0         * a small robin
+M 0 2204 11 2269 100 0 0 0         * a small robin
+M 0 2204 11 2269 100 0 0 0         * a small robin
+M 0 2234 5 2269 100 0 0 0          * a large white hare
+G 1 2244 5 0 100 0 0 0             *    a chunk of rabbit meat
+M 0 2204 11 2272 100 0 0 0         * a small robin
+M 0 2204 11 2272 100 0 0 0         * a small robin
+M 0 2234 5 2273 100 0 0 0          * a large white hare
+G 1 2244 5 0 100 0 0 0             *    a chunk of rabbit meat
+M 0 2209 6 2276 100 0 0 0          * a mean red ant
+M 0 2221 4 2277 100 0 0 0          * a burly ogre
+M 0 2225 3 2277 100 0 0 0          * an ogre commoner
+M 0 2249 1 2279 100 0 0 0          * an elderly ogre
+M 0 2206 3 2280 100 0 0 0          * a golden snake
+M 0 2205 1 2282 100 0 0 0          * a drunk ogre
+M 0 2209 6 2284 100 0 0 0          * a mean red ant
+M 0 2208 3 2286 100 0 0 0          * chained human stock
+M 0 2248 1 2287 100 0 0 0          * a smelly human
+M 0 2211 2 2288 100 0 0 0          * a human prisoner
+M 0 2211 2 2289 100 0 0 0          * a human prisoner
+M 0 2208 3 2291 100 0 0 0          * chained human stock
+M 0 2208 3 2292 100 0 0 0          * chained human stock
+M 0 2207 1 2293 100 0 0 0          * Kodnorg, the butcher
+E 1 2248 1 16 100 0 0 0            *   a sharp butchers knife
+G 1 2220 1 0 100 0 0 0             *    a roasted baby
+G 1 2234 1 0 100 0 0 0             *    a cooked baby
+G 1 2207 999 0 100 0 0 0           *    a human leg
+G 1 2216 1 0 100 0 0 0             *    a cooked fetus
+M 0 2225 3 2294 100 0 0 0          * an ogre commoner
+M 0 2227 1 2295 100 0 0 0          * an ogre slave-master
+E 1 2237 1 16 100 0 0 0            *   a forked whip
+F 1 2228 1 2295 100 0 0 0          * a pitiful slave (following)
+M 0 2241 1 2303 100 0 0 0          * a deranged ogre shaman
+E 1 2201 3 16 100 0 0 0            *   a black hilted dagger
+M 0 2220 1 2304 100 0 0 0          * an ogre totem-maker
+G 1 2215 1 0 100 0 0 0             *    a stonewood totem
+G 1 2217 1 0 100 0 0 0             *    a pulsating black totem
+G 1 2221 1 0 100 0 0 0             *    a wooden eagle
+G 1 2222 1 0 100 0 0 0             *    a copper lion
+M 0 2231 1 2305 100 0 0 0          * an ogre shaman
+M 0 2210 1 2307 100 0 0 0          * Gog, head shaman of Kragthor
+E 1 2243 1 12 100 0 0 0            *   some ceremonial robes
+M 0 2247 1 2310 100 0 0 0          * an ogre mercenary
+E 1 2257 1 24 100 0 0 0            *   the badge of the Red Eye
+M 0 2222 1 2311 100 0 0 0          * the human rebellion leader
+G 1 2224 1 0 100 0 0 0             *    a jagged piece of metal
+F 1 2223 1 2311 100 0 0 0          * a human slave (following)
+E 1 2203 4 16 100 0 0 0            *   a wooden club
+F 1 2224 1 2311 100 0 0 0          * a young human girl (following)
+E 1 2201 3 16 100 0 0 0            *   a black hilted dagger
+M 0 2236 1 2324 100 0 0 0          * a pissing ogre
+M 0 2235 1 2325 100 0 0 0          * a large ogre lookout
+M 0 2240 1 2326 100 0 0 0          * Moga, the shopkeeper
+G 1 2250 2 0 100 0 0 0             *    a large backpack
+G 1 2251 1 0 100 0 0 0             *    an ogre-made waterskin
+G 1 2252 1 0 100 0 0 0             *    a leather cap
+G 1 2253 2 0 100 0 0 0             *    a length of rope
+G 1 2260 1 0 100 0 0 0             *    a pair of rat-skin boots
+M 0 2250 1 2327 100 0 0 0          * a teenage ogre
+E 1 2203 4 16 100 0 0 0            *   a wooden club
+M 0 2245 1 2329 100 0 0 0          * an elderly ogre
+*
+S
+#QUESTS
+#2202
+M
+mace~
+&N   A mace was stolen from me.  I think I know who did it but I cannot prove
+it.  Perhaps I'll just eat the filthy slave.&N
+~
+Q
+&N   "Thank you so much.  What the heck, i'll finish this mace and let you just
+have it.  You deserve it."&N
+~
+R I 2226
+G I 2225
+S
+#2207
+M
+meat~
+&N   I can cook anything you bring me.  It's part of my job.&N
+~
+Q
+&N   Ok, i fried it up.  Here you go.&N
+~
+R I 2216
+G I 2213
+Q
+&N   This is a nice piece of meat.  Thanks.  I enjoyed cooking it.&N
+~
+R I 2220
+G I 2219
+Q
+&N   "Oh thanks, I'll cook that for you."
+&N
+&N
+&N   "Here you go, she'll taste mighty fine."
+~
+R I 2234
+G I 2233
+S
+#2220
+M
+baby babies food~
+&N   Oh I love eating children.  They are so tender and their bones crunch way
+more easily than those of an adult.  If you get me a very tender baby I'll give
+you something in return.&N
+~
+Q
+&N   YUMMY!!!  Here, you can have this.&N
+~
+R I 2217
+G I 2216
+Q
+&N   That looks like a good piece of meat.  Here, take this totem.&N
+~
+R I 2221
+G I 2220
+Q
+&N   "Oh thank you, this is wonderful.  Here, take this totem."&N
+~
+R I 2222
+G I 2234
+S
+#0
+#$
+
+
