@@ -301,29 +301,33 @@ void DlgMapEdit::OnPaint()
 	//dc.BitBlt(0,0,client.right,client.bottom,&MemDC,0,0,SRCCOPY);	//See Note 3
 }
 
-void DlgMapEdit::OnSize(UINT nType, int cx, int cy) 
+void DlgMapEdit::OnSize(UINT nType, int cx, int cy)
 {
-	CDialog::OnSize(nType, cx, cy);
-	
-	CRect rect, rect2, rect1;
+	if (this->IsWindowVisible())
+	{
+		CDialog::OnSize(nType, cx, cy);
 
-	GetClientRect(&rect);
+		CRect rect, rect2, rect1;
 
-	room_tree.GetWindowRect(&rect2);
-	
-	ScreenToClient(rect2);
+		GetClientRect(&rect);
 
-	rect1.top = rect.top+24;
-	rect1.left = rect.left;
-	rect1.right = rect2.right;
-	rect1.bottom = rect.bottom;
+		room_tree.GetWindowRect(&rect2);
 
-	room_tree.MoveWindow(rect1, TRUE);
+		ScreenToClient(rect2);
 
-	UPDATE_EASYSIZE;
-	//split.SetRange(rect.left+200, rect.right-150);
-	
-	RepositionBars(AFX_IDW_CONTROLBAR_FIRST, AFX_IDW_CONTROLBAR_LAST, IDR_MAP_TOOLS);
+		rect1.top = rect.top + 24;
+		rect1.left = rect.left;
+		rect1.right = rect2.right;
+		rect1.bottom = rect.bottom;
+
+		room_tree.MoveWindow(rect1, TRUE);
+
+
+		UPDATE_EASYSIZE;
+		//split.SetRange(rect.left+200, rect.right-150);
+
+		RepositionBars(AFX_IDW_CONTROLBAR_FIRST, AFX_IDW_CONTROLBAR_LAST, IDR_MAP_TOOLS);
+	}
 }
 
 inline const HICON& DlgMapEdit::GetTerrainIcon(const int& ter) const
