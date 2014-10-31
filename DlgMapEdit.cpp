@@ -324,7 +324,6 @@ void DlgMapEdit::OnSize(UINT nType, int cx, int cy)
 
 
 		UPDATE_EASYSIZE;
-		//split.SetRange(rect.left+200, rect.right-150);
 
 		RepositionBars(AFX_IDW_CONTROLBAR_FIRST, AFX_IDW_CONTROLBAR_LAST, IDR_MAP_TOOLS);
 	}
@@ -1239,6 +1238,7 @@ void DlgMapEdit::DrawArea()
 
 	DrawRoom(room_data::room_list, MID_X, MID_Y, ground_level);
 
+	//Hack
 	//Draw Unpainted unconnected rooms!!!!
 	for(room = room_data::room_list; room; room = room->next)
 	{
