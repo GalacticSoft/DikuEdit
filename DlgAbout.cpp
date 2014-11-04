@@ -56,7 +56,7 @@ END_MESSAGE_MAP()
 BOOL DlgAbout::OnInitDialog() 
 {
 	CDialog::OnInitDialog();
-		about = _T("Basternae Area Editor was created in an attempt to create\r\n"
+		about = _T("Diku MUD Area Editor was created in an attempt to create\r\n"
 		"an easily usable area editor, I had tried other zone editors in the\r\n"
 		"past and found them lacking. At first I had made an attempt to\r\n"
 		"create this in VB 6.0 but it was never completed.\r\n"
@@ -65,9 +65,9 @@ BOOL DlgAbout::OnInitDialog()
 		"and MSVC 6.0.");
 	company = _T("Galactic Software Solutions");
 	date = _T("6/2003");
-	name = _T("Marissa Holroyd");
-	vdate = _T("9/2004");
-	version = _T("1.8.0");
+	name = _T("Marissa du Bois");
+	vdate = _T("11/3/2014");
+	version = _T("1.8.1");
 	
 	link.SetLinkText("Visit My Website");
 	link.SetTootTipText("Check Here for Updates");

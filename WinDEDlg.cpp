@@ -314,7 +314,7 @@ void CWinDEDlg::InitTrayIcon()
 
     niData.uFlags = NIF_ICON|NIF_MESSAGE|NIF_TIP,
 	
-	strcpy(niData.szTip, "Basternae Area Editor"),
+	strcpy(niData.szTip, "Diku MUD Area Editor"),
 
     niData.hIcon = m_hIcon,
 
@@ -376,7 +376,7 @@ void CWinDEDlg::InitColorControl()
 	m_pColorWnd->SetColorizer(&m_colorizer);
 	m_pColorWnd->SetReadOnly(true);
 	m_pColorWnd->ClearUndoHistory();
-	ShowText("&+WWelcome To Basternae Area Editor!&n\n&+WWritten By: &+GCoderGirl &+W(&+GMarissa Holroyd&n&+W, 2003)", false);
+	ShowText("&+WWelcome To Diku MUD Area Editor!&n\n&+WCopyright: &+GGalacticSoft &+W(&+GMarissa du Bois&n&+W, 2003-2014)", false);
 }
 
 void CWinDEDlg::AddRoom(room_data *room)
@@ -1256,7 +1256,7 @@ void CWinDEDlg::LoadSettings()
 	CRect *wndRect  = NULL;
 	CRect *mapRect  = NULL;
 
-	file.open("Basternae Area Editor.set");
+	file.open("Diku MUD Area Editor.set");
 	
 	if(file.is_open()) 
 	{
@@ -1366,7 +1366,7 @@ void CWinDEDlg::SaveSettings()
 
 	dlg.GetWindowRect(rect);
 	
-	file.open("Basternae Area Editor.set");
+	file.open("Diku MUD Area Editor.set");
 	
 	if(file.is_open()) 
 	{
@@ -1795,11 +1795,15 @@ void CWinDEDlg::OnSettings()
 	DlgSettings dlg;
 	int ret;
 
-	if(IS_SET(editor_flags, AUTO_SAVE))
-		dlg.m_auto_save = true;
-	else 
-		dlg.m_auto_save = false;
-	
+	dlg.m_timer = timer;
+	dlg.def_color = def_color;
+	dlg.echo_color = echo_color;
+	dlg.m_auto_save = IS_SET(editor_flags, AUTO_SAVE);
+	dlg.m_echo_commands = IS_SET(editor_flags, ECHO_COMMANDS);
+	dlg.m_walk_create = IS_SET(editor_flags, WALK_CREATE);
+	dlg.m_save_exit = IS_SET(editor_flags, SAVE_ON_EXIT);
+	dlg.m_disp_line_len = IS_SET(editor_flags, DISP_LINE_LEN);
+
 	if(IS_SET(editor_flags, OPEN_AREA_FORMAT))
 		dlg.m_open_format = 0;
 	else 
@@ -1809,32 +1813,6 @@ void CWinDEDlg::OnSettings()
 		dlg.m_save_format = 0;
 	else 
 		dlg.m_save_format = 1;
-
-	dlg.m_timer = timer;
-
-	if(IS_SET(editor_flags, ECHO_COMMANDS))
-		dlg.m_echo_commands = true;
-	else
-		dlg.m_echo_commands = false;
-
-	if(IS_SET(editor_flags, WALK_CREATE))
-		dlg.m_walk_create = true;
-	else 
-		dlg.m_walk_create = false;
-
-	dlg.def_color = def_color;
-	dlg.echo_color = echo_color;
-
-	if(IS_SET(editor_flags, SAVE_ON_EXIT))
-		dlg.m_save_exit = true;
-	else 
-		dlg.m_save_exit = false;
-
-
-	if(IS_SET(editor_flags, DISP_LINE_LEN))
-		dlg.m_disp_line_len = true;
-	else
-		dlg.m_disp_line_len = false;
 
 	ret = dlg.DoModal();
 	
@@ -1920,7 +1898,7 @@ void CWinDEDlg::OnOpen()
 		{
 			CloseArea();
 
-			ShowText("&+WWelcome To Basternae Area Editor!&n\n&+WWritten By: &+GCoderGirl &+W(&+GMarissa Holroyd&n&+W, 2003-2004)", false);
+			ShowText("&+WWelcome To Diku MUD Area Editor!&n\n&+WCopyright: &+GGalacticSoft &+W(&+GMarissa du Bois&n&+W, 2003-2014)", false);
 
 			if(IS_SET(editor_flags, OPEN_AREA_FORMAT))
 				AreFileOpen file(are_file.GetPathName(), this);

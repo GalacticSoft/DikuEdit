@@ -1145,7 +1145,7 @@ void AreFileOpen::LoadResets()
 		AfxMessageBox("Load_resets: no #AREA seen yet.");
     }
 
-    // Ignore all Basternae area header stuff...
+    // Ignore all Diku MUD area header stuff...
 	area_data::area->dummy_str[0] = fread_word(file, &stat);
     area_data::area->dummy_str[1] = fread_string(file, &stat);
     

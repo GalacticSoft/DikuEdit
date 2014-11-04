@@ -53,6 +53,7 @@ BEGIN_MESSAGE_MAP(DlgSettings, CDialog)
 	ON_BN_CLICKED(IDC_AUTO_SAVE, OnAutoSave)
 	ON_BN_CLICKED(IDC_SEL_COLOR, OnSelColor)
 	//}}AFX_MSG_MAP
+	ON_CBN_SELCHANGE(IDC_OPEN_FORMAT, &DlgSettings::OnCbnSelchangeOpenFormat)
 END_MESSAGE_MAP()
 
 /////////////////////////////////////////////////////////////////////////////
@@ -98,4 +99,10 @@ void DlgSettings::OnSelColor()
 		def_color = dlg.def_color;
 		echo_color = dlg.echo_color;
 	}
+}
+
+
+void DlgSettings::OnCbnSelchangeOpenFormat()
+{
+	// TODO: Add your control notification handler code here
 }

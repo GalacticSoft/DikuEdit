@@ -1,9 +1,8 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Developer Studio generated include file.
+// Microsoft Visual C++ generated include file.
 // Used by WinDE.rc
 //
 #define IDR_MANIFEST                    1
-//#define RT_MANIFEST                     24
 #define IDC_MOB_COUNT                   101
 #define IDD_WINDE_DIALOG                102
 #define IDC_ROOM_COUNT                  102
@@ -127,7 +126,6 @@
 #define IDD_CLASS_STATS                 337
 #define IDD_RACE_STATS                  339
 #define IDD_ROOM_VIEW                   341
-//#define IDI_SHIELD                      345
 #define IDD_OBJ_VIEW                    346
 #define IDD_TYPE_VIEW                   347
 #define IDD_MAT_VIEW                    349

@@ -511,7 +511,7 @@ extern const BITVECT_DATA ITEM_INVENTORY;
 extern const BITVECT_DATA ITEM_WAS_DISARMED; // Not yet implemented - probably will not be used.
 extern const BITVECT_DATA ITEM_WHOLEBODY; // Not yet implemented
 extern const BITVECT_DATA ITEM_WHOLEHEAD; // Not yet implemented
-// extra2 flags, basternae area format - Veygoth
+// extra2 flags, Diku MUD area format - Veygoth
 extern const BITVECT_DATA ITEM_SILVER; // Not yet implemented
 extern const BITVECT_DATA ITEM_THROW_RETURN; // Not yet implemented
 extern const BITVECT_DATA ITEM_THROW_ONEROOM; // Not yet implemented

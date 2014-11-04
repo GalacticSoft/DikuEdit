@@ -117,6 +117,8 @@ public:
 	void SaveObjectResets();
 };
 
+
+//Needs implementation
 class DeFile : public ZoneFile
 {
 public:

@@ -1330,4 +1330,9 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="WinDE.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>

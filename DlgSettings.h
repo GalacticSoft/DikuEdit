@@ -51,6 +51,8 @@ protected:
 	afx_msg void OnSelColor();
 	//}}AFX_MSG
 	DECLARE_MESSAGE_MAP()
+public:
+	afx_msg void OnCbnSelchangeOpenFormat();
 };
 
 //{{AFX_INSERT_LOCATION}}

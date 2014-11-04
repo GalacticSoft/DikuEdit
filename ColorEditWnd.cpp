@@ -32,7 +32,7 @@
 
    Though probably only 5% of the original code remains.
 
-	Slightly modified by Marissa Holroyd To Handle Ansi Color
+	Slightly modified by Marissa du Bois To Handle Ansi Color
 **********************************************************************/
 
 // ColorEditWnd syntax coloring class
